@@ -11,18 +11,6 @@ $(document).ready(function () {
     console.log("OLA");
     getMac();
     verificarSesionActiva();
-//    document.body.addEventListener('onmousedown', function (e) {
-//        tiempoInactividad = 600;
-//        activo_ = true;
-//    }, false);
-//    document.body.addEventListener('onmousemove', function (e) {
-//        tiempoInactividad = 600;
-//        activo_ = true;
-//    }, false);
-//    document.body.addEventListener('onkeydown', function (e) {
-//        tiempoInactividad = 600;
-//        activo_ = true;
-//    }, false);
     cerrarSesionInactividad();
     actualizarActividad();
 });
@@ -88,8 +76,11 @@ function getMacServer() {
         type: 'post',
         async: false,
         success: function (mac) {
-            if (mac !== '') {
-                macLocal = mac;
+            if (localStorage.getItem("mac") == undefined || localStorage.getItem("mac") == "" || localStorage.getItem("mac") == null) {
+                localStorage.setItem("mac", mac);
+            }
+            if (mac !== '' || (localStorage.getItem("mac") !== "" || localStorage.getItem("mac") !== null)) {
+                macLocal = localStorage.getItem("mac");
             } else {
                 alert('El sistema no reconoce la MAC de este equipo');
             }
@@ -118,7 +109,6 @@ function setSesion(control_sesion) {
         type: 'post'
     });
 }
-
 
 function verificarSesionActiva() {
     var data = {
@@ -173,13 +163,6 @@ function updateSesionDevice(tipo) {
         type: 'post'
     });
 }
-
-//window.addEventListener('beforeunload', function (e) {
-//    cerrarSesion();
-////    e.preventDefault();
-////    e.returnValue = '';
-//});
-
 
 window.onmousemove = function (e) {
     tiempoInactividad = 600;
