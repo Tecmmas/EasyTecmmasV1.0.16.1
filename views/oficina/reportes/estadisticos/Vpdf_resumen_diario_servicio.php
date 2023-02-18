@@ -1,161 +1,235 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Nrv0jfs/Z/TWz8w/MW8B1G==
+<?php
+
+set_time_limit(0);
+ini_set('memory_limit', '-1');
+//$pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+$pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+
+//$titulo = "NÃºmero de registro visual: " . $this->session->userdata('idhojapruebas') . "-" . $this->session->userdata('idprueba') . " \nFecha inspeccion: " . $fechafinal . "\nPlaca: " . $this->session->userdata('numero_placa');
+$hoy = getdate();
+$pdf->SetTitle($titulo);
+$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, $nombreCda . " - Mapa de resumen diario de servicio", "Fecha inicial: " . $fechainicial . "            Fecha final: " . $fechafinal . " \nFecha de generacion de este informe: " . $fechageneracion);
+//$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, "prueba", "prueba");
+// set header and footer fonts
+$pdf->setHeaderFont(Array(PDF_FONT_NAME_MAIN, '', PDF_FONT_SIZE_MAIN));
+$pdf->setFooterFont(Array(PDF_FONT_NAME_DATA, '', PDF_FONT_SIZE_DATA));
+
+// set default monospaced font
+$pdf->SetDefaultMonospacedFont(PDF_FONT_MONOSPACED);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT, PDF_MARGIN_TOP, PDF_MARGIN_RIGHT);
+$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+// set auto page breaks
+$pdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
+
+// set image scale factor
+$pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
+
+// set some language-dependent strings (optional)
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+// ---------------------------------------------------------
+//
+$style = array('width' => 0.5, 'cap' => 'butt', 'join' => 'miter', 'dash' => '10,20,5,10', 'phase' => 10, 'color' => array(255, 0, 0));
+//$style4 = array('L' => 0,
+//    'T' => array('width' => 0.25, 'cap' => 'butt', 'join' => 'miter', 'dash' => '20,10', 'phase' => 10, 'color' => array(100, 100, 255)),
+//    'R' => array('width' => 0.50, 'cap' => 'round', 'join' => 'miter', 'dash' => 0, 'color' => array(50, 50, 127)),
+//    'B' => array('width' => 0.75, 'cap' => 'square', 'join' => 'miter', 'dash' => '30,10,5,10'));
+// set font
+$pdf->SetFont('helvetica', '', 10);
+
+// add a page
+$fecha = "";
+$fechavalid = "";
+$liv = 0;
+$pes = 0;
+$mot = 0;
+$tec1 = 0;
+$tec2 = 0;
+$prev = 0;
+$lib = 0;
+$peri = 0;
+$dupli = 0;
+$totaltipo = 0;
+
+for ($i = $fechai; $i <= $fechaf; $i += 86400) {
+    $fecha = date("Y-m-d", $i);
+    $resumen = $this->Mestadisticos->resumendiarioservicio($fechainicial, $fechafinal);
+    if ($resumen != FALSE) {
+        $pdf->AddPage();
+        $tbl1 = ' 
+        <table >
+            <thead>
+                <tr >
+                <th style="text-align: center;font-weight: bold;width: 200px"><strong>Fecha:' . $fecha . ' </strong></th>
+                </tr >
+                <tr >
+                    <th style="text-align: center;font-weight: bold;width: 50px">Placa</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Mot.</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Hora I.</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Hora F.</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">T. Esp</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Res.</th>
+                    <th style="text-align: center;font-weight: bold;width: 60px">Vigencia</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Insp.</th>
+                    <th style="text-align: center;font-weight: bold;width: 70px">Certifcado</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Km</th>
+                    <th style="text-align: center;font-weight: bold;width: 100px">Cat/Tip/Mar/Mod</th>
+                </tr>
+            </thead>
+            <tbody>';
+        $tbl2 = '';
+        foreach ($resumen as $lis) {
+            if ($lis->fechainicial == $fecha) {
+                $fechavalid = $lis->fechainicial;
+                if ($lis->tipo_vehiculo == '1') {
+                    $liv++;
+                }
+                if ($lis->tipo_vehiculo == '2') {
+                    $pes++;
+                }
+                if ($lis->tipo_vehiculo == '3') {
+                    $mot++;
+                }
+                if ($lis->reinspeccion == '0') {
+                    $tec1++;
+                }
+                if ($lis->reinspeccion == '1') {
+                    $tec2++;
+                }
+                if ($lis->reinspeccion == '4444' || $lis->reinspeccion == '44441') {
+                    $prev++;
+                }
+                if ($lis->reinspeccion == '8888') {
+                    $lib++;
+                }
+                if ($lis->reinspeccion == '7777') {
+                    $peri++;
+                }
+                if ($lis->reinspeccion == '9999') {
+                    $dupli++;
+                }
+//                $total = $liv + $pes + $mot;
+//                $totaltipo = $tec1 + $tec2 + $prev + $lib + $peri + $dupli;
+                $tbltmp = '
+                <tr >
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->numero_placa . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->reinspeccion . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->horainicial . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->horafinal . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->tiempoespera . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->ar . '</td>
+                    <td style="text-align: center;width: 60px;font-size: 10px">' . $lis->fecha_vigencia . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->inspector . '</td>
+                    <td style="text-align: center;width: 70px;font-size: 10px">' . $lis->numero_certificado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->kilometraje . '</td>
+                    <td style="text-align: center;width: 100px;font-size: 10px">' . $lis->tipo_vehiculo . '-' . $lis->idservicio . '-' . $lis->marca . '-' . $lis->idlinea . '</td>
+                </tr>';
+                $tbl2 = $tbl2 . $tbltmp;
+            }
+        }
+//        $data['liviano'] = $liv;
+//        $liv = 0;
+
+        $tbl3 = ' </tbody>
+        </table>';
+
+        $tbl = $tbl1 . $tbl2 . $tbl3;
+        $pdf->writeHTML($tbl, true, false, false, false, '');
+        $c = 0;
+        $data['liviano'] = [];
+        if ($fechavalid == $fecha) {
+            //tabla 1
+            $data['liviano'] = $liv;
+            $liv = 0;
+            $data['pesado'] = $pes;
+            $pes = 0;
+            $data['moto'] = $mot;
+            $mot = 0;
+            $total = $data['liviano'] + $data['pesado'] + $data['moto'];
+
+            $dat1 = '<table border="1" >
+                            <thead>
+                                <tr >
+                                    <th style="text-align: center;font-weight: bold;width: 50px">Liviano</th>
+                                    <th style="text-align: center;font-weight: bold;width: 50px">Pesado</th>
+                                    <th style="text-align: center;font-weight: bold;width: 50px">Moto</th>
+                                    <th style="text-align: center;font-weight: bold;width: 50px">Total</th>
+                                </tr>
+                            </thead>
+                                <tbody>
+                                  <tr>
+                                    <td style="text-align: center;font-weight: bold;width: 50px"> ' . $data['liviano'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 50px"> ' . $data['pesado'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 50px"> ' . $data['moto'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 50px"> ' . $total . '</td>
+                                  </tr>
+                                </tbody>
+                            </table>';
+            $pdf->writeHTML($dat1, true, false, false, false, '');
+            $data['tec1'] = $tec1;
+            $tec1 = 0;
+            $data['tec2'] = $tec2;
+            $tec2 = 0;
+            $data['lib'] = $lib;
+            $lib = 0;
+            $data['peri'] = $peri;
+            $peri = 0;
+            $data['prev'] = $prev;
+            $prev = 0;
+            $data['dupli'] = $dupli;
+            $dupli = 0;
+            $totaltipo = $data['tec1'] + $data['tec2'] + $data['lib'] + $data['peri'] + $data['prev'] + $data['dupli'];
+            $dat2 = '<table border="1" >
+                            <thead>
+                                <tr >
+                                    <th style="text-align: center;font-weight: bold;width: 60px">Inspeccion</th>
+                                    <th style="text-align: center;font-weight: bold;width: 80px">Re inspeccion</th>
+                                    <th style="text-align: center;font-weight: bold;width: 70px">Prueba libre</th>
+                                    <th style="text-align: center;font-weight: bold;width: 60px">Peritaje</th>
+                                    <th style="text-align: center;font-weight: bold;width: 60px">Preventiva</th>
+                                    <th style="text-align: center;font-weight: bold;width: 60px">Duplicado</th>
+                                    <th style="text-align: center;font-weight: bold;width: 60px">Total</th>
+                                </tr>
+                            </thead>
+                                <tbody>
+                                  <tr>
+                                   <td style="text-align: center;font-weight: bold;width: 60px">' . $data['tec1'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 80px">' . $data['tec2'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 70px">' . $data['lib'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 60px">' . $data['peri'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 60px">' . $data['prev'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 60px">' . $data['dupli'] . '</td>
+                                    <td style="text-align: center;font-weight: bold;width: 60px">' . $totaltipo . '</td>
+                                  </tr>
+                                </tbody>
+                            </table>';
+            $pdf->writeHTML($dat2, true, false, false, false, '');
+        }
+
+        $pdf->SetFontSize(8);
+        $pdf->Write(0, 'Convenciones:', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Mot: Inspección (0), Reinspección (1), Prueba libre (8888), Peritaje (7777), Preventiva (4444), Duplicado (9999)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Res: Aprobada (A), Rechazada (R)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Inspector: Consultar códigos de inspector', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Cat: Liviano (1), Pesado (2), Moto (3)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Tipo: Oficial (1), Público (2), Particular (3), Diplomático (4)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Marca: Consultar códigos de marca', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Modelo: Consultar código de lineas', '', 0, 'L', true, 0, false, false, 0);
+    }
+}
+
+
+
+
+
+
+
+$pdf->Output($titulo . $fechageneracion . ".pdf", 'I');
+

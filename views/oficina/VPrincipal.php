@@ -1,37 +1,109 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('./header'); ?>
+<script type="text/javascript">
+
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div id="infoPrincipal"></div>
+        <input type="hidden" id="fecha" value="<?= $fecha ?>">
+        <section class="box " id="sectionMetrologia" style="display: none">
+            <div class="content-body">   
+
+                <div class="col-12">
+                    <div class="col-md-12"><h4>METROLOGIA MAQUINAS</h4><br></div>
+                    <div id="getMetrologia"></div>
+                </div>
+            </div>
+        </section>
+        </div>
+    </section>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+
+
+<!-- MAIN CONTENT AREA ENDS -->
+</section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php $this->load->view('./footer'); ?>
+
+<script type="text/javascript">
+    var ipLocal = '<?php
+echo base_url();
+?>';
+    $(document).ready(function () {
+        getdatos()
+
+    });
+
+    var getdatos = function () {
+        $.ajax({
+            url: "https://updateapp.tecmmas.com/Actualizaciones/index.php/Cdescargas/infoPrincipal",
+            type: 'get',
+            async: false,
+            mimeType: 'json',
+            success: function (data) {
+                $("#infoPrincipal").html(data[0].html);
+                getMetrologia()
+            },
+            timeout: 5000,
+            error: function (res) {
+                console.log(res.responseText)
+            }
+        });
+    }
+    var getMetrologia = function () {
+        var text = new XMLHttpRequest();
+        text.open("GET", ipLocal + "system/dominio.dat", false);
+        text.send(null);
+        var dominio = text.responseText
+        localStorage.setItem("dominio", dominio);
+        $.ajax({
+            url: "http://" + dominio + "/cda/index.php/Cadicionales/selMetrologia",
+            type: 'get',
+            async: false,
+            mimeType: 'json',
+            success: function (data) {
+                var nB = "Fecha vencimiento certificado:";
+                var tipoContainer = "bg-info";
+                console.log($("#fecha").val())
+                $.each(data, function (i, data) {
+                    if ($("#fecha").val() > data.fechacertificado) {
+                        document.getElementById("sectionMetrologia").style.display = "";
+                        nB = "Certificado vencido:";
+                        tipoContainer = "bg-danger"
+                    }
+                    var body = "<div class='row'>";
+                    body += "<div class='col-xs-12 col-sm-8 col-lg-8'>";
+                    body += "<div class='tile-counter inverted "+tipoContainer+"'>";
+                    body += "<div class='content'>";
+                    body += "<i class='fa fa-thumbs-down icon-lg'></i>";
+                    body += "<span style='font-size: 13px'>" + data.maquina.toString().replace("-", " ").toUpperCase() + "</span>";
+                    body += "<div class='clearfix'>" + nB + "</div>";
+                    body += "<label style='color: whitesmoke; font-size: 18px'>" + data.fechacertificado + "</label>";
+                    body += "</div>";
+                    body += "</div>";
+                    body += "</div>";
+                    body += "</div>";
+                    $("#getMetrologia").append(body);
+                });
+            },
+            timeout: 5000,
+            error: function (res) {
+                console.log(res.responseText)
+            }
+        });
+    }
+
+
+
+</script>

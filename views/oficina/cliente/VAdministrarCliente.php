@@ -1,137 +1,376 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZkqkANrN7IIzn6J+lKCnifE/DQFNOl2T
+<!DOCTYPE html>
+<html class=" ">
+    <head>
+        <!-- 
+         * @Package: Complete Admin - Responsive Theme
+         * @Subpackage: Bootstrap
+         * @Version: BS4-1.0
+         * This file is part of Complete Admin Theme.
+        -->
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>ADMINISTRAR CLIENTE</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+
+
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/> -->
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+        <link href="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" media="screen"/>
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/tecmmas.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <body class=" ">
+        <!-- START TOPBAR -->
+        <div class='page-topbar '>
+            <div class='logo-area'>
+
+            </div>
+            <div class='quick-area'>
+                <div class='float-left'>
+                    <ul class="info-menu left-links list-inline list-unstyled">
+                        <li class="message-toggle-wrapper list-inline-item">
+                            <ul class="dropdown-menu messages animated fadeIn">
+                                <li class="list dropdown-item">
+                                </li>
+                            </ul>
+                        </li>
+                </div>		
+            </div>
+
+        </div>
+        <!-- END TOPBAR -->
+
+        <!-- START CONTENT -->
+        <section class="wrapper main-wrapper row" style=''>
+            <div class="clearfix"></div>
+            <!-- MAIN CONTENT AREA STARTS -->
+            <div class="col-xl-12">
+                <section class="box ">
+                    <div class="content-body"  style="background: whitesmoke">    
+                        <div class="row" >
+                            <div class="col-lg-12 col-md-12 col-12">
+                                <section class="box ">
+                                    <header class="panel_header">
+                                        <h2 class="title float-left">Administrar cliente</h2>
+                                    </header>
+                                    <div class="content-body" >    
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/cliente/Ccliente" style="width: 100px" method="post">
+                                            <input name="button" class="btn btn-block bot_azul"  type="submit"  value="Atras" />   
+                                        </form>     
+                                        <br>
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/cliente/CAdministrarCliente/guardar" method="post">
+                                            <input type="hidden" name="idcliente" value="<?php
+                                            if (isset($cliente->idcliente)) {
+                                                echo $cliente->idcliente;
+                                            } else {
+                                                echo "";
+                                            }
+                                            ?>"/>
+                                            <table class="table dt-responsive display">
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        TIPO DOCUMENTO
+                                                    </td>
+                                                    <td>
+                                                        <select class="form-control" name="tipo_identificacion" style="background: #FFE1E1">
+                                                            <?php
+                                                            if (isset($tipo_identificacion)) {
+                                                                echo $tipo_identificacion;
+                                                            }
+                                                            ?>
+                                                            <option value="1">Cédula de ciudadanía</option>
+                                                            <option value="2">Numero Identificación Tributaria (NIT)</option>
+                                                            <option value="3">Cédula de extrangería</option>
+                                                            <option value="4">Tarjeta de identidad</option>
+                                                            <option value="5">N. único de Id. Personal</option>
+                                                            <option value="6">Pasaporte</option>
+                                                        </select>
+                                                        <strong style="color: #E31F24"><?php echo form_error('tipo_identificacion'); ?></strong>
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        NUMERO DE DOCUMENTO
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="numero_identificacion" value="<?php
+                                                        if (isset($cliente->numero_identificacion)) {
+                                                            echo $cliente->numero_identificacion;
+                                                        }
+                                                        ?>" style="background: #FFE1E1" type="number" >
+                                                        <strong style="color: #E31F24"><?php echo form_error('numero_identificacion'); ?></strong>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        NOMBRES
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="nombres" value="<?php
+                                                        if (isset($cliente->nombre1)) {
+                                                            echo trim($cliente->nombre1 . ' ' . $cliente->nombre2);
+                                                        }
+                                                        ?>" style="background: #FFE1E1" type="text">
+                                                        <strong style="color: #E31F24"><?php echo form_error('nombres'); ?></strong>
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        APELLIDOS
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="apellidos" value="<?php
+                                                        if (isset($cliente->nombre1)) {
+                                                            echo trim($cliente->apellido1 . ' ' . $cliente->apellido2);
+                                                        }
+                                                        ?>" style="background: #FFE1E1" type="text">
+                                                        <strong style="color: #E31F24"><?php echo form_error('apellidos'); ?></strong>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        TELEFONO DE CONTACTO 1
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="telefono1" value="<?php
+                                                        if (isset($cliente->telefono1)) {
+                                                            echo $cliente->telefono1;
+                                                        }
+                                                        ?>" style="background: #FFE1E1" type="number">
+                                                        <strong style="color: #E31F24"><?php echo form_error('telefono1'); ?></strong>
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        TELEFONO DE CONTACTO 2
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="telefono2" value="<?php
+                                                        if (isset($cliente->telefono2)) {
+                                                            echo $cliente->telefono2;
+                                                        }
+                                                        ?>" type="number">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        DIRECCIÓN DE RESIDENCIA
+                                                    </td>
+                                                    <td >
+                                                        <input class="form-control" name="direccion" value="<?php
+                                                        if (isset($cliente->direccion)) {
+                                                            echo trim($cliente->direccion);
+                                                        }
+                                                        ?>" style="background: #FFE1E1" type="text">
+                                                        <strong style="color: #E31F24"><?php echo form_error('direccion'); ?></strong>
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        CIUDAD DE RESIDENCIA
+                                                    </td>
+                                                    <td>
+                                                        <div class="form-group">
+                                                            <select class="" id="s2example-1" name="cod_ciudad" style="background: #FFE1E1" >
+                                                                <?php
+                                                                if (isset($ciudad)) {
+                                                                    echo $ciudad;
+                                                                }
+                                                                ?>
+                                                                <?php
+                                                                if (isset($ciudades)) {
+                                                                    echo $ciudades;
+                                                                }
+                                                                ?>
+                                                            </select>
+                                                            <strong style="color: #E31F24"><?php echo form_error('cod_ciudad'); ?></strong>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        NUMERO DE LICENCIA
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="numero_licencia" value="<?php
+                                                        if (isset($cliente->numero_licencia)) {
+                                                            echo trim($cliente->numero_licencia);
+                                                        }
+                                                        ?>" type="text">
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        CATEGORIA DE LICENCIA
+                                                    </td>
+                                                    <td>
+                                                        <select class="form-control" name="categoria_licencia">
+                                                            <?php
+                                                            if (isset($categoria_licencia)) {
+                                                                echo trim($categoria_licencia);
+                                                            }
+                                                            ?>
+                                                            <option value="A1">A1</option>
+                                                            <option value="A2">A2</option>
+                                                            <option value="B1">B1</option>
+                                                            <option value="B2">B2</option>
+                                                            <option value="B3">B3</option>
+                                                            <option value="C1">C1</option>
+                                                            <option value="C2">C2</option>
+                                                            <option value="C3">C3</option>
+                                                        </select>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align: right">
+                                                        CORREO ELECTRONICO
+                                                    </td>
+                                                    <td>
+                                                        <input class="form-control" name="correo" value="<?php
+                                                        if (isset($cliente->correo)) {
+                                                            echo trim($cliente->correo);
+                                                        }
+                                                        ?>" type="text">
+                                                        <strong style="color: #E31F24"><?php echo form_error('correo'); ?></strong>
+                                                    </td>
+                                                    <td style="text-align: right">
+                                                        <label class="form-label" for="field-11">FECHA DE NACIMIENTO</label>
+                                                    </td>
+                                                    <td>
+                                                        <div class="form-group">
+                                                            <span class="desc">e.j. "1990-08-02"</span>
+                                                            <div class="controls">
+                                                                <input type="text" class="form-control" name="cumpleanos" data-mask="y-m-d" value="<?php
+                                                                if (isset($cliente->cumpleanos)) {
+                                                                    echo trim($cliente->cumpleanos);
+                                                                }
+                                                                ?>">
+                                                            </div>
+                                                        </div>    
+                                                <!--                                                <input class="form-control" name="cumpleanos" value="<?php
+                                                        if (isset($cliente->cumpleanos)) {
+                                                            echo trim($cliente->cumpleanos);
+                                                        }
+                                                        ?>" type="text">-->
+                                                        <strong style="color: #E31F24"><?php echo form_error('cumpleanos'); ?></strong>
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+                                            <table style="text-align: center;width: 100%" >
+                                                <tr>
+                                                    <td>
+                                                        <input name="guardar" class="btn  btn-block bot_gris" type="submit"  value="Guardar" />   
+                                                    </td>
+                                                    <td>
+                                                        <input name="btnguardarnuevo" class="btn btn-block bot_gris" type="submit"  value="Guardar y nuevo" />   
+                                                    </td>
+                                                    <td>
+                                                        <input name="guardarfinalizar" class="btn btn-block bot_gris" type="submit"  value="Guardar y finalizar" />   
+                                                    </td>
+                                                    <td>
+                                                        <input name="btnnuevo" class="btn btn-block bot_verde" type="submit"  value="Nuevo" />   
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </form>
+                                        <br>
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/cliente/Ccliente" method="post" style="width: 200px">
+                                            <input name="button" class="btn btn-block bot_rojo"  type="submit"  value="Cancelar" />   
+                                        </form> 
+
+                                        <br>
+                                        <div style="text-align: center;color: gray">
+                                            <?php echo $this->config->item('derechos'); ?>    
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+            <!-- MAIN CONTENT AREA ENDS -->
+        </section>
+    </section>
+    <!-- END CONTENT -->
+
+
+    <!-- END CONTAINER -->
+    <!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+    <!-- CORE JS FRAMEWORK - START --> 
+    <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+    <script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+    <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+    <!-- CORE JS FRAMEWORK - END --> 
+
+
+    <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+    <script src="<?php echo base_url(); ?>assets/plugins/inputmask/min/jquery.inputmask.bundle.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.min.js" type="text/javascript"></script> 
+    <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+    <!-- CORE TEMPLATE JS - START --> 
+    <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+    <!-- END CORE TEMPLATE JS - END --> 
+
+
+    <!-- General section box modal start -->
+    <div class="modal" id="section-settings" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog animated bounceInDown">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Section Settings</h4>
+                </div>
+                <div class="modal-body">
+
+                    Body goes here...
+
+                </div>
+                <div class="modal-footer">
+                    <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
+                    <button class="btn btn-success" type="button">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- modal end -->
+</body>
+</html>
+
+
+

@@ -1,159 +1,246 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+set_time_limit(0);
+ini_set('memory_limit', '-1');
+//$pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+$pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+
+//$titulo = "NÃºmero de registro visual: " . $this->session->userdata('idhojapruebas') . "-" . $this->session->userdata('idprueba') . " \nFecha inspeccion: " . $fechafinal . "\nPlaca: " . $this->session->userdata('numero_placa');
+$hoy = getdate();
+$pdf->SetTitle($titulo);
+$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, $nombreCda . " - Mapa de servicio entre fechas", "Fecha inicial: " . $fechainicial . "            Fecha final: " . $fechafinal . " \nFecha de generación de este informe: " .$fechageneracion);
+//$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, "prueba", "prueba");
+// set header and footer fonts
+$pdf->setHeaderFont(Array(PDF_FONT_NAME_MAIN, '', PDF_FONT_SIZE_MAIN));
+$pdf->setFooterFont(Array(PDF_FONT_NAME_DATA, '', PDF_FONT_SIZE_DATA));
+
+// set default monospaced font
+$pdf->SetDefaultMonospacedFont(PDF_FONT_MONOSPACED);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT, PDF_MARGIN_TOP, PDF_MARGIN_RIGHT);
+$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+// set auto page breaks
+$pdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
+
+// set image scale factor
+$pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
+
+// set some language-dependent strings (optional)
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+// ---------------------------------------------------------
+//
+$style = array('width' => 0.5, 'cap' => 'butt', 'join' => 'miter', 'dash' => '10,20,5,10', 'phase' => 10, 'color' => array(255, 0, 0));
+//$style4 = array('L' => 0,
+//    'T' => array('width' => 0.25, 'cap' => 'butt', 'join' => 'miter', 'dash' => '20,10', 'phase' => 10, 'color' => array(100, 100, 255)),
+//    'R' => array('width' => 0.50, 'cap' => 'round', 'join' => 'miter', 'dash' => 0, 'color' => array(50, 50, 127)),
+//    'B' => array('width' => 0.75, 'cap' => 'square', 'join' => 'miter', 'dash' => '30,10,5,10'));
+// set font
+$pdf->SetFont('helvetica', '', 10);
+
+// add a page
+$fecha = "";
+for ($i = $fechai; $i <= $fechaf; $i+=86400) {
+    $fecha = date("Y-m-d", $i);
+    $resumen = $this->Mestadisticos->mapa_servicio_entre_fechas($fechainicial,$fechafinal);
+    if ($resumen != FALSE) {
+        $pdf->AddPage();
+        $tbl1 = ' 
+        <table >
+            <thead>
+                <tr >
+                <th style="text-align: center;font-weight: bold;width: 200px"><strong>Fecha: ' . $fecha . '</strong></th>
+                </tr >
+                <tr >
+                    <th style="text-align: center;font-weight: bold;width: 50px">Placa</th>
+                    <th style="text-align: center;font-weight: bold;width: 30px">Mot.</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Hora I.</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Hora F.</th>
+                    <th style="text-align: center;font-weight: bold;width: 80px">Documento</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Total</th>
+                    <th style="text-align: center;font-weight: bold;width: 30px">Res.</th>
+                    <th style="text-align: center;font-weight: bold;width: 60px">Vigencia</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">Insp.</th>
+                    <th style="text-align: center;font-weight: bold;width: 70px">Certifcado</th>
+                    <th style="text-align: center;font-weight: bold;width: 100px">Cat/Tip/Mar/Mod</th>
+                </tr>
+            </thead>
+            <tbody>';
+
+        $tbl2 = '';
+        $kPagina = 0;
+        $kAcumulado = 0;
+        $valorPagina = 0;
+        $valorAcumulado = 0;
+        $inspAprobado = 0;
+        $inspRechazado = 0;
+        $reinAprobado = 0;
+        $reinRechazado = 0;
+        $periAprobado = 0;
+        $periRechazado = 0;
+        $prevAprobado = 0;
+        $prevRechazado = 0;
+        $duplicado = 0;
+
+        foreach ($resumen as $lis) {
+            $tbltmp = '
+                <tr >
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->numero_placa . '</td>
+                    <td style="text-align: center;width: 30px;font-size: 10px">' . $lis->reinspeccion . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->horainicial . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->horafinal . '</td>
+                    <td style="text-align: center;width: 80px;font-size: 10px">' . substr($lis->documento, 0, 12) . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->valor . '</td>
+                    <td style="text-align: center;width: 30px;font-size: 10px">' . $lis->ar . '</td>
+                    <td style="text-align: center;width: 60px;font-size: 10px">' . $lis->fecha_vigencia . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px">' . $lis->inspector . '</td>
+                    <td style="text-align: center;width: 70px;font-size: 10px">' . $lis->numero_certificado . '</td>
+                    <td style="text-align: center;width: 100px;font-size: 10px">' . $lis->tipo_vehiculo . '/' . $lis->idservicio . '/' . $lis->marca . '/' . $lis->idlinea . '</td>
+                </tr>';
+
+
+            if ($kPagina == 63) {
+                $kAcumulado = $kAcumulado + $kPagina;
+                $valorAcumulado = $valorAcumulado + $valorPagina;
+
+                $tbltmp = $tbltmp . '
+                <tr>
+                    <td style="width: 80px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>N° Insp</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total página</strong></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>' . $kPagina . '</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>$ ' . $valorPagina . '</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>' . $kAcumulado . '</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>$ ' . $valorAcumulado . '</strong></td>
+                </tr>
+                ';
+                $kPagina = 0;
+                $valorPagina = 0;
+                //$pdf->AddPage();
+            } else {
+                $kPagina++;
+                $valorPagina = $valorPagina + $lis->valor;
+                if ($lis->reinspeccion == 0) {
+                    if ($lis->ar == 'A') {
+                        $inspAprobado++;
+                    } else {
+                        $inspRechazado++;
+                    }
+                } elseif ($lis->reinspeccion == 4444 || $lis->reinspeccion == 44440 || $lis->reinspeccion == 44441) {
+                    if ($lis->ar == 'A') {
+                        $prevAprobado++;
+                    } else {
+                        $prevRechazado++;
+                    }
+                } elseif ($lis->reinspeccion == 1) {
+                    if ($lis->ar == 'A') {
+                        $reinAprobado++;
+                    } else {
+                        $reinRechazado++;
+                    }
+                } elseif ($lis->reinspeccion == 7777 || $lis->reinspeccion == 77770 || $lis->reinspeccion == 77771) {
+                    if ($lis->ar == 'A') {
+                        $periAprobado++;
+                    } else {
+                        $periRechazado++;
+                    }
+                } else {
+                    $duplicado++;
+                }
+            }
+            $tbl2 = $tbl2 . $tbltmp;
+        }
+        $kAcumulado = $kAcumulado + $kPagina;
+        $valorAcumulado = $valorAcumulado + $valorPagina;
+
+        $tbl3 = ' <tr>
+                    <td style="width: 80px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>N° Insp</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total página</strong></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>' . $kPagina . '</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>$ ' . $valorPagina . '</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>
+                    <td style="text-align: center;width: 60px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>' . $kAcumulado . '</strong></td>
+                    <td style="text-align: center;width: 120px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>$ ' . $valorAcumulado . '</strong></td>
+                </tr>
+            </tbody>
+        </table>';
+
+        $tbl = $tbl1 . $tbl2 . $tbl3;
+
+        $pdf->writeHTML($tbl, true, false, false, false, '');
+
+        $tbl2 = ' 
+         <table>
+             <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Motivo</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>0</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>1</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>7777</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>4444</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>9999</strong></td>
+                    <td style="text-align: center;width: 10px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>                    
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Aprobados</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $inspAprobado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $reinAprobado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $periAprobado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $prevAprobado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $duplicado . '</td>
+                    <td style="text-align: center;width: 10px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($inspAprobado + $reinAprobado + $periAprobado + $prevAprobado + $duplicado) . '</td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Rechazados</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $inspRechazado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $reinRechazado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $periRechazado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $prevRechazado . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">0</td>
+                    <td style="text-align: center;width: 10px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($inspRechazado + $reinRechazado + $periRechazado + $prevRechazado) . '</td>
+                </tr>
+                <tr>
+                    <td style="width: 80px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px"><strong>Total</strong></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($inspAprobado + $inspRechazado) . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($reinAprobado + $reinRechazado) . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($periAprobado + $periRechazado) . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($prevAprobado + $prevRechazado) . '</td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($duplicado) . '</td>
+                    <td style="text-align: center;width: 10px;font-size: 10px"></td>
+                    <td style="text-align: center;width: 50px;font-size: 10px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($inspAprobado + $inspRechazado + $reinAprobado + $reinRechazado + $prevAprobado + $prevRechazado + $duplicado) . '</td>
+                </tr>
+        </table>';
+
+        $pdf->writeHTML($tbl2, true, false, false, false, '');
+        $pdf->SetFontSize(8);
+        $pdf->Write(0, 'Convenciones:', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Mot: InspecciÃ³n (0), ReinspecciÃ³n (1), Peritaje (7777 0-1), Preventiva (4444 0-1), Duplicado (9999)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Res: Aprobada (A), Rechazada (R)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Inspector: Consultar cÃ³digos de inspector', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Cat: Liviano (1), Pesado (2), Moto (3)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Tipo: Oficial (1), PÃºblico (2), Particular (3), DiplomÃ¡tico (4)', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Marca: Consultar cÃ³digos de marca', '', 0, 'L', true, 0, false, false, 0);
+        $pdf->Write(0, '- Modelo: Consultar cÃ³digo de lineas', '', 0, 'L', true, 0, false, false, 0);
+    }
+}
+$pdf->Output($titulo . $fechageneracion . ".pdf", 'I');

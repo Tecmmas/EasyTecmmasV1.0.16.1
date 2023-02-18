@@ -1,126 +1,226 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPx/uKBOlVgcvDYJ5bJjg4r7Mk8KjOVUsECyqq/oyc1NEc1wz9p+24Tx/D8q9zgzlt+QLBeIt
-7I47H7/nRUV9FgqxrhufTfuUSg1UBlcPtyr7yUrF9RzCYMwSOFkkG2LJ6HAsC6dSQADEk4ptJolz
-2ALmlEDnBcG1tD3rAQuDCauwV0zMOZOaMLiwKIjTIYXr7AN+7iFkCIABEqGdWy/ZU31xtAWRIKm7
-Hkd6iRLfdn42XIc612CV26qxNVKcMQMJ6JFfIngamEzalBSkIYhIjDRy+sWW36H06ygH5+eHB2OX
-rZUcybJ/LnaKeUUNjKpZM4Oum62LJIFjHqB39bq5K3UaUFG89Wiau4on1NLtV0tOTB6qFnTfsBu+
-Uqrb0IeUdibNy9Oz7FG+/5PGKWhC10FQ8AQQSd6H5eKr3dh0ncLp3x1VuOMAMuTXS8Cc0XMlZI0z
-Wk7oN2A//iSBy1nV0Wtr6HbKZin2u4mEKZVi4q8AOoyrlTVCTwbsoUvx19xHZ6EV7rauc4H5T9wW
-lcHUZbU3/sN3B+/iqCfO1MZhqjCbSx7WM0wwv75A1MLR0J0ZIdo8BNNlaWY3bY0H6TQiZRf1sRUf
-nt87ip9aFalhZYcaZagDltwcPb6NOH9Ny/ZxpnGISp9wR/ybk+tYlvqZ8+7mgnb1Ls5OxohmtuNv
-NIdvVaw2YN9BqGNf7QAkrcO4QavkpPaHJr+1jwwtomoJTrFMb7VjGhzm42jz8fghzS95Gp+iG9Pf
-vFMaAZGhd8G36bFTGEP9U94FWuG9LZ7Qr1Mbb6+01+YZRhbc09vRrP9uTDcoLwi0Jeb8MUbU9cEA
-FyCpn4oP25uQYox8qR3vHeING34xFMssnAiJ8PmLWJxN+SAA5ewjzsYSMdHZKsPDMg/6XkJ2iYiR
-XVwir9dkHrMim2Jy9aK8sB+IkLHEliiz9Lvi8pGMlqrHpVKo2RTcufs9+vrP/ngZOFC55ipKL3bq
-L552515J/+qQwNtfqucHxRvOlaVx74ZBs35TDrkkIzX8QJqTxvKitW6sG4YkXh+2QlNRuO3qm7wO
-O6+M8DIlsrRYaFkXCNgJ8ico4/32z6Fd5TDe1ChSWgsc4m0v4WBgEzKPQY9PuHCay3H8hv+aXNPt
-kkqggUwO4zLYeBWAmEVCY7TFHnLXUlraBScpj+JzL2l/mjlU1VsE1Et2KiVzuuN5cP7RwKfLN5JO
-VRFwU2s9OYy6fwy3877ta35aCVjfu1PtJLqTgrE/xE9rV2+ZFXRgUHSDLzCKGfPCNS5a68NfuLiQ
-XHt/kmOdlB3uGXgoE6XhBR35BPMd2/n+S6Peb1Pa7xa9Pd6Gprs0CtUTvC4BBOX2kso5Wn/drXPq
-jVPkxKs3xrMbZYUD62IfQaoK/zPQHVQCcDdhxPGlO2GjDpb4DTdNXG9tyILemcEWiEoXRG0hvIOl
-aibDw/8HjpNoJgmn78bmCf7Msq4oJGHhmSR3iOjx8zTV6hMuya4gPeeXurWjPA0QgdZh2GbpS5HY
-GM5yVe1QNdt/aM1NJQwLOA0jkFR2bAQBhWnHI8C4bxWAvZXiy+m6PQlfGLU9WnLLPRpLWvMUkMe7
-BWoWDMcRdfRyRS1ZpkDxV1bOUemFijJjrtY1jPFWTytabxqG81vqSKx09C/QgCJDCOSq05+nnsam
-VaBoe3Vw2Dd606L51FzyBJZ9qqsbZ+JdOUE8S9tzejQQjPTD0nPVXqEIk+T+pWcqVrd+mSTCidsc
-i9qWnMX8v3X/XtSDiQ81jVJ+ykHfzeN87nW+ppKYmBpQof+G/YRU1owS6j+JhkWAIYFEKv+3Nu16
-cnVTNnEX1TMoWl7A1XXvlyD1NK/jGjvkS48f1TFhMowIfvWXhSXF4cPBvxN+60fWZ9wXa2Sz8Wpq
-m+jL5wDzdmoS5yZu1Mkpye3ykkMinySmnB34hurZRKFDMVjwzJQ3VZFux39CpyLWnOGtNMA2TNrH
-tKQEPeRYw5rSDLHhkyM9eH70U7lAY8GCbUB5Wa6VEidCwA5IfhnxWYqL2tArKIlKpfYr6MxebNuK
-kMKio19VBBEpxDuWfxu1AT4eKZhSx9uIf6sU+zKZNh0KUsxWNOLJ97UhUcSYNY7AWeB1+sq/fG6z
-8YGbs1NWMl3uRWlUDXhgnc7xBAck1ECO0gt8o5HU7X7j/jZlKy1IlyLS3FFSS2PHWTHprVbyBGSm
-8Dh9qfbt7fE8lmz8i3UWaUXMiMZKP3hqriLIv+7ZTtinaAV443bZHCYYLsjoBJTk5QGaQylX+Dk0
-yDL3i7IeyJZ8R+acaqIXb48nESilAREERR2Mtb9fvG7Eb+9frap89stbqAya4VsPxMPnoFJKCr6J
-T081WBmStiK5lKo6i5mNX+NMIoi20bAB82ty83ahJVhheULyIgu10sbXXTwNmDpS1JEUZHuN7VRb
-uV5J+ecSrOwm8oxQBHCmp/R00d+zxC9mw9DP2SBDfC5i15WuJB/Dt9Mqstas5DNKq1Ob99Z7lUUJ
-VNuz5VUOmXrvTjjRe8sOZkUlSBKCa3xqZv6eou6pilbL7RTvCR3F0EBjvcjMIMAEp9hHj6FXwrLL
-uPt+ia1MVEYAobI9MSHkuDWGGHWcYVXQDgJVWmS/xPv2m/jXlW8uLyi73oHjDKrJPzGHqpeKL0MV
-BMf5LyT5rM/AoEE9zXfSUAMAcIMdozS2b1S+yfWxN0LMnZ+3EaUCVDxPrBEEzjaoAYtq8l/D6Skf
-ceZBEp8I2ZNbPNBupFjYRx/JScR5x0hNDmGvoLNl5BqmLaNYt51kUe9CsAH2iY1O8J5kCd2u3re2
-WnQ2kgc4AiWvpf57zW3wr3X+Bcn0nZSjdImkZAMd/l93O9H73Cc3GB3cXAuFE4Th5vmIIFND4fUk
-5aIfJwQo82ffFrsvau3zS33pROxcuoxKBMrfA3J0cEd+gGlh3g1P4xnClRoH2amRboUmakDwlkIk
-QxxPGbHl3SOu4dtP8aNQVy7eDVNTqz4Jb/gXmYscG9NlSjHIP06z2b7WeuT8uPWxxENfOn5uI8Nx
-BEYavVmzez3/j3vw0Wnfoblt2V+esia8/+tOsgZ7yzoBrR3Mr3IHgYPLe5cuJzlY3fiIODmGZgig
-/n8f3zkRaKe1P8aI2MnTW3T/BVadvRpJRP9ZijM9ektHxqI7FVLidOEc83YcsCXbnPrBi6EJoNVp
-cmXhgaHjqXl5kOYmccdb6AmEHIK9NR/E+C0f13X86ySYrsUAHQTFRKFxcpl75CSPJGPewFYokY7t
-AHNEChyaYbQcFPuI8mOp0QUXw7eAfnGuI8bWi4Mw3r9QjOlFCiWcHbFnSfrxwQPJMSi6N5if904j
-gclWQV44aqBW17IANt3SWrw83F3ECVKiJxFKTkheu3hp2RmRBEbRxLmGyUMmmdMD1nyBc7Kq+Eio
-nJIy10WKI3XNzYehLPWdmZLl9DE+OoGUtXrqEIvmMoOW3SDVmx6+cmi7kpNLr6J2FfNRLrRV6VDh
-T6FkEc0EDblHKhrtddTSVvuoaO8X68QUaCWg+Ab+jknYJCvRCz04XR+d+7We57WDHZqvn6Q06vWu
-R99/VJwOB9gFKt+5rfV1Idg0bys+8o/fv9UBO7DhRnK8GNGTxbNx9+P4H+Cr9Hs+1d3ai2gprmYV
-4agY981Iz3NLdjmXD5GcbAQhC5Z5gvD+sn6GN7VbuWAFqIQIwYWo5hAYcIbqeZ0hYTaqN6TmRswp
-KuucAzrmq6gvPudaQL+MYh9O8viVeEXFI5xW0eMB32rnVFpKxvvJoIM7qZKNVPhq5P0kIiMmatEw
-b/0IFGTEQwmGOltFpMyS0YS1QlUCIrc26eMo+h9cA9epXa9+moVQO+cYvSbQRH1sT5q4xJxezGVg
-43vS3jJpCCKgfaTc3zyj9O1AOJWqNQIJWi6ua1GcZzCj2cqmPcttf8MaKdpeKEN1zGbUpgSGOIt2
-ujKOMih/Bo2wan12HktzdANeoiOJ+Nr9q8I2zgAw0edtEF+3hpJrLfbnDKwirUXeNaoPHBTWoOGw
-hsJLdFcMDtjgyfro2+ZCGl1aCiGCcKth6SHwrrFcZ2yv2Pt4q3zpTSRmFYrOA2V2yyq2+/oJMFxM
-NyQSfRfYeBzoD8ly7RPoi68kstETT5WKAfEKaXLOeEA5F/fDGIFDe6jz+jufDjEtN6kCYVQbUQRQ
-TNE3F/gIf0m/Rk3uhZhy8NWx7DSfZb7xUvAwn5XZJqZnmhF9okue0h4cpeZlFR5AxOto9cTUngHy
-OIsBqtFBSy6r3cJ3DzV7Z7KmYXwujibBtb82Y+ZbPYPDZSRWB4WcE1KzIHI1H6bxd5DD8YAWmy6r
-6JTAru+Lj4lqo4pZnvWGqt2cBEndQjyEOk4ZK6ec45lu1VaIwVkhYngoY1nEofXgFNDQ4BQbwwf6
-RNSJdJIT6e/y4iWx9WMVO11Y05O6dSsXMIjAYtgi6VSET4rBp+Cu4H7+n01wS1RfiWa6pNT23Vr+
-5iUhir/OfhJxFgca5Hsm+/DymY2v//RVgpZTQcLB+ULv47/lvv9sejiJLjESsJuTJUFkqDXF3EbK
-yMlLrbz55VwQbfyQo6jg/+YHAXZDyZR8r/WZMi5cOHoQ4KU2Z6gEYMR78dGh0iGjGwt7u9+0pL24
-Jy072GJK5VD0jX1J9fvGeM0LOgopHaIqoWQc5POKDOWaS0J/VpvOtRFx03k2XkhS/yR/enCS3mO5
-wgs38ImZ1EjyOa9qFnxt7ZzIQ0hqRNUNhs2E6Sk3NPX7s+ZAnNX8l2kD6iUjH3uu1RdZLManLJJp
-qsb64nRXvhWHGkQ9NNhuRgcJ3tJm9sQ/eSoLIzz0CjLzrMZ4vNZuMbQKsxML/dPogeZvn/kLIajt
-vqvzHHIPaRYU89i7ByBgT464SaTUtdKbZqzvN/AcQ2EYkhkuB457sRmrjV/TV1V2I6Np9kKUk8AJ
-7mp+ETt3ERHuyWuIQ1rZRmYgcSwoMuyIIOed8xMk+UWdlEatZ+AmoRdqFjxw62IFmy3rfJRBuajC
-7QmCWVpM9EBnPJjdUleC/YiLL2dKrSllgAq/SHXP5ZbuBLNAEvgEmfatPCGneHP6iU1fP63gko6a
-cu7+ilNi2vCNBl64gEbB2BcynRJEM4JgDaNnTj/xNXQMAcmdLyXBOj5scmje50F99JcAx1rNgoq0
-CXBWCHTdmoX0qFQeMMEVPqy4CA9TqLUVXgVXddJ5tdgMg+HgAX5PN7Ex8ZILjSr6HxnRQTdhYd1L
-y3cS8vU7zP+K4GTZpxuuvsX7quuHvT+3DE8RdK4IfYvzRQTIZNMoG43De85KAuOxxkcw5uBa78tG
-C0SIiOD0ZsB5ExRKXEWCjkCJmVawWoQz/shHEdYMT5AGttBXQGbR+KWd5fRJL3APb43Xf5ObP5W0
-6Cg9PvCng6Xwo/VKknIepgIBqAnhT1PCa8nMzUXilbKMkw19VQ2Dv+tVlctf4yUM62KMvsfinr22
-KDzgDQfi172H6XpXPGrerV7T+7Fvr9RsiUjRTup37z0GJn0LTc8HGIGCeA+8jym0cT2vsbL9YYg5
-3L4IXnQtUHci5Hso9D5AZSRhzta4qsDf7HjoiDjxEg4ndfh6uroUvvM3aV2kmf/2TVpHA4wuufpt
-GOfaaFyTaaWooU3+7jsVO7n/dxezaqZgmx1ejNM1WymwcvP4Xqy5SDIPDh8qvDWXPaqkp3l8E1GH
-ey1U2lYdrcU5aFpfTIm2O49eGyI4D4Yq8oxhGZf1L7cE28kT+5mwwFUjtvCI6bbSwwDC/UxfxYLD
-4wmLIw97Vrqbc18oFRXYo4rVC1LbXDWrIoMJ/WELhp9avUe3XI+PwahN56WYIh3ROUcGiUZxC5c9
-krm448kwTfm5EKpU6adO4aUZC15u00D+ubyX5o6/HNXAn6MJ8UTOkO392qpqzEOp0Cshdq/l7AW+
-a4YuFkdxY+RsxtS4PhF1/Li0tWYCwliHNZ3vxN36cHe9hS2tv1hMQ13ugaQHvU/k8G3EQBDb1Tm3
-Io1W0PhHnYAE+Nj5Y4w6VCJBxSnVMwxgabGgRcHwNvu78PywMsGXl9RC2p6HSvVd+9yI7K7AoQxv
-a4aV0RRi9TqVKm47+KMAD6PYMZszO8zPxuDeE/SKIrt3Ss+7YoHYaBftjdz++0/E+aDZcL7uwMvB
-UKUCYb6Hk8jJ3/XpOzLKTPP1acCvKHJVfKRAz1CxauKXhdz/QlyMjGUeBSYn6x+I4qTDKXhYAIxM
-TeKebgZEbioHz4Ia3KPXZLN9o+7xVN95fpVexwPUmbc997G/VT4zlV2y4kFGT8eIBgosqxjjtPb3
-zF0qKKLAD9JPBOeMB7Fb5XonvLqvLBMLDWWAgP3oRMs//PjCnnCUtj5+2hWUUbKA3gXsfZ0WorNM
-oTOl8ZbEpwVkf86UBcD5UnhHkfPopL9apb3TZior+qLS9x5huwzjQvUypaMh1QI12+dl0K6Eeim1
-o1UKXtlv19q0CsKgRZcQsAsVKASjgSESlN+vqFe1cS7XuKDHXjykr7rWpQCCnwF0GyVtavI/CJ9P
-Pc2PL1b0BhioRYGZdZF1FlsdX2pS1ssK6NyefBI4vpzWZAa67yD17yxDuDORkPqDmVEoCkGe24aL
-FN2dhaVtnv2Bylh2PweBqyX+KDXwIlEkwiq8AMers0dk/su+LoOQiYNZrukPbv3HCzkDv/QMXIOG
-i+w/97a3alu2A7VOfQKPXcj7NzzVk76+ieMeYN9NTRGuxP0OU9iSkbkLZVyPLwr92Ys2PLmJN+JK
-45XPq+ExnEO82fMWg4KN5Pnx6rEfpA41F/Kz8g/4VMPo5wTL+2qIOKnuE3K6dv1vhV8uoIYzy4Gd
-5nC+U+SG9aZRn107dhktgnFHONSZ7l1t1h15bl0mOUj+3Tkj7eVD3s7sEZMBtmAz7JrjhmK328W2
-tCixRvuAX/iQNg6Xb34WxixksYEXn71GYNXHDcwClpW3J0+Jy1NBWoTYxz59EV2Nh9Bcm/NoewMp
-Jy5D/XJtmJ/rjynTtuUN4UXX4NMTl/kRLm3k3fPXqzWBiP7u/gHRFamrpLhNkKudXY0B37HCTjwu
-8T0IAhBNCeVNQzrEgTCO30wgGjYM7tPHjgLf3oSHXygXKRrwicfuKQY4nlRNWDz5ZaHCh+G9iFEI
-HuGYP20ITXx7WWza7T8vFc2aBQSQXMdZYWwRymVbL/V01wZBCkk9HxDMX7id8wuGtVbIHKqXD84B
-kCgSFihkFO0ikUgdGjr+qN1dkWAwkbl2PpPBGmrFy+F8X125iAUIZtdaEOVZrBwm0ofkEtxzcPZM
-TkIf81CuPx7czHMDvyPApm3bOd6+vRE7MLsQeh0b72O1BJanvd5y1NQvk6iaFQmRoQ789miENInx
-UYB/H2WwiuCHgKMBhkle8aYcfgqC69PXRNJDadUHtI1wfsph3WAnKo6VtfWcZbDw3dONietiRFTG
-i4HCh4+BWnO5JukHBkjbLwZqa46z5I++ZFBTDon3dcyK0vBqmmbt2LdapPO4zGHOjADq6rUpOAob
-Gp2G+3w3GmLKKvr16Is9lBILitYd6KJ0C+8J35vVNH3jWGWMZ06N9LoSoGgLGnEG3t8tLxy0nkjj
-AfC5/o8Pe9OJuzZqPDBam5fXTeTPbaOTojP1cjbkFPVjcAZvRcHrJvrbLj0UQqVAOCrGq9F+Z5G9
-XSSvpoAnTt8hQY7XGk85j1BE2mIiEhc6Bibwnt4rA0zDqHhNHwfBJqbOBbhPT4PhwIiipwixroAX
-oQBBNbjUDtta650vi1pAlDbJhyZWWZ2HkCcg8H12oM6aL8BKPy9QHQfl3t8Jvsuerol+/S/AZ4vx
-ZtjphlxSCMbCwE42Rp8tb/Cn+oh+eathbD+xvISYzFFbQPHHg57iqOcVLLM23qtcBvgHz59p5jI7
-3tnZZ+4VkYUpkqX/ElB0Y99PunjxNQYCsxW6sLF+26R/BxJS5bNBT0u6Wrprdzv9ilku4nqCZjH+
-xisKhLh+O/INpPkgy9YvE0Xxe6s/kv9jGwEwP+ddbBMvmi26DERK6+QCL1qBPDnfDvKoFYv/sRmB
-qkR41igbgQMXC6EmZwOCHlb95+LsxHVkPSqo2dX2aYUKcbq/Tl9n8DJMsesEapD/J5uQQR+0AE6S
-myIrRSHqfz32AYj3H8+BZtr2IpqpPT/sN7q0YOv1/9f2s8U3+q5r1OWmMjmHnTLpFW801Ln/ROax
-NFyg1yI+lzBcqSFdpW5Nje94RTEWyeU5EarbB8LxrA/ch54bUOsuadZVIjPcNkNPYvYkxckfADaV
-9rgI7//x1aJX0P5KTIpywKp/eOwL2mVRZ6ZEKaEwSTeNZdEARIQut5XAZU2O7YJ6CZ10j2hSss6v
-XR15QGdNY/wwt8Ml0BvwbJ1u37wuo91mtChbVHrbz6qclEUYTq9lgU4gS0hv2fjGiUhOLrRENIBX
-37tz2ctzGlu6YP09gI8RAd+FFkveYcy9+FNm/1jGVQyCSPgXugDv/Ld1gfShCXNgCWsejHWl4ZtV
-Bs91kPAahXHTRhyBzqmcK1mhKALCw2inA45xk/4V5BBDlnIuAd+S3hc7MJt5i8R4BAVSzTV6PJTF
-YFSj6mRIZYNH2OfMj07f/gN5wKYLCi9ne/92DX1PjpfwMNlaqdA2UNeQEpraT+Ulo/fFUTEAeLxG
-O6FB7lWEDA93M/iQ8rIDoS4Qz9Nhi9zvLlg8i4poW25P4u73ktIHAIru1UdbMM5heaJ9KVKb2vMQ
-6KbQ/iWAem70clyF8ntUdjwKs2//JyCuj4i/cllTHzUXNM5t5wWxoQ8GeH+OPsE5ZwTsWU0vXhi/
-0F0xE2h0bajSgilCgtsGwv9BJ4rPGXElKWYsPfgfqfFC03s3iIYRdMDgbihZl85PppvCWCUXZhcz
-AZAo1ibjOkkHKR3Nl9fVxRrpog48X1xpiZ45nuNRSrFb+djkyZUOHsNiv3M/sXky7J+5TMaNdzte
-6aYlmqXpJ1dqWnRW183gRdlR0XyVLyWSbUAK8FOt/b3Kd0kEoeWJM/gAxAYqWXZ8lJPwB34PPWxx
-2vLeRdVGw3Bh3uZlRif4ZP7dBXlAPfKQrj5a2VOsk0NlcABNt9NWc8G+MaiM7n+S45xpcCmfu1TY
-qqQR6lJ1siTu0PQO3Recg4A2xsRFHPNr0e88ktWGPxm//hwq7kT+6kj2QzmQaCg1hHI5La2JbP6v
-YqGYeSAfemfYU5uNdj5FaM04XJfm7OGO3tZW01UUnC4eD2RPSefo+kgW3kbaWecoE17nIu+jSyuj
-RLDg98u1lawz1GkoHm==
+<?php
+
+set_time_limit(0);
+ini_set('memory_limit', '-1');
+//$pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+$pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+
+//$titulo = "NÃºmero de registro visual: " . $this->session->userdata('idhojapruebas') . "-" . $this->session->userdata('idprueba') . " \nFecha inspeccion: " . $fechafinal . "\nPlaca: " . $this->session->userdata('numero_placa');
+$hoy = getdate();
+$pdf->SetTitle($titulo);
+$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, $nombreCda . " - Estadística de clientes adquiridos, perdidos y retornados", "Fecha inicial perdidos: " . $fechaperdidos . "                 Fecha inicial: " . $fechainicial . "            Fecha final: " . $fechafinal . " \nFecha de generación de este informe: " . $fechageneracion);
+//$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, "prueba", "prueba");
+// set header and footer fonts
+$pdf->setHeaderFont(Array(PDF_FONT_NAME_MAIN, '', PDF_FONT_SIZE_MAIN));
+$pdf->setFooterFont(Array(PDF_FONT_NAME_DATA, '', PDF_FONT_SIZE_DATA));
+
+// set default monospaced font
+$pdf->SetDefaultMonospacedFont(PDF_FONT_MONOSPACED);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT, PDF_MARGIN_TOP, PDF_MARGIN_RIGHT);
+$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+// set auto page breaks
+$pdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
+
+// set image scale factor
+$pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
+
+// set some language-dependent strings (optional)
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+// ---------------------------------------------------------
+//
+$style = array('width' => 0.5, 'cap' => 'butt', 'join' => 'miter', 'dash' => '10,20,5,10', 'phase' => 10, 'color' => array(255, 0, 0));
+//$style4 = array('L' => 0,
+//    'T' => array('width' => 0.25, 'cap' => 'butt', 'join' => 'miter', 'dash' => '20,10', 'phase' => 10, 'color' => array(100, 100, 255)),
+//    'R' => array('width' => 0.50, 'cap' => 'round', 'join' => 'miter', 'dash' => 0, 'color' => array(50, 50, 127)),
+//    'B' => array('width' => 0.75, 'cap' => 'square', 'join' => 'miter', 'dash' => '30,10,5,10'));
+// set font
+$pdf->SetFont('helvetica', '', 10);
+
+// add a page
+
+$pdf->AddPage();
+
+if ($clientesAdquiridos != FALSE) {
+
+    $tbl1 = ' 
+        <table >
+            <thead>
+                <tr >
+                    <th style="font-weight: bold;width: 940px"><strong>CLIENTES ADQUIRIDOS</strong></th>
+                </tr>
+                <tr >
+                    <th style="text-align: center;font-weight: bold;width: 70px">Placa</th>
+                    <th style="font-weight: bold;width: 200px">Mar/Mod</th>
+                    <th style="text-align: center;font-weight: bold;width: 100px">Vigencia</th>
+                    <th style="font-weight: bold;width: 460px">Propietario</th>
+                    <th style="text-align: center;font-weight: bold;width: 60px">Inspector</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">AR</th>
+                </tr>
+            </thead>
+            <tbody>';
+
+    $tbl2 = '';
+
+
+
+    foreach ($clientesAdquiridos as $lis) {
+        $tbltmp = '
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px">' . $lis->numero_placa . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->marca . '</td>
+                    <td style="text-align: center;width: 100px;font-size:10px">' . $lis->fecha . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->propietario . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->direccion . '</td>
+                    <td style="text-align: center;width: 60px;font-size:10px">' . $lis->usuario . '</td>
+                    <td style="text-align: center;width: 50px;font-size:10px">' . $lis->AR . '</td>
+                </tr>
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px"></td>
+                    <td style="text-align: center;width: 200px;font-size:10px"></td>
+                    <td style="text-align: center;width: 100px;"></td>
+                    <td style="width: 230px;font-size:10px">Telefono 1: ' . $lis->telefono1 . '</td>
+                    <td style="width: 130px;font-size:10px">Telefono 2: ' . $lis->telefono2 . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->ciudad . '</td>
+                </tr>
+                ';
+
+        $tbl2 = $tbl2 . $tbltmp;
+    }
+} else {
+    $pdf->Write(0, 'NO HAY CLIENTES ADQUIRIDOS EN ESTE INTERVALO DE FECHAS', '', 0, 'L', true, 0, false, false, 0);
+}
+
+$tbl3 = ' </tbody>
+        </table>';
+
+$tbl = $tbl1 . $tbl2 . $tbl3;
+
+$pdf->writeHTML($tbl, true, false, false, false, '');
+$pdf->AddPage();
+if ($clientesPerdidos != FALSE) {
+
+    $tbl1 = ' 
+        <table >
+            <thead>
+                            <tr >
+                    <th style="font-weight: bold;width: 940px"><strong>CLIENTES PERDIDOS</strong></th>
+                </tr>
+                <tr >
+                    <th style="text-align: center;font-weight: bold;width: 70px">Placa</th>
+                    <th style="font-weight: bold;width: 200px">Mar/Mod</th>
+                    <th style="text-align: center;font-weight: bold;width: 100px">Vigencia</th>
+                    <th style="font-weight: bold;width: 460px">Propietario</th>
+                    <th style="text-align: center;font-weight: bold;width: 60px">Inspector</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">AR</th>
+                </tr>
+            </thead>
+            <tbody>';
+
+    $tbl2 = '';
+
+
+
+    foreach ($clientesPerdidos as $lis) {
+        $tbltmp = '
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px">' . $lis->numero_placa . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->marca . '</td>
+                    <td style="text-align: center;width: 100px;font-size:10px">' . $lis->fecha . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->propietario . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->direccion . '</td>
+                    <td style="text-align: center;width: 60px;font-size:10px">' . $lis->usuario . '</td>
+                    <td style="text-align: center;width: 50px;font-size:10px">' . $lis->AR . '</td>
+                </tr>
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px"></td>
+                    <td style="text-align: center;width: 200px;font-size:10px"></td>
+                    <td style="text-align: center;width: 100px;"></td>
+                    <td style="width: 230px;font-size:10px">Telefono 1: ' . $lis->telefono1 . '</td>
+                    <td style="width: 130px;font-size:10px">Telefono 2: ' . $lis->telefono2 . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->ciudad . '</td>
+                </tr>
+                ';
+
+        $tbl2 = $tbl2 . $tbltmp;
+    }
+} else {
+    $pdf->Write(0, 'NO HAY CLIENTES PERDIDOS EN ESTE INTERVALO DE FECHAS', '', 0, 'L', true, 0, false, false, 0);
+}
+
+$tbl3 = ' </tbody>
+        </table>';
+
+$tbl = $tbl1 . $tbl2 . $tbl3;
+
+$pdf->writeHTML($tbl, true, false, false, false, '');
+$pdf->AddPage();
+if ($clientesRetornados != FALSE) {
+
+    $tbl1 = ' 
+        <table >
+            <thead>
+                <tr >
+                    <th style="font-weight: bold;width: 940px"><strong>CLIENTES RETORNADOS</strong></th>
+                </tr>
+                <tr >
+                    <th style="text-align: center;font-weight: bold;width: 70px">Placa</th>
+                    <th style="font-weight: bold;width: 200px">Mar/Mod</th>
+                    <th style="text-align: center;font-weight: bold;width: 100px">Vigencia</th>
+                    <th style="font-weight: bold;width: 460px">Propietario</th>
+                    <th style="text-align: center;font-weight: bold;width: 60px">Inspector</th>
+                    <th style="text-align: center;font-weight: bold;width: 50px">AR</th>
+                </tr>
+            </thead>
+            <tbody>';
+
+    $tbl2 = '';
+
+
+
+    foreach ($clientesRetornados as $lis) {
+        $tbltmp = '
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px">' . $lis->numero_placa . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->marca . '</td>
+                    <td style="text-align: center;width: 100px;font-size:10px">' . $lis->fecha . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->propietario . '</td>
+                    <td style="width: 230px;font-size:10px">' . $lis->direccion . '</td>
+                    <td style="text-align: center;width: 60px;font-size:10px">' . $lis->usuario . '</td>
+                    <td style="text-align: center;width: 50px;font-size:10px">' . $lis->AR . '</td>
+                </tr>
+                <tr >
+                    <td style="text-align: center;width: 70px;font-size:10px"></td>
+                    <td style="text-align: center;width: 200px;font-size:10px"></td>
+                    <td style="text-align: center;width: 100px;"></td>
+                    <td style="width: 230px;font-size:10px">Telefono 1: ' . $lis->telefono1 . '</td>
+                    <td style="width: 130px;font-size:10px">Telefono 2: ' . $lis->telefono2 . '</td>
+                    <td style="width: 200px;font-size:10px">' . $lis->ciudad . '</td>
+                </tr>
+                ';
+
+        $tbl2 = $tbl2 . $tbltmp;
+    }
+} else {
+    $pdf->Write(0, 'NO HAY CLIENTES RETORNADOS EN ESTE INTERVALO DE FECHAS', '', 0, 'L', true, 0, false, false, 0);
+}
+
+$tbl3 = ' </tbody>
+        </table>';
+
+$tbl = $tbl1 . $tbl2 . $tbl3;
+
+$pdf->writeHTML($tbl, true, false, false, false, '');
+$pdf->Ln();
+
+
+$pdf->Output($titulo . '_' .$fechageneracion . ".pdf", 'I');
+
+

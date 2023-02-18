@@ -1,65 +1,209 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-+WJTu1aE+1s51f8+773ptBAQLv3d
+<?php $this->load->view('./header'); ?>
+
+<!-- START CONTENT -->
+<style>
+    .select-css {
+        display: block;
+        font-size: 16px;
+        font-family: 'Arial', sans-serif;
+        font-weight: 400;
+        color: #444;
+        line-height: 1.3;
+        padding: .4em 1.4em .3em .8em;
+        width: 450px;
+        max-width: 100%; 
+        box-sizing: border-box;
+        margin: 0;
+        border: 1px solid #aaa;
+        box-shadow: 0 1px 0 1px rgba(0,0,0,.03);
+        border-radius: .3em;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+        background-color: #fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+            linear-gradient(to bottom, #ffffff 0%,#f7f7f7 100%);
+        background-repeat: no-repeat, repeat;
+        background-position: right .7em top 50%, 0 0;
+        background-size: .65em auto, 100%;
+    }
+    .select-css::-ms-expand {
+        display: none;
+    }
+    .select-css:hover {
+        border-color: #888;
+    }
+    .select-css:focus {
+        border-color: #aaa;
+        box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        box-shadow: 0 0 0 3px -moz-mac-focusring;
+        color: #222; 
+        outline: none;
+    }
+    .select-css option {
+        font-weight:normal;
+    }
+</style>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <?php $this->load->view('./nav'); ?>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Informes Estadisticos</h2>
+                                </header>
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <form action="<?php echo base_url(); ?>index.php/oficina/reportes/estadisticos/Cestadisticos/getReporte" method="post">
+                                                <table class="table" >
+                                                    <thead>
+                                                        <tr>
+                                                            <th colspan="1">
+                                                                <div class="form-group row">
+                                                                    <label for="staticEmail" class="col-sm-4 col-form-label">Seleccione el reporte</label>
+                                                                    <div class="col-sm-7">
+                                                                        <select class="select-css" name='idreporte' id="idreporte">
+                                                                            <option disabled="disabled" selected="selected">Seleccione el reporte</option>
+                                                                            <option value="1">Lista de defectos</option>
+                                                                            <option value="2">Facturacion diaria</option>
+                                                                            <option value="3">Inspecciones por defecto</option>
+                                                                            <option value="4">Resumen diario de servicio</option>
+                                                                            <!--<option value="5">Mapa de servicios entre fechas</option>-->
+                                                                            <option value="6">Lista de defectos por inspector</option>
+                                                                            <option value="7">Inspector/categoria descriminada</option>
+                                                                            <option value="8">Lista de provisiones de servicios</option>
+                                                                            <option value="9">Aprobados rechazados por año de matricula</option>
+                                                                            <option value="10">Clientes adquiridos,perdidos y retornados</option>
+                                                                            <option value="11">Informe cambio contraseña</option>
+                                                                        </select>
+                                                                    </div>
+                                                                </div>
+                                                            </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody >
+                                                        <tr>
+                                                            <td>
+                                                                <div class="row" id="databody" style="display: none">
+                                                                    <div class="form-group mx-sm-4" style="margin-top: 10px; display: none" id="fechaperdidos">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha perdidos<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechaperdidos" name="fechaperdidos" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="form-group mx-sm-4" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha inicial<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="form-group mx-sm-4" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha final<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechafinal" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="form-group mx-sm-4" >
+                                                                        <label style="font-weight: bold; color: black"></label>
+                                                                        <input type="submit" formtarget="_blank" name="consultar" id="btn-generar-confpassword" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px"  value="Generar">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="form-group mx-sm-10" id="btn-genera-report" style="display: none">
+                                                                    <label style="font-weight: bold; color: black"></label>
+                                                                    <input type="submit" formtarget="_blank" name="consultar" id="btn-generar" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 100%"  value="Generar">
+                                                                </div>
+                                                                <div class="form-group row" id="divpassword" style="display: none">
+                                                                    <label for="staticEmail" class="col-sm-4 col-form-label" style="font-weight: bold; color: grey">Ingrese la clave</label>
+                                                                    <input type="password" class="mx-sm-4" id="password" onkeyup="validarcontra()">
+                                                                    <div style="color: #E31F24" id="divconfcontra"></div>
+                                                                </div>
+
+                                                                <div>El tiempo de generación de estos informes puede variar, según el intervalo de tiempo y la cantidad de datos (en algunos casos puede demoras hasta 5 minutos).</div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+<?php $this->load->view('./footer'); ?>
+<script type="text/javascript">
+    $('#idreporte').change(function () {
+        var idreporte = $('#idreporte option:selected').attr('value');
+        if (idreporte == 1) {
+            habilitarComponentes();
+        } else if (idreporte == 2) {
+            deshabilitarComponentes();
+            campopassword();
+        } else if (idreporte == 10) {
+            fechaperdidos();
+        } else {
+            deshabilitarComponentes();
+        }
+
+    });
+    function habilitarComponentes() {
+        document.getElementById("databody").style.display = 'none';
+        document.getElementById("btn-genera-report").style.display = '';
+        document.getElementById("divpassword").style.display = 'none';
+        document.getElementById("fechaperdidos").style.display = 'none';
+        $('#divconfcontra').html('');
+    }
+    function deshabilitarComponentes() {
+        document.getElementById("databody").style.display = '';
+        document.getElementById("btn-genera-report").style.display = 'none';
+        document.getElementById("divpassword").style.display = 'none';
+        document.getElementById("fechaperdidos").style.display = 'none';
+        document.getElementById("btn-generar-confpassword").disabled = false;
+        $('#divconfcontra').html('');
+
+    }
+    function campopassword() {
+        document.getElementById("divpassword").style.display = '';
+        document.getElementById("btn-generar-confpassword").disabled = true;
+    }
+    function validarcontra() {
+        var contralocal = '**tecmmas**123';
+        var inputcontra = $('#password').val()
+        if (contralocal === inputcontra) {
+            $('#divconfcontra').html('La contraseña es correcta');
+            document.getElementById("btn-generar-confpassword").disabled = false;
+        } else {
+            $('#divconfcontra').html('La contraseña es incorrecta');
+            document.getElementById("btn-generar-confpassword").disabled = true;
+        }
+    }
+    function fechaperdidos() {
+        document.getElementById("fechaperdidos").style.display = '';
+        document.getElementById("divpassword").style.display = 'none';
+        document.getElementById("btn-generar-confpassword").disabled = false;
+    }
+</script>
+
+

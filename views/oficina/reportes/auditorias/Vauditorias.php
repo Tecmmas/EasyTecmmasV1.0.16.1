@@ -1,120 +1,670 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('./header'); ?>
+
+<!-- START CONTENT -->
+<style>
+    .select-css {
+        display: block;
+        font-size: 16px;
+        font-family: 'Arial', sans-serif;
+        /*font-weight: 400;*/
+        color: #444;
+        line-height: 1.3;
+        padding: .4em 1.4em .3em .8em;
+        width: 190px;
+        height: 35px;
+        max-width: 100%; 
+        box-sizing: border-box;
+        margin: 0;
+        border: 1px solid #aaa;
+        margin-top: 10px;
+
+        /*margin-left: 188px;*/
+        box-shadow: 0 1px 0 1px rgba(0,0,0,.03);
+        border-radius: .3em;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+        background-color: #fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+            linear-gradient(to bottom, #ffffff 0%,#f7f7f7 100%);
+        background-repeat: no-repeat, repeat;
+        background-position: right .7em top 50%, 0 0;
+        background-size: .65em auto, 100%;
+    }
+    .select-css::-ms-expand {
+        display: none;
+    }
+    .select-css:hover {
+        border-color: #888;
+    }
+    .select-css:focus {
+        border-color: #aaa;
+        box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        box-shadow: 0 0 0 3px -moz-mac-focusring;
+        color: #222; 
+        outline: none;
+    }
+    .select-css option {
+        font-weight:normal;
+    }
+
+    .table-wrapper {
+        /*width: 100%;*/
+        height: 500px;   
+        overflow: auto;
+        white-space: nowrap;
+
+    }
+</style>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Auditorias de pruebas</h2>
+                                </header>
+
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+
+                                            <header class="panel_header">
+                                                <div style="color: red;">
+                                                    <input type="submit" name="consultar" onclick="limpiarform()"  style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke;"  value="Limpiar campos" >
+                                                </div>
+                                            </header>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <form id="form">
+                                                        <table class="table">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td>
+                                                                        <label style="font-weight: bold; color: grey; align-content: center;margin-top: 10px" for="nombres">Placa</label>
+                                                                        <div  style="margin-top: 5px;">
+                                                                            <input type="text" class="input" id="placa" style="height: 31px; width: 190px; text-transform: uppercase">
+                                                                        </div>
+                                                                    </td>
+                                                                    <td>
+                                                                        <div  style="margin-top: 10px;">
+                                                                            <label style="font-weight: bold; color: grey; align-content: center" for="nombres">Equipo
+                                                                                <select class="select-css" id="idmaquina" name="sel-analizador">
+                                                                                    <option disabled="disabled" selected="selected">Seleccionar</option>
+                                                                                    <?php foreach ($maquina as $item): ?>
+                                                                                        <?php if (($item->prueba == 'suspension' && $item->activo == 1) || ($item->prueba == 'frenometro' && $item->activo == 1) || ($item->prueba == 'alineador' && $item->activo == 1) || ($item->prueba == 'taximetro' && $item->activo == 1)): ?>
+                                                                                            <option data="<?= $item->conf_idtipo_prueba ?>" value="<?= $item->idconf_maquina ?>"><?= $item->nombre . '-' . $item->marca . '-' . $item->serie_maquina . '-' . $item->serie_banco ?></option>
+                                                                                        <?php endif; ?>
+                                                                                    <?php endforeach; ?>
+                                                                                </select>
+                                                                            </label>
+                                                                            <div id="valid-maquina" style="color: red"></div>
+                                                                        </div>
+                                                                    </td>
+                                                                    <td>
+                                                                        <div  style="margin-top: 10px">
+                                                                            <label style="font-weight: bold; color: grey; align-content: center " for="nombres">Fecha inicial
+                                                                                <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicialc" data-format="yyyy-mm-dd " autocomplete="off" style="margin-top: 10px">
+                                                                            </label>
+                                                                        </div>
+                                                                    </td>
+
+                                                                    <td>
+                                                                        <div  style="margin-top: 40px">
+                                                                            <label style="font-weight: bold; color: black; align-content: center"></label>
+                                                                            <input type="submit" name="consultar" id="btn-consultar"  style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke;"  value="Generar" >
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        <div id="infores" style="color: red"></div>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </section>
+                                        <section class="box" style="display: none"  id="sec-suspension">
+                                            <div class="content-body">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <div class="table-wrapper">
+                                                            <div class="form-group row">
+                                                                <input type="submit" name="consultar" id="btn-descargar"   style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke; margin-left: 20px" value="Descargar">
+                                                            </div>
+                                                            <table class="table" id="table-suspension" >
+                                                                <thead id="head-suspension">
+                                                                </thead>
+                                                                <tbody id="body-suspension">
+
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section class="box" style="display: none"  id="sec-grafica">
+                                            <div class="content-body">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <br>
+                                                        <header class="panel_header">
+                                                            <div style="color: black; text-align: center; font-size: 18px">
+                                                                <b>GRAFICA PRUEBA</b>
+                                                            </div>
+                                                        </header>
+                                                        <div class="col-xs-12">
+                                                            <section class="box ">
+                                                                <div id="canva"></div>
+                                                            </section>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <section class="box" style="display: none"  id="sec-table-taximetro">
+                                            <div class="content-body">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <div class="table-wrapper">
+                                                            <div class="form-group row">
+                                                                <input type="submit" name="consultar" id="btn-descargar"   style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke; margin-left: 20px" value="Descargar">
+                                                            </div>
+                                                            <table class="table" id="table-taximetro" >
+                                                                <thead id="head-taximetro">
+                                                                </thead>
+                                                                <tbody id="body-taximetro">
+
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+
+                                    </div>
+
+
+
+                                    <!-- MAIN CONTENT AREA ENDS -->
+                            </section>
+                            </section>
+                            <!-- END CONTENT -->
+
+
+
+                            <?php $this->load->view('./footer'); ?>
+                            <script type="text/javascript">
+                                var distancia = [];
+                                var tiempo = [];
+                                function limpiarform() {
+                                    $("#form")[0].reset();
+                                    document.getElementById("sec-table-taximetro").style.display = "none";
+                                }
+                                $('#btn-consultar').click(function (ev) {
+                                    document.getElementById("sec-table-taximetro").style.display = "none";
+                                    $('#infores').html('');
+                                    ev.preventDefault();
+                                    var placa = $("#placa").val();
+                                    var idmaquina = $('#idmaquina option:selected').attr('value');
+                                    var tipoprueba = $('#idmaquina option:selected').attr('data');
+                                    var fecha = $("#fechainicial").val();
+                                    var mesaje = "";
+                                    var valid = true;
+                                    if (tipoprueba == 6) {
+                                        if (placa == "" || placa == null) {
+                                            mesaje = mesaje + "La placa es obligatoria.<br>";
+                                            valid = false;
+                                        }
+                                    }
+                                    if (idmaquina == null || idmaquina == "") {
+                                        mesaje = mesaje + "Seleccione la maquina. <br>";
+                                        valid = false;
+                                    }
+                                    if (!valid) {
+                                        Swal.fire({
+                                            icon: 'error',
+                                            title: 'Campos obligatorios.',
+                                            html: mesaje,
+//                                            footer: '<a href="">Why do I have this issue?</a>'
+                                        })
+                                    } else {
+                                        localStorage.setItem('tipoPruebaGrafica', tipoprueba);
+                                        $("#valid-maquina").text('')
+                                        $.ajax({
+                                            url: '<?php echo base_url(); ?>index.php/oficina/reportes/auditorias/Cauditorias/getDatos',
+                                            type: 'post',
+                                            mimeType: 'json',
+                                            data: {placa: placa,
+                                                idmaquina: idmaquina,
+                                                fecha: fecha,
+                                                tipoprueba: tipoprueba},
+                                            success: function (data) {
+                                                document.getElementById('sec-suspension').style.display = "";
+                                                $('#body-suspension').html('');
+                                                $('html, body').animate({
+                                                    scrollTop: $("#sec-suspension").offset().top
+                                                }, 900);
+                                                switch (tipoprueba) {
+                                                    case '6':
+                                                        var html = '<tr>\n\
+                                                    <th style="font-size: 13px; text-align: center;">Placa</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Maquina</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Fecha</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Tiempo</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Distancia</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Opciones</th> \n\
+                                                                    </tr>';
+                                                        $('#head-suspension').html(html);
+
+
+                                                        $.each(data, function (i, data) {
+                                                            distancia = data.vector_distancia.split("|");
+                                                            tiempo = data.vector_tiempo.split("|");
+                                                            var body = "<tr>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.placa + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.idmaquina + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.fecha + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.error_tiempo_nuevo + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.error_distancia_nuevo + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'><button onclick=(getTaximetro()) style='background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke'>Vectores</button></td>";
+
+
+
+                                                            body += "</tr>";
+                                                            $("#table-suspension tbody").append(body);
+                                                        });
+                                                        break;
+                                                    case '7':
+                                                        var html = '<tr>\n\
+                                                    <th style="font-size: 13px; text-align: center;">Placa</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Maquina</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Fecha</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Eje</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Llanta</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Valor</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Opciones</th> \n\
+                                                                    </tr>';
+                                                        $('#head-suspension').html(html);
+                                                        $.each(data, function (i, data) {
+                                                            var body = "<tr>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.placa + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.idmaquina + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.fecha + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.eje + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.llanta + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.valor + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'><button onclick=(getVector(" + data.id + ")) style='background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke'>Generar grafica</button></td>";
+                                                            body += "</tr>";
+                                                            $("#table-suspension tbody").append(body);
+                                                        });
+                                                        break;
+                                                    case '9':
+                                                        var html = '<tr>\n\
+                                                    <th style="font-size: 13px; text-align: center;">Placa</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Maquina</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Fecha</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Llanta</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Peso</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Valor minimo</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Adherencia</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Estado</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Opciones</th> \n\
+                                                                    </tr>';
+                                                        $('#head-suspension').html(html);
+                                                        $.each(data, function (i, data) {
+
+                                                            if (data.peso < 0 || data.valor_minimo < 0 || data.adherencia < 0) {
+                                                                var style = "style='background-color: #FADBD8'"
+                                                                var estado = "Prueba mal realizada"
+                                                            } else {
+                                                                var style = "style='background-color: whitesmoke'"
+                                                                var estado = "Finalizada"
+                                                            }
+                                                            var body = "<tr " + style + ">";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.placa + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.idmaquina + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.fecha + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.llanta + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.peso + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.valor_minimo + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.adherencia + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + estado + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'><button onclick=(getVector(" + data.id + ")) style='background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke'>Generar grafica</button></td>";
+                                                            body += "</tr>";
+                                                            $("#table-suspension tbody").append(body);
+                                                        });
+                                                        break;
+                                                    case '10':
+                                                        var html = '<tr>\n\
+                                                                    <th style="font-size: 13px; text-align: center;">Placa</th> \n\
+                                                                    <th style="font-size: 13px; text-align: center;">Maquina</th> \n\
+                                                                    <th style="font-size: 13px; text-align: center;">Fecha</th> \n\
+                                                                    <th style="font-size: 13px; text-align: center;">Eje</th> \n\
+                                                                    <th style="font-size: 13px; text-align: center;">Valor</th> \n\
+                                                                    <th style="font-size: 13px; text-align: center;">Opciones</th> \n\
+                                                                </tr>';
+                                                        $('#head-suspension').html(html);
+                                                        $.each(data, function (i, data) {
+                                                            var body = "<tr>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.placa + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.idmaquina + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.fecha + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.eje + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'>" + data.valor + "</td>";
+                                                            body += "<td style='font-size: 12px; text-align: center;'><button onclick=(getVector(" + data.id + ")) style='background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px; color: whitesmoke'>Generar grafica</button></td>";
+                                                            body += "</tr>";
+                                                            $("#table-suspension tbody").append(body);
+                                                        });
+
+                                                        break;
+
+                                                    default:
+
+                                                        break;
+                                                }
+
+                                            },
+                                            error: function (xhr) {
+                                                $('#infores').html('Error:' + xhr.responseText);
+                                            }
+
+                                        });
+                                    }
+
+                                });
+                                function getVector(id) {
+                                    var tipoprueba = localStorage.getItem('tipoPruebaGrafica');
+                                    $.ajax({
+                                        url: '<?php echo base_url(); ?>index.php/oficina/reportes/auditorias/Cauditorias/getVector',
+                                        type: 'post',
+                                        mimeType: 'json',
+                                        data: {id: id,
+                                            tipoprueba: tipoprueba},
+                                        success: function (data) {
+                                            $('#myChart').remove();
+                                            document.getElementById('sec-grafica').style.display = "";
+                                            $('html, body').animate({
+                                                scrollTop: $("#sec-grafica").offset().top
+                                            }, 900);
+                                            switch (tipoprueba) {
+                                                case '7':
+                                                    GraficaFrenos(data[0].vector, data[0].valor)
+                                                    break;
+                                                case '9':
+                                                    GraficaSuspension(data[0].vector, data[0].valor_minimo, data[0].peso)
+                                                    break;
+                                                case '10':
+                                                    GraficaAlineacion(data[0].vector, data[0].valor)
+                                                    break;
+
+                                                default:
+
+                                                    break;
+                                            }
+
+                                        },
+                                        error: function (xhr) {
+                                            $('#infores').html('Error:' + xhr.responseText);
+                                        }
+
+                                    })
+                                }
+//
+                                function GraficaSuspension(datos, minimo, peso) {
+                                    $('#canva').html('<canvas id="myChart" height="200" width="600"></canvas>');
+                                    const labels = [];
+                                    var da = JSON.parse(datos);
+                                    var linePeso = [];
+                                    var lineMinimo = [];
+                                    $.each(da, function (i, datos) {
+                                        labels.push(i);
+                                        linePeso.push(peso);
+                                        lineMinimo.push(minimo);
+                                    });
+                                    const data = {
+                                        labels: labels,
+                                        datasets: [
+                                            {
+                                                label: 'Datos',
+                                                data: [...da],
+                                                borderColor: 'rgb(255, 99, 132)',
+                                                backgroundColor: 'rgb(255, 99, 132)',
+                                            }
+                                            ,
+                                            {
+                                                label: 'Peso',
+                                                data: [...linePeso],
+                                                borderColor: 'black',
+                                                backgroundColor: 'black',
+                                            }
+                                            ,
+                                            {
+                                                label: 'Minimo',
+                                                data: [...lineMinimo],
+                                                borderColor: 'red',
+                                                backgroundColor: 'red',
+                                            }
+                                        ]
+                                    };
+                                    const config = {
+                                        type: 'line',
+                                        data: data,
+                                        options: {
+                                            responsive: true,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Grafica de prueba'
+                                                }
+                                            },
+                                            scales: {
+                                                y: {
+                                                    // the data minimum used for determining the ticks is Math.min(dataMin, suggestedMin)
+                                                    suggestedMin: 0,
+                                                    // the data maximum used for determining the ticks is Math.max(dataMax, suggestedMax)
+                                                    suggestedMax: Math.max(...datos),
+                                                }
+                                            }
+                                        },
+                                    };
+
+                                    const myChart = new Chart(
+                                            document.getElementById('myChart'),
+                                            config
+                                            );
+
+
+                                }
+
+                                function GraficaFrenos(datos, valor) {
+                                    $('#canva').html('<canvas id="myChart" height="200" width="600"></canvas>');
+                                    const labels = [];
+                                    var da = JSON.parse(datos);
+                                    var arrValor = [];
+//                                    var lineMinimo = [];
+                                    $.each(da, function (i, datos) {
+                                        labels.push(i);
+                                        arrValor.push(valor);
+//                                        lineMinimo.push(minimo);
+                                    });
+                                    const data = {
+                                        labels: labels,
+                                        datasets: [
+                                            {
+                                                label: 'Datos',
+                                                data: [...da],
+                                                borderColor: 'rgb(255, 99, 132)',
+                                                backgroundColor: 'rgb(255, 99, 132)',
+                                            }
+                                            ,
+                                            {
+                                                label: 'Valor',
+                                                data: [...arrValor],
+                                                borderColor: 'black',
+                                                backgroundColor: 'black',
+                                            }
+
+                                        ]
+                                    };
+                                    const config = {
+                                        type: 'line',
+                                        data: data,
+                                        options: {
+                                            responsive: true,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Grafica de prueba'
+                                                }
+                                            },
+                                            scales: {
+                                                y: {
+                                                    // the data minimum used for determining the ticks is Math.min(dataMin, suggestedMin)
+                                                    suggestedMin: Math.min(...datos),
+                                                    // the data maximum used for determining the ticks is Math.max(dataMax, suggestedMax)
+                                                    suggestedMax: Math.max(...datos),
+                                                }
+                                            }
+                                        },
+                                    };
+
+                                    const myChart = new Chart(
+                                            document.getElementById('myChart'),
+                                            config
+                                            );
+                                }
+
+                                function GraficaAlineacion(datos, valor) {
+                                    console.log(datos);
+                                    $('#canva').html('<canvas id="myChart" height="200" width="600"></canvas>');
+                                    const labels = [];
+                                    var da = JSON.parse(datos);
+                                    var arrValor = [];
+//                                    var lineMinimo = [];
+                                    $.each(da, function (i, datos) {
+                                        labels.push(i);
+                                        arrValor.push(valor);
+//                                        lineMinimo.push(minimo);
+                                    });
+                                    const data = {
+                                        labels: labels,
+                                        datasets: [
+                                            {
+                                                label: 'Datos',
+                                                data: [...da],
+                                                borderColor: 'rgb(255, 99, 132)',
+                                                backgroundColor: 'rgb(255, 99, 132)',
+                                            }
+                                            ,
+                                            {
+                                                label: 'Valor',
+                                                data: [...arrValor],
+                                                borderColor: 'black',
+                                                backgroundColor: 'black',
+                                            }
+
+                                        ]
+                                    };
+                                    const config = {
+                                        type: 'line',
+                                        data: data,
+                                        options: {
+                                            responsive: true,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Grafica de prueba'
+                                                }
+                                            },
+                                            scales: {
+                                                y: {
+                                                    // the data minimum used for determining the ticks is Math.min(dataMin, suggestedMin)
+                                                    suggestedMin: Math.min(...datos),
+                                                    // the data maximum used for determining the ticks is Math.max(dataMax, suggestedMax)
+                                                    suggestedMax: Math.max(...datos),
+                                                }
+                                            }
+                                        },
+                                    };
+
+                                    const myChart = new Chart(
+                                            document.getElementById('myChart'),
+                                            config
+                                            );
+                                }
+                                function getTaximetro() {
+                                    document.getElementById("sec-table-taximetro").style.display = "";
+
+                                    console.log(tiempo)
+                                    console.log(distancia)
+                                    var html = '<tr>\n\
+                                                    <th style="font-size: 13px; text-align: center;">Caida</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Distancia</th> \n\
+                                                    <th style="font-size: 13px; text-align: center;">Tiempo</th> \n\
+                                                </tr>';
+                                    $('#head-taximetro').html(html);
+                                    if (distancia.length > tiempo.length) {
+                                        $.each(distancia, function (i, distancia) {
+
+                                            var body = "<tr>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + i + "</td>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + distancia + "</td>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + tiempo[i] + "</td>";
+                                            body += "</tr>";
+                                            $("#table-taximetro tbody").append(body);
+
+                                        });
+                                    } else {
+                                        $.each(tiempo, function (i, tiempo) {
+                                            var body = "<tr>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + i + "</td>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + distancia[i] + "</td>";
+                                            body += "<td style='font-size: 12px; text-align: center;'>" + tiempo + "</td>";
+                                            body += "</tr>";
+                                            $("#table-taximetro tbody").append(body);
+
+                                        });
+                                    }
+
+
+                                    $('html, body').animate({
+                                        scrollTop: $("#sec-table-taximetro").offset().top
+                                    }, 900);
+                                }
+
+
+                                $("#btn-descargar").click(function () {
+                                    showSuccess('Descargando el informe, por favor espere.');
+                                    $('#table-suspension').table2csv({
+                                        filename: 'INFORME AUDITORIA.csv',
+                                        separator: ';',
+                                        newline: '\n',
+                                        quoteFields: true,
+                                        excludeColumns: '',
+                                        excludeRows: '',
+                                        trimContent: true
+                                    });
+                                }
+                                );
+
+
+
+                            </script>
+
+
+

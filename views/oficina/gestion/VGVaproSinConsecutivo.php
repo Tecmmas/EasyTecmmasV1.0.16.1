@@ -1,127 +1,418 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html class=" ">
+    <head>
+
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>VEHICULO APROBADO</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <body class="login_page" style="background: white">
+
+        <div class="col-xl-12">
+            <section class="box ">
+                <div class="content-body"  style="background: green">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Vehiculo aprobado sin consecutivo</h2>
+                                </header>
+                                <div class="content-body" >
+                                    <input id="idhojapruebas" value="<?php echo $dato; ?>" type="hidden" />
+                                    <br>
+                                    <table class="table table-bordered" style="text-align: center">
+                                        <thead>
+                                            <tr>
+                                                <th >Id control</th>
+                                                <th >Placa</th>
+                                                <th>Ocasión</th>
+                                                <th>FUR</th>
+                                                <th>Tamaño hoja</th>
+                                                <th>Consecutivo RUNT</th>
+                                                <th>Enviar a SICOV</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <?php
+                                                    echo $idhojapruebas;
+                                                    ?>                
+                                                </td>
+                                                <td>
+                                                    <?php
+                                                    echo $vehiculo->placa;
+                                                    ?>                
+                                                </td>
+                                                <td>
+                                                    <?php
+                                                    echo $ocacion;
+                                                    ?>                
+                                                </td>
+
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/fur/CFUR" method="post" style="width: 100px;text-align: center">
+                                            <td >
+                                                <button  name="dato" class="btn btn-accent btn-block" value ="<?php echo $dato; ?>" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 14px;background-color: #393185">📄 Ver</button>
+                                            </td>
+                                            <td >
+                                                <select name="tamano" class="form-control input-lg m-bot15">
+                                                    <option value="oficio" selected>Oficio</option>
+                                                    <option value="carta">Carta</option>
+                                                </select>
+                                            </td>
+                                        </form>
+                                        <td>
+                                            <input id="consecutivoRunt"  type="number" class="form-control" onchange="guardarConsecutivo(this)">
+                                            <label id="mensaje"
+                                                   style="background: white;
+                                                   width: 100%;
+                                                   text-align: center;
+                                                   font-weight: bold;
+                                                   font-size: 15px;display: none;position: absolute;
+                                                   padding: 5px;color: salmon">Este campo es obligatorio</label>
+                                        </td>
+                                        <td>
+                                            <input type="button"  class="btn btn-success btn-block" id="btnenviarsicov"  style="border-radius: 40px 40px 40px 40px;font-size: 20px;"  value="✉️ Enviar" data-toggle='modal' data-target='#confirmacionEnvio'/>
+                                        </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                    <div style="text-align: center">
+                                        <input class="btn btn-warning btn-block" id="btnenviarfirmado" style="border-radius: 40px 40px 40px 40px;font-size: 20px;width: 300px" value="🚫 Anular este envío" data-toggle='modal' data-target='#confirmacionAnulacion'/><br>
+                                    </div>
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/CGestion" method="post">
+                                        <input name="button" class="btn btn-accent btn-block" style="width: 100px;background: #393185" type="submit"  value="Atras" />   
+                                    </form>
+                                </div>
+                                <img src="<?php echo base_url(); ?>assets/images/logo.png" />
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="modal" id="confirmacionEnvio" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >Confirmación de envío</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <label id="mensajeSicov"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: black">¿ESTÁ SEGURO(A) DE REALIZAR EL ENVÍO A SICOV</label>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">NO</button>
+                        <button id="btnAsignar"  class="btn btn-success" type="button" onclick="enviarASICOV()">SI</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="confirmacionAnulacion" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >Confirmación de anulación</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <label id="mensajeSicov"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: black"><strong style="color: salmon">ADVERTENCIA</strong> <br><br>Esta acción enviará la placa a la sección de APROBADOS SIN FIRMAR, se recomienda revisar si este FUR a sido firmado en el SICOV antes de confirmar esta acción. <br><br> ¿DESEA ENVIAR LA PLACA A "APROBADOS SIN FIRMAR"?</label>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">NO</button>
+                        <button id="btnAsignar" class="btn btn-success" type="button" onclick="enviarAnulacion()">SI</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+        <!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+        <!-- CORE JS FRAMEWORK - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+        <script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+        <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+        <!-- CORE JS FRAMEWORK - END --> 
+
+
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+        <script src="<?php echo base_url(); ?>assets/plugins/inputmask/min/jquery.inputmask.bundle.min.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/autonumeric/autoNumeric-min.js" type="text/javascript"></script>
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE TEMPLATE JS - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>application/libraries/sesion.js"  type="text/javascript"></script>
+        <!-- END CORE TEMPLATE JS - END --> 
+        <script type="text/javascript">
+                            var placa = "<?php
+                                                    echo $placa;
+                                                    ?>";
+                            var ocasion = "<?php
+                                                    echo $ocacion;
+                                                    ?>";
+                            var ipCAR = "<?php
+                                                    echo $ipCAR;
+                                                    ?>";
+
+                            $(document).ready(function () {
+                                var data = {
+                                    desdeVisor: 'car',
+                                    dato: $('#idhojapruebas').val(),
+                                    IdUsuario: '1'
+                                };
+//                                                            console.log(data);
+                                $.ajax({
+                                    url: '<?php echo base_url(); ?>index.php/oficina/fur/CFUR',
+                                    type: 'post',
+                                    data: data,
+                                    mimeType: 'json',
+                                    success: function (rta) {
+                                        console.log(rta);
+                                        for (var c = 0; c < rta.length; c++) {
+//                                            if (rta[c].basic) {
+//                                                envioBasicCAr(rta[c].basic, rta[c].idprueba)
+//                                            }
+                                            if ((rta[c].cadena !== "" || rta[c].cadena !== null) && (rta[c].idprueba !== "" || rta[c].idprueba !== null)) {
+                                                inforCAr(rta[c].cadena, rta[c].idprueba);
+                                            }
+                                        }
+                                    },
+                                    error(rta) {
+                                        console.log(rta);
+                                    }
+                                });
+                            });
+
+//                            function envioBasicCAr(basic, idprueba) {
+//                                $.ajax({
+//                                    type: "POST",
+//                                    url: "http://3.138.158.109:8480/cdapp/rest/basico/registro",
+//                                    headers: {
+//                                        "Authorization": "b56c19aa217e36a6c182be3ce6fab1851c32a6860f74a312f2cf6d230f6c1573",
+//                                        "Content-Type": "application/json"
+//                                    },
+//
+//                                    data: basic,
+//                                    success: function (rta) {
+//                                        console.log(rta)
+//                                        if (rta.resp == "OK") {
+//                                            var estado = 1;
+//                                            var tipo = 'Envio basic exitoso.';
+//                                            guardarTabla(estado, tipo, idprueba);
+//                                        } else {
+//                                            var estado = 0;
+//                                            var tipo = 'Envio basic fallido.';
+//                                            guardarTabla(estado, tipo, idprueba);
+//                                        }
+//                                    },
+//                                    errors: function (rta) {
+//                                        console.log(rta);
+//                                    }
+//                                });
+//                            }
+
+                            function inforCAr(rta, idprueba) {
+                                $.ajax({
+                                    type: "POST",
+                                    url: "http://" + ipCAR + "/cdapp/rest/final/medicionfinal",
+                                    headers: {
+                                        "Authorization": "b56c19aa217e36a6c182be3ce6fab1851c32a6860f74a312f2cf6d230f6c1573",
+                                        "Content-Type": "application/json"
+                                    },
+
+                                    data: rta,
+                                    success: function (rta) {
+                                        console.log(rta)
+                                        if (rta.resp == "OK") {
+                                            var estado = 1;
+                                            var tipo = 'Envio car exitoso.';
+                                            guardarTabla(estado, tipo, idprueba);
+                                        } else {
+                                            var estado = 0;
+                                            var tipo = 'Envio car fallido.';
+                                            guardarTabla(estado, tipo, idprueba);
+                                        }
+                                    },
+                                    errors: function (rta) {
+                                        console.log(rta);
+                                    }
+                                });
+                            }
+
+                            function guardarTabla(estado, tipo, idprueba) {
+                                $.ajax({
+                                    type: "POST",
+                                    url: "<?php echo base_url(); ?>index.php/oficina/fur/CFUR/saveControl",
+                                    data: {estado: estado,
+                                        tipo: tipo,
+                                        idprueba: idprueba},
+                                    success: function (rta) {
+                                        console.log(rta);
+                                    },
+                                    errors: function (rta) {
+                                        console.log(rta);
+                                    }
+                                });
+                            }
+                            var guardarConsecutivo = function (e) {
+
+                                var idht = $('#idhojapruebas').val().split('-');
+                                var data = {
+                                    idhojapruebas: idht[0],
+                                    consecutivorunt: e.value,
+                                    reinspeccion: idht[1]
+                                };
+                                $.ajax({
+                                    url: '<?php echo base_url(); ?>index.php/oficina/gestion/CGPrueba/guardarConsecutivoAprobado',
+                                    type: 'post',
+                                    data: data,
+                                    async: false,
+                                    success: function (rta) {
+//                                                                    console.log(rta);
+                                    }
+                                });
+                            };
+
+                            var enviarAnulacion = function () {
+                                var idht = $('#idhojapruebas').val().split('-');
+                                var data = {
+                                    idhojapruebas: $('#idhojapruebas').val(),
+                                    placa: placa,
+                                    ocasion: ocasion,
+                                    reinspeccion: idht[1]
+                                };
+                                $.ajax({
+                                    url: '<?php echo base_url(); ?>index.php/oficina/gestion/CGPrueba/CGVaproEnvioAnulacion',
+                                    type: 'post',
+                                    data: data,
+                                    async: false,
+                                    success: function () {
+                                        window.location.replace("<?php echo base_url(); ?>index.php/oficina/CGestion");
+                                    }
+                                });
+                            };
+
+                            var enviarASICOV = function () {
+                                if ($('#consecutivoRunt').val() === '') {
+                                    var mensaje = document.getElementById('mensaje');
+                                    mensaje.style.display = 'block';
+                                    mensaje.style.position = 'relative';
+                                    $("#confirmacionEnvio").modal('hide');
+                                } else {
+                                    var segundos = 2;
+                                    var proceso = setInterval(function () {
+                                        document.getElementById('btnAsignar').disabled = 'true';
+                                        document.getElementById('mensajeSicov').style.color = 'black';
+                                        $('#mensajeSicov').text('Por favor espere. Este proceso puede tomar hasta un minuto');
+                                        if (segundos === 0) {
+                                            clearInterval(proceso);
+                                            var data = {
+                                                envioSicov: 'true',
+                                                dato: $('#idhojapruebas').val(),
+                                                envio: '2',
+                                                IdUsuario: '1',
+                                                sicovModoAlternativo: localStorage.getItem("sicovModoAlternativo")
+                                            };
+                                            $.ajax({
+                                                url: '<?php echo base_url(); ?>index.php/oficina/fur/CFUR',
+                                                type: 'post',
+                                                data: data,
+                                                async: false,
+                                                success: function (rta) {
+                                                    var dat = rta.split('|');
+                                                    if (dat[1] === '0000' || dat[1] === '1') {
+                                                        var segundos = 3;
+                                                        var proceso = setInterval(function () {
+                                                            $('#mensajeSicov').text("Mensaje de SICOV: " + dat[0] + ". Detalles en el visor.");
+                                                            document.getElementById('mensajeSicov').style.color = 'green';
+                                                            if (segundos === 0) {
+                                                                clearInterval(proceso);
+                                                                window.location.replace("<?php echo base_url(); ?>index.php/oficina/CGestion");
+                                                            }
+                                                            segundos--;
+                                                        }, 1000);
+                                                    } else {
+                                                        var segundos = 3;
+                                                        $('#mensajeSicov').text("Mensaje de SICOV: " + dat[0] + ". Detalles en el visor.");
+                                                        document.getElementById('mensajeSicov').style.color = 'salmon';
+                                                        var proceso = setInterval(function () {
+                                                            if (segundos === 0) {
+                                                                clearInterval(proceso);
+                                                                window.location.replace("<?php echo base_url(); ?>index.php/oficina/CGestion");
+                                                            }
+                                                            segundos--;
+                                                        }, 1000);
+                                                    }
+                                                }
+                                            });
+                                        }
+                                        segundos--;
+                                    }, 500);
+                                }
+                            };
+        </script>
+
+
+    </body>
+</html>
+
+
+

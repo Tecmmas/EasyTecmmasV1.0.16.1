@@ -1,38 +1,104 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('./header'); ?>
+
+<!-- START CONTENT -->
+
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <style>
+                                    .menu-barra:hover{
+                                        background-color: #b2e2f2;
+                                        font-size: 17px;
+                                        color: whitesmoke;
+                                        font-family: sans-serif;
+                                        border-radius: 10px 10px 10px 10px;
+                                    }
+                                    #a-color{
+                                        color: black;
+                                    }
+                                </style>
+                                <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #fdf9c4">
+                                    <div class="collapse navbar-collapse" id="navbarText">
+                                        <ul class="navbar-nav mr-auto">
+                                            <li class="nav-item">
+                                                <a class="nav-link menu-barra" id="a-color" href="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup"><i>Backup</i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link menu-barra" id="a-color" href="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/viewreportbackup"><i>Reporte</i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Reporte backup</h2>
+                                </header>
+                                <br>
+                                <br>
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <form action="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/reporbackup" method="post">
+                                                <table class="table" >
+                                                    <thead>
+                                                        <tr>
+                                                            <th colspan="2">Generar</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="row">
+                                                                    <div class="form-group mx-sm-5" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha inicial<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="form-group mx-sm-5" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha final<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechafinal" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="form-group mx-sm-4" >
+                                                                        <label style="font-weight: bold; color: black"></label>
+                                                                        <input type="submit" name="consultar" id="btn-generar-carder" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px"  value="Generar">
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+<?php $this->load->view('./footer'); ?>
+
+

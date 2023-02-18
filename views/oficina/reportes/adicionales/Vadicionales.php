@@ -1,100 +1,375 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-iZivERO=
+<?php $this->load->view('./header'); ?>
+
+
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+
+            <section class="box ">
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+
+                                    <h4>Modulos adicionales</h4>
+
+                                    <div class="panel-group collapsed active" id="accordion-4" role="tablist" aria-multiselectable="true">
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading" role="tab" id="headingOne4">
+                                                <h4 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion-4" href="#collapseOne-4" aria-expanded="true" aria-controls="collapseOne-4">
+                                                        <i class='fa fa-list'></i>Metrologia de equipos
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id="collapseOne-4" class="panel-collapse collapse in active" role="tabpanel" aria-labelledby="headingOne4">
+                                                <div class="panel-body">
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align: center; font-size: 18px">Tipo</div>
+                                                            <select class="form-control input-lg m-bot15" id="tipo">
+                                                                <option value="0">Calibración</option>
+                                                                <option value="1">Verificación</option>
+
+                                                            </select>
+
+                                                        </div>
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align: center; font-size: 18px">Numero Certificado</div>
+                                                            <input class="form-control input-lg m-bot15" type="text" id="certificado">
+                                                        </div>
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align: center; font-size: 18px">Empresa</div>
+                                                            <input class="form-control input-lg m-bot15" type="text" id="empresa">
+                                                        </div>
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align: center; font-size: 18px">Fecha vencimiento</div>
+                                                            <input type="text" class="form-control datepicker" id="fechavencimiento"  data-format="yyyy-mm-dd " autocomplete="off" >
+                                                        </div>
+
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-md-6 col-lg-6 col-sm-6">
+                                                            <div style="text-align: center; font-size: 18px">Maquina</div>
+                                                            <select class="form-control input-lg m-bot15" id="idmaquina">
+                                                                <option selected="">Seleccione la maquina</option>
+                                                                <?php foreach ($maquina as $v) { ?>
+                                                                    <?php if ($v->activo == 1 && ($v->conf_idtipo_prueba <> 5 && $v->conf_idtipo_prueba <> 20 && $v->conf_idtipo_prueba <> 8 && $v->conf_idtipo_prueba <> 16 && $v->conf_idtipo_prueba <> 17 && $v->conf_idtipo_prueba <> 19 && $v->conf_idtipo_prueba <> 21 && $v->conf_idtipo_prueba <> 22)) { ?>
+                                                                        <option value="<?= $v->nombre . "-" . $v->marca . "-" . $v->serie_maquina . "-" . $v->serie_banco ?>"><?= $v->nombre . "-" . $v->marca . "-" . $v->serie_maquina . "-" . $v->serie_banco ?></option>
+                                                                    <?php } ?>
+                                                                <?php } ?>
+                                                            </select>
+                                                        </div>
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align:  center">
+                                                                <button type="button" class="btn btn-success" style="margin-top: 22px;" onclick="metrologiaC()">Guardar</button>
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-3 col-lg-3 col-sm-3">
+                                                            <div style="text-align:  center">
+                                                                <button type="button" class="btn btn-warning" style="margin-top: 22px;" onclick="verMetrologia()">Ver registros</button>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <div id="mesajeError" style="color: red; font-size: 18px "></div>
+                                                    <br>
+                                                    <div id="div-Metrologia" style="display: none">
+                                                        <div class="table">
+                                                            <table class="table" id="table-metrologia" >
+                                                                <thead id="head-metrologia">
+
+                                                                </thead>
+                                                                <tbody id="body-metrologia">
+
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <br>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- MAIN CONTENT AREA ENDS -->
+            </section>
+    </section>
+</section>
+<div class="modal fade bd-example-modal-sm" id="updateMetrologia"   role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #383085;">
+                <h5 class="modal-title" id="exampleModalLabel" style="color: white">Actualizar datos</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color: white">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body ">
+                <div class="form-group">
+                    <input type="hidden" id="idconf_maquina">
+                    <label for="recipient-name" class="col-form-label" ><b>Tipo</b></label>
+                    <input type="text" class="form-control" id="tipom" disabled>
+                    <label for="recipient-name" class="col-form-label"><b>Certificado</b></label>
+                    <input type="text" class="form-control" id="certificadom">
+                    <label for="recipient-name" class="col-form-label"><b>Empresa</b></label>
+                    <input type="text" class="form-control" id="empresam">
+                    <label for="recipient-name" class="col-form-label" ><b>Maquina</b></label>
+                    <input type="text" class="form-control" id="maquinam" disabled>
+                    <label for="recipient-name" class="col-form-label"><b>Fecha registro</b></label>
+                    <!--<input type="text" class="form-control" id="fecharegistrom" >-->
+                    <input type="text" class="form-control datepicker" id="fecharegistrom"  data-format="yyyy-mm-dd "  >
+                    <input type="hidden" id="idmetrologia">
+                    <label for="recipient-name" class="col-form-label"><b>Estado</b></label>
+                    <select class="browser-default custom-select" id="estadom">
+
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" id="closeModal">Close</button>
+                <button class="btn btn-primary" onclick="updateMetrologia()">Actualizar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- END CONTENT -->
+
+
+
+<?php $this->load->view('./footer'); ?>
+<script type="text/javascript">
+    var text = new XMLHttpRequest();
+    text.open("GET", "<?php echo base_url(); ?>/system/dominio.dat", false);
+    text.send(null);
+    var dominio = text.responseText;
+    console.log()
+
+    function metrologiaC() {
+        $("#mesajeError").html("");
+        var tipo = $('#tipo option:selected').attr("value");
+        var certificado = $("#certificado").val();
+        var empresa = $("#empresa").val();
+        var fechavencimiento = $("#fechavencimiento").val();
+        var maquina = $('#idmaquina option:selected').attr("value");
+        var mesaje = "";
+        var valid = true;
+
+        if (tipo == "" || tipo == null) {
+            mesaje = mesaje + "Seleccione el tipo.<br>";
+            valid = false;
+        }
+        if (certificado == "" || certificado == null) {
+            mesaje = mesaje + "Ingrese el certificado.<br>";
+            valid = false;
+        }
+        if (empresa == "" || empresa == null) {
+            mesaje = mesaje + "Ingrese el empresa.<br>";
+            valid = false;
+        }
+        if (fechavencimiento == "" || fechavencimiento == null) {
+            mesaje = mesaje + "Ingrese la fecha de vencimiento.<br>";
+            valid = false;
+        }
+        if (maquina == "" || maquina == null) {
+            mesaje = mesaje + "Seleccione la maquina.<br>";
+            valid = false;
+        }
+        if (!valid) {
+            Swal.fire({
+                icon: 'error',
+                title: 'Campos obligatorios.',
+                html: '<div style="font-size: 15 px">' + mesaje + '</div>',
+//                footer: '<a href="">Why do I have this issue?</a>'
+            })
+        } else {
+
+            $.ajax({
+                url: '<?php echo base_url(); ?>index.php/oficina/reportes/adicionales/Cadicionales/getMetrologia',
+                data: {tipo: tipo,
+                    certificado: certificado,
+                    empresa: empresa,
+                    fechavencimiento: fechavencimiento,
+                    maquina: maquina
+                },
+                type: 'POST',
+                mimeType: 'json',
+                success: function (rta) {
+                    if (rta == 1) {
+                        Swal.fire({
+                            position: 'center',
+                            icon: 'success',
+                            title: 'Registro guardado',
+                            showConfirmButton: true,
+                            timer: 2000
+                        })
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#mesajeError").html(jqXHR.responseText);
+                    console.log(jqXHR.responseText);
+                }
+            });
+        }
+    }
+
+    function verMetrologia() {
+        $("#mesajeError").html("");
+        $.ajax({
+            url: 'http://' + dominio + '/cda/index.php/Cadicionales/selMetrologia',
+            type: 'GET',
+            mimeType: 'json',
+            success: function (data) {
+                $("#body-metrologia").html("")
+                var html = "<tr><th style='font-size: 13px; text-align: center;'>Tipo</th>\n\
+                                <th style='font-size: 13px; text-align: center;'>Maquina</th>\n\
+                                <th style='font-size: 13px; text-align: center;'>Certificado</th>\n\
+                                <th style='font-size: 13px; text-align: center;'>Empresa</th>\n\
+                                <th style='font-size: 13px; text-align: center;'>Fecha vencimiento</th>\n\
+                                <th style='font-size: 13px; text-align: center;'>Opciones</th>\n\
+                            </tr>";
+                $("#head-metrologia").html(html);
+                document.getElementById("div-Metrologia").style.display = '';
+                $('html, body').animate({
+                    scrollTop: $("#div-Metrologia").offset().top
+                }, 900);
+                $.each(data, function (i, data) {
+                    //dato++;
+//                    $('#div-info-statspruebas').html('Numero de registros: ' + dato);
+                    if (data.tipo == 0) {
+                        var tipo = 'Calibración';
+                    } else {
+                        var tipo = 'Verificación';
+                    }
+                    var body = "<tr>";
+                    body += "<td style='font-size: 12px; text-align: center;'>" + tipo + "</td>";
+                    body += "<td style='font-size: 12px; text-align: center;'>" + data.maquina + "</td>";
+                    body += "<td style='font-size: 12px; text-align: center;'>" + data.certificado + "</td>";
+                    body += "<td style='font-size: 12px; text-align: center;'>" + data.empresa + "</td>";
+                    body += "<td style='font-size: 12px; text-align: center;'>" + data.fechacertificado + "</td>";
+                    body += '<td style="font-size: 12px; text-align: center;"><div class="btn-group btn-group-justified"><a type="button" class="btn btn-info" style="color: whitesmoke" data-toggle="modal" data-target="#updateMetrologia" onclick="updateData(\'' + data.idmetrologia + '\',\'' + tipo + '\',\'' + data.certificado + '\',\'' + data.empresa + '\',\'' + data.maquina + '\',\'' + data.fechacertificado + '\',\'' + data.estado + '\')">Ver</a><a type="button" class="btn btn-danger" style="color: whitesmoke" onclick="deleteData(' + data.idmetrologia + ')">Eliminar</a></div>';
+                    body += "</tr>";
+                    $("#table-metrologia tbody").append(body);
+                });
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                $("#mesajeError").html(jqXHR.responseText);
+            }
+        });
+    }
+
+    updateData = function (idmetrologia, tipo, certificado, empresa, maquina, fechacertificado, estado) {
+        $("#idmetrologia").val(idmetrologia);
+        $("#tipom").val(tipo);
+        $("#certificadom").val(certificado);
+        $("#empresam").val(empresa);
+        $("#maquinam").val(maquina);
+        $("#fecharegistrom").val(fechacertificado);
+        if (estado == 0) {
+            $('#estadom').append("<option value='0'>Desactivado</option>");
+            $('#estadom').append("<option value='1'>Activado</option>");
+        } else {
+            $('#estadom').append("<option value='1'>Activado</option>");
+            $('#estadom').append("<option value='0'>Desactivado</option>");
+        }
+    }
+
+    function updateMetrologia() {
+        $("#mesajeError").html("");
+        $.ajax({
+            url: '<?php echo base_url(); ?>index.php/oficina/reportes/adicionales/Cadicionales/updateMetrologia',
+            type: 'POST',
+            mimeType: 'json',
+            data: {idmetrologia: $("#idmetrologia").val(),
+                tipo: $("#tipom").val(),
+                certificado: $("#certificadom").val(),
+                empresa: $("#empresam").val(),
+                maquina: $("#maquinam").val(),
+                fechavencimiento: $("#fecharegistrom").val(),
+            },
+            success: function (data) {
+                if (data == 1) {
+                    $("#closeModal").click();
+                    Swal.fire({
+                        position: 'center',
+                        icon: 'success',
+                        title: 'Registro actualizado.',
+                        showConfirmButton: true,
+                        timer: 2000
+                    })
+                    verMetrologia();
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                $("#mesajeError").html(jqXHR.responseText);
+            }
+        });
+    }
+
+    function deleteData(idmetrologia) {
+        $("#mesajeError").html("");
+        Swal.fire({
+            title: '¿Eliminar registro?',
+            text: "El registro sera eliminado del sistema y no se podra recuperar.",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Si, eliminar!'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                delet(idmetrologia)
+
+
+            }
+
+        })
+
+        var delet = function (idmetrologia) {
+            $.ajax({
+                url: '<?php echo base_url(); ?>index.php/oficina/reportes/adicionales/Cadicionales/deleteMetrologia',
+                type: 'POST',
+                mimeType: 'json',
+                data: {idmetrologia: idmetrologia},
+                success: function (data) {
+                    verMetrologia();
+                    Swal.fire({
+                        position: 'center',
+                        icon: 'success',
+                        title: 'Registro eliminado.',
+                        showConfirmButton: true,
+                        timer: 2000
+                    })
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#mesajeError").html(jqXHR.responseText);
+                }
+            });
+
+        }
+
+    }
+</script>

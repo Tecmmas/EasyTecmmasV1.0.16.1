@@ -1,44 +1,100 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('././header'); ?>
+<script type="text/javascript">
+
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+        <div class='col-12'>
+            <div class="page-title">
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">INFORME DE ATESTIGUAMIENTO</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <header class="panel_header">
+                    <h4 class="title float-left">Generación de formatos</h4>
+                </header>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">buscador</h2>
+                                </header>
+
+                                <div class="content-body">    
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/informes/Catestiguamiento/consultar" method="post">
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <label style="font-weight: bold;color: black" for="placa">PLACA<br/>
+                                                    <input type="text" name="placa" id="placa" class="input" style="font-size: 15px;height: 37px"  size="15" 
+                                                           value="<?php
+                                                           if (isset($placa)) {
+                                                               echo $placa;
+                                                           }
+                                                           ?>" />
+                                                </label>
+                                            </div>
+                                            <div class="col-3">
+                                                <p class="submit">
+                                                    <input type="submit" name="consultar" id="wp-submit" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px" value="Consultar" />
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/atestiguamiento/Catestiguamiento" method="post">
+                                        <input type="hidden" name="desdeConsulta" value="true" />
+                                        <div class="col-12">
+                                            <table  class="table table-bordered" >
+                                                <thead>
+                                                    <tr>
+                                                        <th>Id Control</th>
+                                                        <th>Placa</th>
+                                                        <th>Tipo</th>
+                                                        <th>Fecha inicial</th>
+                                                        <th>Fecha final</th>
+                                                        <th>Generar</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <?php
+                                                    if (isset($formatos)) {
+                                                        foreach ($formatos->result() as $p) {
+                                                            ?>
+                                                            <tr>
+                                                                <td ><?php echo $p->idcontrol; ?></td>
+                                                                <th ><?php echo $p->placa; ?></th>
+                                                                <th ><?php echo $p->tipo; ?></th>
+                                                                <th><?php echo $p->fechainicial; ?></th>
+                                                                <th><?php echo $p->fechafinal; ?></th>
+                                                                <th><?php echo $p->btnFur; ?></th>
+                                                            </tr>
+                                                            <?php
+                                                        }
+                                                    }
+                                                    ?>
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </form>
+                                </div>
+
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+<?php
+$this->load->view('././footer');

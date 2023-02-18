@@ -1,115 +1,466 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html class=" ">
+    <head>
+        <!-- 
+         * @Package: Complete Admin - Responsive Theme
+         * @Subpackage: Bootstrap
+         * @Version: BS4-1.0
+         * This file is part of Complete Admin Theme.
+        -->
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>ESTADO DEL VEHÍCULO</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+
+
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/> -->
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+        <link href="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/image-cropper/css/cropper.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/image-cropper/css/main.css" rel="stylesheet" type="text/css" media="screen"/>
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/tecmmas.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <!--<form action="<?php echo base_url(); ?>index.php/oficina/vehiculo/Cvehiculo/gestionar" method="post">-->
+    <body class=" ">
+
+        <!-- START TOPBAR -->
+        <div class='page-topbar '>
+            <div class='logo-area'>
+
+            </div>
+            <div class='quick-area'>
+                <div class='float-left'>
+                    <ul class="info-menu left-links list-inline list-unstyled">
+                        <li class="message-toggle-wrapper list-inline-item">
+                            <ul class="dropdown-menu messages animated fadeIn">
+                                <li class="list dropdown-item">
+                                </li>
+                            </ul>
+                        </li>
+                </div>		
+            </div>
+
+        </div>
+        <!-- END TOPBAR -->
+
+        <!-- START CONTENT -->
+        <section class="wrapper main-wrapper row" style=''>
+
+
+            <div class="clearfix"></div>
+            <!-- MAIN CONTENT AREA STARTS -->
+            <div class="col-xl-12">
+                <section class="box " style="padding: 5px">
+                    <div class="col-lg-12 col-md-12 col-12">
+
+
+                        <section class="box " style="padding: 20px">
+                            <header class="panel_header">
+                                <h2 class="title float-left">Estado del vehículo</h2>
+                            </header>
+                            <form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/verFoto" method="post">
+                                <?php echo $fotos; ?>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <!-- <h3>Demo:</h3> -->
+                                        <div class="img-container">
+                                            <!--<img id="image" src="../data/image-cropper-1.jpg" alt="Picture">-->
+                                            <input type="hidden" name="idprerevision" value="<?php
+                                            if (isset($idprerevision)) {
+                                                echo $idprerevision;
+                                            }
+                                            ?>" />
+                                            <img id="image" src="<?php
+                                            if (isset($foto)) {
+                                                echo $foto;
+                                            }
+                                            ?>" >
+
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <!-- <h3>Preview:</h3> -->
+                                        <div class="docs-preview clearfix">
+                                            <div class="img-preview preview-lg" style="height: 400px;width: 800px"></div>
+                                            <!--                                        <div class="img-preview preview-md"></div>
+                                                                                    <div class="img-preview preview-sm"></div>
+                                                                                    <div class="img-preview preview-xs"></div>-->
+                                        </div>
+
+                                        <!-- <h3>Data:</h3> -->
+                                        <!--                                    <div class="docs-data">
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataX">X</label>
+                                                                                    <input type="text" class="form-control" id="dataX" placeholder="x">
+                                                                                    <span class="input-group-addon">px</span>
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataY">Y</label>
+                                                                                    <input type="text" class="form-control" id="dataY" placeholder="y">
+                                                                                    <span class="input-group-addon">px</span>
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataWidth">Width</label>
+                                                                                    <input type="text" class="form-control" id="dataWidth" placeholder="width">
+                                                                                    <span class="input-group-addon">px</span>
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataHeight">Height</label>
+                                                                                    <input type="text" class="form-control" id="dataHeight" placeholder="height">
+                                                                                    <span class="input-group-addon">px</span>
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataRotate">Rotate</label>
+                                                                                    <input type="text" class="form-control" id="dataRotate" placeholder="rotate">
+                                                                                    <span class="input-group-addon">deg</span>
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataScaleX">ScaleX</label>
+                                                                                    <input type="text" class="form-control" id="dataScaleX" placeholder="scaleX">
+                                                                                </div>
+                                                                                <div class="input-group input-group-sm">
+                                                                                    <label class="input-group-addon" for="dataScaleY">ScaleY</label>
+                                                                                    <input type="text" class="form-control" id="dataScaleY" placeholder="scaleY">
+                                                                                </div>
+                                                                            </div>-->
+                                    </div>
+                                </div>
+                            </form>
+                        </section>
+                        <input type="button" class="btn btn-block bot_rojo"  onclick="window.close();"  value="Cerrar" style="width: 200px"/>
+<!--                        <table style="text-align: center;width: 100%">
+                            <tr>
+                                <td>
+                                    <input id="btnGuardar" class="btn  btn-block bot_gris" value="Guardar" onclick="guardarVehiculo()" disabled/>   
+                                    <label id="msjguardar" style="display: none;position: absolute"></label>
+                                </td>
+                                <td>
+                                    <input id="btnGuardarNuevo" type="button" class="btn btn-block bot_gris" type="submit"  value="Guardar y nuevo" onclick="guardarNuevo()" disabled/>   
+                                </td>
+                                <td>
+                                    <input id="btnGuardarFinalizar" type="button" class="btn btn-block bot_gris" type="submit"  value="Guardar y finalizar" onclick="guardarFinalizar()" disabled/>   
+                                </td>
+                                <td>
+                                    <input class="btn btn-block bot_verde" type="button"  value="Nuevo" onclick="location.reload()"/>   
+                                </td>
+                            </tr>
+                        </table>-->
+                        <br>
+
+                        <div style="text-align: center;color: gray">
+                            <?php echo $this->config->item('derechos'); ?>    
+                        </div>
+
+                    </div>
+                </section>
+            </div>
+
+
+            <!-- MAIN CONTENT AREA ENDS -->
+        </section>
+
+        <!-- END CONTENT -->
+        <div class="modal" id="colorModal" s tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >BUSCAR COLOR</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <table class="table">
+                            <tr id="facturacion">
+                                <td style="width: 40%;text-align: right">
+                                    COLOR
+                                </td>
+                                <td style="width: 60%;text-align: left;padding-left: 10px">
+                                    <input id="textoColor" type="text" class="form-control"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarColores(this.title)" title="a" type="button"  style="height: 40px;padding: 5px"  value="Aproximado 🔎" />
+                                </td>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarColores(this.title)" title="e" type="button"  style="height: 40px;padding: 5px"  value="Exacto 🔎" />
+                                </td>
+                            </tr>
+
+                        </table>
+                        <label id="mensaje"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: SALMON"></label>
+                        <br>
+                        <h5>Coincidencias</h5>
+                        <table id="listaColores" class="table">
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">CANCELAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="marcaModal" s tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >BUSCAR MARCA</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <table class="table">
+                            <tr id="facturacion">
+                                <td style="width: 40%;text-align: right">
+                                    MARCA
+                                </td>
+                                <td style="width: 60%;text-align: left;padding-left: 10px">
+                                    <input id="textoMarca" type="text" class="form-control"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarMarcas(this.title)" title="a" type="button"  style="height: 40px;padding: 5px"  value="Aproximado 🔎" />
+                                </td>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarMarcas(this.title)" title="e" type="button"  style="height: 40px;padding: 5px"  value="Exacto 🔎" />
+                                </td>
+                            </tr>
+
+                        </table>
+                        <label id="mensajeM"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: SALMON"></label>
+                        <br>
+                        <h5>Coincidencias</h5>
+                        <table id="listaMarcas" class="table">
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">CANCELAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="lineaModal" s tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >BUSCAR LINEA</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <table class="table">
+                            <tr id="facturacion">
+                                <td style="width: 40%;text-align: right">
+                                    LINEA
+                                </td>
+                                <td style="width: 60%;text-align: left;padding-left: 10px">
+                                    <input id="textoLinea" type="text" class="form-control"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarLineas(this.title)" title="a" type="button"  style="height: 40px;padding: 5px"  value="Aproximado 🔎" />
+                                </td>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarLineas(this.title)" title="e" type="button"  style="height: 40px;padding: 5px"  value="Exacto 🔎" />
+                                </td>
+                            </tr>
+
+                        </table>
+                        <label id="mensajeL"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: SALMON"></label>
+                        <br>
+                        <h5>Coincidencias</h5>
+                        <table id="listaLineas" class="table">
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">CANCELAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="carroceriaModal" s tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >BUSCAR CARROCERIA</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+                        <table class="table">
+                            <tr id="facturacion">
+                                <td style="width: 40%;text-align: right">
+                                    CARROCERIA
+                                </td>
+                                <td style="width: 60%;text-align: left;padding-left: 10px">
+                                    <input id="textoCarroceria" type="text" class="form-control"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarCarroceria(this.title)" title="a" type="button"  style="height: 40px;padding: 5px"  value="Aproximado 🔎" />
+                                </td>
+                                <td style="width: 50%;text-align: left;padding-left: 10px">
+                                    <input class="btn btn-block bot_verde" onclick="buscarCarroceria(this.title)" title="e" type="button"  style="height: 40px;padding: 5px"  value="Exacto 🔎" />
+                                </td>
+                            </tr>
+
+                        </table>
+                        <label id="mensajeC"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: SALMON"></label>
+                        <br>
+                        <h5>Coincidencias</h5>
+                        <table id="listaCarrocerias" class="table">
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">CANCELAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="modalOtroCda" s tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" >INFORMACION IMPORTANTE</h4>
+                    </div>
+                    <div class="modal-body" style="background: whitesmoke">
+
+                        <label id="mensaje"
+                               style="background: white;
+                               width: 100%;
+                               text-align: center;
+                               font-weight: bold;
+                               font-size: 15px;
+                               padding: 5px;border: solid gray 2px;
+                               border-radius:  15px 15px 15px 15px;color: SALMON">EL VEHÍCULO ESTUVO EN OTRO CDA RECIENTEMENTE, COMUNIQUESE CON EL JEFE DE PISTA</label>
+                        <br>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button data-dismiss="modal" class="btn btn-default" type="button">CANCELAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- END CONTAINER -->
+        <!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+        <!-- CORE JS FRAMEWORK - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+        <script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+        <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+        <!-- CORE JS FRAMEWORK - END --> 
+
+
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+        <script src="<?php echo base_url(); ?>assets/plugins/inputmask/min/jquery.inputmask.bundle.min.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/image-cropper/js/cropper.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/image-cropper/js/main.js" type="text/javascript"></script>
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE TEMPLATE JS - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+        <!-- END CORE TEMPLATE JS - END --> 
+
+        <script type="text/javascript">
+                                        function setFotos(src) {
+                                            document.getElementById("image").src = src;
+                                        }
+        </script>
+        <!-- General section box modal start -->
+        <div class="modal" id="modalPlaca" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog animated bounceInDown">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Ingrese la placa</h4>
+                    </div>
+                    <div class="modal-body" style="text-align: center">
+                        <input name="numero_placa" 
+                               id="num_placa"
+                               style="
+                               width: 100px;height: 50px;border: solid black;
+                               border-radius: 10px 10px 10px 10px;text-align: center;
+                               background: gold;font-size: 20px;font-weight: bold;
+                               text-transform: uppercase" type="text" >
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-success" type="button">Aceptar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- modal end -->
+    </body>
+    <!--</form>-->
+</html>
+
+
+

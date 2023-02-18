@@ -1,95 +1,355 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3UrH5OmIAGjHShM42pKNcSLyLgvReRcP
+<?php $this->load->view('./header'); ?>
+
+<!-- START CONTENT -->
+<style>
+    .swal2-html-container {
+        color: black;
+        text-align: justify;
+    }
+    .swal2-title{
+        color: red;
+    }
+    .swal2-icon swal2-error swal2-icon-show{
+        imageUrl: '/img/loading-gif.png';
+    }
+</style>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <style>
+                                    .menu-barra:hover{
+                                        background-color: #b2e2f2;
+                                        font-size: 17px;
+                                        color: whitesmoke;
+                                        font-family: sans-serif;
+                                        border-radius: 10px 10px 10px 10px;
+                                    };
+
+                                </style>
+                                <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #fdf9c4">
+                                    <div class="collapse navbar-collapse" id="navbarText">
+                                        <ul class="navbar-nav mr-auto">
+                                            <li class="nav-item">
+                                                <a class="nav-link menu-barra" style="color: black" href="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup"><i>Backup</i></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link menu-barra" style="color: black" href="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/viewreportbackup"><i>Reporte</i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Generador backup</h2>
+                                </header>
+
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <!--<form action="<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/createcronbak" method="post">-->
+                                            <table class="table" >
+                                                <thead>
+                                                    <tr>
+                                                        <th>Información</th>
+                                                        <th>Generar</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="text-align: left; width: 70%">
+                                                            El backup se debe realizar diariamente, es de carácter obligatorio, para poder tener un respaldo de la información almacenada.
+                                                        </td> 
+                                                        <td style="text-align: center; margin-top: 2px">       
+                                                            <label style="font-weight: bold; color: black"></label>
+                                                            <input type="hidden" name="rtamaria" id="rtamaria" value="<?= $rtamaria ?>">
+                                                            <input type="hidden" name="date" id="date" value="<?= $date ?>">
+                                                            <input type="hidden" name="date" id="dateactu" value="<?= $dateactu ?>">
+                                                            <input type="submit" name="consultar" id="btn-generarbackup" class="btn btn-accent btn-block"  style="background-color: #393185;border-radius: 40px 40px 40px 40px" value="Generar">
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                                <div style="color: #E31F24" id="divcontra"> <?php
+                                                    echo $this->session->flashdata('error');
+                                                    if (isset($mensaje)) {
+                                                        echo $mensaje;
+                                                    }
+                                                    ?></div>
+                                            </table>
+                                            <!--</form>-->
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <label style="font-weight: bold; color: grey;text-align: left">Para poder generar restauraciones, es necesario que ingrese la clave que se le ha otorgado, en caso de no conocerla por favor solicítela al área de soporte.</label><br>
+                                            <br>
+                                            <div style="color: #E31F24" id="infores"></div>
+                                            <br>
+                                            <div class="form-group row" id="divpassword" >
+                                                <label for="staticEmail" class="col-sm-4 col-form-label" style="font-weight: bold; color: black;text-align: center">Ingrese la clave:</label>
+                                                <input type="password" class="mx-sm-4" id="passworddata" onkeyup="validarpass();">
+                                                <div style="color: #E31F24" id="divconfcontra"></div>
+                                            </div>
+                                            <table class="table" id="tablebackup" style="display: none">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Id</th>
+                                                        <th>Nombre backup</th>
+                                                        <th>Usuario</th>
+                                                        <th>Fecha de creación</th>
+                                                        <th>Opciones</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody id="body-reg-tablebackup">
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="content-body" id="infoplacas" style="display: none">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <label style="font-weight: bold; color: grey;text-align: left">Placas</label><br>
+                                            <table class="table" id="tableplacas">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Id</th>
+                                                        <th>Placa</th>
+                                                        <th>Fecha</th>
+                                                        <th>Resultado</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php $this->load->view('./footer'); ?>
+<script type="text/javascript">
+    $(document).ready(function () {
+        infoBackup();
+    });
+    $('#btn-generarbackup').click(function (ev) {
+        ev.preventDefault();
+        $('#infores').html('');
+        var rtamaria = $('#rtamaria').val();
+        var date = $('#date').val();
+        $('#divcontra').html('Por favor espere el backup se esta generando...');
+        $.ajax({
+            url: '<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/createcronbak',
+            type: 'post',
+            mimeType: 'json',
+            data: {rtamaria: rtamaria,
+                date: date},
+            success: function (data) {
+                if (data !== null && data !== "") {
+                    $('#divcontra').html('<div style="color: #1D8348">El backup fue generado, por favor diríjase a la siguiente ruta ' + data + ', valide que el peso del backup sea el correcto, en caso de tener algún problema o duda por favor comuníquese con el área de soporte.</div>');
+                    infoBackup();
+                } else {
+                    $('#divcontra').html('Problemas al generar el backup, por favor comuniques con el area de soporte.');
+                }
+            }, error: function (xhr) {
+                $('#infores').html('Error:' + xhr.responseText);
+            }
+
+        });
+    });
+    function infoBackup() {
+        $("#body-reg-tablebackup").html('');
+        $.ajax({
+            url: '<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/infoBackup',
+            type: 'post',
+            mimeType: 'json',
+            success: function (data) {
+                $.each(data, function (i, data) {
+                    var body = "<tr>";
+                    body += "<td style='color: black;'>" + data.idbackup + "</td>";
+                    body += "<td style='color: black;'>" + data.nombre + "</td>";
+                    body += "<td style='color: black;'>" + data.usuario + "</td>";
+                    body += "<td style='color: black;'>" + data.fechageneracion + "</td>";
+                    body += '<td><button class="btn btn-accent btn-block"  style="background-color: #393185;border-radius: 40px 40px 40px 40px"  id="btn-restaurar" onClick="resBackup(\'' + data.idbackup + '\',\'' + data.nombre + '\',\'' + data.fechageneracion + '\');" >Restaurar</button> </td>';
+                    body += "</tr>";
+                    $("#tablebackup tbody").append(body);
+                });
+            }, error: function (xhr) {
+                $('#infores').html('Error:' + xhr.responseText);
+            }
+        });
+    }
+
+    function resBackup(idbackup, nombre, fechageneracion) {
+        $('#divcontra').html('');
+        document.getElementById("btn-restaurar").disabled = true;
+        var rtamaria = $('#rtamaria').val();
+        var date = $('#date').val();
+        var dateactu = $('#dateactu').val();
+        var newcad = nombre.slice(-10);
+//        console.log(newcad, dateactu);
+        if (dateactu > newcad) {
+            Swal.fire({
+                title: '¡Atención!',
+                text: "Se esta tratando de restaurar una copia de seguridad que no es del presente dia, esto puede generar problemas en el análisis del sistema, se recomienda restaurar una copia de seguridad de la fecha actual.",
+                imageUrl: '<?php echo base_url(); ?>application/libraries/advertencia.png',
+                imageWidth: 150,
+                imageHeight: 150,
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Aceptar',
+                cancelButtonText: 'Cancelar'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    $('#infores').html('Por favor espere el backup se esta restaurando...');
+                    $.ajax({
+                        url: '<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/regresbackup',
+                        type: 'post',
+                        mimeType: 'json',
+                        data: {idbackup: idbackup,
+                            namebackup: nombre,
+                            rtamaria: rtamaria,
+                            date: date},
+                        success: function (data) {
+                            console.log(data.data, data.respuesta);
+                            document.getElementById("btn-restaurar").disabled = false;
+                            switch (data.respuesta) {
+                                case 1:
+                                    $('#infores').html('<div class="form-group row"><label class="col-sm-5 col-form-label" style="font-weight: bold; color: #1D8348; font-size: 17px; text-align: center">El backup fue restuarado con exito</label><button type="button"  onClick="verInfo(\'' + data.data + '\');"  class="btn btn-primary btn-lg col-sm-5" style="background-color: #393185;border-radius: 40px 40px 40px 40px">Ver información</button></div>');
+                                    break;
+                                case 2:
+                                    $('#infores').html('Problemas al guardar la información.');
+                                    break;
+                                case 3:
+                                    $('#infores').html('Problemas al guardar la información.');
+                                    break;
+                                default:
+                                    $('#infores').html('La información de restauración no concuerda con la del servidor principal, esto puede deberse a las siguientes razones.<br>1. Esta restaurando un backup de una fecha anterior a la actual .<br>2. El backup que realizo, lo hizo mientras el cda estaba operando.<br>3. La ip del servidor de respaldo no es la correcta. En este caso por favor comuníquese con soporte.<br>Nota: se recomienda realizar un nuevo backup, sin que el cda este operando y restaurarlo. En caso de persistir el error por favor comuníquese con soporte.');
+                                    break;
+                            }
+                        }, error: function (xhr) {
+                            $('#infores').html('Error:' + xhr.responseText);
+                            document.getElementById("btn-restaurar").disabled = false;
+                        }
+                    });
+                } else {
+                    setTimeout(recargar, 10);
+                }
+            });
+        } else {
+            $('#infores').html('Por favor espere el backup se esta restaurando...');
+            $.ajax({
+                url: '<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/regresbackup',
+                type: 'post',
+                mimeType: 'json',
+                data: {idbackup: idbackup,
+                    namebackup: nombre,
+                    rtamaria: rtamaria,
+                    date: date},
+                success: function (data) {
+                    console.log(data.data, data.respuesta);
+                    document.getElementById("btn-restaurar").disabled = false;
+                    switch (data.respuesta) {
+                        case 1:
+                            $('#infores').html('<div class="form-group row"><label class="col-sm-5 col-form-label" style="font-weight: bold; color: #1D8348; font-size: 17px; text-align: center">El backup fue restaurado con exito</label><button type="button"  onClick="verInfo(\'' + data.data + '\');"  class="btn btn-primary btn-lg col-sm-5" style="background-color: #393185;border-radius: 40px 40px 40px 40px">Ver información</button></div>');
+                            break;
+                        case 2:
+                            $('#infores').html('Problemas al guardar la información.');
+                            break;
+                        case 3:
+                            $('#infores').html('Problemas al guardar la información.');
+                            break;
+                        default:
+                            $('#infores').html('La información de restauración no concuerda con la del servidor principal, esto puede deberse a las siguientes razones.<br>1. Esta restaurando un backup de una fecha anterior a la actual .<br>2. El backup que realizo, lo hizo mientras el cda estaba operando.<br>3. La ip del servidor de respaldo no es la correcta. En este caso por favor comuníquese con soporte.<br>Nota: se recomienda realizar un nuevo backup, sin que el cda este operando y restaurarlo. En caso de persistir el error por favor comuníquese con soporte.');
+                            break;
+                    }
+                }, error: function (xhr) {
+                    $('#infores').html('Error:' + xhr.responseText);
+                    document.getElementById("btn-restaurar").disabled = false;
+                }
+            });
+        }
+    }
+
+    function verInfo(data) {
+//        var data = $(this).attr('data');
+        $.ajax({
+            url: '<?php echo base_url(); ?>index.php/oficina/backup/Cbackup/infoplacas',
+            type: 'post',
+            mimeType: 'json',
+            data: {data: data},
+            success: function (data) {
+                var c = 0;
+                $.each(data, function (i, data) {
+                    c++;
+                    var body = "<tr>";
+                    body += "<td style='color: black;'>" + c + "</td>";
+                    body += "<td style='color: black;'>" + data.numero_placa + "</td>";
+                    body += "<td style='color: black;'>" + data.fecha + "</td>";
+                    body += "<td style='color: black;'>" + data.resultado + "</td>";
+                    body += "</tr>";
+                    $("#tableplacas tbody").append(body);
+                });
+            }, error: function (xhr) {
+                $('#infores').html('Error:' + xhr.responseText);
+            }
+        });
+        document.getElementById("infoplacas").style.display = '';
+        var altura = $(document).height();
+        $("html, body").animate({scrollTop: altura + "px"});
+    }
+
+    function validarpass() {
+        var clave = '**cda**seguridad$,';
+        var clavein = $('#passworddata').val();
+        var idbtn = $(this).attr('data');
+        if (clave == clavein) {
+            document.getElementById("tablebackup").style.display = '';
+            document.getElementById("infoplacas").style.display = 'none';
+            $('#divconfcontra').css('color', '#1D8348');
+            $('#divconfcontra').html('Contraseña correcta.');
+        } else {
+            document.getElementById("tablebackup").style.display = 'none';
+            $('#divconfcontra').css('color', '#E31F24');
+            $('#divconfcontra').html('La contraseña es incorrecta.');
+        }
+    }
+    function recargar() {
+        location.reload();
+    }
+</script>
+
+
+

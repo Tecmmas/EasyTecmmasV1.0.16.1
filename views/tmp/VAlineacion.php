@@ -1,49 +1,257 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrA8IVzZgLUoyBGxtDosXCbwbdsg4289hBguL7KPXdK0eRItXYzjhGsfEkuwjzYkdkg/+sH0
-V0QrGwIpzFivD6g0xWqmRW/wWb+qNP6/bZiQTGNPudmaN0yrLjCPkzg2pggTC+e+FG/edJOS4WrO
-ZqApaIiSMuEYak7Vv7c/3x1/zvqxwVbKTO0C9r4ZhsbT8aY8HhGgAjwhalSaaP/tfuzGDrG3WN6J
-/yulur7qh1qG1ohl6b7+PUKZHPlOguebSCGBfC3lPBotBaegqhJM/Fje8E9epc1TsI0iXQCh+Quu
-4KbF5gaNNC4Bhhhhqq/EFUhu/CBq3MHcDCEFco/elcFDI8y3fd/a54SrjmFh/GTZwP+VgAfoHdPk
-Z3+siqGZppdTRIbH1rEZ30y5yuEZ3ntDp9cTBl7SVQMoFOXWbVG39XU4gvrDBeBwCvQuZDtumsOW
-PjaIa1sveqBnKA15lGb93D7VPYxIEvaawuTu6xol2E4/j7N/zODzox+bG8L9UCxIPVWY2OW4w5d8
-p9BcqOrWxvzXmX7T3Ul5yxeEXSDPt0qkPJST99u6Ls//LvU7JCjL9AVsA8o63j+j4VGUBVoRTtsB
-RsheIV2zT4b7X52fb8XwMJMreAQw5rgqQPdgmxqmuKlw/mB/1sJ+weFTEqJIaXNd5i1J/jptsfhO
-uV4NfTPpK36p/y8ZhHxBMT26gDBIciZ/cPly2xwpf46Yg5z9zHP0FYyqL0r49xoZ59G5M2YjuJK4
-C6//Kdpg1ImN1JcK3DXXLSxj+PQ8OC7oHBdNc/VAMbdgO7hyP3KKVwH+NAKugOjZ8d3m9rnha5l+
-b9vK2Zu1ALCgokesT1GG5f7wWKLArQ3lQoyj9DiJIbhZ7f0zdlGWzPKATugepdsISi7c/cFlazKZ
-w5p1XmllzjWgUw59qahMlwxRiMISCEU1A8+wFKiE/FOOo4Uhxkzv1U3b7ePxS2gZsAvhsDfoZNB5
-dStiz+KmBaDUCO/NeNN4LyRpRwRhYqF58/VJUpbKtouH7v8bTZcy8N2bNdoQXKX4xmrO6hHfMQsd
-uMoAhxK8bk3Vzb2YUgZm4130ZaOda8VsH7fOu0liTExoRw9xoxU2UcrJeKZab362fRfRCRYMAuNX
-+tXZJ8Q20Q8BrtnnwCvZRSVIMA26zG6yqE0Zb8PVNCl33OQWFLr8UcsH6pusngDSjCh7594iiUUL
-dq2QicJWq9epZ1pWZdTAXF5hdxoT/zAozGGzaRmc6L12foCDEZWWJvbptbCNzc//wW0oKuUI6oeM
-Grr5fF7McbZuSLSj6DWci+TqCVZ9DlMAVioOeQHGI/TpsKs23dv2wkGr/t8LpZN5GPblAUQLNdLC
-H8NmYMQ8m7Dv8vLHxFUR7KtEU7sQ2HAb4mrCN6xOiygKar6AcfcYVNbRE5n1aM6Wn3FERAj/mOuf
-uKM3BvfMce5Eg55RBT0/FWAN7zPNc3fV/tbvcmr1zxZuZLJDG/xHCAHlqyI7wJrtHb244TXZ9uwV
-lXwfihFrCBNvG4fHuFTNFJ6xlZIPYC7FrXB3qNVv0aPWomrFNRMv8zVxT+Eal8r+6Pj1DMyLhfxV
-oArUDAN4trJKKD6s77YtYBLBgxL0HHzkDYm/MLcC9Hy1wcUhNknxQcEjAA7cVukKaTg0V9ul0DNo
-MAWtuv5k0Dqpo4NFUG3/DzqbET1th5BoURbTIadtfca/uI0XmMLQBWy9A4/yiPohiKOwr3quIe88
-3olIzqebatkLBLJm2d6EXFe3YTr6JKIMfCz0zNPgQnBdmpH0iuqcryoEDo1a9OWWI5ozEMefXrAA
-/AFvKSmeH4/bIaIsz/upN7knoFswgvXls4QpjC2F7sZI+qIK4psKLCP6BiuXsuBe+AVny4jXWeKl
-rdbsEJ4Ii2KrjUFY0cRsfgnrCVs7yfcPxZq/rRa/DXVDLs+YPOPoIMs+JSKAtwbPHFFsW0osUGWo
-R5FbVfIGj2/ziDCx1WvMEC5ViP0cuKRLDM17X+igoi9z/vkxzS59UOAdKMU7Fz3hJFXmb+PF6Owm
-ubycNvzkDmFDuDeBdQzfDNerQF7owbNrj/uv80TY7J36cWWVcubCp1u4mQD20aFZf3TYQNEw/S3d
-XCv/plpacje6S7Ra7md9HjTf/LbNLwruTTFTsx0veVJzaMTubpVw/+QmyLE3Jsl6u7YmSE+ieV0I
-o30YzVfNfcw7EbM6yKKnHgaa7VjbDocg4YPhrfPdW6Fd8wzZmruruysstT5ew1w3ruibPRpPMaHP
-/S4cxAohkVcvqYVrjbJ/jCyFBev2gLKcXRN5A8efW2r+fK3y7xIrBnH7+htW4Uy2KwS9g6gWA0ja
-ihzbylNwWvJGTrm6lvxYWujT6WXHv+HYvMmnZRJaqpESgUhZ9lnqiWqpVtmNdH4w3qiKtMD6qE8+
-ff4RiVKq0PhVKDHMDqqLHtLCWZOJafOlZwQKQo+0pXJ0AgGHKOzyAPJpo+lpL5UE2NlOLvDiW+u0
-txX47MOI6K6p3AHZKFXuXPv5Z1CZFZuNUpLLTO9uKIIVC56R7FCcP+2xZrPhGQ04+3HE0XcEm7YR
-Gaqt+5Fs+4L1cIPUhjDzsf9eiMDVnQiPUha3pKD2kSeWLJw9l5dbjSy/fF37U/PzaqpQxDEzHIbR
-Dwk0y9Rxs4d8WZroBaahj6pzKjsntVHrU2hECRryASUCC53S9h6/q6RfIaBbW7n/ItJj2MWpqG2z
-usojWAd5r3LtdQTgbkw6r+kKXG6Uaz608xq29LwfC5LVY60uqqo6yUPsTBfnhxd6YCa4o+Jw9l4G
-KQ7/SV8f25uVe/HDZdjBVV0dIHTF935TWMY6QKShnfkdAdT9WGXRRsSo6m/2cj8Wle6dah1/ntHP
-f4M8kk21A01wjVFQyafWRo1Lo+xPai4jJc90Rvc1LU35j/8Qhpx//mpFhjpz0rHz2e3KmqeHGVSg
-ZMu+C6I2vq6y8Yzq14rYIosYQhdzhpM51HSWxr+F2eaN0wj05EIAWAGkAPNUDO94NVnv9/czlEKo
-ujjZkA1hXFJYG1nOlHGzUtpgSOW1NnmRt6taN4enT98RFIkVFNTi/7JNK1KPMuWLcB9qHt6ZaUFu
-gFaW6VnvqIvdl/scweoLrSFLgJ9Mlf7QajK0kAlI/Ffvd7azaV5RiTcJ+0O3wPpt5N7JGa5f7VIO
-hQzqCxfKo0mvjZsMmOIU0kASrgLhfJGr0222wLKJ74FRsgzhLYPLxqmlzv71+TvpiNKJ5jAqEAHA
-dey4eWpjHdjNdndSRM9nualgzUtLrE7+u1VkzBNJbribvPBreWxthr4q8/19cq9sA9LjNaBVp9RG
-Zxn7D/iWt2/EuOUiOE/Vf1lxOGRGhnrYegUkFH/NvvC28/tEJEb5OYdOMmUMexODn1ycBElv+tpK
-SalwxjXL1pilWB3eM0QwTww5JG==
+<script type="text/javascript">
+    var entrada = new Array();
+    var ard, lea;
+    var marca, serie, ip;
+    var configuracion;
+    var alineacion;
+    var sensorAli, ciclosAli;
+    var inductivoAliCad;
+    var incrementarEjeAli;
+    var ejeAli;
+    var capturarAli;
+    var alineacionEje1, alineacionEje2;
+    function inicalizarAli() {
+        ejeAli = 0;
+        incrementarEjeAli = true;
+        ciclosAli = 0;
+        aliAnt = 0;
+        valMaxAli = 0;
+        alineacionEje1 = '---';
+        alineacionEje2 = '---';
+    }
+    function getConfiguracion() {
+        inicalizarAli();
+        data = {
+            idconfiguracion: '1'
+        };
+        $.ajax({
+            url: "https://10.8.0.54:8091/atalaya/index.php/cget",
+            data: data,
+            type: 'post',
+            success: function (r) {
+                if (r) {
+                    try {
+
+                        var d = JSON.parse(r);
+                        var dispositivo = d.dispositivo[0];
+                        // alert();
+                        $('#marca').text(dispositivo.marca);
+                        $('#serie').text(dispositivo.serie);
+                        $('#ip').text(dispositivo.ip);
+                        $('#ahora').text(d.ahora[0].ahora);
+                        configuracion = d.configuracion;
+                        var i;
+                        for (i = 0; i <= d.configuracion.length; i++) {
+                            $('#item' + d.configuracion[i].iditem).text(d.configuracion[i].val);
+                        }
+                        i = d = null;
+                    } catch (e) {
+                    }
+                }
+            }
+        });
+    }
+    function iniciarArd() {
+        getConfiguracion();
+        lea = true;
+        ard = new Worker(leerArd());
+        ocultarComponente('btnIniciar');
+    }
+
+    function leerArd() {
+        data = {
+            ip: $("#ip").text()
+        };
+        $.ajax({
+            url: "<?php echo base_url() ?>index.php/Cmodbus/leer",
+            data: data,
+            type: 'post',
+            success: function (r) {
+                if (r) {
+                    try {
+                        var d = JSON.parse(r);
+                        var i;
+                        for (i = 0; i <= d.address; i++) {
+                            entrada[i] = d.result[i].dato;
+                        }
+                        alineacion = (entrada[$('#item3').text()] - $('#item6').text()) / $('#item5').text();
+                        inductivoAliCad = entrada[$('#item8').text()].toString(2);
+                        if (inductivoAliCad.length < 2) {
+                            inductivoAliCad = '0000' + inductivoAliCad;
+                        } else if (inductivoAliCad.length < 3) {
+                            inductivoAliCad = '000' + inductivoAliCad;
+                        } else if (inductivoAliCad.length < 4) {
+                            inductivoAliCad = '00' + inductivoAliCad;
+                        } else if (inductivoAliCad.length < 5) {
+                            inductivoAliCad = '0' + inductivoAliCad;
+                        }
+                        if (inductivoAliCad.toString().substring($('#item4').text()) === '1') {
+                            sensorAli = true;
+                            incrementarEje();
+                        } else {
+                            sensorAli = false;
+                            incrementarEjeAli = true;
+                        }
+
+                        document.getElementById("AlineacionEje1").innerHTML = alineacionEje1;
+                        document.getElementById("AlineacionEje2").innerHTML = alineacionEje2;
+
+                        if (ciclosAli < $('#item7').text() && ejeAli !== 0) {
+                            capturarAlineacion();
+                            ciclosAli++;
+                        }
+
+                        i = d = null;
+                    } catch (e) {
+                    }
+                }
+            }
+        });
+        if (lea) {
+            setTimeout("leerArd()", $('#item9').text());
+        } else {
+            ard.terminate();
+        }
+    }
+
+    function incrementarEje() {
+        if (incrementarEjeAli) {
+            incrementarEjeAli = false;
+            ejeAli++;
+            ciclosAli = 0;
+//            if (ejeAli === 2) {
+//                alineacionEje1 = valMaxAli;
+//            }
+//            if (ejeAli === 3) {
+//                alineacionEje2 = valMaxAli;
+//            }
+        }
+    }
+    var valMaxAli;
+    var aliAnt;
+    function capturarAlineacion() {
+        if (alineacion > 0) {
+            if (alineacion > aliAnt) {
+                valMaxAli = alineacion;
+            }
+        } else {
+            if (alineacion < aliAnt) {
+                valMaxAli = alineacion;
+            }
+        }
+        aliAnt = alineacion;
+        if (ejeAli === 1) {
+            alineacionEje1 = Math.round(valMaxAli);
+        } else if (ejeAli === 2) {
+            alineacionEje2 = Math.round(valMaxAli);
+            mostrarComponente('btnTerminar');
+            lea = false;
+
+        }
+    }
+
+    function TerminarAli() {
+        data = {
+            alineacion1: alineacionEje1,
+            alineacion2: alineacionEje2,
+            idprueba: <?php echo $idalineacion; ?>
+        };
+        $.ajax({
+            url: "<?php echo base_url() ?>index.php/CPrueba/guardarAlineacion",
+            data: data,
+            type: 'post',
+            success: function (r) {
+                window.location.href = "<?php echo base_url() ?>index.php/CPrueba/CPistaPrincipal";
+            }
+        });
+    }
+
+
+</script>
+
+<section class="box ">
+    <header class="panel_header">
+        <h2 class="title float-left">Alineación</h2>
+    </header>
+    <div class="content-body">    <div class="row">
+            <h6>Servicio de alineación</h6>
+            <table style="width: 100%">
+                <tr>
+                    <td><h5 style="text-align: left">Informacion del dispostivo</h5></td>
+                    <td><h5 style="text-align: left">Configuración</h5></td>
+                </tr>
+                <tr>
+                    <td><table>
+                            <tr>
+                                <td style="text-align: left"><strong>Marca: </strong></td>
+                                <td  style="text-align: left"><p id="marca"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Serie: </strong></td>
+                                <td  style="text-align: left"><p id="serie"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>IP: </strong></td>
+                                <td  style="text-align: left"><p id="ip"></p></td>
+                            </tr>
+                        </table></td>
+                    <td><table>
+                            <tr>
+                                <td  style="text-align: left"><strong>Entrada analógica: </strong></td>
+                                <td  style="text-align: left"><p id="item3"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Entrada digital: </strong></td>
+                                <td  style="text-align: left"><p id="item4"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Divisor de entrada: </strong></td>
+                                <td  style="text-align: left"><p id="item5"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Punto cero: </strong></td>
+                                <td  style="text-align: left"><p id="item6"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Ciclos: </strong></td>
+                                <td  style="text-align: left"><p id="item7"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Response: </strong></td>
+                                <td  style="text-align: left"><p id="item8"></p></td>
+                            </tr>
+                            <tr>
+                                <td  style="text-align: left"><strong>Velocidad lectura: </strong></td>
+                                <td  style="text-align: left;vertical-align: middle"><p id="item9"></p></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <div class="col-12"><button id="btnIniciar" onclick="iniciarArd()" class="btn btn-success">Iniciar prueba</button>
+                <br/>
+                <br/>
+                <label><strong>ID Prueba</strong><?php echo $idalineacion; ?></label>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Eje</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>1</th>
+                            <td><p id="AlineacionEje1"></p></td>
+                        </tr>
+                        <tr>
+                            <th>2</th>
+                            <td><p id="AlineacionEje2"></p></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-12"><button id="btnTerminar" onclick="TerminarAli()" class="btn btn-danger">Terminar prueba</button>
+            </div>
+        </div>
+</section>

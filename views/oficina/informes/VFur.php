@@ -1,70 +1,220 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('././header'); ?>
+<script type="text/javascript">
+
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+        <div class='col-12'>
+            <div class="page-title">
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">FORMATO UNIFORME RTMEC, PREVENTIVAS Y PRUEBAS LIBRES</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <header class="panel_header">
+                    <h4 class="title float-left">Generación de formatos</h4>
+                </header>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">buscador</h2>
+                                </header>
+
+                                <div class="content-body">    
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/informes/CFur/consultar" method="post">
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <label style="font-weight: bold;color: black" for="placa">PLACA<br/>
+                                                    <input type="text" name="placa" id="placa" class="input" style="font-size: 15px;height: 37px"  size="15" 
+                                                           value="<?php
+                                                           if (isset($placa)) {
+                                                               echo $placa;
+                                                           }
+                                                           ?>" />
+                                                </label>
+                                            </div>
+                                            <div class="col-3">
+                                                <p class="submit">
+                                                    <input type="submit" name="consultar" id="wp-submit" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px" value="Consultar" />
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/fur/CFUR" method="post">
+                                        <input type="hidden" name="desdeConsulta" value="true" />
+                                        <div class="col-12">
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        Tamaño hoja
+                                                    </td>
+                                                    <td>
+                                                        <select name="tamano" class="form-control input-lg m-bot15">
+                                                            <option value="oficio" selected>Oficio</option>
+                                                            <option value="carta">Carta</option>
+                                                        </select>            
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table  class="table table-bordered" >
+                                                <thead>
+                                                    <tr>
+                                                        <th>Id Control</th>
+                                                        <th>Placa</th>
+                                                        <th>Tipo</th>
+                                                        <th>Fecha inicial</th>
+                                                        <th>Fecha final</th>
+                                                        <th>Generar</th>
+                                                        <th>Email</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <?php
+                                                    if (isset($formatos)) {
+                                                        foreach ($formatos->result() as $p) {
+                                                            ?>
+                                                            <tr>
+                                                                <td ><?php echo $p->idcontrol; ?></td>
+                                                                <th ><?php echo $p->placa; ?></th>
+                                                                <th ><?php echo $p->tipo; ?></th>
+                                                                <th><?php echo $p->fechainicial; ?></th>
+                                                                <th><?php echo $p->fechafinal; ?></th>
+                                                                <th><?php echo $p->btnFur; ?></th>
+                                                                <th><?php echo $p->btnEmail; ?></th>
+                                                            </tr>
+                                                            <?php
+                                                        }
+                                                    }
+                                                    ?>
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                    </form>
+                                </div>
+
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<div class="modal" id="envioEmail" s tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog animated bounceInDown">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="titulo_">ENVIO DE FORMATO</h4>
+            </div>
+            <div class="modal-body" style="background: whitesmoke">
+                <label id="mensaje"
+                       style="background: white;
+                       width: 100%;
+                       text-align: center;
+                       font-weight: bold;
+                       font-size: 15px;
+                       padding: 5px;border: solid gray 2px;
+                       border-radius:  15px 15px 15px 15px;color: gray">Bienvenido</label>
+                <br>
+                <table class="table">
+                    <tr>
+                        <td style="text-align: right">Email</td>
+                        <td colspan="3" style="text-align: left;padding-left: 10px">
+                            <input id="datEmail" type="email" class="form-control"/>
+                        </td>
+                    </tr>
+
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" id="cancelar" class="btn btn-default" type="button">Cancelar</button>
+                <button class="btn btn-success" id="btnEnviar" type="submit" onclick="enviarEmailData()">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CONTENT -->
+<script type="text/javascript">
+
+    var envioCorreo = '<?php
+                                                    if (isset($envioCorreo)) {
+                                                        echo $envioCorreo;
+                                                    } else {
+                                                        echo'0';
+                                                    }
+                                                    ?>';
+    var idhojaprueba = 0;
+    var reins = 0;
+    var datos = "";
+    function emailFur(event, value, title) {
+        event.preventDefault();
+        $('#datEmail').val(title);
+        var dato = value.split('-');
+        idhojaprueba = dato[0];
+        reins = dato[1];
+        datos = idhojaprueba + "-" + reins + "-0-1";
+    }
+
+    function enviarEmailData() {
+        var emaild = $('#datEmail').val();
+        if (envioCorreo === "1") {
+            document.getElementById('btnEnviar').disabled = true;
+            $('#mensaje').html('Enviado Información, por favor espere.');
+//        console.log(emaild, idpred);
+            if ((idhojaprueba === null || idhojaprueba === "") || (emaild === null || emaild === "")) {
+                $('#cancelar').click();
+                Swal.fire({
+                    icon: 'error',
+                    text: 'Campo email vacio.'
+                });
+            } else {
+                $.ajax({
+                    url: '<?php echo base_url(); ?>index.php/oficina/fur/CFUR',
+                    type: 'post',
+                    data: {dato: datos,
+                        email: emaild},
+                    success: function (data, textStatus, jqXHR) {
+                        var v = 0;
+//                        if (document.getElementById('email_prerevision').checked) {
+//                            v = enviarPrerevision(emaild);
+//                        }
+                        $('#cancelar').click();
+                        if (v == 1 || data == 1) {
+                            Swal.fire({
+                                icon: 'success',
+                                text: 'Email enviado con exito.'
+                            });
+                        }
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        $('#cancelar').click();
+                        Swal.fire({
+                            icon: 'error',
+                            html: 'No se pudo enviar el email.<br>'.jqXHR,
+                        })
+                    }
+                })
+            }
+        } else {
+            $('#cancelar').click();
+            Swal.fire({
+                icon: 'error',
+                html: 'Apreciado usuario, usted no tiene habilitado este módulo de envío. por favor comuníquese con TECMMAS SAS<br>',
+            });
+        }
+
+    }
+</script>
+<?php
+$this->load->view('././footer');

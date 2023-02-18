@@ -1,115 +1,291 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPsz40WsB6FSYKeMNBejZJQH1EbDmzMxtjQgujagYMNRGV3R4ju4/u8BLnazyz4MzxWbrkkwa
-wAqS2DDsakJVb1Mu7lmdE6iIfIGG//UnWHfYs02iBwqjHvk41pJh21Cly2qaeyQbXywOBDkNTsaL
-O/jnx9VrxOJR4EsUjRDk9jl38gnO11hKFvUEXrFmPwoCy878TnndSTO/O02Be2u8PwC5/A6zKydR
-dpjpM6M6JJkreir6JnPN0G3U3SuSl1pVcXrCfC3lPBotBaegqhJM/Fje8BPeo1aQuTWYqu3d7cus
-5qaR/qflxB951/BvXcARjNAUCKpl9Sh2iq+JaWLtz52vhxSEoJ5C6DcToVJKetZfXjxV7cGZbqFp
-FWXTJY7SDV/WCZBen1VzVbp+88g3Z/EqwkGZgdja6IpJZRsdg+ukX5IVaHG33iVju+Fw/3cYw1pY
-gwPZTxoT+NU+7b+AQHnDu0NEtRa3/LbVzsUqD5YygMGBsrJROd7QTfXAK3E1nVjekalgClsaIiDR
-pTrui13s8FuoS8UVo7xHx3YpsAUIuphE//gSJzbT+nyPmWza2e+GqZTMRx4w+RyA2vQ+b+gAY36Y
-l41NTuWDrQAY/8gOclXScTOjClvQqFUtbX65fc2TLrbtmIHMx0mdOjFdJdVLe/qVE5SBoPzBifjy
-LYkvVNG5Mem1WLOq9ne9ByRGL32DcoboUbmbmzn505YOPcHsxcDgY2gA7MfPyS/YxsiP0VFkiYgt
-z1W96WcXVc3Vg7LDvRpohIhLyj1araACSDDydQ3D4uwcoQ8pQf+Punw7NdoDNMCgcmYTWkbaMZMh
-j/NeNjY80Rqnvjq/1yWf0LnKMfrZdw7RfLj/Mwahd2zJ2a7pa8I9MCnBJp10pNadVx0dmU6nqvKD
-D/VYTYufnY6lJs95w3aFXvXJd2QiBnO6YihNX6ohxWMDBYNrnjqK2r6UFdvaMf8QrgyP9GNZRv6+
-zt+JDaZrIyU7q1Ww94Ff+aA9VIyol2r0CG00uO7YzktSzciQon7MlQgSbFSw6Nlk8JRFVgVEgnQF
-7WUp1NRWHivLuTLINZkrNKmETTUglFUy8OQ8NRr2/fV+8CEoi3xeNHC965ArpheCXeT+h7bvZtN3
-aEHzEjg1p1ZSghoMITCJv8GC+Q0XGSo0s4Ox6Ql1Jni0bD/2/COm1OsljjQ3ddIBmfQhn7H+kAfl
-/4afm8LuIOZkFyhUku2Csw5hjtEzVsQz6n/jFy5lPrAiEHVVYsi2DnUs1a7kIrYsgSzrPygrO+vw
-MbjHMmZrnmQJFpMKsI1IQ+RQoHLk+C8KavlXf/fPo/U6BN0pAvXq/pxx1ULIxwX92IfjImkxTq8v
-H9uXE//sDUWGavOtn1ZXYVsYZjahVVZ7ZfrRmRV7/3iH05a0OM5gnEIZdV+ilsaxsyVccHBUBwsw
-Ke67nHb2zGn/pmrliqlFdZUppbJIy3Dsxa2XfVZG4fbi+CX93AP/CZD5m2KlwChi8HQ+5+JdK0U+
-D2c50vsD2q72M3VvSwjwfjRDFwEGIev5sZkZgBba0Su0i2P4I8G6aZOsEMlLKUuLqLgqv15coRHe
-uy44rP9TVrRhrBxhG806l1nhLVSuaiQVf6AwithXbD3KD1BAutlO+mfbwPcTPHqjfaFvrA2jKpCG
-7QbCc8OZNb1Ac7N/U09JzfxreL1tkqVAv+R5GbCHMUnd8Vyzrz1dSXa/dhwi+izNUcOpikiPSSnq
-iI5yxcegL44aP0seydkaoDoqqiLuvSeRcEQWFR59znStY5A3uleCDLloD6gMDKsHespBpQziWwml
-BcnMbUEZcBTvs9az6AzMmuwUXYl+8B1eiCyLcgnw3FzVrI4C1uy1BhtdP0acBgS7Rw4/RRItHMv1
-GC4I2HVa3bMJKBUAcyWV4j1ZbgL3BECiKDfE5sO1Lo0Dkz8lPeOA61rMXZjXTBSMsEmhg3fwa0fC
-xhVlkJRfTaFbDto2SxNHnCi4UJ52OGB+ccaHpri53cMntkN42JIUE//MzDWfBeczhvQRRq3j65uP
-uSaeu+onw/1cI5GzAvEUNL43T1vpJhG/49fqlwVK5uvHU47Sv4hrJTv/9U5cmm425yA2SHEZqReL
-Weiri4wIf9J52boJBxXzeSHJ2SdCi8k6agLtDVB4XC6aRLT0giHnIJGKGgi4X2NZQV0ign6lspUx
-kNgsNUua1eOag47QCtJ1uaIzwAAnLkW0AAYDRMebQhOOmjzohQyFDR6dx0lQhEYPQN2WQpywbyH4
-ZUR9LMGSAFWa5WSekQLaPhhzSZFTRASRqQIN5iMJA9il84VDi6xdOc8/e5sOqSk0QpVjMFHdkHXF
-reh6CTLXqWgcwG0lifngCmNQCR7vbyT2WqYJ/WKS7cILCiEyGjouEnhrfPH1oflJmD0DBJqtRE7C
-/FirqkhhG42zBxrSzVo/TvW5sy/e4T7IuyedpwpAeWzXKKPpNNhfhmwP39OANsAeOQ12VJloPuiB
-7zJwW20eflJY/6sfVF7w28hFk5cAA4cCG30vTtVxd/xc12ufXR8bzAgRRmWkMJJvyE+xOTJUD4of
-+fEVyoP7lJ5eD3yDKNdCjVtXNXkFP1PCGttS9udiElZ6R09x+N5b4M15a0jtB6bRg6+CLiiO7lec
-5HsXnNBMQZfG3O8p25zdxPA+RpTk7MhuJsTro251f01+o4z3+B/S2v/bu1izAJXYj9oR41m1tdXp
-H355g6CsZee+luI14/mRkqqi5Y34A0/6S5cirAraoIg0bc9toHNL+vbFOAo4RSgivfi71S7HZRVq
-cvGZRDS/8nkNK/q6vMuW6T0cYUi3g984GiOgt2if2NvlzEh8g4YMd81XNdqxVZvxNlkJwD6ToAkX
-dTZqXbJVf28hiY14SdLJZS4WirMbTKW3CjKEKnKvzwjv3I3NM/GXlRc28So0EKpOGNxpGJzZOo2J
-6oAhEfdVu3J9USOO71sAbAb3djMiuoMicvAVQRPUBAh+er4q4Md8ihSlrEzYhSMxGJSdD20h8iEs
-LESRyCO1gYqIgdKx9C1C5/w4HFyl0qET1NdNrXQtZln+QRrUvSOwoP5y8grvvyJH7q+9taiKbeN5
-rDw7KqfNrtqxHP8Nz+9afU07tRz4pdxxHqIiEztSkCPq2dAXsjIknVsRXiRs6nuQWOIE68Rl57aj
-59dcH5NRbuci0MTQMESBW4swwwSeNthOH1aFHpRySlTwCXe9YJHbBzfbWHi5lgQniLDYjr7GWpCf
-Aicc7zqNe7DGeMGduUqjT/izkArqYxlbYmhwKB+IPgPNnoP7mYMAz7fT2ZkfMJFCKoW7vq9ohSOd
-dceb5A4Izh0Qfa/DZRW6ZICqT5UuZE+aFr1zpr3vdFklWknS8ZtNN/FvdwHSGviNMohFfzmk+u/u
-0AcG1B1CIC08wdZRDnF8lY+w+Ro5q2WjoakNRBJxzbHbYShhuALcvxEAGd818ieqR2lKxoQUGJWJ
-zQW7jV6SWKx00eOeCLDgCg6YfskyomZ0KnMNlrH52XduvWJN/5UOljgwdbaZhI5yN+sptGuICKbl
-wfNIPEuZ0IsJVQ+0r6wmS0rzAEe4mH1rutImoYvIPuJeTokCaNpmCKuIb7Op5WPbYSM+YTarIZyu
-Z+LFEdZTgubxGGAJq5160kDityEh1nTOOwkpGOfumFXVikFB9YqrUU0EbiO0OSXJyqIAl3zDmYPD
-yQpIlTKQg8jlUeHWTynrhCCzu+FvCJLv1+1vfs7/diBhs/ynfDTy6ahDZ+IgGAfgbSC+tZbReIMV
-zygwErawk/kZoWWxgHM9ek/7kEN82Y14R5td5242drPuMsEdhYjb7olGHQ67xakWh+fmOHzhACig
-DuCi0gBTMeJP9ZFsUMyVrfnacraal2851yNQD6OTMBRzNtP7Z0RoxIjb3k/OGJIbKi/AfeOQXwQi
-SSZJToF26iMXzxvn2r2l59PB/mL6c17IIbt9iX/w78w/ovryUHl5+HIiLzLia6fiVWv28bE7+2s7
-bkVK7iOZBaI0K2EEoMTLssNkcczlP6bvrIFyE41pqP1l+qneqnsj7tTi53eeZ5EcJJinLMev/yiz
-C/yGAE2ggMObk4iVNzsoGyXwwWVm+/PmV5NPJX299fBrA60j18+vUkmDbcy6knf/LVLU3mXlaEeB
-0uYdXaOMMJqWu30GeIyb5e49vpqG/xB+W1KR5hpGfFrDkmXX8O1pfRSPBc6rbB9RtQISd36z8/dG
-dkQvRx8CBds8tCqtAZQQEHvfK8y+F/zyohXf0GWByE5kXPXactUzvlH2pIicpj3I6E9Fo4OD1Vza
-xiCJ/iVbILOF81QyXbEQzYZAvkz6dJdXm0BMeD7bTI4eXw8wvoKuXeOTkhXw3Y5G6wA89CRLkfXq
-C1l37KmiOr73/51aUDlEo3ciDPTLSRejigexJSmJTvvXXue7bFH2YcWRMLBqMQbwMsPubCtkM8A+
-OijqBPciDBNkHoS9FoNcFRzitKl4OsiBe49/sctZ96UD9QSHaRBJdAt9OwEB3vtloYX+3w1lPWp4
-Pdu3UVwBCwzssrKIteJCqRznoAgC9Gwah4QgNrUAAi3hE3Qiaqv2XvRvSQlALqVbSstNu5LeCm8S
-fdLYSAtVURh+HkShCqXiEVzkvcqxcxsLeUmNDuLP2x8rlBr2UsbaWTI2a0WhiO2NN078bqK/Dm4w
-vatR9PqdI7lAoUrJYuCMUNuzPI05u48SNNGk1qYFRuMV6GnvtuQi5yduMYJ5N2TxioqOjSIsaHoj
-m8vG6m2zlXeNzVmRT9toPJ3woTJqdIpbIByxCUWTccqVYG/oFzr01BWIdGAgO3YvBpxaCmq6PfIj
-gL+/ybkIXNwfg4gei4yPQ8j9iloaVCXqR7IcG+vcZgIEbmOGMmSohIR8SjltqmZYbM/UN2rk2Obh
-fF99zvz3oDREbYb4Uk1eCJ91arXuzSeEBdc2Ly/iv0CZTh3tJ9nLlCrNUtVOd/QAEihuw5cAz7YR
-ZEIjhPMAqFA7CSccVQnsnUIkwCsfhW10WB8gGIhd5+J3LDR05MtkrJu1Jd6+ZbitAvrRupJiegxk
-c/5tvkzNoKA+DqpFHQm97K0cIKf3CuuBkQ4TDgEiFvQLFvo24F/PDwAhBcUMNI5V1fR4ttQ5s451
-OdkQ/NCfIagDZf7M2Xj8LR7ovhC4wsFaSuhAJ3wu0ufxWdloKqZHNkHJp5ui0D2OszcW1RcJDS3i
-XzBkaluRNRDWZSkJz/ZA0F77GK3aYIXeqR+ffCLUOWTydVZ3lc+eN5IioJ6BjIlnZy58i8h+0CIs
-UtMnXL3MqtaYLFJ0qSj+Bku/Lg93fqAv4+dky1MH6C0CaMvhg4Rsg+am4Z8pWPkkYr1N2wgW4vpt
-SUthggFhOX5a6EN9X8x4d1DWiF4c/N7uFmUrgjW9k36/XOTNblEfOkrQXUBntBA5taJJrDe7bGUe
-mwEYZ0gjDWbh7qcjb2QbW8C6hbheaSjv/gJAMxW0XQuwaOF85GWPoEkBVqJVMyY2Bf2nD1l4lkrD
-40zT8BbBEoZW9ZY4SCMRQXDKrPxjI5GAtDffPA7RTBWqD6/iridLwuzXCADBU4PW9IZEqEsK3xxF
-cbO3r+Jzpxz+dr9gT4Xl/lvo+65TAkJ7FxA8/2bizGFDiyx/O4FDusA0KmFWqsBfR7BaaXE6mLlQ
-B3qU8FwgI4KJSKF68UMClhXXJ2WFodjnPj0cZ0eFCeKfsZwHegYBvMxWb95DO6BOAJxSC5T2nUFm
-642SuwoMqx89xadRazdMVB2R68cRXu8HmGM2tZrQCAn66BMLzXTFV4R/MloiyFXwRXyEkVWvuOD3
-PgzP9rDCOlXkqwu6slfH8imhRo78qgiQtOx2TUKe886eRegA1OPAODpxxNDtM25xkZ0dxHPJQVnw
-tG9yxvG17YoTvzyUWLw+Qld60q0fjrPYupfxYi6f/30lbtUKWCefiENeFTXm/fKd02RsmeZwhSRJ
-SZlqz1abDmeffxOjsx6ESj8tfgbKAbCdRTjQoBZ/3F35pTalsmjzU6Y242oW+Y+9Qxhz4ROIPjEt
-Fjam1TT0VtWKTqNDv3AqxyNK9u8zWADbJdnwez3Z8eu4fqIG0sKeuKs0d+O1B0EAvQ67/nT/YMZI
-+fFhvHD5g0jbpibR9tTRs3sniIfTXlkXin31ZmEkI6wB+FKV9L2NQDkkbYVG66sEBXf18jUrFHev
-JQHXRHqirq7IGm+9Z+R9+xp9IKQPWYWDbSOxubF6Jthl81cmBLBMqQXlfrD5O5vJ72MasMyZUnPS
-UrFaN0QsarHFWJPzA2IEuxI9d8VsUeUqa0TDnj1cbBJDw5m22eN3HKzuGx1AhQw7ijOIuItyo3+y
-jRgTzrbf6CXXDy0b3J12q6fXCED/XnEw/XpXuu5HDH8x9pXhtIFss6yD6nrN/Hipa5wlq/nIvMAp
-/mBBewefUM592HKIm9rEOJlQFSnqJl+VQzSbFrcm+MNSiG4eq5wjcwOumq9V/uM7a/4UHUpmMjPd
-hwGxgVZeRFt0zzBJ7i5YvIRaWgunviU14xV4sUZqOgqnNVI6iXjvFv60baFpwQ1mow9L8wapR2b8
-zXB2/EnHfzcebUdxMn4x8WOHk99uGilkqrtUk8vaSYingbgexLatrZeDHJHe1IGuX0wuTs/2YvP4
-AiA2eYyLjqEmY491dvWvrdnIDP+fcimwVQfQe7K8OrsSShFWpC4VX25SpCSa6Zei64J+5zTPTdne
-eFzf/qrIxSycBPLRujiSwmeZ4gtJIJ24xAZUO9yrvYA1umkcX6ETi7h3odH58zHWSKVshiWjItB5
-EWP7xpeZxFqpOvmlkV9FUN3/kyoa/UgKTrly0muRGL+Xlos6RAW9uHIBioMZBS8Yqn4ScFU1bfuA
-8MrX2LTni+B/rv8AwTCN/Dkf1jRz1Nn/mbgNRkAqRvDK6McAKFtEvVTt5CVj0Ukd1TozWuIjYeKr
-LtVEuJ7dv4cDhU5CIsDJmdrJ/gRiUrwv2NANVfYZFb7dZGwjzqQIr4XpO2I058e6DKY8479JZB3a
-P6ukxpTnOIaZEUc+NH0TDLdKM3MQ/rRTp8QZkdGHwCpIRVMK9jUjxTahK0okNiAzJ/2C2x7paCp3
-pkMuiR2XiPI9FYGt0p1cfQQTuKXX27/IMoQqydKVZ7TDYrVEdeMb3bHY2JL3G8vRANh11uy6Oalj
-COu0lU92GgqLvzk1NflfZFRzhemxVZcu6+/xqlOFOzGhx+imwbkw9eDJDe8CSUGYRAqle+Vn59bW
-lMeOp4shhTRJdHQMobNTVZFEIs7Jn2pjO8WSCbjG+keZSkkvEiH/5JEVOlH4iMH+pWzjS9HK7oLA
-zcNtVQwtiV4WbRCNKYNbBvqSW9ShS3sAN+hm+gOwQzWz9I/4Y0qfProOZPeKkqiZs9rCb4VFptsw
-1vRBc4fMaQvfcpSedg+CEqwec40947FhGM35T6ANL8Ke1wAyOnb3aG5j2ESvWpissHIYvW1W6gKo
-YAOsTShsqk7IKRiCqIQd9Fdfouffyvwy9Mbz7UIxm36Oe/4BgAbGHJkLwVhCeY9eSL1XlvxO9czz
-Ws/zVVNhZU/23RNNxIckV4d6DUvvgnsRrAoxsixvb4DY8Co48GKF+8BwXQctjQOD5GVL3XhCDqk7
-TSLfReyBm3glKnpoDSOrCbVHW6ZZ/rvKx65zD9YGq+t3Hw/WDYaAoffE3+8MFNMS1BJ6nhuo0boc
-c23i3bu+kL26Q1+pw4LaMTBQrIP1UOnBRJj430Kz4CByzd6d9+39UAmapkzZHYC1TyQRZX2xcNFz
-nZhQfnXUZpa5WYDZ2iacmSYgf0rHEzhgxRHZG91yG4IKD3CM8ObYEGjte97VcuelFudWqnx6sXfU
-KyHabx/zh6opIi9F8/YcA/eoE5gyy45txM4tt5cPK5iljL7AY34XPVPnq1rzeM4IXZdn7ExmHHa3
-eK+lKXvE37I2pNbRIHVQn4Nfz+AQRM1HMMTy+Y1GYjocw3RDZ9gl/5qis0MGNnxzT+NCLDJHZoAG
-kO9VIyAjx7XgLDPsPipGfSTdtTAiFHW7bAdngp3JGJ5Lbx1BMw3tSxGDKmGgNr3Piv/RPacdN+8o
-bJjQdKfyDVkBeO+0CAdtaauz1QXDHEqYdjb7EFfohDWX3fbwKNw0z3H4R0twwe4/BLrBY8oAO0sQ
-CsoBkMb9pca640+P39+Ohp0KwTtJWCQTB4GMNPN5x1F6x6QBNOBGhOWvG+NRXAQAM7aj/kFEnVyh
-wuPTLlgMIf3v9F5yy4umx4jPnMQFuZBj+xbyi8jAPv2RvoSBeu++heG62wqxgMd02aSckoElPuGB
-zmWLIz0pLfz32PPMHKty75ISzhw+/TX8YFk6UuwoNaTHnrY94mh4tdXcuHJww6dmn/nVfsbXCuWD
-p+k/D/i3OxuNybC9
+<?php $this->load->view('./header'); ?>
+<?php $informeNewAnt; ?>
+<!-- START CONTENT -->
+<script type="text/javascript">
+
+    window.onload = function () {
+
+<?php if ($this->session->userdata('mesajeError')) { ?>;
+            var mensaje = "<?php echo $this->session->userdata('mesajeError'); ?>";
+            Swal.fire({
+                icon: "error",
+                title: 'Error',
+                text: mensaje,
+                showConfirmButton: true,
+            });
+    <?php
+    $this->session->unset_userdata('mesajeError');
+}
+?>;
+    };
+
+</script>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <!--        <div class='col-12'>
+                    <div class="page-title">
+                    </div>
+                </div>
+                <div class="clearfix">
+        
+                </div>-->
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <?php $this->load->view('./nav'); ?>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Informe ambiental <?= $tipoinforme ?></h2>
+                                    <div  class="title float-right" style="margin-right: 30px">
+                                        <?php if ($FugasCal == "NA") { ?>
+                                            <table>
+                                                <tbody>
+                                                    <tr>
+                                                        Tipo informe
+                                                    </tr>
+                                                    <tr>
+                                                <select id="sel-tipo-informe-fugas-cal">
+                                                    <option value="0">Gases Anterior</option>
+                                                    <option value="1">Gases Nuevo</option>
+                                                </select>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        <?php } ?>
+                                    </div>
+                                </header>
+
+                                <div class="content-body">    
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <?php if ($tipoinforme == 'Dagma') { ?>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Id</th>
+                                                            <th>Pista</th>
+                                                            <th>Equipo</th>
+                                                            <th>Generar informe</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <?php
+                                                        $c = 0;
+                                                        foreach ($maquina as $item):
+                                                            ?>
+
+                                                            <?php if (($item->prueba == 'analizador' || $item->prueba == 'opacidad') && $item->activo == 1) { ?>
+                                                                <tr>
+                                                                    <td><?= $item->idconf_maquina ?></td>
+                                                                    <td><?php
+                                                                        if ($item->idconf_linea_inspeccion == 1 || $item->idconf_linea_inspeccion == 7 || $item->idconf_linea_inspeccion == 8) {
+                                                                            echo 'Liviano';
+                                                                        } elseif ($item->idconf_linea_inspeccion == 4 || $item->idconf_linea_inspeccion == 11 || $item->idconf_linea_inspeccion == 12) {
+                                                                            echo 'Mixta';
+                                                                        } else {
+                                                                            echo 'Moto';
+                                                                        }
+                                                                        ?></td>
+                                                                    <td><?= $item->nombre . '-' . $item->marca . '<br>' . $item->serie_maquina . '-' . $item->serie_banco ?></td>
+
+                                                                    <td>
+                                                                        <form action="<?php echo base_url(); ?>index.php/oficina/reportes/Cambientales/informe_dagma" method="post">
+                                                                            <div class="row">
+                                                                                <div class="col-md-3 col-lg-3 col-sm-3">
+                                                                                    <div class="form-group">
+                                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha inicial</label>
+                                                                                        <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                                    </div>	
+                                                                                </div>
+                                                                                <div class="col-md-3 col-lg-3 col-sm-3">
+                                                                                    <div class="form-group">
+                                                                                        <label style="font-weight: bold; color: grey" for="nombres">Fecha final</label>
+                                                                                        <input type="text" class="form-control datepicker" id="fechainicial" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                                    </div>	
+                                                                                </div>
+                                                                                <div class="col-md-3 col-lg-3 col-sm-3" style="align-content:  center">
+                                                                                    <div class="form-group">
+                                                                                        <input name="check-cvc" type="checkbox" class="form-check-input" id="exampleCheck1" value="1" style="margin-top: 40px">
+                                                                                        <label class="form-check-label" for="exampleCheck1" style="margin-top: 35px">Informe para la CVC</label>
+                                                                                    </div>	
+                                                                                </div>
+                                                                                <div class="col-md-3 col-lg-3 col-sm-3" style="align-content:  center">
+                                                                                    <div class="form-group">
+                                                                                        <label></label>
+                                                                                        <input type="hidden" id="idconf_maquina" name="idconf_maquina" value="<?= $item->idconf_maquina ?>">
+                                                                                        <input type="submit" id="btn-informe-dagma" name="consultar" id="btn-generar-carder" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px" value="Generar">
+                                                                                    </div>	
+                                                                                </div>
+                                                                            </div>
+                                                                        </form>
+                                                                    </td>
+                                                                    <?php $c++; ?>
+                                                                <?php }; ?>
+                                                            <?php endforeach; ?>   
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            <?php } elseif ($tipoinforme == 'Epa' || $tipoinforme == 'Superintendencia' || $tipoinforme == 'Corpoboyaca') { ?>
+                                                <form action="<?php echo base_url(); ?>index.php/oficina/reportes/Cambientales/informes" method="post">
+                                                    <table class="table" >
+                                                        <thead>
+                                                            <tr>
+                                                                <th >Generar</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <div class="row" >
+                                                                        <div class="form-group mx-sm-5" style="margin-top: 10px">
+                                                                            <label style="font-weight: bold; color: grey" for="nombres">Fecha inicial<br/>
+                                                                                <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                            </label>
+                                                                        </div>
+                                                                        <div class="form-group mx-sm-5" style="margin-top: 10px">
+                                                                            <label style="font-weight: bold; color: grey" for="nombres">Fecha final<br/>
+                                                                                <input type="text" class="form-control datepicker" id="fechafinal" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                            </label>
+                                                                        </div>
+                                                                        <div class="form-group mx-sm-4" >
+                                                                            <label style="font-weight: bold; color: black"></label>
+                                                                            <input type="hidden" id="tipoinforme" name="tipoinforme" value="<?= $tipoinforme ?>">
+                                                                            <div type="hidden" id="div-informeNewAnt2" name="div-informeNewAnt"></div>
+                                                                            <input type="submit" name="consultar" id="btn-generar-ambiental" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px" value="Generar">
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </form>
+                                            <?php } else { ?>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Id</th>
+                                                            <th>Pista</th>
+                                                            <th>Equipo</th>
+                                                            <th>Generar informe</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <?php
+                                                        $c = 0;
+                                                        foreach ($maquina as $item):
+                                                            ?>
+
+                                                            <?php if (($item->prueba == 'analizador' || $item->prueba == 'opacidad') && $item->activo == 1) { ?>
+                                                                <tr>
+                                                                    <td><?= $item->idconf_maquina ?></td>
+                                                                    <td><?php
+                                                                        if ($item->idconf_linea_inspeccion == 1 || $item->idconf_linea_inspeccion == 7 || $item->idconf_linea_inspeccion == 8) {
+                                                                            echo 'Liviano';
+                                                                        } elseif ($item->idconf_linea_inspeccion == 4 || $item->idconf_linea_inspeccion == 11 || $item->idconf_linea_inspeccion == 12) {
+                                                                            echo 'Mixta';
+                                                                        } else {
+                                                                            echo 'Moto';
+                                                                        }
+                                                                        ?></td>
+                                                                    <td><?= $item->nombre . '-' . $item->marca . '<br>' . $item->serie_maquina . '-' . $item->serie_banco ?></td>
+
+                                                                    <td>
+                                                                        <form action="<?php echo base_url(); ?>index.php/oficina/reportes/Cambientales/generar" method="post">
+                                                                            <div class="row">
+                                                                                <div class="form-group mx-sm-1">
+                                                                                    <label style="font-weight: bold; color: grey" for="nombres">Fecha inicial<br/>
+                                                                                        <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                                        <!--<strong style="color: #E31F24"><?php echo form_error('fechainicial'); ?></strong>-->
+                                                                                    </label>
+                                                                                </div>
+                                                                                <div class="form-group mx-sm-1">
+                                                                                    <label style="font-weight: bold; color: grey" for="nombres">Fecha final<br/>
+                                                                                        <input type="text" class="form-control datepicker" id="fechafinal" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" >
+                                                                                        <!--<strong style="color: #E31F24"><?php echo form_error('fechafinal'); ?></strong>-->
+                                                                                    </label>
+                                                                                </div>
+                                                                                <?php if ($tipoinforme == 'Corantioquia'): ?>
+                                                                                    <div class="form-group mx-sm-1" style="margin-top: 22px;">
+                                                                                        <select id="tipo_inspeccion" name="tipo_inspeccion" style="height: 35px">
+                                                                                            <option value="1">Certificadas</option>
+                                                                                            <option value="8888">Pruebas libres</option>
+                                                                                            <option value="4444">Preventivas</option>
+                                                                                        </select>
+                                                                                    </div>
+                                                                                <?php endif; ?>
+                                                                                <div class="form-group mx-sm-1" >
+                                                                                    <label style="font-weight: bold; color: black"></label>
+                                                                                    <input type="hidden" id="idconf_maquina" name="idconf_maquina" value="<?= $item->idconf_maquina ?>">
+                                                                                    <input type="hidden" id="prueba" name="prueba" value="<?= $item->prueba ?>">
+                                                                                    <input type="hidden" id="idconf_linea_inspeccion" name="idconf_linea_inspeccion" value="<?= $item->idconf_linea_inspeccion ?>">
+                                                                                    <input type="hidden" id="tipoinforme" name="tipoinforme" value="<?= $tipoinforme ?>">
+                                                                                    <input type="hidden" id="serieanalizador" name="serieanalizador" value="<?= $item->serie_maquina ?>">
+                                                                                    <div type="hidden" id="div-informeNewAnt<?php echo $c ?>" name="div-informeNewAnt"></div>
+                                                                                    <input type="submit" id="consultar" name="consultar" id="btn-generar-carder" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px;" value="Generar">
+                                                                                    <?php if (isset($message)) echo $message; ?>
+                                                                                </div>
+                                                                            </div>
+                                                                        </form>
+                                                                        <?php $c++; ?>
+                                                                    <?php }; ?>
+                                                                <?php endforeach; ?>   
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            <?php } ?>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php $this->load->view('./footer'); ?>
+<script type="text/javascript">
+    var FugasCal = "<?php
+echo $FugasCal;
+?>";
+    var c = "<?php
+echo $c;
+?>";
+    $(document).ready(function () {
+        if (FugasCal == "NA") {
+            var tipoInforme = $('#sel-tipo-informe-fugas-cal option:selected').attr('value');
+            console.log(tipoInforme);
+            for (var i = 0; i < c; i++) {
+                console.log(i);
+                $("#div-informeNewAnt" + i + "").append('<input type="hidden" id="informeNewAnt" name="informeNewAnt" value="' + tipoInforme + '">');
+            }
+        }
+    })
+    if (FugasCal == "NA") {
+        $("#sel-tipo-informe-fugas-cal").change(function () {
+            var tipoInforme = $('#sel-tipo-informe-fugas-cal option:selected').attr('value');
+            for (var i = 0; i < c; i++) {
+                $("#div-informeNewAnt" + i + "").html("");
+                $("#div-informeNewAnt" + i + "").append('<input type="hidden" id="informeNewAnt" name="informeNewAnt" value="' + tipoInforme + '">');
+            }
+        });
+    }
+
+
+
+</script>
+

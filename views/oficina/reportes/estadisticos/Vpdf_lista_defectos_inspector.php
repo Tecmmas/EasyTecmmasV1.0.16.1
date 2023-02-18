@@ -1,123 +1,165 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-QXlyT1KAk/Yia7m=
+<?php
+
+set_time_limit(0);
+ini_set('memory_limit', '-1');
+
+//$pdf = new TCPDF('L', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+$pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+
+//$titulo = "NÃºmero de registro visual: " . $this->session->userdata('idhojapruebas') . "-" . $this->session->userdata('idprueba') . " \nFecha inspeccion: " . $fechafinal . "\nPlaca: " . $this->session->userdata('numero_placa');
+$hoy = getdate();
+$pdf->SetTitle($titulo);
+
+$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, $nombreCda . " - Lista de defectos por inspector", "Fecha inicial: " . $fechainicial . "            Fecha final: " . $fechafinal . " \nFecha de generación de este informe: ".$fechageneracion);
+//$pdf->SetHeaderData(PDF_HEADER_LOGO, PDF_HEADER_LOGO_WIDTH, "prueba", "prueba");
+// set header and footer fonts
+$pdf->setHeaderFont(Array(PDF_FONT_NAME_MAIN, '', PDF_FONT_SIZE_MAIN));
+$pdf->setFooterFont(Array(PDF_FONT_NAME_DATA, '', PDF_FONT_SIZE_DATA));
+
+// set default monospaced font
+$pdf->SetDefaultMonospacedFont(PDF_FONT_MONOSPACED);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT, PDF_MARGIN_TOP, PDF_MARGIN_RIGHT);
+$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+// set auto page breaks
+$pdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
+
+// set image scale factor
+$pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
+
+// set some language-dependent strings (optional)
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+// ---------------------------------------------------------
+//
+$style = array('width' => 0.5, 'cap' => 'butt', 'join' => 'miter', 'dash' => '10,20,5,10', 'phase' => 10, 'color' => array(255, 0, 0));
+//$style4 = array('L' => 0,
+//    'T' => array('width' => 0.25, 'cap' => 'butt', 'join' => 'miter', 'dash' => '20,10', 'phase' => 10, 'color' => array(100, 100, 255)),
+//    'R' => array('width' => 0.50, 'cap' => 'round', 'join' => 'miter', 'dash' => 0, 'color' => array(50, 50, 127)),
+//    'B' => array('width' => 0.75, 'cap' => 'square', 'join' => 'miter', 'dash' => '30,10,5,10'));
+// set font
+$pdf->SetFont('helvetica', '', 10);
+
+// add a page
+
+$pdf->AddPage();
+$tbl1 = ' 
+        <table >
+            <thead>
+            <tr >
+                    <th style="width: 140px"></th>
+                    <th style="text-align: center;border-width: 1px;font-weight: bold;width: 200px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">Defectos</th>
+                </tr>
+                <tr >
+                    <th style="text-align: center;border-width: 1px;width: 140px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">Inspectores</th>
+                    <th style="text-align: center;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">A</th>
+                    <th style="text-align: center;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">B</th>
+                    <th style="text-align: center;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">Total defectos</th>
+                </tr>
+            </thead>
+            <tbody>';
+
+$tbl2 = '';
+
+if ($inspectores != FALSE) {
+    $total_a = 0;
+    $total_b = 0;
+    foreach ($inspectores as $ins) {
+        $idusuario = $ins->idusuario;
+        $num = $this->Mestadisticos->numDefectos($fechainicial,$fechafinal,$idusuario);
+        $tbltmp = '<tr >
+                        <td style="text-align: center;vertical-align: middle;width: 140px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $ins->idusuario . '</td>
+                        <td style="text-align: center;vertical-align: middle;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $num->num_defA . '</td>
+                        <td style="text-align: center;vertical-align: middle;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . $num->num_defB . '</td>
+                        <td style="text-align: center;vertical-align: middle;font-weight: bold;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px">' . ($num->num_defA + $num->num_defB) . '</td>
+                    </tr>';
+        $tbl2 = $tbl2 . $tbltmp;
+        $total_a = $total_a + $num->num_defA;
+        $total_b = $total_b + $num->num_defB;
+    }
+    $tbltmp2 = '<tr >
+                        <td style="text-align: center;vertical-align: middle;width: 140px;border-width: 1px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;color: #cd0a0a"><strong>Total</strong></td>
+                        <td style="text-align: center;vertical-align: middle;font-weight: bold;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;color: #cd0a0a">' . $total_a . '</td>
+                        <td style="text-align: center;vertical-align: middle;font-weight: bold;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;color: #cd0a0a">' . $total_b . '</td>
+                        <td style="text-align: center;vertical-align: middle;font-weight: bold;border-width: 1px;width: 100px;border-left-width: 1px;border-bottom-width: 1px;border-right-width: 1px;color: #cd0a0a">' . ($total_a + $total_b) . '</td>
+                    </tr>';
+}
+
+
+$tbl3 = $tbltmp2 . ' </tbody>
+        </table>';
+
+$tbl = $tbl1 . $tbl2 . $tbl3;
+
+$pdf->writeHTML($tbl, true, false, false, false, '');
+
+$pdf->AddPage();
+$xc = 35;
+$yc = 50;
+$r = 15;
+$xTextInspector = 27;
+$yTextInspector = 30;
+$xTextNum = 50;
+$yTextNum1 = 40;
+$yTextNum2 = 55;
+
+$pdf->SetTextColor(210, 16, 16);
+$pdf->Text(40, 22, 'Defectos de tipo A');
+$pdf->SetTextColor(142, 139, 139);
+$pdf->Text(130, 22, 'Defectos de tipo B');
+
+$banderaX = 1;
+if ($inspectores != FALSE) {
+    foreach ($inspectores as $ins) {
+        $idusuario = $ins->idusuario;
+        $num = $this->Mestadisticos->numDefectos($fechainicial,$fechafinal,$idusuario);
+        $numA = $num->num_defA;
+        $numB = $num->num_defB;
+        $total = $numA + $numB;
+
+        $numAPor = round(($numA / $total) * 100);
+        $numBPor = round(($numB / $total) * 100);
+
+        $numAGr = round(($numA / $total) * 360);
+        $numBGr = round(($numB / $total) * 360);
+
+        $pdf->SetFillColor(210, 16, 16);
+        $pdf->PieSector($xc, $yc, $r, 0, $numAGr, 'F', false, 0, 2);
+
+        $pdf->SetFillColor(142, 139, 139);
+        $pdf->PieSector($xc, $yc, $r, $numAGr, 360, 'F', false, 0, 2);
+
+        $pdf->SetTextColor(210, 16, 16);
+        $pdf->Text($xTextNum, $yTextNum1, $numA);
+        $pdf->SetTextColor(142, 139, 139);
+        $pdf->Text($xTextNum, $yTextNum2, $numB);
+        $pdf->SetTextColor(0, 0, 0);
+        $pdf->Text($xTextInspector, $yTextInspector, 'Insp. ' . $ins->idusuario);
+
+        if ($banderaX == 3) {
+            $xTextInspector = 27;
+            $xTextNum = 50;
+            $xc = 35;
+            $yc = $yc + 40;
+            $yTextInspector = $yTextInspector + 40;
+            $yTextNum1 = $yTextNum1 + 40;
+            $yTextNum2 = $yTextNum2 + 40;
+            $banderaX = 0;
+        } else {
+            $xTextInspector = $xTextInspector + 65;
+            $xTextNum = $xTextNum + 65;
+            $xc = $xc + 65;
+        }
+        $banderaX++;
+    }
+}
+
+
+$pdf->Output($titulo . $fechageneracion . ".pdf", 'I');
+

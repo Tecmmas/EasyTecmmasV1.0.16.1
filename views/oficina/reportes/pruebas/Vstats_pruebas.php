@@ -1,64 +1,230 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('./header'); ?>
+
+<!-- START CONTENT -->
+<style>
+    .select-css {
+        display: block;
+        font-size: 16px;
+        font-family: 'Arial', sans-serif;
+        /*font-weight: 400;*/
+        color: #444;
+        line-height: 1.3;
+        padding: .4em 1.4em .3em .8em;
+        width: 190px;
+        height: 35px;
+        max-width: 100%; 
+        box-sizing: border-box;
+        margin: 0;
+        border: 1px solid #aaa;
+        margin-top: 10px;
+
+        /*margin-left: 188px;*/
+        box-shadow: 0 1px 0 1px rgba(0,0,0,.03);
+        border-radius: .3em;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        appearance: none;
+        background-color: #fff;
+        background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+            linear-gradient(to bottom, #ffffff 0%,#f7f7f7 100%);
+        background-repeat: no-repeat, repeat;
+        background-position: right .7em top 50%, 0 0;
+        background-size: .65em auto, 100%;
+    }
+    .select-css::-ms-expand {
+        display: none;
+    }
+    .select-css:hover {
+        border-color: #888;
+    }
+    .select-css:focus {
+        border-color: #aaa;
+        box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+        box-shadow: 0 0 0 3px -moz-mac-focusring;
+        color: #222; 
+        outline: none;
+    }
+    .select-css option {
+        font-weight:normal;
+    }
+    /*
+        .table-wrapper {
+            width: 100%;
+            height: 500px;   
+            overflow: auto;
+            white-space: nowrap;
+        }*/
+</style>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row">
+        <section class="box ">
+            <?php $this->load->view('./nav'); ?>
+            <div class="content-body">    
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-12">
+                        <section class="box ">
+                            <header class="panel_header">
+                                <h2 class="title float-left">Informes de pruebas</h2>
+                            </header>
+                            <div class="content-body">  
+                                <div class="row">
+                                    <div class="col-12">
+                                        <table class="table">
+                                            <thead>
+                                                <tr>
+                                                    <th colspan="1">
+                                                        <div class="form-group row">
+                                                            <label for="staticEmail" class="col-sm-4 col-form-label">Seleccione el reporte</label>
+                                                            <div class="col-sm-7">
+                                                                <select class="select-css" name='tipoinforme' id="tipoinforme">
+                                                                    <option disabled="disabled" selected="selected">Seleccione</option>
+                                                                    <option value="1">Sonometro</option>
+                                                                    <!--<option value="2">Gases</option>-->
+                                                                    <option value="3">Luces</option>
+                                                                    <option value="4">Frenos</option>
+                                                                    <option value="5">Suspension</option>
+                                                                    <option value="6">Alineador</option>
+                                                                    <option value="7">Taximetro</option>
+                                                                    <option value="8">Visual</option>
+                                                                    <option value="9">Termohigrometro</option>
+                                                                </select>
+                                                            </div>
+                                                        </div>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div id="div-informe-sonmometro" style="display: none">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <header class="panel_header">
+                                                <h2 class="title float-left" id="nombre-informe"></h2>
+                                            </header>
+                                            <form action="<?php echo base_url(); ?>index.php/oficina/reportes/pruebas/Cpruebas/pruebasTipo" method="post">
+                                                <table class="table" >
+                                                    <thead>
+                                                        <tr>
+                                                            <th colspan="2">Generar</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="row">
+                                                                    <div class="col-md-3 col-lg-3 col-sm-3" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey;" for="nombres">Fecha inicial<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechainicial" name="fechainicial" data-format="yyyy-mm-dd " autocomplete="off" style="margin-top: 10px">
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-md-3 col-lg-3 col-sm-3" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey;" for="nombres">Fecha final<br/>
+                                                                            <input type="text" class="form-control datepicker" id="fechafinal" name="fechafinal" data-format="yyyy-mm-dd " autocomplete="off" style="margin-top: 10px" >
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-md-3 col-lg-3 col-sm-3" style="margin-top: 10px">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Tipo inspeccion<br/>
+                                                                            <select class="select-css" name='tipoinspeccion' id="tipoinspeccion">
+                                                                                <option value="1">Certificadas</option>
+                                                                                <option value="4444">Preventivas</option>
+                                                                                <option value="8888">Prueba libre</option>
+                                                                            </select>
+                                                                    </div>
+                                                                    <div id="divPresion" class="col-md-3 col-lg-3 col-sm-3" style="margin-top: 10px; display: none">
+                                                                        <label style="font-weight: bold; color: grey" for="nombres">Presion de llanatas<br/>
+                                                                            <select class="select-css" name='presionLlantas' id="presionLlantas">
+                                                                                <option value="0">NO</option>
+                                                                                <option value="1">SI</option>
+                                                                            </select>
+                                                                    </div>
+                                                                    <div class="col-md-3 col-lg-3 col-sm-3" >
+                                                                        <label style="font-weight: bold; color: black"></label>
+                                                                        <input type="hidden" id="tipoinformeval" name="tipoinformeval">
+                                                                        <input type="submit" name="generar"  class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px; width: 180px"  value="Generar">
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+<?php $this->load->view('./footer'); ?>
+
+<script type="text/javascript">
+    $('#presionLlantas').change(function () {
+        var presionLlantas = $('#presionLlantas option:selected').attr('value');
+        if (presionLlantas == 1) {
+            Swal.fire({
+                icon: 'info',
+                title: 'Información',
+                html: '<div style="font-size: 15px">Usted selecciono la consulta con las presiones de inflado, se le recomienda no realizar la consulta cuando el cda este operando.</div>',
+                //footer: '<a href="">Why do I have this issue?</a>'
+            })
+        }
+    })
+    $('#tipoinforme').change(function () {
+        var tipoinforme = $('#tipoinforme option:selected').attr('value');
+        $('#tipoinformeval').val(tipoinforme);
+        document.getElementById("div-informe-sonmometro").style.display = '';
+        switch (tipoinforme) {
+            case '1':
+                $('#nombre-informe').html('Informe sonometro');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '2':
+                $('#nombre-informe').html('Informe gases');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '3':
+                $('#nombre-informe').html('Informe luces');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '4':
+                $('#nombre-informe').html('Informe frenos');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '5':
+                $('#nombre-informe').html('Informe suspension');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '6':
+                $('#nombre-informe').html('Informe alineador');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '7':
+                $('#nombre-informe').html('Informe taximetro');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            case '8':
+                $('#nombre-informe').html('Informe visual');
+                document.getElementById("divPresion").style.display = "";
+                break;
+            case '9':
+                $('#nombre-informe').html('Informe termohigrometro');
+                document.getElementById("divPresion").style.display = "none";
+                break;
+            default:
+
+                break;
+        }
+    });
+</script>

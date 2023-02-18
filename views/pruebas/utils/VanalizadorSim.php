@@ -1,59 +1,266 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-HB+putETWgCDdbR2
+<?php $this->load->view('././header'); ?>
+<script type="text/javascript">
+    var analizador = function () {
+        th();
+        var proceso = setInterval(function () {
+            var trama =
+                    "0|" +
+                    "Transmitiendo|" +
+                    _co + "|" +
+                    _co2 + "|" +
+                    _o2 + "|" +
+                    _hc + "|" +
+                    _tmp + "|" +
+                    _rpm + "|" +
+                    _presion + "|||100|123123";
+            //console.log(trama);
+            var dat = {
+                trama: trama
+            };
+            $.ajax({
+                url: "<?php echo base_url(); ?>index.php/pruebas/utils/CanalizadorSim/setData",
+                data: dat,
+                type: 'post',
+                success: function (rta) {
+                }
+            });
+        }, 800);
+    };
+    var _co = 1.0;
+    var _co2 = 7.0;
+    var _o2 = 20.0;
+    var _hc = 80;
+    var _presion = 800;
+    var _rpm = 865;
+    var _tmp = 23;
+    var _humedad = 45;
+    var _tmpAmb = 23;
+    var _conectado = 1;
+    var co = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _co = parseFloat(data[0].innerHTML) / 10;
+    };
+    var co2 = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _co2 = parseFloat(data[0].innerHTML) / 10;
+    };
+    var o2 = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _o2 = parseFloat(data[0].innerHTML) / 10;
+    };
+    var hc = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _hc = parseFloat(data[0].innerHTML);
+    };
+    var presion = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _presion = parseFloat(data[0].innerHTML);
+    };
+    var rpm = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _rpm = parseFloat(data[0].innerHTML);
+    };
+    var tmp = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _tmp = parseFloat(data[0].innerHTML);
+    };
+    var humedad = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _humedad = parseFloat(data[0].innerHTML);
+    };
+    var tmpAmb = function (val) {
+        var data = val.getElementsByClassName("ui-label");
+        _tmpAmb = parseFloat(data[0].innerHTML);
+    };
+    
+    var conectado = function () {
+        if ($('#swconectado').prop('checked')) {
+            _conectado = "1";
+        } else {
+            _conectado = "0";
+        }
+    };
+    
+    var fecha = function () {
+        $.ajax({
+            url: "<?php echo base_url(); ?>index.php/pruebas/utils/CthSim/getNow",
+            type: 'post',
+            async: false,
+            success: function (rta) {
+                _fecha = rta;
+            }
+        });
+        return _fecha;
+    };
+    
+    var th = function () {
+        var proceso = setInterval(function () {
+            var trama =
+                    _tmpAmb + "|" +
+                    _humedad + "|" +
+                    fecha() + "|" +
+                    _conectado;
+            var dat = {
+                trama: trama
+            };
+            $.ajax({
+                url: "<?php echo base_url(); ?>index.php/pruebas/utils/CthSim/setData",
+                data: dat,
+                type: 'post',
+                success: function (rta) {
+                }
+            });
+        }, 2000);
+    };
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+
+        <div class='col-12'>
+            <div class="page-title">
+
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">Simulador de datos</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+
+        <div class="col-xl-12">
+            <section class="box ">
+                <header class="panel_header">
+                    <h4 class="title float-left">Analizador de gases</h4>
+                </header>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Panel de control</h2>
+                                </header>
+                                <div class="content-body">    
+                                    <div class="col-xs-12 col-sm-6">
+                                        <div class="row">
+                                            <!--                                            <div class="col-6">
+                                                                                            <label style="font-weight: bold;color: black" for="ip">IP<br/>
+                                                                                                <input type="text" name="ip" id="ip" class="input" style="font-size: 15px;height: 37px"  size="30"  />
+                                                                                            </label>
+                                                                                        </div>
+                                                                                        <div class="col-3">
+                                                                                            <label style="font-weight: bold;color: black" for="puerto">PUERTO<br/>
+                                                                                                <input type="text" name="puerto" id="puerto" class="input" style="font-size: 15px;height: 37px"  size="5"  />
+                                                                                            </label>
+                                                                                        </div>-->
+                                            <div class="col-3">
+                                                <input type="submit" onclick="analizador()" class="input" style="font-size: 15px;height: 37px" value="Iniciar"  size="5"  />
+                                            </div>
+                                        </div>
+
+                                        <table>
+                                            <tr>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">CoMonóxido%</div><div class="clearfix spacer20"></div>
+                                                        <div id="co" onmouseup="co(this)" style='height:200px;margin:0 auto;' class="slider slider-success" data-vertical="1" data-prefix="" data-min="0" data-max="50" data-value="10"></div>
+                                                    </div>            
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">Co2Dióxido%</div><div class="clearfix spacer20"></div>
+                                                        <div id="co2" onmouseup="co2(this)" style='height:200px;margin:0 auto;' class="slider slider-warning" data-vertical="1" data-prefix="" data-min="0" data-max="500" data-value="70"></div>
+                                                    </div>            
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">O2Oxígeno%</div><div class="clearfix spacer20"></div>
+                                                        <div id="o2" onmouseup="o2(this)" style='height:200px;margin:0 auto;' class="slider slider-info" data-vertical="1" data-prefix="" data-min="0" data-max="500" data-value="200"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">HCHidrocarburo</div><div class="clearfix spacer20"></div>
+                                                        <div id="hc" onmouseup="hc(this)" style='height:200px;margin:0 auto;' class="slider slider-danger" data-vertical="1" data-prefix="" data-min="0" data-max="1000" data-value="80"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">PresionPpm</div><div class="clearfix spacer20"></div>
+                                                        <div id="presion" onmouseup="presion(this)" style='height:200px;margin:0 auto;' class="slider slider-accent" data-vertical="1" data-prefix="" data-min="0" data-max="1000" data-value="800"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">RPMInducción</div><div class="clearfix spacer20"></div>
+                                                        <div id="rpm" onmouseup="rpm(this)" style='height:200px;margin:0 auto;' class="slider slider-purple" data-vertical="1" data-prefix="" data-min="0" data-max="5000" data-value="865"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">TempAnalizador°</div><div class="clearfix spacer20"></div>
+                                                        <div id="tmp" onmouseup="tmp(this)" style='height:200px;margin:0 auto;' class="slider slider-accent" data-vertical="1" data-prefix="" data-min="0" data-max="100" data-value="23"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">H.Relativa%</div><div class="clearfix spacer20"></div>
+                                                        <div id="humedad" onmouseup="humedad(this)" style='height:200px;margin:0 auto;' class="slider slider-info" data-vertical="1" data-prefix="" data-min="0" data-max="100" data-value="45"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="col-md-2 col-sm-3 col-xs-4">
+                                                        <div class="text-center">T.Ambiente°</div><div class="clearfix spacer20"></div>
+                                                        <div id="tmpAmb" onmouseup="tmpAmb(this)" style='height:200px;margin:0 auto;' class="slider slider-warning" data-vertical="1" data-prefix="" data-min="0" data-max="100" data-value="23"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <ul class="list-unstyled">
+                                                        <li>
+                                                            <input  id="swconectado" onchange="conectado()" tabindex="5" type="checkbox" id="minimal-checkbox-1" class="icheck-minimal-red" checked>
+                                                            <label  class="icheck-label form-label" for="minimal-checkbox-1">TH Conectado</label>
+                                                        </li>
+                                                    </ul>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+
+
+
+
+
+
+<!--                                            <form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision" method="post">
+    <p class="submit">
+        <input type="submit" name="wp-submit" id="wp-submit" class="btn btn-accent btn-block" style="background-color: #393185;width: 200px;height: 70px;border-radius: 40px 40px 40px 40px" value="Prerevisión" />
+        <strong style="color: #E31F24">
+                                        <?php
+                                        echo $this->session->flashdata('error');
+                                        ?>    
+        </strong>
+    </p>
+</form>-->
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php
+$this->load->view('././footer');

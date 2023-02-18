@@ -1,89 +1,235 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-xNv4Ovh7x8bvrN5v6JgX5DsUvW==
+<!DOCTYPE html>
+<html class=" ">
+    <head>
+        <!-- 
+         * @Package: Complete Admin - Responsive Theme
+         * @Subpackage: Bootstrap
+         * @Version: BS4-1.0
+         * This file is part of Complete Admin Theme.
+        -->
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>ADMINISTRAR VEHICULO</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+
+
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/> -->
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+        <link href="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" media="screen"/>
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/tecmmas.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <!--<form action="<?php echo base_url(); ?>index.php/oficina/vehiculo/Cvehiculo/gestionar" method="post">-->
+    <body class=" ">
+
+
+        <!-- END TOPBAR -->
+
+        <!-- START CONTENT -->
+        <section class="wrapper main-wrapper row" style=''>
+            <label id="mensaje"></label>
+
+        </section>
+
+        <!-- CORE JS FRAMEWORK - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+        <script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+        <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+        <!-- CORE JS FRAMEWORK - END --> 
+
+
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+        <script src="<?php echo base_url(); ?>assets/plugins/inputmask/min/jquery.inputmask.bundle.min.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.min.js" type="text/javascript"></script> 
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE TEMPLATE JS - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+        <!-- END CORE TEMPLATE JS - END --> 
+
+        <script type="text/javascript">
+
+            var consultaRunt = '<?php
+if (isset($consultaRunt)) {
+    echo $consultaRunt;
+} else {
+    echo'0';
+}
+?>';
+            var activoSicov = '<?php
+if (isset($activoSicov)) {
+    echo $activoSicov;
+} else {
+    echo'0';
+}
+?>';
+            var ipSicovAlternativo = '<?php
+if (isset($ipSicovAlternativo)) {
+    echo $ipSicovAlternativo;
+} else {
+    echo'0';
+}
+?>';
+            var sicovModoAlternativo = '<?php
+if (isset($sicovModoAlternativo)) {
+    echo $sicovModoAlternativo;
+} else {
+    echo'0';
+}
+?>';
+            var ipSicov = '<?php
+if (isset($ipSicov)) {
+    echo $ipSicov;
+} else {
+    echo'0';
+}
+?>';
+            var usuarioSicov = '<?php
+if (isset($usuarioSicov)) {
+    echo $usuarioSicov;
+} else {
+    echo'0';
+}
+?>';
+            var claveSicov = '<?php
+if (isset($claveSicov)) {
+    echo $claveSicov;
+} else {
+    echo'0';
+}
+?>';
+            var sicov = '<?php
+if (isset($sicov)) {
+    echo $sicov;
+} else {
+    echo'0';
+}
+?>';
+            $(document).ready(function () {
+                buscarVehiculo();
+            });
+
+//            var vehiculo = new Object();
+
+            var buscarVehiculo = function () {
+                $("#mensaje").text('INICIANDO');
+                var proceso = setInterval(function () {
+                    $.ajax({
+                        url: '<?php echo base_url(); ?>index.php/oficina/vehiculo/Cvehiculo/buscarVehCRT',
+                        type: 'post',
+                        async: false,
+                        success: function (datos) {
+                            if (datos !== '') {
+                                var v = JSON.parse(datos);
+                                consultarRuntxCi2(v);
+                            } else {
+                                $("#mensaje").text('PROCESO FINALIZADO, POR FAVOR CIERRE ESTA VENTANA');
+                                clearInterval(proceso);
+                            }
+                        }
+                    });
+                }, 5000);
+            };
+
+            var consultarRuntxCi2 = function (ve) {
+                data = {
+                    placa: ve.numero_placa,
+                    usuario: usuarioSicov,
+                    clave: claveSicov
+                };
+                $.ajax({
+                    url: '<?php echo base_url() ?>index.php/OFCConsultarRunt/ConsultarXCi2',
+                    data: data,
+                    type: 'post',
+                    async: false,
+                    timeout: 3000,
+                    success: function (respuesta) {
+                        var v = JSON.parse(respuesta);
+                        if (v.ConsultaRUNTResult.CodigoRespuesta === '0000') {
+                            var data = {
+                                idlinearunt: v.ConsultaRUNTResult.idLinea,
+                                idcolorrunt: v.ConsultaRUNTResult.idColor,
+                                numero_placa: ve.numero_placa,
+                                fechainicial: ve.fechainicial
+                            };
+                            $.ajax({
+                                url: '<?php echo base_url(); ?>index.php/oficina/vehiculo/Cvehiculo/guardarCRT',
+                                type: 'post',
+                                data: data,
+                                async: false,
+                                success: function (rta) {
+                                    $("#mensaje").text(rta);
+                                }
+                            });
+                        } else {
+                            var data = {
+                                idlinearunt: "0",
+                                idcolorrunt: "0",
+                                numero_placa: ve.numero_placa,
+                                fechainicial: ve.fechainicial
+                            };
+                            $.ajax({
+                                url: '<?php echo base_url(); ?>index.php/oficina/vehiculo/Cvehiculo/guardarCRT',
+                                type: 'post',
+                                data: data,
+                                async: false,
+                                success: function (rta) {
+                                    $("#mensaje").text(rta);
+                                }
+                            });
+                        }
+                    }
+                });
+                return ve;
+            };
+
+
+        </script>
+        <!-- General section box modal start -->
+
+        <!-- modal end -->
+    </body>
+    <!--</form>-->
+</html>
+
+
+

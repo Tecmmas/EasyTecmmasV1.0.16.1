@@ -1,75 +1,217 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php $this->load->view('././header'); ?>
+<script type="text/javascript">
+
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+        <div class='col-12'>
+            <div class="page-title">
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">INFORME DE PREREVISION</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <div class="col-xl-12">
+            <section class="box ">
+                <header class="panel_header">
+                    <h4 class="title float-left">módulo para la generación de informes de prerevisión</h4>
+                </header>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">buscador</h2>
+                                </header>
+
+                                <div class="content-body">    
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/consultar" method="post">
+                                        <div class="row">
+                                            <div class="col-2">
+                                                <label style="font-weight: bold;color: black" for="placa">PLACA<br/>
+                                                    <input type="text" name="placa" id="placa" class="input" style="font-size: 15px;height: 37px"  size="15" value="<?php echo $placa; ?>" />
+                                                </label>
+                                            </div>
+                                            <div class="col-4">
+                                                <label style="font-weight: bold;color: black" for="daterange-2">FECHA<br/>
+                                                    <input type="text" name="rango" id="daterange-2" class="form-control daterange" data-format="YYYY-DD-MM" data-separator="," value="<?php echo $rango; ?>">
+                                                </label>
+                                            </div>
+                                            <div class="col-3">
+                                                <p class="submit">
+                                                    <input type="submit" name="consultar" id="wp-submit" class="btn btn-accent btn-block" onclick="showSuccess('Generando el informe, por favor espere.')" style="background-color: #393185;border-radius: 40px 40px 40px 40px" value="Consultar" />
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </form>
+
+                                    <div class="col-12">
+                                        <table  class="table table-bordered" >
+                                            <thead>
+                                                <tr>
+                                                    <th>Placa</th>
+                                                    <th>Fecha y hora</th>
+                                                    <th>Ocasión</th>
+                                                    <th>Generar informe</th>
+                                                    <th>Estado del vehículo</th>
+                                                    <th>Enviar formato al cliente</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <?php
+                                                if ($prerevision !== '') {
+                                                    foreach ($prerevision->result() as $p) {
+                                                        ?>$prerevision
+                                                        <tr>
+                                                            <td ><?php echo $p->placa; ?></td>
+                                                            <th ><?php echo $p->fecha_prerevision; ?></th>
+                                                            <th><?php echo $p->ocacion; ?></th>
+                                                            <td>
+                                                                <form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/generar" method="post">
+                                                                    <input type="hidden" value="0" name="savePdf" >
+                                                                    <input type="hidden" value="" name="email" >
+                                                                    <button class="btn btn-primary btn-block" name="idpre_prerevision" value ="<?php echo $p->idpre_prerevision; ?>" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px">Generar</button>
+                                                                </form>    
+                                                            </td>
+                                                            <td>
+                                                                <form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/verEstado" method="post">
+                                                                    <button class="btn btn-primary btn-block" name="idpre_prerevision" value ="<?php echo $p->idpre_prerevision; ?>" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px">Ver</button>
+                                                                </form>
+                                                            </td>
+                                                            <td>
+                                                                <!--<form action="<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/generar" method="post">-->
+                                                                <input type="hidden" value="1" name="savePdf" >
+                                                                <button class="btn btn-primary btn-block" name="idpre_prerevision" onclick="enviarEmail(<?php echo $p->idpre_prerevision; ?>, ' <?php echo $p->email; ?>')" value ="<?php echo $p->idpre_prerevision; ?>" type="submit" data-toggle='modal' data-target='#envioEmail'  style="border-radius: 40px 40px 40px 40px">Enviar email</button>
+                                                                <!--</form>-->
+                                                            </td>
+                                                        </tr>
+                                                        <?php
+                                                    }
+                                                }
+                                                ?>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!--<button ></button>-->
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<div class="modal" id="envioEmail" s tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog animated bounceInDown">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="titulo_">ENVIO DE FORMATO</h4>
+            </div>
+            <div class="modal-body" style="background: whitesmoke">
+                <label id="mensaje"
+                       style="background: white;
+                       width: 100%;
+                       text-align: center;
+                       font-weight: bold;
+                       font-size: 15px;
+                       padding: 5px;border: solid gray 2px;
+                       border-radius:  15px 15px 15px 15px;color: gray">Bienvenido</label>
+                <br>
+                <table class="table">
+                    <tr id="pin">
+                        <td style="text-align: right">
+                            Email
+                        </td>
+                        <td colspan="3" style="text-align: left;padding-left: 10px">
+                            <input id="datEmail" type="email" class="form-control"/>
+                        </td>
+
+                    </tr>
+
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" id="cancelar" class="btn btn-default" type="button">Cancelar</button>
+                <button class="btn btn-success" id="btnEnviar" type="submit" onclick="enviarEmailData()">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CONTENT -->
+<?php
+$this->load->view('././footer');
 ?>
-HR+cPuSEfnU7sXjONiSoDAGEaou1oph3uYxd0yibtUQgPePxwGfhPuHvlr0HwuiNMBOKqAEyUDiV
-VkGE9CQgZX6eQQgI5CIJbrDcVNsxME8sIeo10hNqJxZ/CpyJ7EF4ASC/9XronEhmjen1vcQuvGvn
-1OvXLokm58aSLZW9YmjKaOmfTyRaeHshxXddcko28DenFx8J9r5t9+yvtE2MRSpvtuPtin9pGBCB
-kk+Ap2KfiOLhK2uf+DdAsjn2FZEv3wZAfjKqBgJ0xsIyjovAAjAqrlpxQ23uPyIdJi7kSP//ScyU
-EAkaFescHZXuQ4PQSvBkoL9rKHrW3NSOw9JozfSU9rEbNMiGZvwlwimB0WvdDxTax+hlXr6JrN2H
-drSSlg5/B5YFOHeMTCJhR8sEt0oh/xL3c0EzJa38Mp77UwUgd1ImybY++TzNwWkTBhiitlKo0CoS
-1nIJyrlFXTwuQVT4QMoo8sioKLPlNltrqqV9h6X1YjgUNbGZoylWMxGa/iDEWik97T/Wnze09ir/
-dZO0tNgGxpLn1vbyLo2KJ0m7VnDgoDM5Remd7aLlzpcC2iALe0CtDJZcVzi3s9FfZP4oaGKqTH1M
-CVc5tiu1SyX9rB9JfrVmrDS+Qqvu1loMIqp7o7fIaOEhQjy6hBHa359bmDjoyxDGH8xW7x3g5RWn
-N5k2661N6fSb0qWspQD87dgVFLjqQ+ai+ubJSDq7jCtTmwI0ffBwqDkWNp5NINl/GCx3XTF+wMrU
-QpqsJqaAuYOAMrAJuZvzvcOw++OlHc7Tllgs42ipo6ObijjeLpGGIJKg4Rqkts8qZwl9gpiZ5Kmo
-Cp0rjTPH+cSkWZBRJglKtsv0XGXNruqigxIatQCbylM72viarFhwZGR0W4+Uc6MmLDcCzPLr8hEi
-oGMTe+PFeOKYB3urr6KBm0d/Jg0zhqgsjZ+5Piz4kN/ErMU8W1s0ftXbEUMhtJVkfs5VtI/JwqmD
-RbSik/y6MWztqFsgGL3ViWpvdDXIHWTGqdrAweGZ0JMsmyJBK2z0NSRibh5qIQ3EAPDKShGWOpYP
-bNzaH77P0NUQNCpLBUIEfY/uIw819cs4m0eCptxRgwg602DxhdWmWEnNTYZ1inI23k3mezQS7gz0
-KdTNl1zZNHScD4CIFqqcr7E12cZX5XVAQDJDMcp1vMKiDhTHAs+VOc35hZjmytLa6dpAqK2hnMD1
-z3FP2ex6Bmf+gY5WdfLrofd58uby67nNYgyjMzOR/VVrluXHtgTxA5v7RqTRt0JicMROx0/MJdFG
-FVqvdCzZ+xFF2xqOiwKB7Btu9tHc4ZwQ85TlMrO742Ahz6/I+GqFZFuZ1QQXBP/g6l/YQwuEvToW
-q6nCXufv/YDBJEPjX/dzbAx4FPO3ERIY/y8lbjnS4b+8Mi7sCjrbkSqTBCQpwKgBAInhdLINukPy
-lMoAZWTLPuStTDeFuprjpy7rJeKIauOt+jn4olTL3HELvrcMq0thWxFFAnja/+kYdAo0qeiTk/Uj
-56WTfykD/mih+1cUdLlLQd6KhmNUyTE1nK6F3YFBQSEDf3vfXEbEFfdiX6MplTuwCwLJZ5NV2gzX
-Fp6bMbRHkNTHLZ2PByO3DB2trQQZEVxbBe0UvbiKybTJpJPvzwA55s1gw1ub/CP0RheOhudkvhEc
-PeUKcqTm6NCGtR2eKvotrslFUvn30qQvyuDaMmjG4zZVsl4RB3FOP9ki9k+v9KEyMx6Q9JjyX75K
-EgnM0I0FosYEQ15W6W5gw0bZa3AYRL+nR3rYOxuoyXOx+495bqc+1H6UJqhFHEReH0Kgco+QwVrO
-5B5QMBpRKWvv+6sUx7LkHPLyE02EaPSg62dakgpev65bdrW3y7whtn4P2fCg2fT+gzDOObDehwkI
-JZK3Gee+2xZY6KcmQC1Re1WkkxYkkAekaTak8wBKnGyuukUy9V3CIT7fLyjQjZl9God1H0v05pGL
-3W61WuB6vyNie4PrgdF+Pv38Yc5+5QI/t3NcdxsClHJhmko7ujTlxq77+LABvycZNsSj5HqnXadL
-PvqrtKL9xzHhjXNGSCYLRpHQ6+SCmlbL6ddAaT6tfsete/FGEG5wwcVFWXBBwPcaPVuKT/frr++0
-TEVLcSKVq4FPwibRYB8x5vbgfFtWgwmLNAa2osG2Sl3jWs7IJgKVd1OuqvGOk8cxcdWXX/9r2dLX
-SzuHO6OUcrv0rq2KB9QbjxVyRV/dKq+TutWM6/eL9vG+k4BJr1ON72BSjSzQPgusTvJ0J5hQIjfw
-1FG7ppLz5zyhP/l0x6xudwn+8wowieeb1swvegT3pOaHAiT5OCkpux7nYUX4AGrPdQCB07UIwhe7
-HjXbAunxVhwRIesMHtU+V03kyKmasY9SO2JR2O/TSF/swOtBsPrwL2B1H+9b9llzhe8N8AyXxQ54
-/9D7kO8AO3wU2ZFIqth8SESTA6r/nGc3fAengjueOSmuQ2JF1y+goApWotTBmeqv5NRGBQjpQ6i5
-6/YVXBpIoYVlyH1B2PsLAXafH6XU3MRG4qclsJ8wi3/x9dqAO1zvHHnV2VDCvXL3D2QGz9o88yKB
-E7VaLJv/SBP2q0yUVr9L6uLDOH/qUyGVH1p6lcN+Q9DtrjvaHiUSqMJr/yCIAHJGzfBMyjdjh9OE
-w05Z6gkLEXFgHDjMc8WXYjcapAngTqgs0jGxo/Mlum7kQiIy2Jr/nCdZPs34OCisLfWgBl72WRhY
-hXS2/wxq2H9cuPpfoDgHNK6oSk6QMaf4pCmATFHzbV3w0zO03tjD8ggKKEnQmNRmybeRv3Gg3RqI
-qXTWp6SBWuWJ1NdA2icSFUR02Uot7mj24k4k+uUwh+qSLRCEoP3e1ageLzHEjMVe2iQ2QMwFeN29
-92vokhRMZphAIeJ6Qc6nVweX9+5VNUx4ln3MAR8tyu2TPRIeN5S+kLE6eESmrmFqGC0K5+VAXeaq
-woFI0D2jDbLZSx6i/ADS2j0CUqBzO8nZfFF9jZ5zYD5eJPm6ACwJiS18bwzeHo3PYub1HEcZ7A6X
-0vZyjDpB9uYzMID4tqBbTi9YqBMv6X7fO5s7UAyKZ4lCFr6GPOdk5xfxctmtosCOtn5qQVyz8xil
-JBJJZhu/DZRgWWd7+Weot0wkr/cBbARRYOd+PNolB8oat+yOIHXLybCwDApJ65DDIZeNA9CeczdE
-APdwTe7uLIaaO8lkf4axeg1WxBXw6FNk5+pd7M9es5fK2JtKs96tAjQHzuNRtjXK4O4mHYsi3gyn
-HkW4WWtuO9ghR7X0J9bImej5EdpZKDSrhrRGLGGrSSY773PVw6xIL+39E0Ikjy/OIAyKChMwJq7/
-0/mKqffxU1YEYx0bCi8x11CkJ5tubgOYT8Z2y5BKoYZGtCoJrgTcjvBBnCi7nOZ0wW36uBMvyaI1
-DxGoQAT5GVzSkrYa6gP4zsj+46u0UriOL/UcS25OtDkE5FAmZnK7I5sH09P05xeCJPcezutwLwCv
-UpfU6uDqbQqiWrz6XwhKVmxOp+v5umFxha/cGd6LiODOkAmQgmetuAiuVoVkm0BRDzXF+Iz3YqLj
-rRG1wiKZ1Wrq3zL4TJWOXDxA1ZPl69Dr2yDsvDZOlPjKtWdBtS8kijRgqzd6HeRPYfFHe7/shQQE
-eHWGigZzYP7tyAAOFx1jBPcGyRBqDw3BwWh2YTFrZR0z4oAcQeRr3kGVzErp77B3cEjgpBQSAmP4
-awU1OJYKy81XKBuqo3FxMVaLvxZN2BVPQN9ymiINuROlaRCDi5KvPUnRNNHpIiI9T66+/mgxiC5o
-ndg0kC/WiheQolglgZ3aLg6gtEKz3EFQ3QnrJK6XbkJLRCIoO9+4XXzCxoKtw2nVwbg+LghU/BZ7
-3bN0hbCRSubIwc3KleO2gYRlV/xfJJNv0lf4vemnEJwR80fn8oyauuiUFlmzPRAYN9btH1UDev0/
-RknDMUTySa/qc8gyxVAf5xaR1aZESfPgrEcLdr75QyYLUOTiNOfazU8dZKegJjENwBI/l90m5CvI
-43AB/lfT3PqFQpesibXDB57g3kcOqft5zUj+ory/D3dipqYCy3P2xLKtSMoKYMLVsJsV8VCUiKZf
-K9MZW0fSNTg5A7B/o91AN2ZeBBCASkca1UKAUuUwLZj7atPHlL7J0n7DUqLBayPUESrnKjU2iDa5
-MfCp1pLXIgWfKupQaFzjASAnDbwtD7GwDSdy8lx9Dwsw2/rrZ2MU0IZUfn1cJ4DEJ/RuNmBHtBgB
-jAG+eOBfFjFWQEMJat+r9npB92OD8bpKEg0nVQNtbCYfdyQJMogTbxXPibUjzEVj67X6kIaFpzZE
-tNjYAfwwkOc+zGosf7nrx0au3LviDzxHXqYcJPoNQPd9T2SLWCHGBxVLO2BbmqMNekcrjN60n1g+
-jMsPgtwEucZcL8JY8veHMIOmnnKxob+A87gGBGGrZPZ4zp1UPShQNF/s/w7ckRrB5+wZSwwPqfE1
-P2QJbOy5053kVSH2V8XR4BgdI/x6dn9Iz1bmcg3ICkgGNAbTmXfy49wYom/PCOEj/7Kus5wj6F7w
-Ir2QLgPmf0ATM152O8ENoeZzuVkeXDGXQDsfdp41wVuLNWXuVu3N3I2PtF/c6dySgF1oyU9btjX6
-eRA7uVWzsEPMhDIUdAdGi7Cwh43+U0Bq+FuDk29NTgLA/LFxmak8gyr9Iq5BfFXS0juGtctZmhly
-LaSd3KPvG+wfjRgpYg1JB8A6HUY0qz+QpzgG0xe0/REyuWn2mUa8/bLeRwlNesmV+8GrRS1UXYOM
-wQ8SwRB/mytGTYWe/x8k64f9K+pLIVb2QR8CKDCIkBnXIB7ygvmFNkS0pCMfbKQ+pkjEJ1aiDQs0
-q324JTbUq5hnCxhcQgisNvY/d0XIC3jM7BbTYn7y1o8uvKTTFJW307AdDrit/NKVfabQkdm9HCTN
-bR2vgQGXAmNIugEZqbKhWVZV8lcRBm61a/ldtTrj3+I2IV9wCbVutDL7dBK6QTPsAl92vFVzPwsH
-8S8j/v1Prs9mBzwnXql3xXUX1kUnrRjFtFBszMltwXl0TCsWvvCGCutkL57SdHvmItJ+KlKqjYYj
-gaIMO5ofaiCIOTgTx5jalxUkTJ4pQqeaM3drt3Mx+9RCaSoEtP2XftcCqbmRSnvDjaKVxlRmZ6ec
-KrqEiSqBpyhJgs2nlDZMncuxpsJQOzT9d3ygXXGsI04Nudzo01Tby5SaKnoLZ0KORkN+8NxAvslu
-X3OCAyGFPZu+XVwXBE9fdri8tv80yAGSfJJFABwzc+uqXanMTN+XXeFh667ge9x0mwHeWtKQz1L1
-v2EIH5SZd4xWyd2P2YyzIBhLLfJXBKowVRPIja6sLXeDzTYjFq7PZ1c73VggARHtxhQy08HiTwv2
-zYJ/oEE9RV5VhB9xhzr3wN6naBQ3cVW6
+<script type="text/javascript">
+
+    var envioCorreo = '<?php
+if (isset($envioCorreo)) {
+    echo $envioCorreo;
+} else {
+    echo'0';
+}
+?>';
+    var idpred = 0;
+    function enviarEmail(idpre, email) {
+        document.getElementById('btnEnviar').disabled = false;
+        $('#datEmail').val(email);
+        idpred = idpre;
+    }
+
+    function enviarEmailData() {
+        var emaild = $('#datEmail').val();
+        if (envioCorreo === "1") {
+            document.getElementById('btnEnviar').disabled = true;
+            $('#mensaje').html('Enviado Información, por favor espere.');
+//        console.log(emaild, idpred);
+            if ((idpred === null || idpred === "") || (emaild === null || emaild === "")) {
+                $('#cancelar').click();
+                Swal.fire({
+                    icon: 'error',
+                    text: 'Campo email vacio.'
+                });
+            } else {
+                $.ajax({
+                    url: '<?php echo base_url(); ?>index.php/oficina/informes/CPrerevision/generar',
+                    type: 'post',
+                    mimeType: 'json',
+                    data: {savePdf: 1,
+                        idpre_prerevision: idpred,
+                        email: emaild
+                    },
+                    success: function (data, textStatus, jqXHR) {
+//                        console.log(data)
+                        $('#cancelar').click();
+                        Swal.fire({
+                            icon: 'success',
+                            text: 'Email enviado con exito.',
+                        })
+
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        $('#cancelar').click();
+                        Swal.fire({
+                            icon: 'error',
+                            html: 'No se pudo enviar el email.<br>'.jqXHR.text,
+                        })
+                    }
+                })
+            }
+        } else {
+            $('#cancelar').click();
+            Swal.fire({
+                icon: 'error',
+                html: 'Apreciado usuario, usted no tiene habilitado este módulo de envío. por favor comuníquese con TECMMAS SAS<br>',
+            });
+        }
+
+    }
+
+</script>

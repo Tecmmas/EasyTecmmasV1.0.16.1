@@ -1,35 +1,86 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php $this->load->view('header'); ?>
+<script type="text/javascript">
+   
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+
+        <div class='col-12'>
+            <div class="page-title">
+
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">LINEA LIVIANOS PRINCIPAL</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+
+        <div class="col-xl-12">
+            <section class="box ">
+                <header class="panel_header">
+                    <h4 class="title float-left">VEHICULOS DISPONIBLES</h4>
+
+                </header>
+                <div class="content-body">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Bordered Table</h2>
+                                    <div class="actions panel_actions float-right">
+                                        <a class="box_toggle fa fa-chevron-down"></a>
+                                        <a class="box_setting fa fa-cog" data-toggle="modal" href="#section-settings"></a>
+                                        <a class="box_close fa fa-times"></a>
+                                    </div>
+                                </header>
+                                <div class="content-body">    <div class="row">
+                                        <div class="col-12">
+                                            <form action="<?php echo base_url(); ?>index.php/CPrueba" method="post">
+                                                <table class="table table-bordered">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Fecha</th>
+                                                            <th>Placa</th>
+                                                            <th>Iniciar</th>
+                                                        </tr>
+                                                        <?php ?>
+                                                    </thead>
+                                                    <tbody>
+                                                        <?php foreach ($pruebas->result() as $p) { ?>
+                                                            <tr>
+
+                                                                <td><?php echo $p->fecha; ?></td>
+                                                                <th scope="row"><?php echo $p->placa; ?></th>
+                                                                <td><button class="btn btn-primary btn-block" name="idprueba" value ="<?php echo $p->idprueba; ?>" type="submit">Iniciar</button></td>
+                                                            </tr>
+                                                        <?php } ?>
+                                                    </tbody>
+                                                </table>
+                                            </form>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php
+$this->load->view('footer');

@@ -1,34 +1,89 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-8/q3zPC1v1yZxtcEhIXoTLu39xBMZfa2hN7p8Hu=
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Welcome to CodeIgniter</title>
+
+	<style type="text/css">
+
+	::selection { background-color: #E13300; color: white; }
+	::-moz-selection { background-color: #E13300; color: white; }
+
+	body {
+		background-color: #fff;
+		margin: 40px;
+		font: 13px/20px normal Helvetica, Arial, sans-serif;
+		color: #4F5155;
+	}
+
+	a {
+		color: #003399;
+		background-color: transparent;
+		font-weight: normal;
+	}
+
+	h1 {
+		color: #444;
+		background-color: transparent;
+		border-bottom: 1px solid #D0D0D0;
+		font-size: 19px;
+		font-weight: normal;
+		margin: 0 0 14px 0;
+		padding: 14px 15px 10px 15px;
+	}
+
+	code {
+		font-family: Consolas, Monaco, Courier New, Courier, monospace;
+		font-size: 12px;
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+	}
+
+	#body {
+		margin: 0 15px 0 15px;
+	}
+
+	p.footer {
+		text-align: right;
+		font-size: 11px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 32px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+	}
+
+	#container {
+		margin: 10px;
+		border: 1px solid #D0D0D0;
+		box-shadow: 0 0 8px #D0D0D0;
+	}
+	</style>
+</head>
+<body>
+
+<div id="container">
+	<h1>Welcome to CodeIgniter!</h1>
+
+	<div id="body">
+		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+
+		<p>If you would like to edit this page you'll find it located at:</p>
+		<code>application/views/welcome_message.php</code>
+
+		<p>The corresponding controller for this page is found at:</p>
+		<code>application/controllers/Welcome.php</code>
+
+		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
+	</div>
+
+	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
+</div>
+
+</body>
+</html>

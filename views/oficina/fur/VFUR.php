@@ -1,43 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1BC86+q1vwgBwycw
+<?php
+
+$pdf = new TCPDF('P', PDF_UNIT, PDF_PAGE_FORMAT_LEGAL, true, 'UTF-8', false);
+
+$pdf->SetCreator(PDF_CREATOR);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT_FUR, PDF_MARGIN_TOP_FUR, PDF_MARGIN_RIGHT_FUR);
+$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+$pdf->SetFont('helvetica', '', 8);
+$pdf->SetPrintHeader(false);
+$pdf->SetPrintFooter(false);
+$pdf->AddPage();
+
+//TITULO Y NUMERO CONSECUTIVO
+$html = <<<EOF
+<table cellpadding="2">
+        <tr>
+                <td  width="80%" ><label><strong>$titulo</strong></label></td>
+                <td  width="20%" border="1"><label>$consecutivo</label></td>
+        </tr>
+</table>
+
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+
+
+$pdf->Output("fur.pdf", 'I');
+

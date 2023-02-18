@@ -1,175 +1,635 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<html class=" ">
+    <head>
+        <!-- 
+         * @Package: Complete Admin - Responsive Theme
+         * @Subpackage: Bootstrap
+         * @Version: BS4-1.0
+         * This file is part of Complete Admin Theme.
+        -->
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>USUARIOS</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+
+
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/> -->
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+        <link href="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" media="screen"/>
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/tecmmas.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <body class=" ">
+        <!-- START TOPBAR -->
+        <div class='page-topbar '>
+            <div class='logo-area'>
+
+            </div>
+            <div class='quick-area'>
+                <div class='float-left'>
+                    <ul class="info-menu left-links list-inline list-unstyled">
+                        <li class="message-toggle-wrapper list-inline-item">
+                            <ul class="dropdown-menu messages animated fadeIn">
+                                <li class="list dropdown-item">
+                                </li>
+                            </ul>
+                        </li>
+                </div>		
+            </div>
+
+        </div>
+        <!-- END TOPBAR -->
+
+        <!-- START CONTENT -->
+        <section class="wrapper main-wrapper row" style=''>
+            <div class="clearfix"></div>
+            <!-- MAIN CONTENT AREA STARTS -->
+            <div class="col-xl-12">
+                <section class="box ">
+                    <div class="content-body"  style="background: whitesmoke">    
+                        <div class="row" >
+                            <div class="col-lg-12 col-md-12 col-12">
+                                <section class="box ">
+                                    <header class="panel_header">
+                                        <h2 class="title float-left">CREAR USUARIOS</h2>
+                                    </header>
+                                    <div class="content-body" >    
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/usuarios/Cusuarios" style="width: 100px" method="post">
+                                            <input name="button" class="btn btn-block bot_azul"  type="submit"  value="Atras" />   
+                                        </form>     
+                                        <br>
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/usuarios/Cusuarios/crearUsuario" id="form-reg-user" method="post">
+                                            <input type="hidden" name="idcliente" value=""/>
+                                            <table class="table dt-responsive display">
+                                                <?php if (isset($usuario)) { ?>
+                                                    <?php foreach ($usuario as $value): ?>
+                                                        <tr>
+                                                            <td style="text-align: right">
+                                                                TIPO DOCUMENTO
+                                                            </td>
+                                                            <td>
+                                                                <select class="form-control" name="tipo_identificacion" style="background: #FFE1E1">
+                                                                    <?php if (isset($value->tipoidentificacion)): ?>
+                                                                        <option value="<?= $value->tipoidentificacion ?>"><?= $value->nombreidentificacion ?></option>
+                                                                    <?php endif; ?>
+                                                                    <option value="1">Cédula de ciudadanía</option>
+                                                                    <option value="2">Numero Identificación Tributaria (NIT)</option>
+                                                                    <option value="3">Cédula de extrangería</option>
+                                                                    <option value="4">Tarjeta de identidad</option>
+                                                                    <option value="5">N. único de Id. Personal</option>
+                                                                    <option value="6">Pasaporte</option>
+                                                                </select>
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                            </td>
+                                                            <td style="text-align: right">
+                                                                NUMERO DE DOCUMENTO
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control" name="numero_identificacion" value="<?php
+                                                                if (isset($value->identificacion)) {
+                                                                    echo $value->identificacion;
+                                                                }
+                                                                ?>" style="background: #FFE1E1" type="number" >
+                                                                <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('numero_identificacion'); ?></strong>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: right">
+                                                                NOMBRES
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control" name="nombres" value="<?php
+                                                                if (isset($value->nombres)) {
+                                                                    echo $value->nombres;
+                                                                }
+                                                                ?>" style="background: #FFE1E1; text-transform: uppercase" type="text" autocomplete="off" >
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                            </td>
+                                                            <td style="text-align: right">
+                                                                APELLIDOS
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control" name="apellidos" value="<?php
+                                                                if (isset($value->apellidos)) {
+                                                                    echo $value->apellidos;
+                                                                }
+                                                                ?>" style="background: #FFE1E1; text-transform: uppercase" type="text" autocomplete="off">
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: right">
+                                                                PERFIL
+                                                            </td>
+                                                            <td>
+                                                                <select class="form-control" name="tipo_perfil" style="background: #FFE1E1">
+                                                                    <?php if (isset($value->idperfil)): ?>
+                                                                        <option value="<?= $value->idperfil ?>"><?= $value->perfil ?></option>
+                                                                    <?php endif; ?>
+                                                                    <option value="1">Administrador</option>
+                                                                    <option value="2">Operario</option>
+                                                                    <option value="3">Supervisor</option>
+                                                                    <option value="4">Administrativo</option>
+                                                                    <option value="5">Sistemas</option>
+                                                                    <option value="6">Auditor del sistema</option>
+                                                                    <option value="7">Representante legal</option>
+                                                                </select>
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                            </td>
+                                                            <td style="text-align: right">
+                                                                USUARIO
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control" name="usuario" value="<?php
+                                                                if (isset($value->usuario)) {
+                                                                    echo $value->usuario;
+                                                                }
+                                                                ?>" type="text" style="background: #FFE1E1">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+
+                                                            <td style="text-align: right">
+                                                                CONTRASEÑA
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control contrasenaconeach" name="contrasena" id="contrasena" onkeyup="validarcontrasenauser()" value="<?php
+                                                                if (isset($value->passwd)) {
+                                                                    echo $value->passwd;
+                                                                }
+                                                                ?>" style="background: #FFE1E1" type="password">
+                                                                <input class="form-control" name="contrasenaold"  value="<?php
+                                                                if (isset($value->passwd)) {
+                                                                    echo $value->passwd;
+                                                                }
+                                                                ?>" style="background: #FFE1E1" type="hidden">
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                                <div id="divcontra"></div>
+                                                            </td>
+                                                            <td style="text-align: right">
+                                                                ESTADO
+                                                            </td>
+                                                            <td>
+                                                                <select class="form-control" name="estado" style="background: #FFE1E1">
+                                                                    <?php if (isset($value->estado)): ?>
+                                                                        <option value="<?= $value->idestado ?>"><?= $value->estado ?></option>
+                                                                    <?php endif; ?>
+                                                                    <option value="1">Activo</option>
+                                                                    <option value="0">Inactivo</option>
+
+                                                                </select>
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: right">
+                                                                CONFIRMAR CONTRASEÑA
+                                                            </td>
+                                                            <td>
+                                                                <input class="form-control confircontrasenaconeach" name="confirmcontrasena" value="<?php
+                                                                if (isset($value->passwd)) {
+                                                                    echo $value->passwd;
+                                                                }
+                                                                ?>" style="background: #FFE1E1" type="password">
+                                                                <input name='idusuario'  id="idusuario" type='hidden' value='<?php
+                                                                if (isset($value->IdUsuario)) {
+                                                                    echo $value->IdUsuario;
+                                                                }
+                                                                ?>'>
+                                                                <strong style="color: #E31F24;font-size: 12px "></strong>
+                                                                <div id="divcontraconf"></div>
+                                                            </td>
+                                                        </tr>
+                                                    <?php endforeach; ?>
+                                                <?php } else { ?>
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            TIPO DOCUMENTO
+                                                        </td>
+                                                        <td>
+                                                            <select class="form-control" name="tipo_identificacion" style="background: #FFE1E1">
+                                                                <?php
+                                                                if (isset($tipoidentificacion)) {
+                                                                    echo $tipoidentificacion;
+                                                                } else {
+                                                                    ?>
+                                                                    <option value=""></option>
+                                                                <?php }; ?>
+                                                                <option value="1">Cédula de ciudadanía</option>
+                                                                <option value="2">Numero Identificación Tributaria (NIT)</option>
+                                                                <option value="3">Cédula de extrangería</option>
+                                                                <option value="4">Tarjeta de identidad</option>
+                                                                <option value="5">N. único de Id. Personal</option>
+                                                                <option value="6">Pasaporte</option>
+                                                            </select>
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('tipo_identificacion'); ?></strong>
+                                                        </td>
+                                                        <td style="text-align: right">
+                                                            NUMERO DE DOCUMENTO
+                                                        </td>
+                                                        <td>
+                                                            <input class="form-control" name="numero_identificacion" value="<?php
+                                                            if (isset($identificacion)) {
+                                                                echo $identificacion;
+                                                            }
+                                                            ?>" style="background: #FFE1E1" type="number" >
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('numero_identificacion'); ?></strong>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            NOMBRES
+                                                        </td>
+                                                        <td>
+                                                            <input class="form-control" name="nombres" value="<?php
+                                                            if (isset($nombres)) {
+                                                                echo $nombres;
+                                                            }
+                                                            ?>" style="background: #FFE1E1; text-transform: uppercase" type="text" autocomplete="off" >
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('nombres'); ?></strong>
+                                                        </td>
+                                                        <td style="text-align: right">
+                                                            APELLIDOS
+                                                        </td>
+                                                        <td>
+                                                            <input class="form-control" name="apellidos" value="<?php
+                                                            if (isset($apellidos)) {
+                                                                echo $apellidos;
+                                                            }
+                                                            ?>" style="background: #FFE1E1; text-transform: uppercase" type="text" autocomplete="off">
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('apellidos'); ?></strong>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            PERFIL
+                                                        </td>
+                                                        <td>
+                                                            <select class="form-control" name="tipo_perfil" style="background: #FFE1E1">
+                                                                <?php
+                                                                if (isset($perfil)) {
+                                                                    echo $perfil;
+                                                                } else {
+                                                                    ?>
+                                                                    <option value=""></option>
+                                                                <?php }; ?>
+                                                                <option value="1">Administrador</option>
+                                                                <option value="2">Operario</option>
+                                                                <option value="3">Supervisor</option>
+                                                                <option value="4">Administrativo</option>
+                                                                <option value="5">Sistemas</option>
+                                                                <option value="6">Auditor del sistema</option>
+                                                                <option value="7">Representante legal</option>
+                                                            </select>
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('tipo_perfil'); ?></strong>
+                                                        </td>
+                                                        <td style="text-align: right">
+                                                            USUARIO
+                                                        </td>
+                                                        <td>
+                                                            <input class="form-control" name="usuario" value="<?php
+                                                            if (isset($usuarios)) {
+                                                                echo $usuarios;
+                                                            }
+                                                            ?>" type="text" style="background: #FFE1E1">
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('usuario'); ?></strong>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            CONTRASEÑA
+                                                        </td>
+                                                        <td >
+                                                            <input class="form-control" name="contrasena" id="contrasena" value="<?php
+                                                            if (isset($contrasena)) {
+                                                                echo $contrasena;
+                                                            }
+                                                            ?>" style="background: #FFE1E1" onkeyup="validarcontrasenauser()"  type="password">
+                                                            
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('contrasena'); ?></strong>
+                                                            <div id="divcontra"></div>
+                                                        </td>
+
+                                                        <td style="text-align: right">
+                                                            ESTADO
+                                                        </td>
+                                                        <td>
+                                                            <select class="form-control" name="estado" style="background: #FFE1E1">
+                                                                <?php
+                                                                if (isset($estado)) {
+                                                                    echo $estado;
+                                                                } else {
+                                                                    ?>
+                                                                    <option value=""></option>
+                                                                <?php }; ?>
+                                                                <option value="1">Activo</option>
+                                                                <option value="0">Inactivo</option>
+                                                            </select>
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('estado'); ?></strong>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            CONFIRMAR CONTRASEÑA
+                                                        </td>
+                                                        <td>
+                                                            <input class="form-control" name="confirmcontrasena" id="confirmcontrasena" value="" style="background-color: #FFE1E1" onkeyup="validarconfcontra()" type="password">
+                                                            <strong style="color: #E31F24;font-size: 12px "><?php echo form_error('confirmcontrasena'); ?></strong>
+                                                            <div id="divcontraconf"></div>
+                                                        </td>
+                                                    </tr>
+                                                <?php }; ?>
+                                            </table>
+                                            <table style="text-align: center;width: 100%" >
+                                                <tr>
+                                                    <td>
+                                                        <input name="guardar" id="guardar" class="btn btn-block bot_gris" value="Guardar" />   
+                                                        <input type="hidden" name="guardarref" id="guardarref" class="btn btn-block bot_gris" value="" />
+                                                        <div style="color: green; font-size: 8 px"> <?php
+                                                            echo $this->session->flashdata('error');
+                                                            if (isset($mensaje)) {
+                                                                echo $mensaje;
+                                                            }
+                                                            ?></div>
+                                                    </td>
+                                                    <td>
+                                                        <input name="btnguardarnuevo" id="btnguardarnuevo" class="btn btn-block bot_gris" value="Guardar y nuevo"/> 
+                                                        <input type="hidden" name="btnguardarnuevoref" id="btnguardarnuevoref" class="btn btn-block bot_gris" value="" />   
+                                                    </td>
+                                                    <td>
+                                                        <input name="guardarfinalizar" id="guardarfinalizar" class="btn btn-block bot_gris" value="Guardar y finalizar"/>
+                                                        <input type="hidden" name="guardarfinalizarref" id="guardarfinalizarref" class="btn btn-block bot_gris" value="" /> 
+                                                    </td>
+                                                    <td>
+                                                        <input name="btnnuevo" class="btn btn-block bot_verde" type="submit" value="Nuevo" />   
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </form>
+                                        <br>
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/usuarios/Cusuarios" method="post" style="width: 200px">
+                                            <input name="button" class="btn btn-block bot_rojo"  type="submit"  value="Cancelar" />   
+                                        </form> 
+
+                                        <br>
+                                        <div style="text-align: center;color: gray">
+                                            Copyright © 2021 TECMMAS SAS    
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+            <!-- MAIN CONTENT AREA ENDS -->
+        </section>
+    </section>
+    <!-- END CONTENT -->
+
+
+    <!-- END CONTAINER -->
+    <!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+    <!-- CORE JS FRAMEWORK - START --> 
+    <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+    <script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+    <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+    <!-- CORE JS FRAMEWORK - END --> 
+
+
+    <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+    <script src="<?php echo base_url(); ?>assets/plugins/inputmask/min/jquery.inputmask.bundle.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.js" type="text/javascript"></script> 
+    <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.min.js" type="text/javascript"></script> 
+    <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+    <!-- CORE TEMPLATE JS - START --> 
+    <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+    <!-- END CORE TEMPLATE JS - END --> 
+
+    <script type="text/javascript">
+
+
+                                                            $(document).ready(function () {
+
+                                                                var contra = $("#contrasena").val();
+                                                                if (contra !== "" && contra !== null) {
+                                                                    habilitarBotones();
+                                                                } else {
+                                                                    deshabilitarBotones();
+                                                                }
+
+                                                            })
+                                                            $('#contrasena').click(function () {
+                                                                var contrasenna = $('#contrasena').val();
+                                                                if (contrasenna.length == 0) {
+                                                                    $('#divcontra').html("<p style='font-weight: bold;color: black; text-align: left;; font-size: 9px'>" +
+                                                                            "Bienvenido(a) tenga en cuenta lo siguiente para la asignacion de contraseña: <br>" +
+                                                                            "1.Las contraseñas deben tener 6 o mas caracteres<br>" +
+                                                                            "2.Debe combinar letras mayúsculas, minúsculas y números.<br>" +
+                                                                            "4.Debe contener almenos un caracter especial. Ejemplo: @*,.<br>" +
+                                                                            "5.No se pueden repetir caracteres en la contraseña.<br>" +
+                                                                            "</p>");
+                                                                }
+                                                            });
+                                                            function validarcontrasenauser() {
+                                                                var contrasenna = $('#contrasena').val();
+                                                                if (contrasenna.length >= 6) {
+                                                                    var mayuscula = false;
+                                                                    var minuscula = false;
+                                                                    var numero = false;
+                                                                    var caracter_raro = false;
+                                                                    for (var i = 0; i < contrasenna.length; i++) {
+                                                                        if (contrasenna.charCodeAt(i) >= 65 && contrasenna.charCodeAt(i) <= 90)
+                                                                        {
+                                                                            mayuscula = true;
+                                                                        } else if (contrasenna.charCodeAt(i) >= 97 && contrasenna.charCodeAt(i) <= 122)
+                                                                        {
+                                                                            minuscula = true;
+                                                                        } else if (contrasenna.charCodeAt(i) >= 48 && contrasenna.charCodeAt(i) <= 57)
+                                                                        {
+                                                                            numero = true;
+                                                                        } else
+                                                                        {
+                                                                            caracter_raro = true;
+                                                                        }
+                                                                    }
+
+                                                                    if (mayuscula == true && minuscula == true && caracter_raro == true && numero == true) {
+                                                                        console.log($("#idusuario").val())
+                                                                        $.ajax({
+                                                                            url: '<?php echo base_url(); ?>index.php/oficina/contrasenas/Ccontrasenas/getpassword',
+                                                                            type: 'post',
+                                                                            mimeType: 'json',
+                                                                            data: {iduser: $("#idusuario").val(),
+                                                                                contrasenna: $('#contrasena').val()},
+                                                                            success: function (data) {
+                                                                                if (data == 1) {
+                                                                                    $('#divcontra').html(' ');
+                                                                                    $('#divcontra').html('<div style=" color: red; font-size: 12px">La contraseña fue asignada anteriormente.</div>');
+                                                                                    deshabilitarBotones();
+                                                                                }
+                                                                            }
+                                                                        });
+                                                                        var rta = camposrepetidos(contrasenna);
+                                                                        if (rta == true) {
+                                                                            deshabilitarBotones()
+                                                                            $('#divcontra').html(' ');
+                                                                            $('#divcontra').html('<div style=" color: red; font-size: 12px">La contraseña no puede tener caracteres repetidos.</div>');
+                                                                        } else {
+                                                                            habilitarBotones();
+                                                                            $('#divcontra').html('<div style=" color: green; font-size: 12px">La contraseña cumple con los parametros.</div>');
+                                                                        }
+                                                                    } else {
+                                                                        deshabilitarBotones()
+                                                                        $('#divcontra').html(' ');
+                                                                        $('#divcontra').html('<div style=" color: red; font-size: 12px">La contraseña no cumple con los parametros.</div>');
+                                                                    }
+                                                                }
+                                                            }
+                                                            function camposrepetidos(contrasenna) {
+                                                                var arraycontra = contrasenna.split("");
+                                                                var campos = arraycontra.sort();
+                                                                var repetido = false;
+                                                                for (var i = 0; i < campos.length; i++) {
+                                                                    if (campos[i] == campos[i + 1]) {
+                                                                        return repetido = true;
+                                                                    }
+                                                                }
+                                                                return repetido;
+                                                            }
+                                                            $('#guardar').click(function (ev) {
+                                                                ev.preventDefault();
+                                                                $('#guardarref').val('guardarref');
+                                                                var contrasenaconeach = $('.contrasenaconeach').val();
+                                                                var confircontrasenaconeach = $('.confircontrasenaconeach').val();
+                                                                var contrasena = $('#contrasena').val();
+                                                                var confirmcontrasena = $('#confirmcontrasena').val();
+                                                                if (contrasena.length < 6) {
+                                                                    deshabilitarBotones()
+                                                                    $('#contrasena').val('');
+                                                                    $('#confirmcontrasena').val('');
+                                                                    $('#divcontra').html("<p style='font-weight: bold;color: red; text-align: left;; font-size: 9px'>La contraseña no cumple con la longitud</p>");
+                                                                } else {
+                                                                    if (contrasena == confirmcontrasena) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else if (contrasenaconeach == confircontrasenaconeach) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else {
+                                                                        deshabilitarBotones();
+                                                                        $('#contrasena').val('');
+                                                                        $('#confirmcontrasena').val('');
+                                                                        $('#divcontraconf').html('<div style=" color: red; font-size: 12px">Las contraseña no coinciden.</div>');
+                                                                    }
+                                                                }
+
+//                                                                    $('#mesaje').html('Usuario Creado');
+
+                                                            });
+                                                            $('#btnguardarnuevo').click(function (ev) {
+                                                                ev.preventDefault();
+                                                                $('#btnguardarnuevoref').val('btnguardarnuevoref');
+                                                                var contrasenaconeach = $('.contrasenaconeach').val();
+                                                                var confircontrasenaconeach = $('.confircontrasenaconeach').val();
+                                                                var contrasena = $('#contrasena').val();
+                                                                var confirmcontrasena = $('#confirmcontrasena').val();
+                                                                if (contrasena.length < 6) {
+                                                                    deshabilitarBotones();
+                                                                    $('#contrasena').val('');
+                                                                    $('#confirmcontrasena').val('');
+                                                                    $('#divcontra').html("<p style='font-weight: bold;color: red; text-align: left;; font-size: 9px'>La contraseña no cumple con la longitud</p>");
+                                                                } else {
+                                                                    if (contrasena == confirmcontrasena) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else if (contrasenaconeach == confircontrasenaconeach) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else {
+                                                                        deshabilitarBotones();
+                                                                        $('#contrasena').val('');
+                                                                        $('#confirmcontrasena').val('');
+                                                                        $('#divcontraconf').html('<div style=" color: red; font-size: 12px">Las contraseña no coinciden.</div>');
+                                                                    }
+                                                                }
+                                                            });
+                                                            $('#guardarfinalizar').click(function (ev) {
+                                                                ev.preventDefault();
+                                                                $('#guardarfinalizarref').val('guardarfinalizarref');
+                                                                var contrasenaconeach = $('.contrasenaconeach').val();
+                                                                var confircontrasenaconeach = $('.confircontrasenaconeach').val();
+                                                                var contrasena = $('#contrasena').val();
+                                                                var confirmcontrasena = $('#confirmcontrasena').val();
+                                                                if (contrasena.length < 6) {
+                                                                    deshabilitarBotones();
+                                                                    $('#contrasena').val('');
+                                                                    $('#confirmcontrasena').val('');
+                                                                    $('#divcontra').html("<p style='font-weight: bold;color: red; text-align: left;; font-size: 9px'>La contraseña no cumple con la longitud</p>");
+                                                                } else {
+                                                                    if (contrasena == confirmcontrasena) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else if (contrasenaconeach == confircontrasenaconeach) {
+                                                                        $('#form-reg-user').submit();
+                                                                    } else {
+                                                                        deshabilitarBotones();
+                                                                        $('#contrasena').val('');
+                                                                        $('#confirmcontrasena').val('');
+                                                                        $('#divcontraconf').html('<div style=" color: red; font-size: 12px">Las contraseña no coinciden.</div>');
+                                                                    }
+                                                                }
+                                                            });
+
+                                                            function habilitarBotones() {
+                                                                document.getElementById("guardar").disabled = false;
+                                                                document.getElementById("btnguardarnuevo").disabled = false;
+                                                                document.getElementById("guardarfinalizar").disabled = false;
+                                                            }
+                                                            function deshabilitarBotones() {
+                                                                document.getElementById("guardar").disabled = true;
+                                                                document.getElementById("btnguardarnuevo").disabled = true;
+                                                                document.getElementById("guardarfinalizar").disabled = true;
+                                                            }
+
+    </script>
+
+</body>
+</html>

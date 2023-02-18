@@ -1,40 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-BKXe1V3zVaLXkG2JI0y=
+<?php $this->load->view('./header'); ?>
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+
+        <div class='col-12'>
+            <div class="page-title">
+
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">GESTION DE USUARIOS</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <section class="box ">
+            <header class="panel_header">
+                <h2 class="title pull-left">USUARIOS REGISTRADOS</h2>
+            </header>
+            <div class="content-body"> 
+
+                <table style="width: 100%;text-align: left">
+                    <tr>
+                        <td style="text-align: left;width: 200px">
+                            <form action="<?php echo base_url(); ?>/index.php/oficina/usuarios/Cusuarios/getUsuarios" method="post" style="width: 100%">
+                                <input type="submit" name="agregar" id="wp-submit" class="btn bot_verde btn-block" style="width: 150px" value="Agregar" />
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+                <br>
+                <div class="col-xs-12">
+                    <table id="example-1" class="table table-striped dt-responsive display">
+                        <thead>
+                            <tr>
+                                <th>Nombres</th>
+                                <th>Apellidos</th>
+                                <th>Perfil</th>
+                                <th>Identificacion</th>
+                                <th>Estado</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tfoot>
+                            <tr>
+                                <th>Nombres</th>
+                                <th>Apellidos</th>
+                                <th>Perfil</th>
+                                <th>Identificacion</th>
+                                <th>Estado</th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                        <tbody>
+                            <?php foreach ($usuarios as $value): ?>
+                                <tr>
+                                    <td><?= $value->nombres ?></td>
+                                    <td><?= $value->apellidos ?></td>
+                                    <td><?= $value->perfil ?></td>
+                                    <td><?= $value->identificacion ?></td>
+                                    <td><?= $value->estado ?></td>
+                                    <td><form action='<?php echo base_url(); ?>/index.php/oficina/usuarios/Cusuarios/getUsuarios' method='post'>
+                                            <input name='idusuario' type='hidden' value='<?= $value->IdUsuario ?>'>
+                                            <input name='button' class='btn btn-block'  style='width: content-box;
+                                                   border-radius: 10px 10px 10px 10px;
+                                                   background: whitesmoke;
+                                                   border: solid gold;
+                                                   color: black' type='submit' value='Ver/Editar' />   
+                                        </form>
+                                    </td> 
+                                </tr>
+                            <?php endforeach; ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<?php $this->load->view('./footer'); ?>

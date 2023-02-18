@@ -1,129 +1,174 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+class MyTCPDF extends TCPDF {
+
+    var $htmlHeader;
+    var $fechaAprobacionPre;
+    var $versionPre;
+
+    public function setHtmlHeader($htmlHeader) {
+        $this->htmlHeader = $htmlHeader;
+    }
+
+    public function setHtmlFooter($fechaAprobacionPre, $versionPre) {
+        $this->fechaAprobacionPre = $fechaAprobacionPre;
+        $this->versionPre = $versionPre;
+    }
+
+    public function Header() {
+        $this->writeHTMLCell(
+                $w = 0, $h = 0, $x = '', $y = '', $this->htmlHeader, $border = 0, $ln = 1, $fill = 0, $reseth = true, $align = 'top', $autopadding = true);
+    }
+
+    public function Footer() {
+        $this->SetFont('helvetica', 'I', 8);
+        if ($this->fechaAprobacionPre == "") {
+            $this->SetY(-15);
+            $this->Cell(0, 10, $this->getAliasNumPage() . ' de ' . $this->getAliasNbPages(),
+                    0, false, 'R', 0, '', 0, false, 'T', 'M');
+        } else {
+            $this->SetY(-20);
+            $this->writeHTML('<table><tr><td width="460px"></td><td><table  border="1" style="text-align:center" nobr="true"><tr><td width="105px"><strong>Versión</strong></td><td width="80px">' . $this->versionPre . '</td></tr><tr><td><strong>Fecha de aprobación</strong></td><td>' . $this->fechaAprobacionPre . '</td></tr><tr><td><strong>Páginas</strong></td><td>' . $this->getAliasNumPage() . ' de ' . $this->getAliasNbPages() . '</td></tr></table></td></tr></table>', false, true, false, true, 'R');
+        }
+    }
+
+}
+
+$pdf = new MyTCPDF('P', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
+
+//$titulo = "PRE-REVISIÓN VEHICULOS - CODIGO: P.IV.002-R1 - VERSION: 7 - FECHA: 2019/07/30";
+//$logo = "data:image/jpg;base64," . base64_encode($cda->logo);
+//$logo = $pdf->Image('@' . $logo);
+//$pdf->SetHeaderData($logo, PDF_HEADER_LOGO_WIDTH, "CDA MI CARRERA SAS", $titulo);
+//$logo = "data:image/jpg;base64," . base64_encode($cda->logo);
+//$file = fopen($_SERVER['DOCUMENT_ROOT'] . 'et/application/libraries/tcpdf_logo.jpg', "wb");
+//fwrite($file, $cda->logo);
+//fclose($file);
+
+$pdf->SetCreator(PDF_CREATOR);
+// set default header data
+
+$pdf->setHtmlHeader($encabezado);
+$pdf->setHtmlFooter($fechaAprobacionPre, $versionPre);
+
+//$logo = "data:image/jpg;base64," . base64_encode($cda->logo);
+//$logo = file_get_contents($logo);
+//$path = tempnam(sys_get_temp_dir(), 'prefix');
+//file_put_contents($path, $logo);
+//$pdf->SetHeaderData($path, PDF_HEADER_LOGO_WIDTH, PDF_HEADER_TITLE . ' 009', PDF_HEADER_STRING);
+//$pdf->SetHeaderData($path, PDF_HEADER_LOGO_WIDTH, "CDA MI CARRERA SAS", $titulo);
+// set header and footer fonts
+$pdf->setHeaderFont(Array(PDF_FONT_NAME_MAIN, '', PDF_FONT_SIZE_MAIN));
+$pdf->setFooterFont(Array(PDF_FONT_NAME_DATA, '', PDF_FONT_SIZE_DATA));
+
+// set default monospaced font
+$pdf->SetDefaultMonospacedFont(PDF_FONT_MONOSPACED);
+
+// set margins
+$pdf->SetMargins(PDF_MARGIN_LEFT, PDF_MARGIN_TOP, PDF_MARGIN_RIGHT);
+$pdf->SetHeaderMargin(3);
+//$pdf->SetHeaderMargin(PDF_MARGIN_HEADER);
+$pdf->SetFooterMargin(PDF_MARGIN_FOOTER);
+
+// set auto page breaks
+$pdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
+
+// set image scale factor
+$pdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
+
+// set some language-dependent strings (optional)
+if (@file_exists(dirname(__FILE__) . '/lang/eng.php')) {
+    require_once(dirname(__FILE__) . '/lang/eng.php');
+    $pdf->setLanguageArray($l);
+}
+
+// -------------------------------------------------------------------
+// set font
+$pdf->SetFont('helvetica', '', 8);
+
+// add a page
+$pdf->AddPage();
+//------------------------------------------------------------------------------INFORMACION DEL VEHICULO
+$html = <<<EOF
+$datoVehiculo
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+//------------------------------------------------------------------------------PRESION DE AIRE
+$html = <<<EOF
+<p><strong>Presión de inflado (Psi)</strong></p>
+<table cellpadding="1" cellspacing="1" border="1" style="text-align:center" nobr="true">
+    $presion_llantas
+</table>
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+////------------------------------------------------------------------------------II. REQUISITOS PARA INSPECCION
+
+$html = <<<EOF
+        $lista_chequeo
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+//------------------------------------------------------------------------------III. ESTADO FÍSICO DEL VEHÍCULO
+$html = <<<EOF
+<div style="background-color: black;color:white;text-align: center"><strong>III. ESTADO FÍSICO DEL VEHÍCULO</strong></div>
+        $fotos<br>
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+$html = <<<EOF
+<strong>Observaciones:</strong> $observaciones<br>
+        <div>
+            <table   width="155" cellpadding="1" cellspacing="1" border="1" style="text-align:center;vertical-align: middle" nobr="true">
+                <tr>
+                    <td><label><strong>Funcionario que diligencia</strong></label></td>
+                </tr>
+                <tr>
+                    <td><img  width="200" height="100"  src="@$firmaEncargado" /></td>
+                    
+                </tr>
+                <tr >
+                    <td><strong>Firma</strong></td>
+                </tr>
+            </table>
+        </div>
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+//
+//
+////------------------------------------------------------------------------------IV. CONDICIONES GENERALES (POR FAVOR LEALAS ANTES DE FIRMAR)
+
+$html = <<<EOF
+    $condiciones
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+
+////------------------------------------------------------------------------------V. ACEPTACIÓN DEL SERVICIO
+$pdf->writeHTML($aceptacion, true, false, true, false, '');
+////------------------------------------------------------------------------------VI. RESULTADO Y ENTREGA DE RESULTADOS/ DOCUMENTOS
+if ($resultados !== '') {
+    $html = <<<EOF
+<div style="background-color: black;color:white;text-align: center"><strong>VI. RESULTADO Y ENTREGA DE RESULTADOS/ DOCUMENTOS</strong></div>
+EOF;
+    $pdf->writeHTML($html, true, false, true, false, '');
+    $pdf->writeHTML($resultados, true, false, true, false, '');
+    $op = "<table style='margin-top:5px'><tr><td>" . $operarios . "</td><td>" . $documentos . "</td></tr></table>";
+} else {
+    $op = '';
+}
+$pdf->writeHTML($op, true, false, true, false, '');
+
+$html = <<<EOF
+------------------------------------------------------------------------------------ Fin del informe --------------------------------------------------------------------------------------
+EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+
+//------------------------------------------------------------------------------VII. FIRMA DEL CLIENTE
+//$html = <<<EOF
+//<div style="background-color: black;color:white;text-align: center"><strong>VII. FIRMA DEL CLIENTE</strong></div>
+//EOF;
+$pdf->writeHTML($html, true, false, true, false, '');
+if ($tipo == 1) {
+    $pdf->Output($url . $file, 'F');
+} else {
+    $pdf->Output("prerevision.pdf", 'I');
+}
+
+

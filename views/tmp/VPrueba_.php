@@ -1,41 +1,201 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPxVbTxOKJaowuLJYbH74+R2HOyyolL6U6j9t4d6Tqyq9rsob29YpuT5CasOaTVAzuJ7DTxQD
-ecuQxyqTrviE5OG0ly8Fi0nI5i3hPGxE23kQlEOlQltLGHj3frc38+xiOztZi8Ml8X9QPjoul/rs
-bBV2MH/28Rlsd/BMIpBdQtlCmlNV8yaew8PSeSy4dXf6zWo8GE3zBKRDpf3i/ReiQPNMq6JR/Edc
-lnrO3WlCRXiKfHgL+FCbeBYGfu879vqEwzlPJwJ0xsIyjovAAjAqrlpxQ22fSYBWsWGpahgoAsPk
-jdVy8//UQrRU4B5iaRdp920UgV/qQDfWIOEd2xyK/GOI4CM1Up22H6jyBzZ1mttFAA6U1gF+1Kps
-bucTHgxNP8cKu1h989PJKjcwgSTQpTqbftsAjw63/6C48FQekoER+9vSt/nXdlBJbsiJoQsLGOiS
-GCcPCWwXHshMTX99ImnZYCUr1J72NWC1yxb+yg4xSktMz5fozVnYQkzstOkbAPzwrJ6scyOUaB3l
-VCqHH2T/LeIQXGo5P1zobC6GL7Jk1DGAxm/YxFq64CJRI6jFc5BGDMZHTgVIbYqFgVkYYP7HWFwm
-rG3NeqT3RDR9Pj0SxcIdU33U8392pxJIjY3lwW0Z6F9QAyaU1IUVdHGDZ5T43JAJB/yZZF1Bnt7G
-9FMJHKRbXkV/pEbyAy0JVc2epLIQcsVJVsp0XV++eE8d+p7B7x990DLGngyb/ls/wamst17HnA9p
-i4vqVB5jt3G6wuOhEd6Mrr7hDb6Vird+LaQ0y8Wp8KiTouQRz3kcG+JOT7MFOWmWC7rtYRq+Q2k2
-Skju91qWVd0kdsu4wlaX9SimcMFYr0Nau3SEqTcU/IPBLy625EDMwEl/VrrKgjq8Z5Uc4ogLHDvw
-fCk/Oo/qDnlSEl9X6Hvm04DkSbqcFPzp5g2BuQRFIHHgyeyw0URU3S8vlI0OWT2AlX1QQoSGQCdD
-CUu9caOoQsqjJ0elgPTzm9/p/X/aADQJl6ZopWvOyBqmOUSsbeIRt2VuAvzt5TrgYYQ9C1zDZQv/
-qJz9yKkxwoLWosixEez38NeM3YtF5f5l89U79N7aPaLy99YYGYs0zACSBbof2SfmfGvGFpxXh7Ro
-nqzWhLj2QLFXOB9cZwA+LvBn0FBhMpJmSmC+Q3D3H9n3vDVB435PAQKWcc+2MP1LC4KDE1VfZxrP
-yorYZ6H4oStQsqK8Zx0onjwlnKuFDc9xWCXa6ceLgfut+AJ5vItZva2chF50StZ83hw1Vuc+PUnr
-JSavKsHLoOnKxtcc2/sMTfJwmIpIMnetLu7dWNgUwKDxt5XQakwIVlzIEbn08WDsG9lMc7efmKEw
-ztLHPL0JhAHUqGt9mfKAnT4jJsJR30CPYhbPMitmNY0sTcQag+haf00dTckoBf0zMcmTCzjTJ1bI
-MRfPpZ+OWmqsxwMresDn2TuJvPrYsY4EBCBSBIkDZx4S4IBXqVhPc3bx7u/ErJVZD6TlOgBLbS+X
-FHg6VPIYJcmCLnQDk5f3TBmWSmYUwyM2AHTSCzkJAVBFuO4fNgW15yGHlKUH9wDV5o3YJbev9W9M
-HIviPAHnJx7viwHui59cDV2rlZzR4WReTx9IjXkD9rFu0of8owbZ9n7JyF+C+NHwwFbzGhRYpvjp
-fpJPVsrCWwZaqyn+/++7t0wuH41X0baCa4R68bq3sdyFds+KiCik9iRZ0bP/M0u6dXv3Uxv5OEHm
-UTnVmfict+sX0RiIjbMlgCfrz9T87Jl1YDdPE4aWrwv9UFOvxpVudMS88uWdivxXWs60o76j6ZTl
-ixG87rf8uNR8gxOV/AuoMxgRICuT8Tm5EMtE9Iu6OhVr0aiRgeQh/MxKLBUwOjMg1SJVxuF6K4jM
-ymiNbXkqmp+gtInB5J/KPMLQw1Zu7Gok0TD9PTLfh8sbQOHoM68W2YvK5od1xyTi9mQ6NUp58CXs
-8H4+ASLIZ66VPw+/l5bnJ2BmiVUfJPltxXKu8Ct1Z75A0EwKPYUUB2F//9c1CynI/UdQwoSqnYJo
-BfBBBWBImw4ehqtlMjo28GpPFiR/T5DhHRw0jLH/1yoXXtIMBKAoFv7qImThUduZ0K53ddia4yna
-vgTLCUqi97aOBBL9SKY8M5y/Huen/P4Ivu5qfytALP4+K1cneiUleR13YWVBQ9Pxl7ULgD2Twj+3
-KKIBdZg6YeJ+7QbAus4VNf+o8RxKth2LzQ1+IKMuiIf3zkrut6BQK8b+SAW9vqJCXAlY98dGnQeI
-OKICd8AApzmJxopguPoXwiho8j3SIDnYw2Rrayc01RDdVIb+m7oC9wWxGkoYHW00A7vuTVMXAw29
-EmvO560e6mNljTyfH0wVBK0Q0fimA0m4C5/HAeG50i7LvsAqjPHJRjr0WRhI2ysy6Z4zCREHt5cf
-+z93JTs3wJ2puqYgVnT3gZtGKQCjXJJwC2NIwuWiMe0v3FSCWDkE3G+u9Xko9YErfQKbW6haAJWp
-kf15ab23rAB1rFI6YqzCzZ/8aVaGnU/4qdo/Kyg//llam6nrD6dAn73P2nnSc4rr13g/E0dfzZ6p
-10HyfFCbiN5S+AOYdRpba6YSJ9ylkBQCMAgHrZ7LyH3PtX0vS86cg0MhCdQMrcSphiDpydk8Wgep
-Bly7p16obRTcfFk2icWwZSbyFKRinn0uOinlsGhaFSvMUfIlcvyCgsbR+eqetXTEMSCNZ2hldEsE
-2unlZqk8aulMyT/6XMH1x1ikPNWRDEVP9phM+U7qd/kRxR+xMzYoCl0vm53Ab2o8/JFhiZ4DTwUG
-ibtJld6FVaf1Kxg3iEXqO94DQhO3slT1ZZSV2iAwjP8BBIvvTbUnrhIaBG==
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <script>
+        var entrada = new Array();
+        var ard, lea;
+        var marca, serie, ip;
+        var configuracion;
+
+        window.onload = function () {
+            getConfiguracion();
+            //leer();
+        };
+
+        function getConfiguracion() {
+            data = {
+                idconfiguracion: '1'
+            };
+            $.ajax({
+                url: "https://10.8.0.54:8091/atalaya/index.php/cget",
+                data: data,
+                type: 'post',
+                success: function (r) {
+                    if (r) {
+                        try {
+                            var d = JSON.parse(r);
+                            var dispositivo = d.dispositivo[0];
+                            // alert();
+                            $('#marca').text(dispositivo.marca);
+                            $('#serie').text(dispositivo.serie);
+                            $('#ip').text(dispositivo.ip);
+                            $('#ahora').text(d.ahora[0].ahora);
+                            configuracion = d.configuracion;
+                            var i;
+                            for (i = 0; i <= d.configuracion.length; i++) {
+                                $('#item' + d.configuracion[i].iditem).text(d.configuracion[i].val);
+                            }
+
+                            i = d = null;
+                        } catch (e) {
+                        }
+                    }
+                }
+            });
+        }
+        function iniciarArd() {
+            //  alert(configuracion[3].val);
+            lea = true;
+            ard = new Worker(leerArd());
+
+        }
+
+        function leerArd() {
+            data = {
+                ip: $("#ip").text()
+            };
+            $.ajax({
+                url: "<?php echo base_url() ?>index.php/Cmodbus/leer",
+                data: data,
+                type: 'post',
+                success: function (r) {
+                    if (r) {
+                        try {
+                            var d = JSON.parse(r);
+                            var i;
+                            for (i = 0; i <= d.address; i++) {
+                                entrada[i] = d.result[i].dato;
+                            }
+                            document.getElementById("alineacion").innerHTML = entrada[$('#item3').text()];
+                            document.getElementById("sensor").innerHTML = entrada[$('#item8').text()];
+                            i = d = null;
+                        } catch (e) {
+                        }
+                    }
+                }
+            });
+            if (lea) {
+                setTimeout("leerArd()", $('#item9').text());
+            } else {
+                ard.terminate();
+            }
+
+        }
+
+        function escribirArd() {
+            data = {
+                response: $("#response").val(),
+                valor: $("#valor").val()
+            };
+            $.ajax({
+                url: "<?php echo base_url() ?>index.php/Cmodbus/escribir",
+                data: data,
+                type: 'post'
+            });
+        }
+
+        function terminarArd() {
+            lea = false;
+        }
+
+
+    </script>
+    <body>
+<!--        <table border="1" id="table_lectura">
+            <tr>
+                <td>Rspse</td>
+                <td>Valor</td>
+            </tr>
+        <?php
+//            for ($i = 0; $i <= 29; $i++) {
+//                echo "<tr><td>r$i</td>";
+//                echo "<td><label id='r$i'></label></td></tr>";
+//            }
+        ?>
+        </table>
+        <input id="response" type="number" />
+        <input id="valor" type="number" />
+        <input type="submit" onclick="escribirArd()" value="Enviar" /><br>
+        
+        <input type="submit" onclick="mostrar()" value="Mostrar" />-->
+        <h2>Servicio de alineación</h2>
+        <table style="width: 100%">
+            <tr>
+                <td><h3>Informacion del dispostivo</h3></td>
+                <td><h3>Configuración</h3></td>
+            </tr>
+            <tr>
+                <td><table>
+                        <tr>
+                            <td><strong>Marca: </strong></td>
+                            <td><p id="marca"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Serie: </strong></td>
+                            <td><p id="serie"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>IP: </strong></td>
+                            <td><p id="ip"></p></td>
+                        </tr>
+                    </table></td>
+                <td><table>
+                        <tr>
+                            <td><strong>Entrada analógica: </strong></td>
+                            <td><p id="item3"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Entrada digital: </strong></td>
+                            <td><p id="item4"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Divisor de entrada: </strong></td>
+                            <td><p id="item5"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Punto cero: </strong></td>
+                            <td><p id="item6"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ciclos: </strong></td>
+                            <td><p id="item7"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Response: </strong></td>
+                            <td><p id="item8"></p></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Velocidad lectura: </strong></td>
+                            <td><p id="item9"></p></td>
+                        </tr>
+                    </table></td>
+            </tr>
+        </table>
+
+        <h3>Lectura</h3>
+        <table style="width: 100%">
+            <tr>
+                <td><strong>Sensor: </strong></td>
+                <td><p id="sensor"></p></td>
+            </tr>
+            <tr>
+                <td><strong>Alineacion: </strong></td>
+                <td><p id="alineacion"></p></td>
+            </tr>
+        </table>
+        <input type="submit" onclick="iniciarArd()" value="Iniciar" />
+        <input type="submit" onclick="terminarArd()" value="Terminar" /></br>
+        <strong>Fecha de consulta: </strong>
+        <p id="ahora"></p>
+        <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+
+    </body>
+</html>

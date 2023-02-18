@@ -1,78 +1,210 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-QzklyNUgaiUv6W==
+</div><div class="page-chatapi hideit">
+
+    <div class="search-bar">
+        <input type="text" placeholder="Search" class="form-control">
+    </div>
+
+    <div class="chat-wrapper">
+        <h4 class="group-head">Groups</h4>
+        <ul class="group-list list-unstyled">
+            <li class="group-row">
+                <div class="group-status available">
+                    <i class="fa fa-circle"></i>
+                </div>
+                <div class="group-info">
+                    <h4><a href="#">Work</a></h4>
+                </div>
+            </li>
+            <li class="group-row">
+                <div class="group-status away">
+                    <i class="fa fa-circle"></i>
+                </div>
+                <div class="group-info">
+                    <h4><a href="#">Friends</a></h4>
+                </div>
+            </li>
+
+        </ul>
+
+
+        <h4 class="group-head">Favourites</h4>
+        <ul class="contact-list">
+
+
+
+
+        </ul>
+
+
+        <h4 class="group-head">More Contacts</h4>
+        <ul class="contact-list">
+
+
+
+        </ul>
+    </div>
+
+</div>
+
+
+<div class="chatapi-windows ">
+
+
+
+
+</div>    
+<!-- END CONTAINER -->
+<!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+<!-- CORE JS FRAMEWORK - START --> 
+<script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+<script src="<?php echo base_url(); ?>assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+<script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+<!-- CORE JS FRAMEWORK - END --> 
+<script src="<?php echo base_url(); ?>assets/plugins/datatables/js/dataTables.min.js" type="text/javascript"></script> 
+
+
+
+<!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+<script src="<?php echo base_url(); ?>assets/plugins/datatables/js/jquery.dataTables.min.js" type="text/javascript"></script>
+
+<script src="<?php echo base_url(); ?>assets/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/datatables/extensions/Responsive/bootstrap/3/dataTables.bootstrap.js" type="text/javascript"></script>
+
+<!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+<!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+
+
+<script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/smoothness/jquery-ui.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/echarts/echarts-custom-for-dashboard.js" type="text/javascript"></script>
+<!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+<!-- CORE TEMPLATE JS - START --> 
+<script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/datepicker/js/datepicker.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/multi-select/js/jquery.multi-select.js" type="text/javascript"></script> 
+<!-- END CORE TEMPLATE JS - END --> 
+
+<script src="<?php echo base_url(); ?>assets/plugins/daterangepicker/js/moment.min.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>assets/plugins/daterangepicker/js/daterangepicker.js" type="text/javascript"></script> 
+<script src="<?php echo base_url(); ?>/application/libraries/package/dist/sweetalert2.all.min.js"></script>
+<script src="<?php echo base_url(); ?>application/libraries/table2csv/table2csv.js" type="text/javascript"></script> 
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
+
+<script src="<?php echo base_url(); ?>assets/plugins/messenger/js/messenger.min.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/messenger/js/messenger-theme-future.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/messenger/js/messenger-theme-flat.js" type="text/javascript"></script>
+<script src="<?php echo base_url(); ?>assets/js/messenger.js" type="text/javascript"></script>
+<!--<script src="<?php echo base_url(); ?>assets/sesion.js"  type="text/javascript"></script>-->
+ <script src="<?php echo base_url(); ?>application/libraries/sesion.js"  type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        setInterval(function () {
+            getCronAudit();
+        }, 15000);
+    });
+
+    var getCronAudit = function () {
+        $.ajax({
+            url: '<?php echo base_url(); ?>index.php/oficina/reportes/pruebas/Cpruebas/getCronAudit',
+            type: 'post',
+            mimeType: 'json',
+            data: {},
+            success: function (data, textStatus, jqXHR) {
+                if (data !== null || data !== "") {
+                    if (localStorage.getItem("alert") == null) {
+                        var datos = {
+                            placa: "",
+                            id: "",
+                            notificado: 0,
+                        };
+                        localStorage.setItem("alert", JSON.stringify(datos));
+                    } else {
+                        var dat = JSON.parse(localStorage.getItem("alert"));
+                        if (data[0].id == 1 && dat.notificado == 0) {
+                            var dat = JSON.parse(localStorage.getItem("alert"));
+                            var datos = {
+                                placa: data[0].placa,
+                                id: data[0].id,
+                                notificado: 1,
+                            };
+                            localStorage.setItem("alert", JSON.stringify(datos));
+                            var tex = "Se detecto una alteración del sistema." + "<br>" + "Fecha: " + data[0].fecha + "<br>" + "Placa: " + data[0].placa
+                            Swal.fire({
+                                title: '¡Atención!',
+                                html: tex,
+                                imageUrl: '<?php echo base_url(); ?>application/libraries/advertencia.png',
+                                imageWidth: 150,
+                                imageHeight: 150,
+                                confirmButtonColor: '#3085d6',
+                                confirmButtonText: 'Aceptar',
+                            });
+                        } else {
+                            if (data[0].id !== dat.id) {
+                                var datos = {
+                                    placa: data[0].placa,
+                                    id: data[0].id,
+                                    notificado: 1,
+                                };
+                                localStorage.setItem("alert", JSON.stringify(datos));
+                                var tex2 = "Se detecto una alteración del sistema." + "<br>" + "Fecha: " + data[0].fecha + "<br>" + "Placa: " + data[0].placa
+                                Swal.fire({
+                                    title: '¡Atención!',
+                                    html: tex2,
+                                    imageUrl: '<?php echo base_url(); ?>application/libraries/advertencia.png',
+                                    imageWidth: 150,
+                                    imageHeight: 150,
+                                    confirmButtonColor: '#3085d6',
+                                    confirmButtonText: 'Aceptar',
+                                });
+                            }
+
+                        }
+                    }
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+
+            }
+        });
+    }
+</script>
+<!-- General section box modal start -->
+<div class="modal" id="section-settings" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog animated bounceInDown">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Section Settings</h4>
+            </div>
+            <div class="modal-body">
+
+                Body goes here...
+
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
+                <button class="btn btn-success" type="button">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- modal end -->
+</body>
+</html>
+
+

@@ -1,34 +1,100 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-FX2lwBsaUQmffTSBTQaupn3v
+<?php $this->load->view('./header'); ?>
+<script type="text/javascript">
+
+</script>
+<!-- START CONTENT -->
+<section id="main-content" class=" ">
+    <section class="wrapper main-wrapper row" style=''>
+
+        <div class='col-12'>
+            <div class="page-title">
+
+                <div class="float-left">
+                    <!-- PAGE HEADING TAG - START --><h4 class="title">GESTION DE CLIENTES</h4><!-- PAGE HEADING TAG - END -->  
+                </div>
+
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- MAIN CONTENT AREA STARTS -->
+        <section class="box ">
+            <header class="panel_header">
+                <h2 class="title pull-left">CLIENTES REGISTRADOS</h2>
+            </header>
+            <div class="content-body"> 
+
+                <table style="width: 100%;text-align: left">
+                    <tr>
+                    <form action="<?php echo base_url(); ?>index.php/oficina/cliente/Ccliente/getCliente" method="post" >
+                        <td style="text-align: left;width: 100px">
+                            <label  for="placa">BUSQUEDA<br/>
+                                <input type="text" name="match" id="placa" class="form-control"  value="<?php
+                                if (isset($item)) {
+                                    echo $item;
+                                }
+                                ?>" />
+                            </label>
+                        </td>
+                        <td style="text-align: left;width: 200px">
+                            <input type="submit" name="consultar" id="wp-submit" class="btn bot_azul btn-block" style="width: 150px"  value="Consultar" />
+                        </td>
+                    </form>
+                    <td style="text-align: left;width: 200px">
+                        <form action="<?php echo base_url(); ?>index.php/oficina/cliente/CAdministrarCliente" method="post" style="width: 100%">
+                            <input type="submit" name="agregar" id="wp-submit" class="btn bot_verde btn-block" style="width: 150px" value="Agregar" />
+                        </form>
+                    </td>
+                    </tr>
+                </table>
+                <br>
+                <div class="col-xs-12">
+                    <table id="example-1" class="table table-striped dt-responsive display">
+                        <thead>
+                            <tr>
+                                <th>Documento</th>
+                                <th>Nombres</th>
+                                <th>Apellidos</th>
+                                <th>Dirección</th>
+                                <th>Teléfono</th>
+                                <th>Correo</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tfoot>
+                            <tr>
+                                <th>Documento</th>
+                                <th>Nombres</th>
+                                <th>Apellidos</th>
+                                <th>Dirección</th>
+                                <th>Teléfono</th>
+                                <th>Correo</th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                        <tbody>
+                            <?php
+                            if (isset($clientes)) {
+                                echo $clientes;
+                            }
+                            ?>
+                        </tbody>
+                    </table>
+
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+    </section>
+</section>
+<!-- END CONTENT -->
+
+
+
+<?php
+$this->load->view('./footer');

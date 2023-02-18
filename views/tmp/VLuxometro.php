@@ -1,35 +1,121 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <script type="text/javascript">
+        var ard, lea;
+        var entrada = new Array();
+        var trama = new Array();
+        var inicio = false;
+        var indTrama;
+        var rdTrama;
+        window.onload = function () {
+            lea = true;
+            ard = new Worker(leerArd());
+
+            indTrama = 0;
+            escribirArd(23, 18);
+            escribirArd(24, 2);
+            escribirArd(25, 1);
+            escribirArd(21, 0);
+            escribirArd(22, 0);
+        };
+        function leerArd() {
+            data = {
+                ip: '0'
+            };
+            $.ajax({
+                url: "<?php echo base_url() ?>index.php/Cmodbus/leer",
+                data: data,
+                type: 'post',
+                success: function (r) {
+                    if (r) {
+                        try {
+                            var d = JSON.parse(r);
+                            var i;
+                            for (i = 0; i <= d.address; i++) {
+                                entrada[i] = d.result[i].dato;
+//                                document.getElementById("id" + i).innerHTML = entrada[i];
+                            }
+
+                            if (entrada[21] === 1 && !inicio) {
+                                inicio = true;
+                                rdTrama = new Worker(leerTrama());
+                            }
+                            i = d = null;
+                        } catch (e) {
+                        }
+                    }
+                }
+            });
+            if (lea) {
+                setTimeout("leerArd()", 80);
+            } else {
+                ard.terminate();
+            }
+        }
+
+        function leerTrama() {
+
+            indTrama++;
+            escribirArd(25, indTrama);
+            if (indTrama === entrada[21]) {
+                document.getElementById("id" + indTrama).innerHTML = entrada[21] + "-" + entrada[22];// + "-" + charCodeAt(entrada[22]);
+            } else {
+                indTrama--;
+            }
+
+
+
+            if (entrada[21] === 18) {
+                indTrama = 0;
+                rdTrama.terminate();
+            } else {
+                setTimeout("leerTrama()",100);
+            }
+
+        }
+
+        function sleep(milliseconds) {
+            var start = new Date().getTime();
+            for (var i = 0; i < 1e7; i++) {
+                if ((new Date().getTime() - start) > milliseconds) {
+                    break;
+                }
+            }
+        }
+
+
+        function escribirArd(response, valor) {
+            data = {
+                response: response,
+                valor: valor
+            };
+            $.ajax({
+                url: "<?php echo base_url() ?>index.php/Cmodbus/escribir",
+                data: data,
+                type: 'post'
+            });
+        }
+    </script>
+    <body>
+
+
+        <?php
+        for ($i = 1; $i <= 19; $i++) {
+            echo "<p id='id$i'></p>";
+        }
+        ?>
+        <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+    </body>
+
+</html>

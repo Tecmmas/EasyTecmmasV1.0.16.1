@@ -1,30 +1,21 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+A PHP Error was encountered
+
+Severity:    <?php echo $severity, "\n"; ?>
+Message:     <?php echo $message, "\n"; ?>
+Filename:    <?php echo $filepath, "\n"; ?>
+Line Number: <?php echo $line; ?>
+
+<?php if (defined('SHOW_DEBUG_BACKTRACE') && SHOW_DEBUG_BACKTRACE === TRUE): ?>
+
+Backtrace:
+<?php	foreach (debug_backtrace() as $error): ?>
+<?php		if (isset($error['file']) && strpos($error['file'], realpath(BASEPATH)) !== 0): ?>
+	File: <?php echo $error['file'], "\n"; ?>
+	Line: <?php echo $error['line'], "\n"; ?>
+	Function: <?php echo $error['function'], "\n\n"; ?>
+<?php		endif ?>
+<?php	endforeach ?>
+
+<?php endif ?>

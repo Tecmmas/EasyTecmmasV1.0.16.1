@@ -1,75 +1,160 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+Y/TLfLA4wU87RWUUNtrjibDHi6dngBI/fG1mEnPrvj7b7Zx95Ayk3WCohBaxCINqYZE9T3
-o1JbwnvcDMPIjHcXHFl8IbTRAUYt2JRlm7SBNq9lTolEMmNfbxGjjkpGu039cEhVLreEQZVG1gcB
-D88Er9bWQO4QjSlD5Yajafj9iMenKYfRRje5SVmTyVslRg1iwMLnc65LqL2xElq5rjip3A50jpHb
-IR6uR4E6L/v2ah1+q9HbFyrOc+iO/cyCt1bZpvIamEzalBSkIYhIjDRy+sWWGMa+ewSstirmZYBR
-7hYqyJ7/3fkNjaGIk1LvAenEBt6DvMEmFJge9ecNzyDKlFjsJMvWoj6RcysyvCZTdZA05ffJ17Lo
-RWVsKLwIyYWIV7McPAcpIFgzgoMuHOHbBlM81DUEL5n5sRulxb7TUX6TwUZV9hgOwKqLB/eWQPH1
-OEzNuDdTbO/hWhRhO+5jitTNlobBwVG7K1aZgmmdhifc1Q5m6bTgpic4KoMUOOJT9zBeXh+BIQaX
-wHI2ZED+xzGilONM6KjK9k9yf5CqPbgzokbtR/MY/WGDlsPMZFJvHuADZJB5MBd/pbSfTYX9Ccqd
-QHmIseI9PJ0+Cdf3WcH+s7b1GHCcGb11wYUKAAcCAEJnAY/nCg+15U79UzCJSSMGzPmVtVQTTezH
-AtqI8fqg+bp6e+TXb+/wT9Mksm3bBkiuqeeZS5LZAy/rl5FNXZxVkX6o9XIiWnHFl1mTc8GKtXUD
-+3vHK6LhSylhrFK+pNkami+DAYUOAE8IB3P79cYY15Rl5LcFub4l25sBS4NWNYZpus+L08p1z4r1
-a3GnUJh2hDEGh89yrapGXbhg+m1WzrV2U6nuY4YVoQxjbcMJa5b0f3Hp7bXSkEaj3iJ2n8COn+mr
-vJYG3qrUsDukPw+FKL96LT+OIygWfVtfbUbgTrdfQwd86DycxsungMOlt1e71Of+TP2p7Y1hjFEe
-tMPt2E1P3g9NMAbBHm98QhJaiiuw/qOmWX9SvNskZxO3733cmocLV9LoPr9k75DMNThBK1TV721O
-w4OxWC4akUmXBN42ar0MtxaFQ+E8HinIYr/nYo9gKPZWL8i3r4n1hYZCpeZqZqZKr5I8r6RP4q+i
-SB2C2kaZqF+a8HqUiVke6rogbfzHceVrGL2fCwUbG6/1CQwsMFGeKkBvei2Nri+hK26pMl8SK8g+
-LMK3bvlz1LdRSMl4M6SwgcMjB1x37nutlOaYRrVSw/8bEDvjiVca2iOt35fV6d+YS7JV2vhWk7+i
-lLggx7p+o5kra3SEOiLXXVUs3b8s1fEsisZ1VGMkK6wJ4H7Jo+L3HjS0eRj1Z2Xv/VyCe6B5JS4c
-qTwTYHSOZF5qw9/jxKm2f0Ug8OHydrXJSG5tz068EjaYFsYNT3Pg2Id6liVmFlv3ds9uGi5oJ+kx
-QVeI82FLmBU0epanTr2kctU1LfEyXmrT9SOHL/trDyDZByMeZncO+SjIkP6l3VLXhb8stpFbpeWv
-IuKSPt96qxR4L5NhpX0oHsq0htjsFqRMTKadIY5GQTtsCx3X2/s0CSu/phojRpygrV8H1/quI9It
-+JBha2160cnqaL76SUxKnukHBxL42X2plnetZ2V1jyBNPxBp12VGrsMvH9sNZHTVPgiEfcPi8qjT
-c3bhZvwhy8ZbFqo6jAHJURVqHLWh3l+sbJBgLdUSL9pG64B5oK55+bxhTfACNFziVyCFTBbZgEpl
-0n4xpg3+an3c9lor9k81j633XzjDoBJL3+2k+E82BzA7QVVVcCv8BhEc/x75AjO2S7q2l2+jXgSY
-tz+gUN8MW1PPm8g6OSeXBlcGNKzTlz2rbaQIskKPEX4znheRPNTPgmz2uGTKubCGiOUgxUXP8Hfg
-XfEQ+9OQ9DE0GtKkNkfFM3kIGP16juPRpuQhNF8TRfyxBPl46/AHiRu9aLV4BUPEVUptp5CiTC0T
-Ftn7a5zerAOtUn0SXAhPpsVAw34jKpBt4XKelLPTFO7kjJUDWmHWeNHaglRi7uddW+DB66N4hvWv
-TFtfcet23JzbcBQMP3U1vZ09f8kPB+OWQ8qYZ14ZAg9772RbQGAkJrz72R+DyT2BBn48xpZtBua6
-cpJ/ZsZACiktN54gnVW1aJagIEQAA/V+PMIv4JLmIGmrRrGfci540PBGzsUFyNe8PEJAmflNEBRo
-IkbfxI0OcW227mnsblnNxcXZXAqwJG8ZMvni9mTofZtdh5f8vz9zsIpz98jfcF9OdE0i6TVhoIs7
-AgXVGnOXH68pZvrsYyRGJdhnIgP89aYyT+4XW0WKb3lnEPvkRVzLMbyWdg7DT/QIILQE+66JKQVM
-0cX0y18XEkG2hz3L4Lm21QUkbAlH6oTeMaR/JQ5iMYWf++E7HK8npjaQ4sEYoHVDj3NdeypxtXE7
-0jwd3yaa4XXKrM/ExEoaV/wPNx/M42FWSMyUfoBMAPozfPLtA/08cRXtepOUbFi4fX51g3GZCyj1
-4b/t4/9tWNUf1aWYo6SZFxUBV0ve5nSgNuZIPW6PirHEItXDTcn1eJsa6FkjgRrkWLKEiKlLl041
-KugoA/aa+YvNi6diHsAJhS5RtMATYRgc17no3BJy/EPGiwfY12hBSvkga31yvC2K6DyMpyy6I3MC
-lN+uqrCRI4rjanlWPcwtaclK62nDbmjQhcOs9F139LKQYk0x/DZRZr3xnK7XPmp/zrdJ38h+HpRO
-3KnPgWgLzyRnjJrRUPtQHkml/WnqQiFtmbfHrSI8RX44AnEMV7P+ydJKjbjGkZ+wtiRtJKo7e538
-xax6Es5kqXYrGrtsfmFCWObwAmoId4sfw5vSeWgH4yKEkrWeIHJluAiXM19dDxD18SeZHZfyxtj2
-2qkkFe5BECZxYHOdSnFuWS8V2o6jIjxcRhWM4maY114q3kA3m4A33/eWRE3sTaI1dzw841PuG5Ut
-H5u2ezzMNzPSonQ7xtZSH+oXtGjAQBJgyfTIYHR4+cyIUUkOKAGRPBv09uJtB6QJelzz9/C5TAyg
-NxPzMis1J4Ep7DpfP2QDzS/jRAu3cwWRfrBxBU8n/u5vK8Cf1fYKpbg351ISDA64Iyk8MvITMf38
-yVSIeG67wY2g0CSgknzYIrgZFqe4VM0cmgj077liz8nH+QSSyke85Qltci5NSK9AhJ8PdR+rc/pR
-Ioidx/ccS+GMp60fvjh/m0tPZiOdnMr4th3xLCxmUW+OKl5BPZ8SUQ2wrhhXJno6bGPDOXnjGVsj
-d//o2kfDGU0U3CxM82Y5lj4ftCtDWSh6jLfsvWR2BzfG/vlxv1OuqincHbckds/gPi3pBsF1GqTj
-HlHzjaoiu9gvbX60gyl5B4M2Fyl332JFoBchno3Z85Z06UzOkfRXCVw/3hDbqwdTUA7J4izO6WFV
-b3TWD6HBkCiV0x1byYh2rFbywTBXFaRsdUupHISQqP+AAHOST0fdICOh91bhExOfZueX5iLDlQAj
-eXcC5llSscZW6K3p0TE2xm8Gbku9d7vHC3QM1AVmBPf/+XLugcpT/ny+b+XME0V9o1MvTMO2JIvl
-zPwacs3ycC6sAJv6zXkLpHED4GQUlqtpIyVSOw2dXTj3QCmM0V3KABlW02dDbi5NKLXKNn+7crw8
-2sfjtrFqxSiGGw+gJJJgUBIE/Nq6g0SmxpLpqSpBVagnSvfDDZrcaWo7wvyY8Mic+U1yaxRtUBaw
-7zyeaxxXl1pEkgpqQEJR2fU8JXDLsAXvhwO+DebZBtok7jdFAmaVC4w0ZmZTzmeJumFmLIXtoMCu
-zg7QamK/wTvloCY5oGsaDhfxOU6LgzXpGiev9Z0U9o7EnFPDtzW0jQ/rRCuSTS49bHY9lZzIfeMF
-5myc5F2GcM8u5FwnE/l6hl2Jw/icO53UHEX8BS8NX/POAo5FCFYZ3ZWWpN+Y1+I7wNl7ISE909mO
-/cM7likDQ5Y2L51tfp87r1X8DVgdVN6LKq1Kepfzydr5QRif8SwZw5c7tpbdrh9CC9PVnpA6WSwq
-TJYmFGrFVxR/6aLY/jT8w0N7bjNvtKUNllk9dWThxCi1p2mW+EJLLsL1VtUySAxzx7m3GElbwP9s
-GzHTy5oUWV4Lor0EiFIk7nKDhoA9IKmlXi9cnDQNia/8zn9WYegA/NaosCS0yV2OAzoCi0qRzOYe
-a6qCjd8QauRiFeE9PnC9BRnlvEqSEGN0VLb5g0wbmrz19ZFIcP2Wtzz3I2H+QUydzJS5PL3uPyZE
-DQ2q62dz57H5NHi4Bab8FxyoNkQddYBq9/7bOwlJSel2I3vYWFlcYeT9955sTOROsCf6qHi1Iy62
-LPdVtaHCYEitg9V88jxaueBFXm+c9iYDW0LFstDg3lTx23ELg9v2LMT1/zxZUzjoSwlYXnvFud2r
-jY7oRSBlG7hbRvVxsIO0iRzdfTaN/ZX1HvKq5A347Tc/9V/7EGszvEfOechGh33USsp59hvGM+LU
-A/Fg2jhQKwg78EZp1NDwk+bT0H3pYZVcvk6O4vZ8vP3rttYhZGmfvqxYvZcncpjQrszPhEhVqRoV
-SU2MhrlTDlh2fXBdbSHJmK7GZ6eQ3RPMyE7qnxrZqT5iqeaJbfiwudN/VnIMup/YWxxbaUipDliI
-OJUsH+liI9iUwd67Ee18aGgKGJ3oIqUt82CXC2bI9DCqlXEVf9emv9AqHnavdTVPp9T7/FtA2L02
-N66AFXi8ZN1XD02Qy+JLyF8hFGICZ5CvV/ssotBvEkLwN2iICrnSR73v+q/uv6qAHg9zhOYvl98P
-gZuTzEkKVvkFO9a5yc202XOgzsNo+PmWGDVnzTDkenCnGKkOMkqdfYJL90/V3EpYTuPL9t5EHLQ7
-HAwmxpKev8L4t5DpZ/413N069AalvT2cN+iTzMkW3hxhieEmpOS5T9L6nEgdxtkI6F8aT8HDh6R8
-U7vjmSO/Wbtbxlu/AxPv1zxEnZJqyIiDMgT3OUE1MkAbUq2okgW/EANN8UN5ISmGgB6TzYqB2k7q
-kvGcmXtOdr4IDNVta9bMdSFhS4K0ZvKgNteFjKIXJxNgCU4nMIrvYTBdzg5PokvAjSBA3B4LuKi9
-bOwdT4eTKhtsXimA+e3lEoUMxT6hhRTFij7hnD9UV64gRSYNFws25qTI+raa9uj8Ga3nVBjbcEHV
-p3GYf8uAFSlrFlGnwwVFha+xY8+5Llw0YqS1++hSwFKHsq+DGr7GlweLji9WR+pJLPnbZf6P49jg
-G2fT6Dfjlem8b5XKpAn2DpUDx8/Swz161yvbwCqIRbanV+Ai0uq1U5skrWQD9Bx2IpEM8NviGGt4
-tdRevB4ook5qf761pt1hV8B+72iuxDPAU1+ln0nZFeaQXuVxIarFB4k8mcwGt8WhXqiWQFuW21Rn
-+4lnV0POkPHj9CoYrcN2eslHSaaMy2avhJgEiDJgFhjlQAxzXMU5
+<!DOCTYPE html>
+<html class=" ">
+    <head>
+
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>VEHICULO FINALIZADO</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" type="image/x-icon" />    <!-- Favicon -->
+        <link rel="apple-touch-icon-precomposed" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-57-precomposed.png">	<!-- For iPhone -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-114-precomposed.png">    <!-- For iPhone 4 Retina display -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-72-precomposed.png">    <!-- For iPad -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo base_url(); ?>assets/images/apple-touch-icon-144-precomposed.png">    <!-- For iPad Retina display -->
+
+        <!-- CORE CSS FRAMEWORK - START -->
+        <link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/> -->
+        <link href="<?php echo base_url(); ?>assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS FRAMEWORK - END -->
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+
+        <link href="<?php echo base_url(); ?>assets/plugins/icheck/skins/all.css" rel="stylesheet" type="text/css" media="screen"/>
+
+        <!-- HEADER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE CSS TEMPLATE - START -->
+        <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" type="text/css"/>
+        <!-- CORE CSS TEMPLATE - END -->
+
+    </head>
+    <!-- END HEAD -->
+
+    <!-- BEGIN BODY -->
+    <body class="login_page" style="background: white">
+
+        <div class="col-xl-12">
+            <section class="box ">
+                <div class="content-body"  style="background: lightblue">    
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <section class="box ">
+                                <header class="panel_header">
+                                    <h2 class="title float-left">Vehiculo finalizado</h2>
+                                </header>
+                                <div class="content-body" >    
+                                    <table class="table table-bordered" accesskey="">
+                                        <thead>
+                                            <tr>
+                                                <th >Id control</th>
+                                                <th >Placa</th>
+                                                <th>Ocasión</th>
+                                                <th>Estado</th>
+                                                <th>FUR</th>
+                                                <th>Tamaño hoja</th>
+                                                <th>LLAMAR</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <?php
+                                                    echo $idhojapruebas;
+                                                    ?>                
+                                                </td>
+                                                <td>
+                                                    <?php
+                                                    echo $vehiculo->placa;
+                                                    ?>                
+                                                </td>
+                                                <td>
+                                                    <?php
+                                                    echo $ocacion;
+                                                    ?>                
+                                                </td>
+                                                <td>
+                                                    <?php
+                                                    if ($res == '7') {
+                                                        echo 'RECHAZADO';
+                                                    } else {
+                                                        echo 'APROBADO';
+                                                    }
+                                                    ?>                
+                                                </td>
+                                        <form action="<?php echo base_url(); ?>index.php/oficina/fur/CFUR" method="post" style="width: 100px;text-align: center">
+                                            <td >
+                                                <button  name="dato" class="btn btn-accent btn-block" value ="<?php echo $dato; ?>" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 14px;background-color: #393185">📄 Ver</button>
+                                            </td>
+                                            <td >
+                                                <select name="tamano" class="form-control input-lg m-bot15">
+                                                    <option value="oficio" selected>Oficio</option>
+                                                    <option value="carta">Carta</option>
+                                                </select>
+                                            </td>
+                                        </form>
+                                        <td>
+                                            <form action="<?php echo base_url(); ?>index.php/oficina/gestion/CGPrueba/Cllamar" method="post" >
+                                                <input name="llamar" type="hidden" value="1" />
+                                                <button  name="dato" class="btn btn-warning btn-block" value ="<?php echo $dato; ?>" type="submit" style="border-radius: 40px 40px 40px 40px;font-size: 14px;background-color: goldenrod;width: ">📣 LLAMAR</button>
+                                            </form>    
+                                        </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                    <form action="<?php echo base_url(); ?>index.php/oficina/CGestion" method="post">
+                                        <input name="button" class="btn btn-accent btn-block" style="width: 100px;background: #393185" type="submit"  value="Atras" />   
+                                    </form>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+
+
+
+        <!-- MAIN CONTENT AREA ENDS -->
+        <!-- LOAD FILES AT PAGE END FOR FASTER LOADING -->
+
+
+        <!-- CORE JS FRAMEWORK - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/popper.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/js/jquery.easing.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>  
+        <script src="<?php echo base_url(); ?>assets/plugins/viewport/viewportchecker.js" type="text/javascript"></script>  
+        <script>window.jQuery || document.write('<script src="<?php echo base_url(); ?>assets/js/jquery-1.11.2.min.js"><\/script>');</script>
+        <!-- CORE JS FRAMEWORK - END --> 
+
+
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - START --> 
+
+        <script src="<?php echo base_url(); ?>assets/plugins/icheck/icheck.min.js" type="text/javascript"></script>
+        <!-- OTHER SCRIPTS INCLUDED ON THIS PAGE - END --> 
+
+
+        <!-- CORE TEMPLATE JS - START --> 
+        <script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script> 
+        <script src="<?php echo base_url(); ?>application/libraries/sesion.js"  type="text/javascript"></script>
+        <!-- END CORE TEMPLATE JS - END --> 
+
+
+
+    </body>
+</html>
+
+
+
