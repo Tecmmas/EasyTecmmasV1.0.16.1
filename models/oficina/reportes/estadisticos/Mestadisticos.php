@@ -1,210 +1,510 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mestadisticos extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->dbutil();
+    }
+
+    function getNombreCda() {
+        $data = $this->db->query("select nombre_cda from cda");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->nombre_cda;
+        } else {
+            return FALSE;
+        }
+    }
+
+// informe facturacion diaria
+    function facturacion_diaria($fechainicial, $fechafinal) {
+        $data = $this->db->query("select
+                                  ifnull((select CAST(concat(ifnull(c.nombre1,''),' ',ifnull(c.nombre2,''),' ',ifnull(c.apellido1,''),' ',ifnull(c.apellido2,'')) AS CHAR(10000) CHARACTER SET utf8) from clientes c where c.idcliente=v.idcliente),'NO REGISTRA CLIENTE_________') cliente,
+                                  ifnull((select c.telefono1 from clientes c where c.idcliente=v.idcliente),'NO REG') telefono,v.numero_placa placa,ht.fechainicial fecha,ht.factura factura,
+                                  if(ht.reinspeccion=1 or ht.reinspeccion=0,'TM',if(ht.reinspeccion=4444 or ht.reinspeccion=44441,'PR',if(ht.reinspeccion=9999,'DP',''))) tipo,
+                                  if(ht.pin1,ht.pin1,'0') valor
+                                  from
+                                  hojatrabajo ht, vehiculos v
+                                  where
+                                  v.idvehiculo=ht.idvehiculo and
+                                  (ht.reinspeccion=1 or ht.reinspeccion=0 or ht.reinspeccion=4444 or ht.reinspeccion=44441 or ht.reinspeccion=9999) and ht.estadototal<>5 and
+                                  DATE_FORMAT(ht.fechainicial,'%Y-%m-%d') between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') ORDER BY 1 ASC");
+        return $data;
+    }
+
+//informe Inspecciones por defecto
+    function inspecciones($fechainicial, $fechafinal) {
+        $data = $this->db->query("SELECT 
+                                  p.idprueba as prueba, v.numero_placa as placa,DATE_FORMAT(h.fechafinal,'%Y-%m-%d') fecha,h.reinspeccion motivo,
+                                  if(p.estado=2,'A','R') as resultado, u.idusuario as inspector, c.numero_certificado as no_certificado,t.idtipo_vehiculo as cat,
+                                  s.idservicio tipo,v.idtipocombustible comb,m.idmarca as marca,l.idlinea as modelo
+                                  FROM 
+                                  vehiculos v, hojatrabajo h, pruebas p,certificados c, linea as l, marca as m, servicio s, tipo_vehiculo t,usuarios u
+                                  where 
+                                  v.idvehiculo=h.idvehiculo and  h.idhojapruebas=p.idhojapruebas and h.estadototal<>5 and
+                                  (select count(*) from resultados where idprueba=p.idprueba and (tiporesultado='T' or tiporesultado='defecto') and valor<>0)<>0 
+                                  and p.estado<>0 and p.estado<>5 and c.idhojapruebas=h.idhojapruebas and l.idlinea=v.idlinea and l.idmarca = m.idmarca and s.idservicio=v.idservicio 
+                                  and t.idtipo_vehiculo=v.tipo_vehiculo and p.idusuario=u.idusuario AND 
+                                  DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+
+        return $data;
+    }
+
+    function defectos($idprueba) {
+        $data = $this->db->query("select 
+                                r.idprueba idprueba,r.valor codigo,concat(d.descripcion_defecto,' - ', r.observacion) descripcion,d.gravedad tipo 
+                                from 
+                                resultados r,defectos d where idprueba=" . $idprueba . " and r.valor=d.id_defectos");
+        return $data->result();
+    }
+
+//Resumen diario de servicio
+    public function resumendiarioservicio($fechainicial, $fechafinal) {
+        $data = $this->db->query("select 
+                                distinct v.numero_placa,v.tipo_vehiculo, DATE_FORMAT(h.fechainicial,'%Y-%m-%d') AS fechainicial, h.reinspeccion,DATE_FORMAT(p.fechainicial,'%H:%i:%s') horainicial, DATE_FORMAT(p.fechafinal,'%H:%i:%s') horafinal,
+                                max(timediff(DATE_FORMAT(p.fechafinal,'%H:%i:%s'),DATE_FORMAT(p.fechainicial,'%H:%i:%s'))) tiempoespera,
+                                if( 
+                                (2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba desc limit 1),2))),'A','R') ar,
+                                ifnull((select DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'N/A') fecha_vigencia,
+                                ifnull((select format(c.usuario,0) from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'1') inspector,
+                                ifnull((select c.numero_certificado from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'N/A') numero_certificado,
+                                v.kilometraje,v.tipo_vehiculo,v.idservicio,(select m.idmarca from marca m,linea l where m.idmarca=l.idmarca and v.idlinea=l.idlinea) marca,v.idlinea
+                                from 
+                                hojatrabajo h, vehiculos v, pruebas p
+                                where 
+                                h.estadototal != 5 and v.idvehiculo=h.idvehiculo and p.idhojapruebas = h.idhojapruebas AND 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')  group by 1 order by 2");
+        return $data->result();
+    }
+
+//Mapa de servicios entre fechas 
+    function mapa_servicio_entre_fechas($fechainicial, $fechafinal) {
+        $data = $this->db->query("select 
+                                distinct v.numero_placa, h.reinspeccion,DATE_FORMAT(p.fechainicial,'%H:%i:%s') horainicial, DATE_FORMAT(p.fechafinal,'%H:%i:%s') horafinal,
+                                concat(ti.id_mintransporte,'.',cl.numero_identificacion) documento,
+                                if(h.reinspeccion=0 or h.reinspeccion=1,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='insLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='insPes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='insMot' and idconfiguracion='555'),0),0))), 
+                                if(h.reinspeccion=4444 or h.reinspeccion=44441 or h.reinspeccion=44440,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='preLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='prePes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='preMot' and idconfiguracion='555'),0),0))), 
+                                if(h.reinspeccion=7777 or h.reinspeccion=77771 or h.reinspeccion=77770,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='perLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='perPes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='perMot' and idconfiguracion='555'),0),0))),
+                                if(h.reinspeccion=9999,ifnull((select valor from config_prueba where descripcion='dupli' and idconfiguracion='555'),0),0)))) valor,
+                                if(
+                                (2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba desc limit 1),2))),'A','R') ar,
+                                ifnull((select DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'N/A') fecha_vigencia,
+                                ifnull((select format(c.usuario,0) from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'1') inspector,
+                                ifnull((select c.numero_certificado from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'N/A') numero_certificado,
+                                v.kilometraje,v.tipo_vehiculo,v.idservicio,(select m.idmarca from marca m,linea l where m.idmarca=l.idmarca and v.idlinea=l.idlinea) marca,v.idlinea
+                                from 
+                                hojatrabajo h, vehiculos v, pruebas p,clientes cl,tipo_identificacion ti
+                                where 
+                                h.estadototal!=5 and h.reinspeccion!=8888 and
+                                v.idvehiculo=h.idvehiculo and p.idhojapruebas = h.idhojapruebas and cl.idcliente=v.idcliente 
+                                and ti.tipo_identificacion=cl.tipo_identificacion AND 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')  group by 1");
+        return $data->result();
+    }
+
+//Lista de defectos por inspector
+    function lista_defectos_inspector($fechainicial, $fechafinal) {
+        $data = $this->db->query("select 
+                                p.idusuario
+                                from 
+                                hojatrabajo h,pruebas p, resultados r, defectos d
+                                where 
+                                h.idhojapruebas=p.idhojapruebas and r.idprueba=p.idprueba and
+                                h.estadototal != 5 and (h.reinspeccion = 0 or h.reinspeccion = 1) AND
+                                (r.tiporesultado='T' or r.tiporesultado='defecto')  and r.valor<>0 and
+                                d.id_defectos=r.valor AND 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') group by 1 order by 1");
+        return $data;
+    }
+
+    function numDefectos($fechainicial, $fechafinal, $idusurio) {
+        $data = $this->db->query("select ifnull((select 
+                                count(*)
+                                from 
+                                hojatrabajo h,pruebas p, resultados r, defectos d
+                                where 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') 
+                                and h.idhojapruebas=p.idhojapruebas and r.idprueba=p.idprueba and
+                                h.estadototal != 5 and (h.reinspeccion = 0 or h.reinspeccion = 1) and (r.tiporesultado='T' or r.tiporesultado='defecto')  and r.valor<>0 and
+                                d.id_defectos=r.valor and p.idusuario=$idusurio and d.gravedad='A'),0) as num_defA,
+                                ifnull((select 
+                                count(*)
+                                from 
+                                hojatrabajo h,pruebas p, resultados r, defectos d
+                                where 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') 
+                                and h.idhojapruebas=p.idhojapruebas and r.idprueba=p.idprueba and
+                                h.estadototal != 5 and (h.reinspeccion = 0 or h.reinspeccion = 1) and (r.tiporesultado='T' or r.tiporesultado='defecto')  and r.valor<>0 and
+                                d.id_defectos=r.valor and p.idusuario=$idusurio and d.gravedad='B'),0) as num_defB");
+
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0];
+        } else {
+            return FALSE;
+        }
+    }
+
+    //Inspector/categoria descriminada
+    function inspectores($fechainicial, $fechafinal) {
+        $data = $this->db->query("select 
+                                p.idusuario,
+                                IFNULL ((SELECT CONCAT(u.nombres,' ',u.apellidos) FROM usuarios u WHERE p.idusuario= u.IdUsuario), '---') AS 'user'
+                                from 
+                                hojatrabajo h,pruebas p 
+                                where DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')  and 
+                                h.estadototal != 5 and (h.reinspeccion = 0 or h.reinspeccion = 1) and h.idhojapruebas=p.idhojapruebas group by 1");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+//    function defectos($idprueba) {
+//        $data = $this->db->query("select 
+//r.idprueba idprueba,r.valor codigo,concat(d.descripcion_defecto,' - ', r.observacion) descripcion,d.gravedad tipo 
+//from 
+//resultados r,defectos d where idprueba=" . $idprueba . " and r.valor=d.id_defectos");
+//        if ($data->num_rows() > 0) {
+//            return $data;
+//        } else {
+//            return FALSE;
+//        }
+//    }
+
+    function getNumDefectos($inspector, $tipoVehiculo, $servicio, $tipoDefecto, $gravedad, $rango) {
+        $data = $this->db->query("select 
+                                count(*) num
+                                from 
+                                resultados r, pruebas p, hojatrabajo h, usuarios u,vehiculos v,defectos d,tipo_defecto td
+                                where 
+                                DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rango . " and
+                                r.idprueba=p.idprueba and h.idhojapruebas=p.idhojapruebas and u.idusuario=p.idusuario and v.idclase!=15 and  v.idclase!=13 and
+                                (r.tiporesultado='defecto' or r.tiporesultado='T') and d.id_defectos=r.valor and v.idvehiculo=h.idvehiculo  and h.estadototal!=5
+                                and td.id_tipo_defecto=d.id_tipo_defecto and
+                                p.idusuario=" . $inspector . " and v.tipo_vehiculo=" . $tipoVehiculo . " and (" . $servicio . ") and (" . $tipoDefecto . ") and d.gravedad='" . $gravedad . "'");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->num;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function getTotalNumDefectos($tipoDefecto, $gravedad, $rango) {
+        $data = $this->db->query("select 
+                                count(*) num
+                                from 
+                                resultados r, pruebas p, hojatrabajo h, usuarios u,vehiculos v,defectos d,tipo_defecto td
+                                where 
+                                DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rango . " and
+                                r.idprueba=p.idprueba and h.idhojapruebas=p.idhojapruebas and u.idusuario=p.idusuario and v.idclase!=15 and  v.idclase!=13 and h.estadototal!=5 and
+                                (r.tiporesultado='defecto' or r.tiporesultado='T') and d.id_defectos=r.valor and v.idvehiculo=h.idvehiculo 
+                                and td.id_tipo_defecto=d.id_tipo_defecto and (" . $tipoDefecto . ") and d.gravedad='" . $gravedad . "'");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->num;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function getNumDefectosRemolque($inspector, $idclase, $tipoDefecto, $gravedad, $rango) {
+        $data = $this->db->query("select 
+                                count(*) num
+                                from 
+                                resultados r, pruebas p, hojatrabajo h, usuarios u,vehiculos v,defectos d,tipo_defecto td
+                                where 
+                                DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rango . " and
+                                r.idprueba=p.idprueba and h.idhojapruebas=p.idhojapruebas and u.idusuario=p.idusuario and v.idclase=" . $idclase . " and
+                                (r.tiporesultado='defecto' or r.tiporesultado='T') and d.id_defectos=r.valor and v.idvehiculo=h.idvehiculo  and h.estadototal!=5
+                                and td.id_tipo_defecto=d.id_tipo_defecto and
+                                p.idusuario=" . $inspector . " and (" . $tipoDefecto . ") and d.gravedad='" . $gravedad . "'");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->num;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function siDefectos($rango, $idUsuario) {
+        $data = $this->db->query("select 
+                                count(*) num
+                                from 
+                                resultados r2, pruebas p2, hojatrabajo h2
+                                where 
+                                DATE_FORMAT(h2.fechafinal,'%Y-%m-%d') between " . $rango . " and
+                                r2.idprueba=p2.idprueba and h2.idhojapruebas=p2.idhojapruebas and
+                                (r2.tiporesultado='defecto' or r2.tiporesultado='T') and h2.estadototal!=5 and p2.idusuario=" . $idUsuario);
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->num;
+        } else {
+            return FALSE;
+        }
+    }
+
+//Lista de provisiones de servicios
+    function lista_provisiones($fechainicial, $fechafinal) {
+        $data = $this->db->query("select 
+                                concat(c.nombre1,' ',c.nombre2,' ',c.apellido1,' ',c.apellido2) cliente,v.numero_placa,v.tipo_vehiculo,v.idservicio,
+                                ifnull((select DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') from certificados c where c.idhojapruebas=h.idhojapruebas limit 1),'N/A') vigencia,
+                                if(h.reinspeccion=0 or h.reinspeccion=1,'Insp', 
+                                if(h.reinspeccion=4444 or h.reinspeccion=44441 or h.reinspeccion=44440,'Prev', 
+                                if(h.reinspeccion=7777 or h.reinspeccion=77771 or h.reinspeccion=77770,'Peri',
+                                if(h.reinspeccion=9999,'Dupl','N/A')))) mot,
+                                if(h.reinspeccion=0 or h.reinspeccion=1,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='insLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='insPes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='insMot' and idconfiguracion='555'),0),0))), 
+                                if(h.reinspeccion=4444 or h.reinspeccion=44441 or h.reinspeccion=44440,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='preLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='prePes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='preMot' and idconfiguracion='555'),0),0))), 
+                                if(h.reinspeccion=7777 or h.reinspeccion=77771 or h.reinspeccion=77770,
+                                if(v.tipo_vehiculo=1,ifnull((select valor from config_prueba where descripcion='perLiv' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=2,ifnull((select valor from config_prueba where descripcion='perPes' and idconfiguracion='555'),0),
+                                if(v.tipo_vehiculo=3,ifnull((select valor from config_prueba where descripcion='perMot' and idconfiguracion='555'),0),0))),
+                                if(h.reinspeccion=9999,ifnull((select valor from config_prueba where descripcion='dupli' and idconfiguracion='555'),0),0)))) valor
+                                from 
+                                hojatrabajo h,vehiculos v,clientes c
+                                where 
+                                DATE_FORMAT(h.fechainicial,'%Y-%m-%d') BETWEEN DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') 
+                                and h.estadototal !=5 and h.reinspeccion!=8888 and
+                                h.idvehiculo=v.idvehiculo and c.idcliente=v.idcliente");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    //Aprobados rechazados por año de matricula
+    function aprobadosInspeccion($sentencia, $rangoFecha) {
+        $data = $this->db->query("SELECT 
+                                count(*) as valor
+                                FROM 
+                                vehiculos v, hojatrabajo h
+                                where 
+                                v.idvehiculo=h.idvehiculo and 
+                                DATE_FORMAT(v.fecha_matricula,'%Y') " . $sentencia . " and DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rangoFecha . " and h.reinspeccion=0  and h.estadototal<>5 and
+                                (
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba desc limit 1),2)))");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->valor;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function rechazadosInspeccion($sentencia, $rangoFecha) {
+        $data = $this->db->query("SELECT 
+                                count(*) as valor
+                                FROM 
+                                vehiculos v, hojatrabajo h
+                                where 
+                                v.idvehiculo=h.idvehiculo  and h.estadototal<>5 and 
+                                DATE_FORMAT(v.fecha_matricula,'%Y') " . $sentencia . " and DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rangoFecha . " and (h.reinspeccion=0 or h.reinspeccion=1) and
+                                (
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba asc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba asc limit 1),2)))");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->valor;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function aprobadosReinspeccion($sentencia, $rangoFecha) {
+        $data = $this->db->query("SELECT 
+                                count(*) as valor
+                                FROM 
+                                vehiculos v, hojatrabajo h
+                                where 
+                                v.idvehiculo=h.idvehiculo and h.estadototal<>5 and 
+                                DATE_FORMAT(v.fecha_matricula,'%Y') " . $sentencia . " and DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rangoFecha . " and h.reinspeccion=1 and
+                                (
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba desc limit 1),2)) and 
+                                2 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba desc limit 1),2)))");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->valor;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function rechazadosReinspeccion($sentencia, $rangoFecha) {
+        $data = $this->db->query("SELECT 
+                                count(*) as valor
+                                FROM 
+                                vehiculos v, hojatrabajo h
+                                where 
+                                v.idvehiculo=h.idvehiculo and h.estadototal<>5 and 
+                                DATE_FORMAT(v.fecha_matricula,'%Y') " . $sentencia . " and DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rangoFecha . " and (h.reinspeccion=1) and
+                                (
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=1 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=2 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=3 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=4 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=5 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=6 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=7 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=8 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=9 order by idprueba desc limit 1),2)) or 
+                                3 = (ifnull((select if(estado=1 or estado=3 or estado=0,3,2) from pruebas where idhojapruebas=h.idhojapruebas and (estado=1 or estado = 2 or estado =3 or estado =0) and idtipo_prueba=10 order by idprueba desc limit 1),2)))");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->valor;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function totalReinspeccion($sentencia, $rangoFecha) {
+        $data = $this->db->query("SELECT 
+                                count(*) as valor
+                                FROM 
+                                vehiculos v, hojatrabajo h
+                                where 
+                                v.idvehiculo=h.idvehiculo and h.estadototal<>5 and 
+                                DATE_FORMAT(v.fecha_matricula,'%Y') " . $sentencia . " and DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between " . $rangoFecha . " and (h.reinspeccion=1)");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->valor;
+        } else {
+            return FALSE;
+        }
+    }
+
+//Clientes adquiridos,perdidos y retornados
+    function clientesAdquiridos($fechainicial, $fechafinal) {
+        $data = $this->db->query("SELECT 
+                                distinct v.numero_placa,concat(m.nombre,' - ', l.nombre) marca, DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') fecha,concat(cl.nombre1,' ',cl.apellido1) propietario,
+                                cl.direccion direccion, cl.telefono1, cl.telefono2, ci.nombre ciudad,c.usuario ,if(c.estado=2 ,'R','A') AR
+                                FROM 
+                                certificados c, hojatrabajo h, vehiculos v,clientes cl, linea l, marca m, ciudades ci
+                                where 
+                                DATE_ADD(DATE_FORMAT(c.fechaimpresion,'%Y-%m-%d'),INTERVAL 1 YEAR) between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') and
+                                c.idhojapruebas=h.idhojapruebas and h.idvehiculo=v.idvehiculo and cl.idcliente = v.idcliente and v.idlinea=l.idlinea and l.idmarca=m.idmarca and cl.cod_ciudad=ci.cod_ciudad and
+                                (SELECT 
+                                count(*)
+                                FROM 
+                                certificados c2, hojatrabajo h2, vehiculos v2,clientes cl2
+                                where
+                                c2.idhojapruebas=h2.idhojapruebas and h2.idvehiculo=v2.idvehiculo and cl2.idcliente = v2.idcliente and cl2.idcliente=cl.idcliente) = 1");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function clientesRetornados($fechainicial, $fechafinal) {
+        $data = $this->db->query("SELECT 
+                                distinct v.numero_placa,concat(m.nombre,' - ', l.nombre) marca, DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') fecha,concat(cl.nombre1,' ',cl.apellido1) propietario,
+                                cl.direccion direccion, cl.telefono1, cl.telefono2, ci.nombre ciudad,c.usuario,if(c.estado=2 ,'R','A') AR
+                                FROM 
+                                certificados c, hojatrabajo h, vehiculos v,clientes cl, linea l, marca m, ciudades ci
+                                where 
+                                DATE_ADD(DATE_FORMAT(c.fechaimpresion,'%Y-%m-%d'),INTERVAL 1 YEAR) between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') and
+                                c.idhojapruebas=h.idhojapruebas and h.idvehiculo=v.idvehiculo and cl.idcliente = v.idcliente and v.idlinea=l.idlinea and l.idmarca=m.idmarca and cl.cod_ciudad=ci.cod_ciudad and
+                                (SELECT 
+                                count(*)
+                                FROM 
+                                certificados c2, hojatrabajo h2, vehiculos v2,clientes cl2
+                                where
+                                c2.idhojapruebas=h2.idhojapruebas and h2.idvehiculo=v2.idvehiculo and cl2.idcliente = v2.idcliente and cl2.idcliente=cl.idcliente) != 1");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function clientesPerdidos($fechaperdidos, $fechafinal) {
+        $data = $this->db->query("SELECT 
+                                distinct v.numero_placa,concat(m.nombre,' - ', l.nombre) marca, DATE_FORMAT(c.fecha_vigencia,'%Y-%m-%d') fecha,concat(cl.nombre1,' ',cl.apellido1) propietario,
+                                cl.direccion direccion, cl.telefono1, cl.telefono2, ci.nombre ciudad,c.usuario,if(c.estado=2 ,'R','A') AR
+                                FROM 
+                                certificados c, hojatrabajo h, vehiculos v,clientes cl, linea l, marca m, ciudades ci
+                                where 
+                                DATE_ADD(DATE_FORMAT(c.fechaimpresion,'%Y-%m-%d'),INTERVAL 1 YEAR) between DATE_FORMAT('$fechaperdidos','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d') and
+                                c.idhojapruebas=h.idhojapruebas and h.idvehiculo=v.idvehiculo and cl.idcliente = v.idcliente and v.idlinea=l.idlinea and l.idmarca=m.idmarca and cl.cod_ciudad=ci.cod_ciudad ");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function getContrasenas($fechainicial, $fechafinal) {
+        $data = $this->db->query("SELECT 
+                        IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE u.IdUsuario = h.idusuario LIMIT 1),'---') AS 'Usuario',
+                        h.fecha AS 'Fecha de cambio'
+                        FROM historico_pass h 
+                        WHERE DATE_FORMAT(h.fecha,'%Y-%m-%d')  BETWEEN '$fechainicial' AND '$fechafinal' ");
+        return $data;
+        
+    }
+
+}

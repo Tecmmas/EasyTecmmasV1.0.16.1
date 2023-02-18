@@ -1,101 +1,226 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mresultado extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+//        $order = $data['order'];
+        $observacion = $data['observacion'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.tiporesultado = '$tiporesultado'
+                $observacion
+            ORDER BY 1 DESC
+            LIMIT 1");
+        return $query;
+    }
+
+    function getIdprueba($idprueba, $tiporesultado) {
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.tiporesultado = '$tiporesultado'
+            ORDER BY 1
+            LIMIT 1");
+        return $query;
+    }
+
+    function getxIdprueba($idprueba) {
+        $query = $this->db->query("
+            SELECT
+              v.numero_placa,
+              abs(round(v.diametro_escape * 10,1)) AS  'LTOE',
+				  IFNULL((SELECT if(v.tipo_vehiculo = 1,'4983',if(v.tipo_vehiculo = 2,'4231', '5365')) FROM vehiculos v WHERE v.idvehiculo = h.idvehiculo ), '---') AS 'norma',
+                                  				  ifnull((select 'SI' from resultados where idprueba=p.idprueba and tiporesultado='defecto' and valor=341  order by 1 desc limit 1),'NO') AS 'Falla_por_temperatura_motor_disel',
+				    r.idconfig_prueba,r.tiporesultado, r.valor
+FROM
+                vehiculos v, hojatrabajo h, pruebas p, resultados r
+WHERE
+            v.idvehiculo = h.idvehiculo  AND h.idhojapruebas = p.idhojapruebas AND p.idprueba = r.idprueba AND 
+            p.idprueba = $idprueba");
+        return $query;
+    }
+
+    function getTmpMot($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+        $order = $data['order'];
+        $observacion = $data['observacion'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.valor <> '0' and    
+                r.tiporesultado = '$tiporesultado'
+                $observacion
+            ORDER BY 1 $order
+            LIMIT 1");
+        return $query;
+    }
+
+    function getDefT($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+        $valor = $data['valor'];
+        $order = $data['order'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.tiporesultado = '$tiporesultado' and
+                r.valor = '$valor'
+            ORDER BY 1 $order
+            LIMIT 1");
+        return $query;
+    }
+
+    function getIDCP($data) {
+        $idprueba = $data['idprueba'];
+        $idconfig_prueba = $data['idconfig_prueba'];
+        $order = $data['order'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.idconfig_prueba = '$idconfig_prueba'
+            ORDER BY 1 $order
+            LIMIT 1");
+        return $query;
+    }
+
+    function getIDCP_tipo($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+        $idconfig_prueba = $data['idconfig_prueba'];
+        $order = $data['order'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                r.tiporesultado = '$tiporesultado' and
+                r.idconfig_prueba = '$idconfig_prueba'
+            ORDER BY 1 $order
+            LIMIT 1");
+        return $query;
+    }
+
+    function getDef($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+        $idconfig_prueba = $data['idconfig_prueba'];
+        $order = $data['order'];
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                (r.tiporesultado = '$tiporesultado' OR  r.tiporesultado = 'COMENTARIOSADICIONALES') and
+                r.idconfig_prueba = '$idconfig_prueba'
+            ORDER BY 1 $order");
+        return $query;
+    }
+
+    function getObses($idprueba) {
+//        $idconfig_prueba = '77';
+        $query = $this->db->query("
+            SELECT
+                *
+            FROM
+                resultados r
+            WHERE
+                r.idprueba = $idprueba and
+                (r.idconfig_prueba = 77 or  r.idconfig_prueba = 96) 
+            ORDER BY 1");
+        return $query;
+    }
+
+    function getSumFuerzaAux($data) {
+        $idprueba = $data['idprueba'];
+        $tiporesultado = $data['tiporesultado'];
+        $idconfig_prueba = $data['idconfig_prueba'];
+        $order = $data['order'];
+        $query = $this->db->query("
+            SELECT 
+                sum(r.valor) valor
+                FROM 
+                resultados r 
+                WHERE 
+                r.tiporesultado>$tiporesultado AND 
+                r.idprueba=$idprueba AND 
+                r.idconfig_prueba=$idconfig_prueba 
+                GROUP BY r.idconfig_prueba
+                ORDER BY 1 $order");
+        return $query;
+    }
+
+    function getMaxGases($data) {
+        $idprueba = $data['idprueba'];
+        $idhojapruebas = $data['idhojapruebas'];
+        $tiporesultado = $data['tiporesultado'];
+//        $order = $data['order'];
+//        $observacion = $data['observacion'];
+        $query = $this->db->query("
+            SELECT 
+                max(cast(r.valor AS decimal(20, 2))) valor 
+                FROM 
+                resultados r, 
+                pruebas p 
+                WHERE 
+                r.tiporesultado='$tiporesultado' AND 
+                p.prueba=$idprueba AND 
+                r.idprueba=p.idprueba AND 
+                p.idhojapruebas=$idhojapruebas
+                order by r.fechaguardado desc limit 1");
+        return $query;
+    }
+
+    function getMaxRpmGases($data) {
+        $idprueba = $data['idprueba'];
+        $idhojapruebas = $data['idhojapruebas'];
+        $query = $this->db->query("
+            SELECT 
+                max(cast(r.valor AS decimal(20, 2))) valor 
+                FROM 
+                resultados r, 
+                pruebas p 
+                WHERE 
+                r.tiporesultado='T' AND 
+                r.valor='332' AND 
+                p.prueba=$idprueba AND 
+                r.idprueba=p.idprueba AND 
+                p.idhojapruebas=$idhojapruebas
+                order by r.fechaguardado desc limit 1");
+        return $query;
+    }
+
+}

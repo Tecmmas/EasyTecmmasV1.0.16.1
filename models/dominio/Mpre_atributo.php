@@ -1,32 +1,27 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-6LM6PPbzeBEjp5q=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mpre_atributo extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $this->db->where("idpre_atributo", $data['idpre_atributo']);
+        $query = $this->db->get('pre_atributo');
+        return $query;
+    }
+
+    function getXid($data) {
+        $this->db->where("id", $data['id']);
+        $query = $this->db->get('pre_atributo');
+        return $query;
+    }
+
+    function insert($data) {
+        echo $this->db->insert('pre_atributo', $data);
+    }
+
+}

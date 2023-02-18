@@ -1,108 +1,109 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7M+nxHS0U0==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mbackup extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    public function inserbackup($namebackup, $user) {
+        $query = $this->db->query("INSERT INTO backup VALUES (NULL,'$namebackup','$user','','','',CURRENT_TIMESTAMP(),CURRENT_TIMESTAMP())");
+        if ($query) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
+    public function getresul_local() {
+        $query = true;
+        $mesaje = "";
+        $this->db2 = $this->load->database('backup', true);
+        $tecmmas = $this->db->query("SHOW TABLES ");
+        $res = $tecmmas->result();
+        foreach ($res as $bd) {
+            if ($bd->Tables_in_tecmmas_bd !== 'backup') {
+                $rta = $this->db->query("SELECT COUNT(*) AS 'res' FROM $bd->Tables_in_tecmmas_bd");
+                $rta2 = $this->db2->query("SELECT COUNT(*) AS 'res' FROM $bd->Tables_in_tecmmas_bd");
+                $data = $rta->result();
+                $data2 = $rta2->result();
+                if ($data[0]->res !== $data2[0]->res) {
+                    $query = false;
+                    $mesaje = $mesaje . "Tabla $bd->Tables_in_tecmmas_bd registros no coinciden bd_local= " . $data[0]->res . ' bd_resplado= ' . $data2[0]->res . '<br/>';
+                }
+            }
+        }
+        $imagenesbd = $this->db->query("SHOW DATABASES  like 'imagenes_bd'");
+        if ($imagenesbd->num_rows() > 0) {
+            $image = $this->db->query("SHOW TABLES FROM imagenes_bd");
+            $r = $image->result();
+            foreach ($r as $bd) {
+                $rta = $this->db->query("SELECT COUNT(*) AS 'res' FROM imagenes_bd.$bd->Tables_in_imagenes_bd");
+                $rta2 = $this->db2->query("SELECT COUNT(*) AS 'res' FROM imagenes_bd.$bd->Tables_in_imagenes_bd");
+                $data = $rta->result();
+                $data2 = $rta2->result();
+                if ($data[0]->res !== $data2[0]->res) {
+                    $query = false;
+                    $mesaje = $mesaje . "En la base de datos imagenes_bd Tabla $bd->Tables_in_imagenes_bd registros no coinciden bd_local= " . $data[0]->res . ' bd_resplado= ' . $data2[0]->res . '<br/>';
+                }
+            }
+        }
+        if (!$query) {
+            return $mesaje;
+        } else {
+            return $query;
+        }
+    }
+
+    public function getresul_respaldo() {
+        $this->db2 = $this->load->database('backup', true);
+        $query = $this->db2->query("SELECT COUNT(*) AS 'res' FROM resultados");
+        if ($query->num_rows() > 0) {
+            $query = $query->result();
+            return $query[0]->res;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function getplacas($data) {
+        $query = $this->db->query("SELECT v.numero_placa,
+                                    DATE_FORMAT(h.fechainicial, '%Y-%m-%d %h:%m:%s') AS 'fecha',
+                                    IF(h.estadototal=4,'Aprobada','Rechazada') AS 'resultado'
+                                    FROM vehiculos v, hojatrabajo h
+                                    WHERE v.idvehiculo=h.idvehiculo AND (h.reinspeccion = 0 or h.reinspeccion = 1) AND
+                                    DATE_FORMAT(h.fechafinal,'%Y-%m-%d') between DATE_FORMAT('$data','%Y-%m-%d') AND DATE_FORMAT('$data','%Y-%m-%d') ORDER BY 2 DESC  ");
+        return $query;
+    }
+
+    public function Updatebackup($html, $user, $idbackup) {
+        $query = $this->db->query("UPDATE backup  SET fechageneracion=fechageneracion, fecharestauracion= CURRENT_TIMESTAMP(), html='$html', usuariores='$user', res=1 WHERE idbackup=$idbackup");
+        if ($query) {
+            return 1;
+        } else {
+            return false;
+        }
+    }
+
+    public function gettable() {
+        $data = $this->db->query("SELECT * FROM backup ORDER BY 1 DESC LIMIT 2 ");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function informe_backup($fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT c.nombre AS 'Nombre backup', c.usuario AS 'Usuario backup',c.fechageneracion AS 'Fecha generacion', c.html AS 'Informe',
+                                    c.usuariores AS 'Usuario restauracion backup', if (c.res = 1, 'Restaurado', 'No se restuaro') AS 'Estado',
+                                    c.fecharestauracion AS 'Fecha restauracion'
+                                    FROM backup c WHERE 
+                                    DATE_FORMAT(c.fechageneracion,'%Y-%m-%d') between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+}

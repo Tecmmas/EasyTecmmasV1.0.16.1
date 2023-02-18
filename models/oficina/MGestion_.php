@@ -1,146 +1,716 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class MGestion extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->db = $this->load->database('default', true);
+        $this->myforge = $this->load->dbforge($this->db, TRUE);
+    }
+
+    function getVehiculosEnPista() {
+        $this->tableSala2();
+        $this->createTriguerSalae();
+        $query = <<<EOF
+            select distinct 
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion
+            from 
+                vehiculos v, 
+                hojatrabajo h, 
+                pruebas p 
+            where 
+                h.idhojapruebas=p.idhojapruebas and 
+                v.idvehiculo=h.idvehiculo and 
+                (h.estadototal=1 or h.estadototal=3) and 
+                ((DATE_FORMAT(h.fechainicial,'%Y%M%d') = DATE_FORMAT(now(),'%Y%M%d') or CURDATE() in (select date(fechainicial) from pruebas where idhojapruebas=h.idhojapruebas and estado=0 ))) and
+                h.estadototal<>5 and p.estado=0 order by h.fechainicial desc
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function tableSala2() {
+        $fields = array(
+            'id' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'unsigned' => TRUE,
+                'auto_increment' => TRUE
+            ),
+            'idhojaprueba' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'idprueba' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'idtipo_prueba' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'estado' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'actualizado' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'fecha' => array(
+                'type' => 'TIMESTAMP',
+                'null' => FALSE,
+            ),
+        );
+        $this->myforge->add_key('id', TRUE);
+        $this->myforge->add_field($fields);
+        $attributes = array('ENGINE' => 'InnoDB');
+        $this->myforge->create_table('control_salae', TRUE, $attributes);
+    }
+
+    public function createTriguerSalae() {
+        $data = $this->db->query("SHOW TRIGGERS");
+        $rta = $data->result();
+        $val = false;
+        foreach ($rta as $value) {
+            if ($value->Trigger == 'salae') {
+                $val = true;
+            }
+        }
+        if ($val == false) {
+            $query = $this->db->query("
+            CREATE DEFINER=`root`@`localhost` TRIGGER `salae` AFTER UPDATE ON `pruebas` FOR EACH ROW BEGIN
+ 	  if NEW.idtipo_prueba=5 then
+ 		 SET @numcamara=(SELECT count(*) from pruebas where idtipo_prueba=5 AND idhojapruebas=NEW.idhojapruebas AND estado=0 group by idtipo_prueba LIMIT 1); 
+	 	  if @numcamara > 0 then
+		  		   SET @estado=0;		  
+		  else
+		  		   SET @estado=2;
+		  END if;
+		    INSERT INTO control_salae VALUES (NULL,NEW.idhojapruebas,NEW.idprueba,NEW.idtipo_prueba,@estado,'0',NOW());		  
+	  else
+		    INSERT INTO control_salae VALUES (NULL,NEW.idhojapruebas,NEW.idprueba,NEW.idtipo_prueba,NEW.estado,'0',NOW());	  
+	  END if;
+END
+            "
+            );
+        }
+    }
+
+    function pruebasPendientes() {
+        $query = <<<EOF
+            select v.numero_placa,tp.nombre from vehiculos v, hojatrabajo h, pruebas p, tipo_prueba tp where tp.idtipo_prueba=p.idtipo_prueba and h.idhojapruebas=p.idhojapruebas and v.idvehiculo=h.idvehiculo and p.estado=0
+EOF;
+        $rta = $this->db->query($query);
+        return $rta;
+    }
+
+    function getVehiculosRechazados() {
+        $query = <<<EOF
+            SELECT distinct 
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion
+from hojatrabajo h, vehiculos v 
+WHERE 
+(h.sicov=0 or h.estadototal=1)AND
+(CURDATE()=date(h.fechainicial) or CURDATE()=date(h.fechafinal)) and v.idvehiculo=h.idvehiculo and (h.estadototal<>4 and h.estadototal<>5) AND
+(if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=2 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=2 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=3 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=3 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=4 and estado<>5  order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=4 and estado<>5  order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=0 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=0 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=6 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=6 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=7 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=7 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=8 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=8 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=9 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=9 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R' OR
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=10 and estado<>5 order by idprueba desc limit 1 ),6))=1 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=10 and estado<>5 order by idprueba desc limit 1 ),6))=3,'R','A')='R') AND
+if(0 IN (select estado FROM pruebas where idhojapruebas=h.idhojapruebas AND estado=0),'SI','NO') = 'NO'
+
+EOF;
+        $rta = $this->db->query($query);
+
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getVehiculosAprobados() {
+        $query = <<<EOF
+            SELECT distinct 
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion
+FROM
+    hojatrabajo h, vehiculos v
+WHERE
+(h.sicov=0 or h.estadototal=1)AND
+(CURDATE()=date(h.fechainicial) or CURDATE()=date(h.fechafinal) or CURDATE() in (select date(fechafinal) from pruebas where idhojapruebas=h.idhojapruebas and (estado<>5 and estado<>0) and CURDATE()=date(NOW()))) and v.idvehiculo=h.idvehiculo and (h.estadototal<>4 and h.estadototal<>5) and 
+(if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=2 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=2 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=3 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=3 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=4 and estado<>5  order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=4 and estado<>5  order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=0 and estado<>5 order by idprueba desc limit 1),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=0 and estado<>5 order by idprueba desc limit 1),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=5 and prueba=1 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=6 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=6 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=7 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=7 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=8 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=8 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=9 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=9 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A' AND
+if(
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=10 and estado<>5 order by idprueba desc limit 1 ),6))=2 OR
+(select ifnull((select estado FROM pruebas where idhojapruebas = h.idhojapruebas and idtipo_prueba=10 and estado<>5 order by idprueba desc limit 1 ),6))=6,'A','R')='A')
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getRechazadoSinCosecutivo() {
+        $query = <<<EOF
+            select 
+                distinct 
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion
+            from 
+                vehiculos v, hojatrabajo h 
+            where 
+            v.idvehiculo=h.idvehiculo AND CURDATE()=date(h.fechafinal) and h.estadototal=3 and h.sicov=1 order by h.fechafinal desc
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getAprobadoSinCosecutivo() {
+        $query = <<<EOF
+            select 
+                distinct 
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion
+            from 
+            vehiculos v, hojatrabajo h 
+            where v.idvehiculo=h.idvehiculo AND CURDATE()=date(h.fechafinal) and h.estadototal=2 and h.sicov=1 order by h.fechafinal desc
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getVehiculoTerminado() {
+        $query = <<<EOF
+            select 
+                distinct 
+                IFNULL((SELECT c.correo FROM clientes c WHERE v.idcliente = c.idcliente LIMIT 1),'') AS 'email',
+                IFNULL((SELECT p.idpre_prerevision FROM pre_prerevision p WHERE p.numero_placa_ref = v.numero_placa LIMIT 1 ),'') AS 'idprerevision',
+                 CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 14px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 2px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+                  if(h.reinspeccion=0,'1ra','2da') ocacion,
+                  h.idhojapruebas,v.numero_placa,h.reinspeccion,h.estadototal
+            from 
+                vehiculos v, hojatrabajo h 
+            where 
+                v.idvehiculo=h.idvehiculo AND CURDATE()=date(h.fechafinal) and (h.estadototal=4 or h.estadototal=7) and h.sicov=1 order by h.fechafinal desc
+EOF;
+        //and 0<>(select count(*) from certificados c where c.idhojapruebas=h.idhojapruebas) 
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getAuditoria() {
+        $this->borrarRegAudit();
+        $query = <<<EOF
+            select * from cron_audit where notificado=0;
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+            foreach ($rta as $r) {
+                $this->db->where('id', $r->id);
+                $this->db->set('notificado', 1, false);
+                $this->db->update("cron_audit");
+            }
+            return $rta;
+        } else {
+            return '';
+        }
+    }
+
+    function borrarRegAudit() {
+        $query = <<<EOF
+            delete from cron_audit where CURDATE()<>date(fecha)
+EOF;
+        $this->db->query($query);
+    }
+
+    function getPlacaSalaE() {
+        $this->borrarPlacaSalaE();
+        $query = <<<EOF
+                    SELECT * FROM control_salae c WHERE c.actualizado=0 and c.estado<>5
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+            foreach ($rta as $r) {
+                $this->db->where('id', $r->id);
+                $this->db->set('actualizado', 1, false);
+                $this->db->update("control_salae");
+            }
+            return $rta;
+        } else {
+            return '';
+        }
+    }
+
+    function borrarPlacaSalaE() {
+        $query = <<<EOF
+            delete from control_salae where CURDATE()<> DATE_FORMAT(fecha,'%Y-%m-%d')
+EOF;
+        $this->db->query($query);
+    }
+
+}

@@ -1,147 +1,519 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mpruebas extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->dbutil();
+    }
+
+//inicio consulta infome pruebas sonometro
+    public function informe_sonometro($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT  DISTINCT
+IFNULL((SELECT c.nombre_cda FROM cda c LIMIT 1),'---') AS 'Nombre cda',
+IFNULL((SELECT c.numero_id FROM cda c LIMIT 1),'---') AS 'Numero cda',
+IFNULL((SELECT c.tipo_identificacion FROM cda c LIMIT 1),'---') AS 'Nit',
+IFNULL((SELECT s.direccion FROM cda c, sede s WHERE c.idcda = s.idcda LIMIT 1),'---') AS 'Nit',
+			ma.marca AS 'Marca analizador',
+			ma.serie AS 'Serie analizador',
+			DATE_FORMAT(p.fechafinal, '%Y/%m/%d') AS 'Fecha',
+			v.numero_placa AS 'Placa',
+			IFNULL(( SELECT t.nombre FROM tipo_vehiculo t WHERE t.idtipo_vehiculo = v.tipo_vehiculo LIMIT 1),'---') AS 'Tipo vehiculo',
+			v.ano_modelo AS 'Modelo',
+			v.tiempos,
+			IF(v.idtipocombustible = 1,'Diesel',IF(v.idtipocombustible <> 1 && v.tipo_vehiculo<> 3,'Otto',IF(v.tiempos = 4 && v.tipo_vehiculo=3,'4T','2T'))) AS 'Ciclo',
+			(SELECT ma.serie from maquina ma, pruebas p WHERE p.idmaquina=ma.idmaquina AND p.idtipo_prueba=4  limit 1) AS 'Modelo sonometro',
+			(SELECT valor FROM pruebas pr,resultados re WHERE pr.idtipo_prueba=4 AND pr.idhojapruebas=h.idhojapruebas AND re.idprueba=pr.idprueba AND re.tiporesultado='valor_ruido_motor1' ORDER BY 1 DESC LIMIT 1) 'Resultado ruido'
+                        FROM 
+			hojatrabajo h,pruebas p,vehiculos v,maquina ma
+                        WHERE 
+                        v.idvehiculo=h.idvehiculo AND
+			h.idhojapruebas=p.idhojapruebas AND
+			p.idmaquina=ma.idmaquina AND 
+			ma.idmaquina=$idconf_maquina  AND 
+         p.idtipo_prueba=4 AND
+         $where AND
+         (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND
+         DATE_FORMAT(p.fechafinal,'%Y-%m-%d') between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+//        $query = $this->db->query("SELECT  DISTINCT
+//			cd.nombre_cda AS 'Nombre cda',               
+//			cd.numero_cda AS 'Numero cda',
+//			cd.tipo_identificacion AS 'Nit',
+//			se.direccion AS 'Direccion',
+//			ma.marca AS 'Marca analizador',
+//			ma.serie AS 'Serie analizador',
+//			DATE_FORMAT(p.fechafinal, '%Y/%m/%d') AS 'Fecha',
+//			v.numero_placa AS 'Placa',
+//			tv.nombre AS 'Tipo vehiculo',
+//			v.ano_modelo AS 'Modelo',
+//			v.tiempos,
+//			IF(v.idtipocombustible = 1,'Diesel',IF(v.idtipocombustible <> 1 && v.tipo_vehiculo<> 3,'Otto',IF(v.tiempos = 4 && v.tipo_vehiculo=3,'4T','2T'))) AS 'Ciclo',
+//			(SELECT ma.serie from maquina ma, pruebas p WHERE p.idmaquina=ma.idmaquina AND p.idtipo_prueba=4  limit 1) AS 'Modelo sonometro',
+//			(SELECT valor FROM pruebas pr,resultados re WHERE pr.idtipo_prueba=4 AND pr.idhojapruebas=h.idhojapruebas AND re.idprueba=pr.idprueba AND re.tiporesultado='valor_ruido_motor1' ORDER BY 1 DESC LIMIT 1) 'Resultado ruido'
+//                        FROM 
+//			hojatrabajo h,pruebas p,vehiculos v,maquina ma , cda cd, sede se, tipo_vehiculo tv
+//                        WHERE 
+//                        v.idvehiculo=h.idvehiculo AND
+//			h.idhojapruebas=p.idhojapruebas AND
+//			p.idmaquina=ma.idmaquina AND 
+//			v.tipo_vehiculo AND tv.idtipo_vehiculo AND 
+//			ma.idmaquina=$idconf_maquina  AND 
+//			cd.idcda=se.idcda AND 
+//                        p.idtipo_prueba=4 AND
+//                        $where AND
+//                        (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND
+//                        DATE_FORMAT(p.fechafinal,'%Y-%m-%d') between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function informe_luces($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+                                DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha',
+                                v.numero_placa as Placa,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                                CASE
+                                    WHEN p.estado= 0 THEN 'Asignado'
+                                    WHEN p.estado= 1 THEN 'Rechazado'
+                                    WHEN p.estado= 3 THEN 'Reasignado'
+                                    WHEN p.estado= 2 THEN 'Aprobado'
+                                 ELSE 'Abortada'
+                                 END AS 'Estado Prueba',
+                                 CASE
+                                    WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                                    WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                                    WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                                    WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                                    WHEN h.reinspeccion = 8888 THEN 'Lib'
+                                 ELSE 'Error'
+                                 END AS 'Tipo inspeccion',
+                                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente,
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente',
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina',
+                                c.nombre Clase, v.ano_modelo Modelo,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1),'') AS 'Tipo vehiculo',
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as Marca,
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS linea,
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=14 limit 1),'---') 'Valor derecha baja',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=15 limit 1),'---') 'Valor derecha alta',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=16 limit 1),'---') 'Valor izquierda baja',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=17 limit 1),'---') 'Valor izquierda alta',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=19 limit 1),'---') 'Valor inclinacion baja izquierda',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=20 limit 1),'---') 'Valor inclinacion derecha',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=190 limit 1),'---') 'Valor derecha antiniebla',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=191 limit 1),'---') 'valor izquierda antiniebla',
+                                IFNULL((select abs(round(r.valor,1)) from resultados r where r.idprueba=p.idprueba and r.idconfig_prueba=18 limit 1),'---') 'Valor intensidad total'
+                                FROM 
+                                hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c
+                                WHERE 
+                                v.idvehiculo=h.idvehiculo AND
+                                h.idhojapruebas=p.idhojapruebas AND
+                                v.idlinea = l.idlinea and l.idmarca = m.idmarca 
+                                AND v.idclase = c.idclase AND 
+                                p.idmaquina=ma.idmaquina AND 
+                                ma.idmaquina=$idconf_maquina  AND 
+                                p.idtipo_prueba=1 AND
+                                $where AND
+                                (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND
+                                DATE_FORMAT(p.fechafinal,'%Y-%m-%d') between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function informe_frenos($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+                            DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', v.numero_placa as Placa, 
+                            IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                                CASE
+                                   WHEN p.estado= 0 THEN 'Asignado'
+                                   WHEN p.estado= 1 THEN 'Rechazado'
+                                   WHEN p.estado= 3 THEN 'Reasignado'
+                                   WHEN p.estado= 2 THEN 'Aprobado'
+                                ELSE 'Abortada'
+                                END AS 'Estado Prueba',
+                                CASE
+                                   WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                                   WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                                   WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                                   WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                                   WHEN h.reinspeccion = 8888 THEN 'Lib'
+                                ELSE 'Error'
+                                END AS 'Tipo inspeccion',
+                                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina', 
+                                c.nombre Clase, v.ano_modelo Modelo,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1),'') AS 'Tipo vehiculo',
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as Marca, 
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS Linea,
+                                ifnull((select t.nombre from tipo_vehiculo t where v.tipo_vehiculo = t.idtipo_vehiculo limit 1),'---') AS 'Tipo vehiculo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 1 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 1 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 1 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 1 izquierdo', 
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 2 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 2 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 2 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 2 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 3 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 3 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 3 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 3 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 4 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 4 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 4 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 4 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 5 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 5 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Frenos eje 5 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Fuerza eje 5 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 1 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 1 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 1 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 1 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 2 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 2 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 2 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 2 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 3 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 3 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 3 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 3 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 4 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 4 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 4 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 4 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 5 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 5 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Pesaje eje 5 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Pesaje eje 5 izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Desequilibrio eje 1' ORDER BY 1 DESC LIMIT 1),'---') 'Desequilibrio eje 1',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Desequilibrio eje 2' ORDER BY 1 DESC LIMIT 1),'---') 'Desequilibrio eje 2',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Desequilibrio eje 3' ORDER BY 1 DESC LIMIT 1),'---') 'Desequilibrio eje 3',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Desequilibrio eje 4' ORDER BY 1 DESC LIMIT 1),'---') 'Desequilibrio eje 4',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Desequilibrio eje 5' ORDER BY 1 DESC LIMIT 1),'---') 'Desequilibrio eje 5',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='FrenoAuxs eje 2 derecho' ORDER BY 1 DESC LIMIT 1),'---') 'Freno Auxs eje 2 derecho',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='FrenoAuxs eje 2 Izquierdo' ORDER BY 1 DESC LIMIT 1),'---') 'Freno Auxs eje 2 Izquierdo',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='eficacia_auxiliar' ORDER BY 1 DESC LIMIT 1),'---') 'Eficacia auxiliar',
+                                IFNULL((SELECT valor FROM resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='eficacia_maxima' ORDER BY 1 DESC LIMIT 1),'---') 'Eficacia maxima'
+                                FROM hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c 
+                                WHERE v.idvehiculo=h.idvehiculo AND h.idhojapruebas=p.idhojapruebas 
+                                AND v.idlinea = l.idlinea AND l.idmarca = m.idmarca AND v.idclase = c.idclase 
+                                AND p.idmaquina=ma.idmaquina  AND ma.idmaquina=$idconf_maquina AND p.idtipo_prueba=7 
+                                AND $where AND (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND DATE_FORMAT(p.fechafinal,'%Y-%m-%d') 
+                                between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function informe_suspension($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+            DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', v.numero_placa as Placa, 
+            IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                                CASE
+                                   WHEN p.estado= 0 THEN 'Asignado'
+                                   WHEN p.estado= 1 THEN 'Rechazado'
+                                   WHEN p.estado= 3 THEN 'Reasignado'
+                                   WHEN p.estado= 2 THEN 'Aprobado'
+                                ELSE 'Abortada'
+                                END AS 'Estado Prueba',
+                                CASE
+                                   WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                                   WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                                   WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                                   WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                                   WHEN h.reinspeccion = 8888 THEN 'Lib'
+                                ELSE 'Error'
+                                END AS 'Tipo inspeccion',
+                                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina', 
+                                c.nombre Clase, v.ano_modelo Modelo,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1),'') AS 'Tipo vehiculo',
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as marca, 
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS linea, 
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.idconfig_prueba=142 ORDER BY 1 DESC LIMIT 1),'---') 'Delantera derecha',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.idconfig_prueba=143 ORDER BY 1 DESC LIMIT 1),'---') 'Delantera izquierda',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.idconfig_prueba=144 ORDER BY 1 DESC LIMIT 1),'---') 'Trasera derecha',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.idconfig_prueba=145 ORDER BY 1 DESC LIMIT 1),'---') 'Trasera izquierda'
+                                FROM hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c 
+                                WHERE v.idvehiculo=h.idvehiculo AND h.idhojapruebas=p.idhojapruebas 
+                                AND v.idlinea = l.idlinea AND l.idmarca = m.idmarca AND v.idclase = c.idclase 
+                                AND p.idmaquina=ma.idmaquina  AND ma.idmaquina=$idconf_maquina AND p.idtipo_prueba=9 
+                                AND $where AND (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND DATE_FORMAT(p.fechafinal,'%Y-%m-%d') 
+                                between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function informe_alineador($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+            DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', v.numero_placa as Placa, 
+            IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                                CASE
+                                   WHEN p.estado= 0 THEN 'Asignado'
+                                   WHEN p.estado= 1 THEN 'Rechazado'
+                                   WHEN p.estado= 3 THEN 'Reasignado'
+                                   WHEN p.estado= 2 THEN 'Aprobado'
+                                ELSE 'Abortada'
+                                END AS 'Estado Prueba',
+                                CASE
+                                   WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                                   WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                                   WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                                   WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                                   WHEN h.reinspeccion = 8888 THEN 'Lib'
+                                ELSE 'Error'
+                                END AS 'Tipo inspeccion',
+                                    IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina', 
+                                c.nombre Clase, v.ano_modelo Modelo,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1),'') AS 'Tipo vehiculo',
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as marca, 
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS linea, 
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Alineación eje 1' ORDER BY 1 DESC LIMIT 1),'---') 'Alineacion eje 1',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Alineación eje 2' ORDER BY 1 DESC LIMIT 1),'---') 'Alineacion eje 2',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Alineación eje 3' ORDER BY 1 DESC LIMIT 1),'---') 'Alineacion eje 3',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Alineación eje 4' ORDER BY 1 DESC LIMIT 1),'---') 'Alineacion eje 4',
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.observacion='Alineación eje 5' ORDER BY 1 DESC LIMIT 1),'---') 'Alineacion eje 5'
+                                FROM hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c 
+                                WHERE v.idvehiculo=h.idvehiculo AND h.idhojapruebas=p.idhojapruebas 
+                                AND v.idlinea = l.idlinea AND l.idmarca = m.idmarca AND v.idclase = c.idclase 
+                                AND p.idmaquina=ma.idmaquina  AND ma.idmaquina=$idconf_maquina AND p.idtipo_prueba=10 
+                                AND $where AND (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND DATE_FORMAT(p.fechafinal,'%Y-%m-%d') 
+                                between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function informe_taximetro($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+                                DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', v.numero_placa as Placa, 
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                                CASE
+                                   WHEN p.estado= 0 THEN 'Asignado'
+                                   WHEN p.estado= 1 THEN 'Rechazado'
+                                   WHEN p.estado= 3 THEN 'Reasignado'
+                                   WHEN p.estado= 2 THEN 'Aprobado'
+                                ELSE 'Abortada'
+                                END AS 'Estado Prueba',
+                                CASE
+                                   WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                                   WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                                   WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                                   WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                                   WHEN h.reinspeccion = 8888 THEN 'Lib'
+                                ELSE 'Error'
+                                END AS 'Tipo inspeccion',
+                                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina', 
+                                c.nombre Clase, v.ano_modelo Modelo,
+                                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1),'') AS 'Tipo vehiculo',
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as marca, 
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS linea, 
+                                IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.tiporesultado='Rllanta' ORDER BY 1 DESC LIMIT 1),'---') 'Referencia Comercial de la llanta',
+IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.tiporesultado='error_tiempo_nuevo' ORDER BY 1 DESC LIMIT 1),'---') 'Error en distancia',
+IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.tiporesultado='error_distancia_nuevo' ORDER BY 1 DESC LIMIT 1),'---') 'Error en tiempo',
+IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.tiporesultado='vector_tiempo' ORDER BY 1 DESC LIMIT 1),'---') 'Vector tiempo',
+IFNULL((SELECT re.valor FROM   resultados re  WHERE   re.idprueba=p.idprueba AND  re.tiporesultado='vector_distancia' ORDER BY 1 DESC LIMIT 1),'---') 'Vector distancia'
+                                FROM hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c 
+                                WHERE v.idvehiculo=h.idvehiculo AND h.idhojapruebas=p.idhojapruebas 
+                                AND v.idlinea = l.idlinea AND l.idmarca = m.idmarca AND v.idclase = c.idclase 
+                                AND p.idmaquina=ma.idmaquina  AND ma.idmaquina=$idconf_maquina AND p.idtipo_prueba=6 
+                                AND $where AND (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND DATE_FORMAT(p.fechafinal,'%Y-%m-%d') 
+                                between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+    function gettiempoPruebas($where) {
+        $query = $this->db->query("(SELECT 
+                    distinct v.numero_placa PLACA,
+                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1), '%Y-%m-%d') FECHA,
+                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),'%H:%i:%s') HORA_INICIAL_Y_REGISTRO,
+                    ifnull(date_format((select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechafinal desc limit 1),'%H:%i:%s'),'---') HORA_FINAL,
+                    if(h.estadototal=4 and h.reinspeccion=0,date_format(h.fechafinal,'%H:%i:%s'),'No certificado') HORA_IMPRESION,
+                    if(v.tipo_vehiculo=1,'Liviano',if(v.tipo_vehiculo=3,'Moto','Pesado')) TIPO_VEHICULO,
+                    'Primera vez' INSPECCION,
+                    IFNULL(TIMESTAMPDIFF(MINUTE, 
+                    (select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),
+                    (select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechafinal desc limit 1)),'---') TIEMPO_INSPECCION,
+                    if(h.estadototal=4 AND (h.reinspeccion=0 OR h.reinspeccion = 1),TIMESTAMPDIFF(MINUTE,(select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),h.fechafinal),'No aplica') TIEMPO_TOTAL
+                    from 
+                    pruebas p, hojatrabajo h, vehiculos v 
+                    WHERE 
+                    p.idhojapruebas=h.idhojapruebas and
+                    (h.reinspeccion=0 or h.reinspeccion=1) and 
+                    h.idvehiculo=v.idvehiculo and
+                    h.fechainicial=p.fechainicial and
+                    (p.idtipo_prueba<>55 OR p.idtipo_prueba <> 21 OR p.idtipo_prueba <> 22) and
+                    h.estadototal<>5 and
+                    $where
+                    order BY p.fechainicial ASC 
+                    )
+                    UNION 
+                    (
+                    select 
+                    distinct v.numero_placa PLACA,
+                    IFNULL(date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas   order by p2.fechainicial desc limit 1),'%Y-%m-%d'),'---') FECHA,
+                    IFNULL(date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas   order by p2.fechainicial desc limit 1),'%H:%i:%s'),'---') HORA_INICIAL_Y_REGISTRO,
+                    ifnull(date_format((select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas   order by p2.fechafinal desc limit 1),'%H:%i:%s'),'---') HORA_FINAL,
+                    if(h.estadototal=4,date_format(h.fechafinal,'%H:%i:%s'),'No certificado') HORA_IMPRESION,
+                    if(v.tipo_vehiculo=1,'Liviano',if(v.tipo_vehiculo=3,'Moto','Pesado')) TIPO_VEHICULO,
+                    'Segunda vez' INSPECCION,
+                    IFNULL( TIMESTAMPDIFF(MINUTE, 
+                    (select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas  order by p2.fechainicial desc limit 1),
+                    (select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas  order by p2.fechafinal desc limit 1)),'---') TIEMPO_INSPECCION,
+                    if(h.estadototal=4,TIMESTAMPDIFF(MINUTE,(select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas  order by p2.fechainicial desc limit 1),h.fechafinal),'No aplica') TIEMPO_TOTAL
+                    from 
+                    pruebas p, hojatrabajo h, vehiculos v 
+                    where
+                    p.idhojapruebas=h.idhojapruebas and
+                    (h.reinspeccion=0 OR h.reinspeccion = 1) and
+                    h.idvehiculo=v.idvehiculo and
+                    (p.idtipo_prueba<>55 OR p.idtipo_prueba <> 21 OR p.idtipo_prueba <> 22) and
+                    h.estadototal<>5 and
+                    $where
+                    order BY p.fechainicial ASC 
+                    );");
+        if ($query->num_rows() > 0) {
+            $query = $query->result();
+            return $query;
+        }
+    }
+
+//    function gettiempoPruebas($where) {
+//        $query = $this->db->query("(SELECT 
+//                    distinct v.numero_placa PLACA,
+//                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1), '%Y-%m-%d') FECHA,
+//                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),'%H:%i:%s') HORA_INICIAL_Y_REGISTRO,
+//                    ifnull(date_format((select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechafinal desc limit 1),'%H:%i:%s'),'---') HORA_FINAL,
+//                    if(h.estadototal=4 and h.reinspeccion=0,date_format(h.fechafinal,'%H:%i:%s'),'No certificado') HORA_IMPRESION,
+//                    if(v.tipo_vehiculo=1,'Liviano',if(v.tipo_vehiculo=3,'Moto','Pesado')) TIPO_VEHICULO,
+//                    'Primera vez' INSPECCION,
+//                    IFNULL(TIMESTAMPDIFF(MINUTE, 
+//                    (select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),
+//                    (select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechafinal desc limit 1)),'---') TIEMPO_INSPECCION,
+//                    if(h.estadototal=4 and h.reinspeccion=0,TIMESTAMPDIFF(MINUTE,(select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial=h.fechainicial order by p2.fechainicial limit 1),h.fechafinal),'No aplica') TIEMPO_TOTAL
+//                    from 
+//                    pruebas p, hojatrabajo h, vehiculos v 
+//                    WHERE 
+//                    p.idhojapruebas=h.idhojapruebas and
+//                    (h.reinspeccion=0 or h.reinspeccion=1) and 
+//                    h.idvehiculo=v.idvehiculo and
+//                    h.fechainicial=p.fechainicial and
+//                    p.idtipo_prueba<>55 and
+//                    h.estadototal<>5 and
+//                    h.fechainicial >= DATE_FORMAT(NOW(),'%Y-%m-%d') 
+//                    order by p.idprueba
+//                    )
+//                    UNION 
+//                    (
+//                    select 
+//                    distinct v.numero_placa PLACA,
+//                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial order by p2.fechainicial desc limit 1), '%Y-%m-%d') FECHA,
+//                    date_format((select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial  order by p2.fechainicial desc limit 1),'%H:%i:%s') HORA_INICIAL_Y_REGISTRO,
+//                    ifnull(date_format((select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial  order by p2.fechafinal desc limit 1),'%H:%i:%s'),'---') HORA_FINAL,
+//                    if(h.estadototal=4,date_format(h.fechafinal,'%H:%i:%s'),'No certificado') HORA_IMPRESION,
+//                    if(v.tipo_vehiculo=1,'Liviano',if(v.tipo_vehiculo=3,'Moto','Pesado')) TIPO_VEHICULO,
+//                    'Segunda vez' INSPECCION,
+//                    IFNULL( TIMESTAMPDIFF(MINUTE, 
+//                    (select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial order by p2.fechainicial desc limit 1),
+//                    (select p2.fechafinal from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial order by p2.fechafinal desc limit 1)),'---') TIEMPO_INSPECCION,
+//                    if(h.estadototal=4,TIMESTAMPDIFF(MINUTE,(select p2.fechainicial from pruebas p2 where p2.idhojapruebas=h.idhojapruebas and p2.fechainicial<>h.fechainicial  order by p2.fechainicial desc limit 1),h.fechafinal),'No aplica') TIEMPO_TOTAL
+//                    from 
+//                    pruebas p, hojatrabajo h, vehiculos v 
+//                    where
+//                    p.idhojapruebas=h.idhojapruebas and
+//                    h.reinspeccion=1 and
+//                    h.idvehiculo=v.idvehiculo and
+//                    p.idtipo_prueba<>55 and
+//                    h.estadototal<>5 and
+//                    $where
+//                    order by p.idprueba
+//                    );");
+//        if ($query->num_rows() > 0) {
+//            $query = $query->result();
+//            return $query;
+//        }
+//    }
+
+    function getCronAudit() {
+        $query = $this->db->query("SELECT * FROM cron_audit c  ORDER BY 1 DESC LIMIT 1");
+        if ($query->num_rows() > 0) {
+            $query = $query->result();
+            return $query;
+        }
+    }
+
+    function getVisual($where, $fechainicial, $fechafinal, $presionLlantas) {
+        if ($presionLlantas == 1) {
+            $presion = "r.valor, r.observacion, '' AS 'descripcion','' AS 'tipo',
+            IFNULL((SELECT pr.valor FROM pre_prerevision p, pre_dato pr, pre_atributo pe WHERE p.numero_placa_ref = v.numero_placa AND p.idpre_prerevision = pr.idpre_prerevision AND pr.idpre_atributo = pe.idpre_atributo AND pe.id = 'llanta-1-D-a' LIMIT 1),'---') AS 'Llantan 1 derecha',
+            IFNULL((SELECT pr.valor FROM pre_prerevision p, pre_dato pr, pre_atributo pe WHERE p.numero_placa_ref = v.numero_placa AND p.idpre_prerevision = pr.idpre_prerevision AND pr.idpre_atributo = pe.idpre_atributo AND pe.id = 'llanta-1-I-a' LIMIT 1),'---') AS 'Llantan 1 izquierda',
+            IFNULL((SELECT pr.valor FROM pre_prerevision p, pre_dato pr, pre_atributo pe WHERE p.numero_placa_ref = v.numero_placa AND p.idpre_prerevision = pr.idpre_prerevision AND pr.idpre_atributo = pe.idpre_atributo AND pe.id = 'llanta-2-D-a' LIMIT 1),'---') AS 'Llantan 2 derecha',
+            IFNULL((SELECT pr.valor FROM pre_prerevision p, pre_dato pr, pre_atributo pe WHERE p.numero_placa_ref = v.numero_placa AND p.idpre_prerevision = pr.idpre_prerevision AND pr.idpre_atributo = pe.idpre_atributo AND pe.id = 'llanta-2-I-a' LIMIT 1),'---') AS 'Llantan 2 izquierda'";
+        } else {
+            $presion = "r.valor, r.observacion, '' AS 'descripcion','' AS 'tipo'";
+        }
+        $consulta = <<<EOF
+                SELECT DISTINCT 
+                DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', 
+                v.numero_placa as Placa, 
+                IFNULL((SELECT t.nombre FROM tipo_vehiculo t WHERE v.tipo_vehiculo = t.idtipo_vehiculo LIMIT 1), '---') AS 'Tipo vehiculo',
+                IFNULL((SELECT s.nombre FROM servicio s WHERE v.idservicio = s.idservicio LIMIT 1),'---') AS 'Servicio',
+                CASE
+                   WHEN p.estado= 0 THEN 'Asignado'
+                   WHEN p.estado= 1 THEN 'Rechazado'
+                   WHEN p.estado= 3 THEN 'Reasignado'
+                   WHEN p.estado= 2 THEN 'Aprobado'
+                ELSE 'Abortada'
+                END AS 'Estado Prueba',
+                CASE
+                   WHEN h.reinspeccion = 0 THEN 'Tec 1ra'
+                   WHEN h.reinspeccion = 1 THEN 'Tec Rei'
+                   WHEN h.reinspeccion = 4444 THEN 'Pre 1ra'
+                   WHEN h.reinspeccion = 44441 THEN 'Pre Rei'
+                   WHEN h.reinspeccion = 8888 THEN 'Lib'
+                ELSE 'Error'
+                END AS 'Tipo inspeccion',
+                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                IFNULL((SELECT c.nombre FROM clase c WHERE v.idclase = c.idclase LIMIT 1),'---') Clase,
+                v.ano_modelo Modelo, 
+                IF(v.registroRunt=1,
+                                        (SELECT m.idmarcaRUNT FROM  linearunt l,marcarunt m WHERE l.idmarcarunt=m.idmarcarunt AND l.idlinearunt=v.idlinea),
+                                        (SELECT m.idmarca FROM linea l,marca m WHERE l.idmarca=m.idmarca AND l.idlinea=v.idlinea)) 'Marca',
+                IF(v.registroRunt=1,
+                                        (SELECT l.idlineaRUNT FROM  linearunt l WHERE l.idlinearunt=v.idlinea),
+                                        (SELECT l.idlinea FROM linea l WHERE l.idlinea=v.idlinea)) 'linea',
+                IFNULL((SELECT re.valor FROM resultados re WHERE p.idprueba=re.idprueba  AND  re.tiporesultado='defecto' AND re.idconfig_prueba=153 AND re.idresultados = r.idresultados LIMIT 1),'') AS 'valordefecto',
+                r.tiporesultado,
+                                $presion
+                FROM vehiculos v , hojatrabajo h, pruebas p, resultados r
+                WHERE 
+                 v.idvehiculo = h.idvehiculo AND h.idhojapruebas = p.idhojapruebas AND p.idtipo_prueba = 8 AND p.idprueba = r.idprueba AND 
+                 (p.estado<>0 and p.estado <> 9 and p.estado <> 5) AND $where AND
+                 DATE_FORMAT(p.fechainicial,'%Y-%m-%d') BETWEEN '$fechainicial'  AND '$fechafinal'  
+	
+EOF;
+        $rta = $this->db->query($consulta);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+            return $rta;
+        } else {
+            return [];
+        }
+    }
+
+    function informe_th($where, $idconf_maquina, $fechainicial, $fechafinal) {
+        $query = $this->db->query("SELECT DISTINCT
+            DATE_FORMAT(p.fechafinal, '%Y/%m/%d %h:%i:%s') AS 'Fecha', v.numero_placa as Placa, 
+                                IFNULL((SELECT CONCAT(u.nombres, ' ', u.apellidos) FROM usuarios u WHERE p.idusuario = u.IdUsuario  LIMIT 1),'') AS 'Usuario prueba',
+                                IFNULL((SELECT CONCAT(cl.nombre1,' ',cl.nombre2,' ',cl.apellido1,' ',cl.apellido2) FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS Cliente, 
+                                IFNULL((SELECT cl.telefono1 FROM clientes cl WHERE v.idcliente=cl.idcliente LIMIT 1 ),'---') AS 'Telefono cliente', 
+                                IFNULL((SELECT CONCAT(UPPER(ma.nombre),' - ',UPPER(ma.marca),' - ',UPPER(ma.serie)) FROM maquina ma WHERE p.idmaquina = ma.idmaquina LIMIT 1 ),'---') AS 'Maquina', 
+                                c.nombre Clase, v.ano_modelo Modelo, 
+                                if(v.registrorunt=1,(select nombre from marcarunt where idmarcaRUNT=(select idmarcaRunt from linearunt where idlineaRUNT=v.idlinea limit 1) limit 1),m.nombre) as marca, 
+                                if(v.registrorunt=1,(select nombre from linearunt where idlineaRUNT=v.idlinea limit 1),l.nombre) AS linea, 
+                                IFNULL((select valor from resultados where idprueba=p.idprueba and tiporesultado='temperatura_ambiente' order by 1 desc limit 1),'---') AS 'Temperatura ambiente',
+                                IFNULL((select valor from resultados where idprueba=p.idprueba and tiporesultado='humedad'  order by 1 desc limit 1),'---') AS 'Humedad relativa'
+                                FROM hojatrabajo h,pruebas p,vehiculos v,maquina ma, marca m , linea l , clase c 
+                                WHERE v.idvehiculo=h.idvehiculo AND h.idhojapruebas=p.idhojapruebas 
+                                AND v.idlinea = l.idlinea AND l.idmarca = m.idmarca AND v.idclase = c.idclase 
+                                AND p.idmaquina=ma.idmaquina  AND ma.idmaquina=$idconf_maquina AND p.idtipo_prueba=3
+                                AND $where AND p.estado<>0 AND DATE_FORMAT(p.fechafinal,'%Y-%m-%d') 
+                                between DATE_FORMAT('$fechainicial','%Y-%m-%d') AND DATE_FORMAT('$fechafinal','%Y-%m-%d')");
+        return $query;
+    }
+
+}

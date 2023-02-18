@@ -1,52 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-qK9rMjmHGeLmIDUjiUHlW0==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Minformes extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    public function infofugas($idmaquina) {
+        $query = $this->db->query("SELECT * FROM control_fugas c WHERE c.idmaquina=$idmaquina ORDER BY 1");
+        return $query->result();
+    }
+
+    public function infocalibracion($idmaquina) {
+        $query = $this->db->query("SELECT * FROM control_calibracion c WHERE c.idmaquina=$idmaquina ORDER BY 1");
+        return $query->result();
+    }
+
+    public function infocda() {
+        $query = $this->db->get('cda');
+        return $query;
+    }
+
+    public function infosede() {
+        $query = $this->db->query('SELECT s.*, c.nombre AS ciudad, d.nombre AS departamento
+                           FROM sede s, ciudades c, deptos d
+                            WHERE s.cod_ciudad=c.cod_ciudad AND c.cod_depto=d.cod_depto', FALSE);
+        return $query;
+    }
+    
+    public function result_cal_data($idcontrol_fug_cal, $idmaquina){
+        $query = $this->db->query("SELECT * FROM control_calibracion c
+                                   WHERE c.idmaquina = $idmaquina AND c.idcontrol_calibracion=$idcontrol_fug_cal", false );
+        return $query;
+    }
+    
+    public function result_fug_data($idcontrol_fug_cal, $idmaquina){
+        $query = $this->db->query("SELECT * FROM control_fugas c
+                                   WHERE c.idmaquina = $idmaquina AND c.idcontrol_fugas=$idcontrol_fug_cal", false );
+        return $query;
+    }
+    public function usuario_prueba($usuario){
+        $query = $this->db->query("SELECT CONCAT(u.nombres,' ',u.apellidos) AS nombre_user FROM usuarios u WHERE u.IdUsuario=$usuario", false );
+        return $query;
+    }
+
+}

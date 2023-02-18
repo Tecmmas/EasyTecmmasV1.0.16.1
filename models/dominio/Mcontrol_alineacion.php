@@ -1,41 +1,72 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-26dAmamaHgy7NfChIK44shJj+V+maAy5um==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mcontrol_alineacion extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->db = $this->load->database('default', true);
+        $this->myforge = $this->load->dbforge($this->db, TRUE);
+    }
+    
+
+    function insertar($data) {
+        $this->createTableControl();
+        $this->db->insert('control_alineacion', $data);
+    }
+    function createTableControl() {
+        $fields = array(
+            'id' => array(
+                'type' => 'INT',
+                'constraint' => 5,
+                'unsigned' => TRUE,
+                'auto_increment' => TRUE
+            ),
+            'placa' => array(
+                'type' => 'VARCHAR',
+                'constraint' => '50',
+                'null' => FALSE,
+            ),
+            'idmaquina' => array(
+                'type' => 'INT',
+                'constraint' => '11',
+                'null' => FALSE,
+            ),
+            'fecha' => array(
+                'type' => 'TIMESTAMP',
+                'null' => FALSE,
+            ),
+            'eje' => array(
+                'type' => 'VARCHAR',
+                'constraint' => '100',
+                'null' => FALSE,
+            ),
+            'valor' => array(
+                'type' => 'FLOAT',
+                'null' => FALSE,
+            ),
+            'vector' => array(
+                'type' => 'LONGTEXT',
+                'null' => FALSE,
+            )
+        );
+        $this->myforge->add_key('id', TRUE);
+        $this->myforge->add_field($fields);
+        $attributes = array('ENGINE' => 'InnoDB');
+        $this->myforge->create_table('control_alineacion', TRUE, $attributes);
+    }
+    
+
+//    function get($idmaquina) {
+//        $query = $this->db->query("
+//            SELECT 
+//                IF(TIMESTAMPDIFF(HOUR,f.fecha, NOW())>23,'N','S') tiempo,f.*
+//                FROM 
+//                control_fugas f 
+//                WHERE 
+//                f.idmaquina=$idmaquina
+//                ORDER BY f.idcontrol_fugas DESC LIMIT 1");
+//        return $query;
+//    }
+}

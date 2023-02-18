@@ -1,90 +1,115 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Tu+pmZd7AJMjf1WN2vC=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Msesion extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->dbutil();
+        $this->db = $this->load->database('default', true);
+        $this->myforge = $this->load->dbforge($this->db, TRUE);
+    }
+
+    public function setSesion($data) {
+        $rtaSesion = $this->getSesion($data);
+        if ($rtaSesion->num_rows() !== 0) {
+            echo $this->updateSesion($data);
+        } else {
+            echo $this->db->insert("control_sesion", $data);
+        }
+    }
+
+    public function updateSesion($data) {
+        $this->db->set('fecha', 'NOW()', FALSE);
+        $this->db->where('device', $data['device']);
+        $this->db->where('user', $data['user']);
+        $this->db->where('tipo', $data['tipo']);
+        $this->db->update('control_sesion', $data);
+    }
+
+    public function updateSesionDevice($data) {
+        $this->db->set('fecha', 'NOW()', FALSE);
+        $this->db->set('estado', $data['estado'], FALSE);
+        $this->db->set('ip', 'ip', FALSE);
+        $this->db->where('device', $data['device']);
+        $this->db->where('tipo', $data['tipo']);
+        $this->db->update('control_sesion', $data);
+    }
+
+    public function getSesion($data) {
+        $this->db->where('device', $data['device']);
+        $this->db->where('user', $data['user']);
+        $this->db->where('tipo', $data['tipo']);
+        $this->db->where('ip', $data['ip']);
+        $query = $this->db->get('control_sesion');
+        return $query;
+    }
+
+    public function getSesionUser($user, $tipo, $ip) {
+        $this->control_sesion();
+        return $this->db->query("SELECT 
+                *,TIMESTAMPDIFF(SECOND,cs.fecha,NOW()) tiempo 
+                FROM 
+                control_sesion cs 
+                WHERE
+                cs.user=$user AND
+                cs.ip='$ip' AND
+                cs.tipo=$tipo");
+    }
+
+    public function getSesionMaquina($tipo, $ip) {
+        $this->control_sesion();
+        return $this->db->query("SELECT 
+                *
+                FROM 
+                control_sesion cs 
+                WHERE
+                cs.ip='$ip' AND
+                cs.tipo=$tipo");
+    }
+
+    function control_sesion() {
+        $fields = array(
+            'id' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'unsigned' => TRUE,
+                'auto_increment' => TRUE
+            ),
+            'device' => array(
+                'type' => 'VARCHAR',
+                'constraint' => 50,
+                'null' => FALSE,
+            ),
+            'user' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'tipo' => array(
+                'type' => 'INT',
+                'constraint' => 11,
+                'null' => FALSE,
+            ),
+            'ip' => array(
+                'type' => 'VARCHAR',
+                'constraint' => 50,
+                'null' => FALSE,
+            ),
+            'estado' => array(
+                'type' => 'TINYINT',
+                'constraint' => 4,
+                'null' => FALSE,
+            ),
+            'fecha' => array(
+                'type' => 'TIMESTAMP',
+                'null' => FALSE,
+            ),
+        );
+        $this->myforge->add_key('id', TRUE);
+        $this->myforge->add_field($fields);
+        $attributes = array('ENGINE' => 'InnoDB');
+        $this->myforge->create_table('control_sesion', TRUE, $attributes);
+    }
+}

@@ -1,30 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+class VehiculoModel extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->database();
+    }
+
+    public function get($numero_placa) {
+        $data = $this->db->query("
+            SELECT
+                *
+            FROM
+                vehiculos v
+            WHERE
+                v.numero_placa='" . $numero_placa . "'
+            LIMIT
+                1 ");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function update($data) {
+        $this->db->where("numero_placa", $data['numero_placa']);
+        $this->db->update('vehiculos', $data);
+    }
+
+}

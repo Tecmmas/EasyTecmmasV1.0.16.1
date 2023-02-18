@@ -1,42 +1,58 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-5qbbhEiExhSPMBnUnKKP+rYosz7J1m==
+<?php
+
+class LoginModel extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->database();
+    }
+
+    public function Ingresar($username, $passwd) {
+        $data = $this->db->query("
+            SELECT
+                *
+            FROM
+                usuarios u
+            WHERE
+                u.username='$username' and u.passwd='$passwd'
+            LIMIT
+                1");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function getCda() {
+        $data = $this->db->query("
+            SELECT
+                nombre_cda
+            FROM
+                cda
+            LIMIT
+                1");
+        if ($data->num_rows() > 0) {
+            $d = $data->result();
+            return $d[0]->nombre_cda;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function validarCronAudit() {
+        $data = $this->db->query("
+            show tables like '%cron_audit%' ");
+        if ($data->num_rows() > 0) {
+            return TRUE;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function getTriggers() {
+        $data = $this->db->query("SHOW TRIGGERS");
+        return $data->result();
+    }
+
+}

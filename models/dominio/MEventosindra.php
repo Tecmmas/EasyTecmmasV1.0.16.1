@@ -1,55 +1,77 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class MEventosindra extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $this->db->where("ideventosindra", $data['ideventosindra']);
+        $query = $this->db->get('eventosindra');
+        return $query;
+    }
+
+    function getAll() {
+        $query = $this->db->get('eventosindra');
+        return $query;
+    }
+
+    function getAllHoy() {
+        $query = <<<EOF
+              SELECT
+e.idelemento, e.fecha, e.tipo, e.enviado, e.respuesta
+FROM eventosindra e
+WHERE date_format(fecha,"%Y-%m-%d") =CURDATE() ORDER BY e.ideventosindra DESC 
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function getEventos0() {
+        $query = <<<EOF
+              SELECT
+e.*
+FROM eventosindra e
+WHERE 
+date_format(fecha,"%Y-%m-%d") =CURDATE() AND e.tipo = 'e' AND e.enviado = 0
+EOF;
+        $rta = $this->db->query($query);
+        if ($rta->num_rows() > 0) {
+            $rta = $rta->result();
+        } else {
+            $rta = '';
+        }
+        return $rta;
+    }
+
+    function update($data) {
+        $this->db->set('respuesta', $data['respuesta']);
+        $this->db->set('enviado', $data['enviado']);
+        $this->db->where('ideventosindra', $data['ideventosindra'], FALSE);
+        $this->db->update('eventosindra', $data);
+    }
+
+    function insert($data) {
+        $this->db->insert('eventosindra', $data);
+    }
+
+    function deleteEventos() {
+        $query = <<<EOF
+              DELETE
+                FROM 
+                eventosindra 
+                WHERE 
+                DATE_FORMAT(fecha,'%Y-%m-%d')<>DATE_FORMAT(NOW(),'%Y-%m-%d')
+EOF;
+        return $this->db->query($query);
+    }
+
+}

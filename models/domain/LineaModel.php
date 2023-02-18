@@ -1,29 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+class LineaModel extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->database();
+    }
+
+    public function get($idlinea) {
+        $data = $this->db->query("
+            SELECT
+                *
+            FROM
+                linea l
+            WHERE
+                l.idlinea='$idlinea'
+            LIMIT
+                1 ");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+    
+    public function getLineaRunt($idlinea) {
+        $data = $this->db->query("
+            SELECT
+                idlinearunt idlinea,idmarcarunt idmarca,nombre
+            FROM
+                linearunt l
+            WHERE
+                l.idlinearunt='$idlinea'
+            LIMIT
+                1 ");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+}

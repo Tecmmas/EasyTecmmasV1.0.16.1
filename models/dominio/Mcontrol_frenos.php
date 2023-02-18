@@ -1,41 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mcontrol_frenos extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->db = $this->load->database('default', true);
+        $this->myforge = $this->load->dbforge($this->db, TRUE);
+    }
+
+    function insertar($data) {
+        $this->createTableControl();
+        $this->db->insert('control_frenos', $data);
+    }
+    function createTableControl() {
+        $fields = array(
+            'id' => array(
+                'type' => 'INT',
+                'constraint' => 5,
+                'unsigned' => TRUE,
+                'auto_increment' => TRUE
+            ),
+            'placa' => array(
+                'type' => 'VARCHAR',
+                'constraint' => '50',
+                'null' => FALSE,
+            ),
+            'idmaquina' => array(
+                'type' => 'INT',
+                'constraint' => '11',
+                'null' => FALSE,
+            ),
+            'fecha' => array(
+                'type' => 'TIMESTAMP',
+                'null' => FALSE,
+            ),
+            'eje' => array(
+                'type' => 'VARCHAR',
+                'constraint' => '100',
+                'null' => FALSE,
+            ),
+             'llanta' => array(
+                'type' => 'VARCHAR',
+                'constraint' => '100',
+                'null' => FALSE,
+            ),
+            'valor' => array(
+                'type' => 'FLOAT',
+                'null' => FALSE,
+            ),
+            'vector' => array(
+                'type' => 'LONGTEXT',
+                'null' => FALSE,
+            )
+        );
+        $this->myforge->add_key('id', TRUE);
+        $this->myforge->add_field($fields);
+        $attributes = array('ENGINE' => 'InnoDB');
+        $this->myforge->create_table('control_frenos', TRUE, $attributes);
+    }
+
+//    function get($idmaquina) {
+//        $query = $this->db->query("
+//            SELECT 
+//                IF(TIMESTAMPDIFF(HOUR,f.fecha, NOW())>23,'N','S') tiempo,f.*
+//                FROM 
+//                control_fugas f 
+//                WHERE 
+//                f.idmaquina=$idmaquina
+//                ORDER BY f.idcontrol_fugas DESC LIMIT 1");
+//        return $query;
+//    }
+}

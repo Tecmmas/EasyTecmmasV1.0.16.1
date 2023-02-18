@@ -1,57 +1,85 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of GeneralModel
+ *
+ * @author arman
+ */
+class GeneralModel extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->database();
+    }
+
+    function getFechaActual() {
+        $data = $this->db->query("select now() fecha");
+        if ($data->num_rows() > 0) {
+            $data = $data->result();
+            return $data[0]->fecha;
+        } else {
+            return FALSE;
+        }
+    }
+
+    function getSicovName() {
+        $data = $this->db->query("select valor,adicional from config_prueba where idconfig_prueba=502");
+        if ($data->num_rows() > 0) {
+            $s = $data->result();
+            if ($s[0]->valor == "1") {
+                $sicov = explode("-", $s[0]->adicional);
+                return $sicov[0];
+            } else {
+                return FALSE;
+            }
+        } else {
+            return FALSE;
+        }
+    }
+
+    function getUserSicov() {
+        $data = $this->db->query("select valor,adicional from config_prueba where idconfig_prueba=502");
+        if ($data->num_rows() > 0) {
+            $s = $data->result();
+            if ($s[0]->valor == "1") {
+                $sicov = explode("-", $s[0]->adicional);
+                if ($sicov[0] == "CI2") {
+                    $a2 = explode("@", $sicov[1]);
+                    $a3 = explode(":", $a2[0]);
+                    $a5 = explode("|", $a2[1]);
+                    $dato['Usuario'] = $a3[0];
+                    $dato['Clave'] = $a3[1];
+                    $dato['RUNTCda'] = $a5[1];
+                    return $dato;
+                } else {
+                    return FALSE;
+                }
+            } else {
+                return FALSE;
+            }
+        } else {
+            return FALSE;
+        }
+    }
+    
+    function getRegistroRunt($placa){
+        $data = $this->db->query("select registrorunt from vehiculos where numero_placa='$placa' limit 1");
+        if ($data->num_rows() > 0) {
+            $s = $data->result();
+            if ($s[0]->registrorunt == "1") {
+                return TRUE;
+            } else {
+                return FALSE;
+            }
+        } else {
+            return FALSE;
+        }
+    }
+
+}

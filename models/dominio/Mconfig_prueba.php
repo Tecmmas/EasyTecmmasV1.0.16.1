@@ -1,37 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mconfig_prueba extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $this->db->where('idconfig_prueba', $data['idconfig_prueba']);
+        $query = $this->db->get('config_prueba');
+        return $query;
+    }
+
+    function update($data) {
+        $this->db->set('valor', $data['valor']);
+        $this->db->where('idconfig_prueba', $data['idconfig_prueba']);
+        $this->db->update('config_prueba', $data);
+    }
+
+    function insert($data) {
+        $result = $this->get($data);
+        if ($result->num_rows() == 0)
+            $this->db->insert('config_prueba', $data);
+        else
+            $this->update($data);
+    }
+
+}

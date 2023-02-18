@@ -1,41 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-CiW=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mtaximetro extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function getTaximetro_ht_fecha($idprueba) {
+        $rta = $this->db->query("SELECT 
+                                'tax' tipo_consulta,p.* 
+                                FROM 
+                                pruebas p 
+                                WHERE 
+                                (SELECT 
+                                idhojapruebas 
+                                FROM 
+                                pruebas 
+                                WHERE 
+                                idprueba=$idprueba LIMIT 1)=p.idhojapruebas  AND
+                                p.idtipo_prueba=6  and
+                                p.estado=0
+                                LIMIT 1");
+        if ($rta->num_rows() > 0) {
+            $r = $rta->result();
+            return $r[0];
+        } else {
+            return (object) array('tipo_consulta' => 'tax');
+        }
+    }
+
+    function getTaximetro($idprueba) {
+        $rta = $this->db->query("SELECT 
+                                'tax' tipo_consulta,p.* 
+                                FROM 
+                                pruebas p 
+                                WHERE 
+                                p.idprueba=$idprueba LIMIT 1;");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+    function getHojaPruebas($idprueba) {
+        $rta = $this->db->query("SELECT 
+                'setHojaPruebas' funcionSet,h.* 
+                FROM 
+                pruebas p,hojatrabajo h 
+                WHERE 
+                h.idhojapruebas=p.idhojapruebas AND 
+                p.idprueba=$idprueba");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+}

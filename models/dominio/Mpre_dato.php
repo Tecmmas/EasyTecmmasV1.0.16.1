@@ -1,43 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mpre_dato extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $this->db->where("idpre_dato", $data['idpre_dato']);
+        $query = $this->db->get('pre_dato');
+        return $query;
+    }
+
+    function getXatripre($data) {
+        $this->db->where("idpre_prerevision", $data['idpre_prerevision']);
+        $this->db->where("idpre_atributo", $data['idpre_atributo']);
+        $query = $this->db->get('pre_dato');
+        return $query;
+    }
+
+    function guardar($data) {
+        $rta = $this->getXatripre($data);
+        if ($rta->num_rows() > 0) {
+            $this->db->set("valor", $data['valor']);
+            $this->db->where("idpre_prerevision", $data['idpre_prerevision']);
+            $this->db->where("idpre_atributo", $data['idpre_atributo']);
+            $this->db->update('pre_dato');
+        } else {
+            $this->db->insert('pre_dato', $data);
+        }
+    }
+
+}

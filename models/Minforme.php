@@ -1,32 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ypjf3UwtCJe3+vkuOF1AkTQcbMS=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Minforme extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function getInforme($nombre) {
+        $this->db->where('nombre', $nombre);
+        $query = $this->db->get('informe');
+        $rta = $query->result();
+        return $rta[0];
+    }
+
+    function getDatoInforme($idinforme) {
+        $result = $this->db->query("select
+                                    *
+                                    from
+                                    datoinforme
+                                    where
+                                    idinforme=$idinforme order by orden");
+        return $result;
+    }
+//    
+//    function getAtributoZona($idzonainforme){
+//        $result = $this->db->query("select
+//                                    d.html
+//                                    from 
+//                                    datoinforme d
+//                                    where
+//                                    d.idzonainforme=$idzonainforme
+//                                    order by orden");
+//        return $result;
+//    }
+
+}

@@ -1,49 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mcliente extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function getCliente($cliente, $contrasena) {
+        $this->db->where('username', $cliente);
+        $this->db->where('passwd', $contrasena);
+        $query = $this->db->get('clientes');
+        return $query;
+    }
+
+    function getClienteId($id) {
+        $this->db->where('IdCliente', $id);
+        $query = $this->db->get('clientes');
+        return $query;
+    }
+
+    function getClienteIdentificacion($numero_identificacion) {
+        $this->db->where('numero_identificacion', $numero_identificacion);
+        $query = $this->db->get('clientes');
+        return $query;
+    }
+
+    function guardarCliente($cliente) {
+        $cli = $this->getClienteIdentificacion($cliente['numero_identificacion']);
+        if ($cli->num_rows() !== 0) {
+            $this->db->where('numero_identificacion', $cliente['numero_identificacion']);
+            $this->db->update("clientes", $cliente);
+            $rta = $cli->result();
+            return $rta[0]->idcliente;
+        } else {
+            $this->db->insert("clientes", $cliente);
+            return $this->db->insert_id();
+        }
+    }
+
+}

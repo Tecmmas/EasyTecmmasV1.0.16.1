@@ -1,68 +1,140 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class MPruebas extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function consultarPlaca($placa) {
+        $query = <<<EOF
+            SELECT 
+            v.numero_placa,
+            tp.nombre tipo_vehiculo,
+            v.tipo_vehiculo idtipo_vehiculo,
+            tc.idtipocombustible,
+            tc.nombre tipo_combustible,
+            cla.nombre clase,
+            v.idclase,
+            v.idservicio,
+            ifnull(
+            (SELECT 
+            h.idhojapruebas
+            FROM 
+            hojatrabajo h
+            WHERE 
+            h.estadototal=7 AND
+            h.reinspeccion = 0 AND
+            v.idvehiculo=h.idvehiculo AND
+            v.numero_placa = '$placa' AND
+            TIMESTAMPDIFF(minute,h.fechainicial,NOW())<=22320 LIMIT 1)
+            ,IFNULL((SELECT 
+            '2'
+            FROM 
+            hojatrabajo h
+            WHERE 
+            h.estadototal=1 AND
+            (h.reinspeccion = 0 or h.reinspeccion = 1) AND
+            v.idvehiculo=h.idvehiculo AND
+            v.numero_placa = '$placa' AND
+            DATEDIFF(NOW(),h.fechainicial)=0  LIMIT 1)
+            ,'0')) RTEMecReins,
+            ifnull(
+            (SELECT 
+            h.idhojapruebas
+            FROM 
+            hojatrabajo h
+            WHERE 
+            h.estadototal=3 AND
+            h.reinspeccion = 4444 AND
+            v.idvehiculo=h.idvehiculo AND
+            v.numero_placa = '$placa' AND
+            TIMESTAMPDIFF(minute,h.fechainicial,NOW())<=22320 LIMIT 1)
+            ,IFNULL((SELECT 
+            '2'
+            FROM 
+            hojatrabajo h
+            WHERE 
+            h.estadototal=1 AND
+            (h.reinspeccion = 4444 or h.reinspeccion = 44441) AND
+            v.idvehiculo=h.idvehiculo AND
+            v.numero_placa = '$placa' AND
+            DATEDIFF(NOW(),h.fechainicial)=0  LIMIT 1)
+            ,'0')) PreventivaReins,
+            v.taximetro,
+            v.idvehiculo,
+            if(v.registrorunt='0',(select l.nombre from linea l where l.idlinea=v.idlinea limit 1),(select l.nombre from linearunt l where l.idlinearunt=v.idlinea limit 1)) linea,
+            if(v.registrorunt='0',(select m.nombre from linea l,marca m where l.idlinea=v.idlinea and l.idmarca=m.idmarca limit 1),(select m.nombre from linearunt l,marcarunt m where l.idlinearunt=v.idlinea and m.idmarcarunt=l.idmarcarunt limit 1)) marca,
+            v.ano_modelo,
+            if(v.registrorunt='0',(select co.nombre from color co where co.idcolor=v.idcolor limit 1),(select co.nombre from colorrunt co where co.idcolorrunt=v.idcolor limit 1)) color
+            FROM
+            vehiculos v,tipo_vehiculo tp,clase cla,tipo_combustible tc
+            WHERE 
+            v.numero_placa = '$placa' AND
+            tp.idtipo_vehiculo=v.tipo_vehiculo AND
+            cla.idclase=v.idclase and
+            tc.idtipocombustible=v.idtipocombustible
+EOF;
+        $rta = $this->db->query($query);
+        return $rta;
+    }
+
+    function getUltimaFactura() {
+        $query = <<<EOF
+            select factura 
+            from hojatrabajo 
+            where factura<>'0' and 
+                  factura<>'' and 
+                  factura REGEXP '^[0-9]+$' 
+                  order by idhojapruebas desc limit 1
+EOF;
+        $rta = $this->db->query($query);
+        $r = $rta->result();
+        return $r[0]->factura;
+    }
+
+    function validarPrerevision($numero_placa) {
+        $query = <<<EOF
+            SELECT
+            * 
+            FROM 
+                pre_prerevision pp 
+            WHERE
+                pp.numero_placa_ref = '$numero_placa' AND
+                DATE_FORMAT(pp.fecha_prerevision,'%Y-%m-%d')=DATE_FORMAT(NOW(),'%Y-%m-%d') AND
+                pp.tipo_inspeccion=1
+EOF;
+        $rta = $this->db->query($query);
+        return $rta->num_rows();
+    }
+
+    function validarFactura($noFactura) {
+        $query = <<<EOF
+            select *
+            from hojatrabajo 
+            where factura='$noFactura'
+EOF;
+        $rta = $this->db->query($query);
+        return $rta->num_rows();
+    }
+
+    function getPruebas($idhojaprueba) {
+        $query = <<<EOF
+            SELECT 
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=1 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") luxometro,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=2 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") opacidad,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=3 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") gases,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=6 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") taximetro,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=7 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") frenometro,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=9 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") suspension,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=10 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") alineacion,
+                IFNULL((SELECT p.estado FROM pruebas p WHERE p.idhojapruebas=$idhojaprueba AND p.idtipo_prueba=4 AND p.estado<>5 AND p.estado<>9 ORDER BY 1 DESC LIMIT 1),"3") sonometro,
+                IFNULL((SELECT h.pin0 FROM hojatrabajo h WHERE h.idhojapruebas=$idhojaprueba AND h.estadototal<>5 ORDER BY 1 DESC LIMIT 1),"") pin
+EOF;
+        $rta = $this->db->query($query);
+        return $rta;
+    }
+
+}

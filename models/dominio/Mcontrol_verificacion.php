@@ -1,37 +1,33 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mcontrol_verificacion extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function insertar($data) {
+        $this->db->insert('control_verificacion', $data);
+    }
+
+    function get($idmaquina) {
+        $query = $this->db->query("select 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_hc_bajo' order by idconfig_maquina desc limit 1) audi_hc_bajo, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_hc_alto' order by idconfig_maquina desc limit 1) audi_hc_alto, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co_alto' order by idconfig_maquina desc limit 1) audi_co_alto, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co_bajo' order by idconfig_maquina desc limit 1) audi_co_bajo, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co2_bajo' order by idconfig_maquina desc limit 1) audi_co2_bajo, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co2_alto' order by idconfig_maquina desc limit 1) audi_co2_alto, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_hc_medio' order by idconfig_maquina desc limit 1) audi_hc_medio, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co_medio' order by idconfig_maquina desc limit 1) audi_co_medio, 
+            (select parametro FROM config_maquina WHERE idconfiguracion=14 And idmaquina = $idmaquina AND tipo_parametro='audi_co2_medio' order by idconfig_maquina desc limit 1) audi_co2_medio");
+        if ($query->num_rows() > 0) {
+            return $query->result();
+        } else {
+            return "";
+        }
+    }
+
+}

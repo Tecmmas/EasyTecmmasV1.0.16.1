@@ -1,43 +1,108 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmC1cbf+udwT1x0FUJGXrOVehHgrGiEa7/MM0/U6L5AQYoYXGjWhYAKrcraKPAmirXFwLbfx
-+EWDXhyaXvBDMEDYXpY9w2YxbToZXUHp2TAYmpVrLdU6c+/KHgneQmETveibZ6JeI2idm+sHoaOn
-ib2yhxJZsgWPo/NK2t1cw+3ha3DLgXLcsrfi5awUGxV3edqdeffkbX6+SlM3G9hrcmr7SuZaktcR
-ot+pqFwq1/qgfo6vt5+9Aeh3z2erNAQEqNzVmKsyQ0vwG9g1ctwqf5gh7MKwRUXfYqg6pkdaT3u/
-EwYz3WLh5xUNO8x7FMlkfqa8Tgi2YjHWZrQQSzeTmcZSH1NyTWxSAJQKsR6I2gUrIyPFzTYHLdOx
-MMrl8fI8Y7yL93hQ7nW94M8KyADZFYOlMaCHqIYvdghKdHbtlhUqh66pNBVwp45S31JqcHYPXr0X
-j5rB9Km5fvqxJWze2p63ItcgTYRHUsHObakEw7nz6/FmYApp5oxcN1E8JQfeTzRoIC2PpghVjO3r
-dvrYmgHqmNLYO2SE9b7/rzEms57MCchvUX5tyaI2S6l7ysCUmLXYZqRw5XGWj44s+W+0xOkIx6IP
-tCWPqVjacWmdg22PDJhFqLdB4zAf8vsJxsnAJJvED99u8QMoeLSm4eKz/mKn2RDMhI6bfQjrvNCZ
-epgxpIMQH1Vx5aiKTRA9FZMDhIfO7YRucdRfRhW/geI7nlgW2Gwmamlz6cOSGWWWKfEPyBlKO08b
-nSJnhy5//aLQAVc8AasvtuXbEMQSvOsRe4nD8vch/XeIqs+CtmYxVFZ7S1fh/XaHIhwiVtMr/uGi
-0AJzFw4spL31K0x5T+0nJ9ybSjZygGZpeVOs8gcynW4XINTt2KiYmR3sp+TXUKhzATk+hZioAveb
-hPX43QXNZKavEIp28ddlyrr9dglCG99PJubSfgoLSFhoJ1BwWTG6bCaazlCzDfyMvYq0PMmhLZsD
-NrcT1SWHt1KNhLOQUGd/RJTVJh5Jdt0SeEtvJkwFfkpkgUZAkYW5zMjjgnXjUjBcGyl2BLcTCj4j
-y4EOkI0As6B7fdxQgcguhNOSISgSdelfD6irqZ0MpvUFlLhCLwAg3nN/CGsFi7wsqSMcvqlTANIl
-rbMrr+STkdti6fFiLlVen5L2QpGTh4Zyf9B9wjY5iaOY1W8mMiqKOzaxoo1WTGumw+eP+IPswbyl
-E//GLj6OjVTNfrzF+6DhC4yFzPdkcOwY7wXB5NRxZHh1i1CS5Crk1rSpWaEfHlJX3nOPkHda1WJD
-+dZ08ucneZZtJidUWuklbdKZcVD7vqfZsMTAhza4uhQ+3ZtLLY96Y9EB7XJShLY1JskpXm0aqhNM
-gvddqmS8k9v/2keFfw37zefzpA7ycYwDy46hoYReT+28xiv0DrxkIncPi8btIHAyTsVwX111P+FK
-YdLKHMEnrnCZKgOPVl1U9rrJXIDhJTR87FX3l6yBsaGgxlug+hfC3il07sPlOG03R8hAKMrXBrMT
-rzsbkdRvQTw4+R+b/A6SIUwTeLorDSX+oKusy3L5op9DNLOdqVeDu4AtLb2BtRj9UN0TEBpp33sn
-me6ZEfOgBKuI1v7ky86GOGsmXYWhDKQ/O3dRI9a2/pWuqTOBOYLauSViMbIZUCrUz2G3J4NSvQNw
-p0ED+PUVjRN3+aXOqjUeG5LiiVzvvlyEX1lm6tkdBv8BTjxk4H2MzGBUy8P9yxwBQx+qHrqS545y
-YkoZsWFfWS7pf8wATLdv5CuNEJ+WureVTOsTbq4q+/KxFl+eTIBRDu0pcLKKOfGX21oGoJKnia2d
-e1i1/r885KJhW4o4tv9qIWTnoYE3p/+tlOMaAiqmZpjjcQgbbpY0xG+x+ZZmJw6oKwwDrd51uO34
-XpjGMrQ5RPsqLhrkeZ9Fp2vrBPwyVHu2gepqBas/MhwQD8HHSRqbMXqve9HGSbqWVvWbWIaGzLrm
-teA5i9CgGD9UbCT8P90GUbgFZd/zZxRCNetuFdWMXiDvmGctSdRYshPOYs/A6Q/1/qd/6YRmz1j7
-ApHoxnNIHPEopszFyJgO3Xqrd1tkW1otG9OglLjuwvQS5uZ+vjgem7Z+u6unrd+f+n5uo3Zqahoa
-tFrtkUNg5krWKLjFOVDgGT2H29rWfRbyEQf+rQ1Lp4bAoAcrR25KzwUD89QvL6dD4rm7QWKngPIQ
-4iDBjBObdKy63WxoYW6F5fLqkLeTDEZgdL0KIoUo0Sqz+odnecjdKMYZrbJRq45+AT2u4BjEK0QW
-+8TwbD8IzhSnxNbnu9CIozt310+3NX2knHPJPu69/FegJgW83FrSwPYZuEzTeQu8Jrq9kxBnDJKq
-+JQJLLpv7osJZiR4VpUfgNTC4nU6EmGzTUnMcoGLPskopCFsRr48SXVAB5PGsKD99C5b8kAVvf2W
-/vaxjGnmk2Nn6RGFE7MaOwadNuiu/aYZCzY3sP00oZRi6R4qqQm9/lzmLWhPjofQhHwGqabt5OHd
-2Nd6cgPzmgoCOgIqmDq/mH6kWAYLttAIpFymup7Jm8jlC9u8CKKLlwiGYNu60A1Bt37c05WjWVUk
-vLLSW/ExVO3FUBKUR5gtwbCNCpAqm1HyAyvdwmYL8+w+AY8ozcoHMPJQua39Ny1F/8qUKXFncO7J
-47bmyh+hU9Usj8bcQeOcSlKTQZsSgBmc5COdbWA6WBIl6q6Wum2LOqwdco9Te67AFYeO2WY4meWQ
-i26dAYU8+EfVH0RFbhI38fE+tmwey4/SxGo4nhYylFpHPxLOO5Vgv37DpHNbVONqO+SwLVbgxIl4
-iXSb09pWA73wTLnOwvM9jy20R8CZa16tFnYOyzjeGu3xapGHi2t9lQNyfCvHzA+rIUNUzV0v/bHW
-KnsBXpjv/guBy8KNaeyU77XNjORSpdFMhvy2LWzJw8gGC+vyRz1u1PMhAJjWmwFmRpasXfrNXok3
-i45tOQyjf2BXsti=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class MfUR extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function consultar($numero_placa, $fecha) {
+        $query = <<< EOF
+SELECT h.idhojapruebas idcontrol,
+                            CASE
+                            WHEN v.idservicio = '1' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '2' THEN
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: white;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '3' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '4' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            WHEN v.idservicio = '7' THEN 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: blue;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: whitesmoke;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            ELSE 
+                            concat('
+                            <label style="
+                            border-radius: 6px 6px 6px 6px;background: gold;
+                            color:black;
+                            font-size: 22px;
+                            font-weight: bold;
+                            border: solid;
+                            border-color: black;
+                            padding: 7px"><strong>',v.numero_placa,'</strong></label>')
+                            END placa,
+            if(h.reinspeccion=0 OR h.reinspeccion=1,
+									 '<strong>RTMEC<strong>',
+			    if(h.reinspeccion=4444 OR h.reinspeccion=44441,
+									 '<strong>PREVENTIVA<strong>',
+									 '<strong>PRUEBA LIBRE<strong>')) tipo,
+                            h.fechainicial,
+                            h.fechafinal,
+            if(h.reinspeccion=0 OR h.reinspeccion=4444 OR  h.reinspeccion=8888,
+									 CONCAT('<button name="dato" class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-',h.reinspeccion,'" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185">📄 Ver 1ra Vez</button>'),
+			   if(h.reinspeccion=1,
+									 CONCAT('<button name="dato" class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-0','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185">📄 Ver 1ra Vez</button>',
+									        '<button name="dato" class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-1','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185">📄 Ver 2da Vez</button>'),
+				if(h.reinspeccion=44441,
+									 CONCAT('<button name="dato" class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-4444','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185">📄 Ver 1ra Vez</button>',
+									        '<button name="dato" class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-44441','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185">📄 Ver 2da Vez</button>'),
+									 '<strong>NO APLICA<strong>'))) btnFur,
+                if(h.reinspeccion=0 and (h.estadototal=4 or h.estadototal=7),
+									 CONCAT('<button onclick="emailFur(event, this.value, this.title)" name="dato" id="btn_email_fur" data-toggle="modal" data-target="#envioEmail"  class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-',h.reinspeccion,'" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185" title="',CAST(IFNULL(c.correo,'') AS CHAR CHARACTER SET utf8),'">✉ Enviar 1ra Vez</button>'),
+			    if(h.reinspeccion=1 and (h.estadototal=4 or h.estadototal=7),
+				CONCAT('<button onclick="emailFur(event, this.value, this.title)"  name="dato" id="btn_email_fur" data-toggle="modal" data-target="#envioEmail"  class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-0','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185" title="',CAST(IFNULL(c.correo,'') AS CHAR CHARACTER SET utf8),'">✉ Enviar 1ra Vez</button>',
+				'<button onclick="emailFur(event, this.value, this.title)"  name="dato" id="btn_email_fur" data-toggle="modal" data-target="#envioEmail"  class="btn btn-accent btn-block" value ="',h.idhojapruebas,'-1','" type="submit" formtarget="_blank" style="border-radius: 40px 40px 40px 40px;font-size: 20px;background-color: #393185" title="',CAST(IFNULL(c.correo,'') AS CHAR CHARACTER SET utf8),'">✉ Enviar 2da Vez</button>'),
+                                '<strong>NO APLICA<strong>')) btnEmail
+                            FROM 
+                            hojatrabajo h,vehiculos v, clientes c  
+                            where
+                            v.idcliente = c.idcliente AND
+                            h.idvehiculo=v.idvehiculo AND (h.reinspeccion=0 OR h.reinspeccion=1 OR h.reinspeccion=4444 OR h.reinspeccion=44441 OR h.reinspeccion=8888) and
+                            v.numero_placa LIKE '%$numero_placa%' $fecha ORDER BY h.idhojapruebas desc;
+EOF;
+        return $this->db->query($query);
+    }
+
+}

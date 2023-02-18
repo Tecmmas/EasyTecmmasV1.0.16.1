@@ -1,64 +1,90 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-sW==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mfrenometro extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function getFrenometro_ht_fecha($idprueba) {
+        $rta = $this->db->query("SELECT 
+                                'tax' tipo_consulta,p.* 
+                                FROM 
+                                pruebas p 
+                                WHERE 
+                                (SELECT 
+                                idhojapruebas 
+                                FROM 
+                                pruebas 
+                                WHERE 
+                                idprueba=$idprueba LIMIT 1)=p.idhojapruebas  AND
+                                p.idtipo_prueba=6  and
+                                p.estado=0
+                                LIMIT 1");
+        if ($rta->num_rows() > 0) {
+            $r = $rta->result();
+            return $r[0];
+        } else {
+            return (object) array('tipo_consulta' => 'tax');
+        }
+    }
+
+    function getFrenometro($idprueba) {
+        $rta = $this->db->query("SELECT 
+                                'frn' tipo_consulta,p.* 
+                                FROM 
+                                pruebas p 
+                                WHERE 
+                                p.idprueba=$idprueba LIMIT 1;");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+    function getHojaPruebas($idprueba) {
+        $rta = $this->db->query("SELECT 
+                'setHojaPruebas' funcionSet,h.* 
+                FROM 
+                pruebas p,hojatrabajo h 
+                WHERE 
+                h.idhojapruebas=p.idhojapruebas AND 
+                p.idprueba=$idprueba");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+    function getIdPruebaTP($idHojaPruebas, $idTP) {
+        $rta = $this->db->query("SELECT 
+                p.* 
+                FROM 
+                pruebas p,hojatrabajo h 
+                WHERE 
+                h.idhojapruebas=p.idhojapruebas AND 
+                h.idhojapruebas=$idHojaPruebas AND
+                p.idtipo_prueba=$idTP AND p.estado=0");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+    function getIdPruebaDefLab($idHojaPruebas) {
+        $rta = $this->db->query("SELECT 
+                p.* 
+                FROM 
+                pruebas p,hojatrabajo h 
+                WHERE 
+                h.idhojapruebas=p.idhojapruebas AND 
+                h.idhojapruebas=$idHojaPruebas AND
+                p.idtipo_prueba=8 AND p.estado=1 order by 1 desc limit 1");
+        $r = $rta->result();
+        return $r[0];
+    }
+
+    function actualizarEjesLlantas($numero_placa, $numejes, $numero_llantas) {
+        $this->db->set('numejes', $numejes);
+        $this->db->set('numero_llantas', $numero_llantas);
+        $this->db->where('numero_placa', $numero_placa);
+        return $this->db->update('vehiculos');
+    }
+
+}

@@ -1,38 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-o/TY5miRdWEljqVXgG==
+<?php
+
+class PruebasModel extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->load->database();
+    }
+   
+
+    public function get($estado, $idtipo_prueba, $idhojapruebas) {
+        $data = $this->db->query("
+            SELECT 
+                p.idprueba
+            FROM 
+                pruebas p
+            WHERE 
+                p.estado=$estado and
+                p.idtipo_prueba=$idtipo_prueba and
+                p.idhojapruebas=$idhojapruebas
+            ORDER BY
+                1 desc
+            LIMIT
+                1");
+        if ($data->num_rows() > 0) {
+            return $data;
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function update($data) {
+        $this->db->set('fechafinal', 'NOW()', FALSE);
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->where('idprueba', $data['idprueba']);
+        $this->db->update('pruebas', $data);
+    }
+
+}

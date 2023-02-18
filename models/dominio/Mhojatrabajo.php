@@ -1,89 +1,83 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ubVPg5W8YE0P62OL/QgsJTIPRcPgjEthOAy=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Mhojatrabajo extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+
+    function get($data) {
+        $this->db->where("idhojapruebas", $data['idhojapruebas']);
+        $query = $this->db->get('hojatrabajo');
+        return $query;
+    }
+
+    function update($data) {
+        $this->db->where('idhojapruebas', $data['idhojapruebas']);
+//        $this->db->set('fechafinal', 'NOW()');
+//        $this->db->set('jefelinea', "'" . $data['jefelinea'] . "'");
+//        $this->db->set('estadototal', "'" . $data['estadototal'] . "'");
+//        $this->db->set('fechainicial', 'fechainicial');
+        $this->db->set('fechafinal', 'NOW()', FALSE);
+        $this->db->set('jefelinea', "'" . $data['jefelinea'] . "'", FALSE);
+        $this->db->set('estadototal', "'" . $data['estadototal'] . "'", FALSE);
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->update('hojatrabajo', $data);
+    }
+
+    function update_x($data) {
+        $this->db->where('idhojapruebas', $data['idhojapruebas']);
+//        $this->db->set('fechafinal', 'NOW()');
+//        $this->db->set('sicov', "'" . $data['sicov'] . "'");
+//        $this->db->set('estadototal', "'" . $data['estadototal'] . "'");
+//        $this->db->set('fechainicial', 'fechainicial');
+        $this->db->set('fechafinal', 'NOW()', FALSE);
+        $this->db->set('sicov', "'" . $data['sicov'] . "'", FALSE);
+        $this->db->set('estadototal', "'" . $data['estadototal'] . "'", FALSE);
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->update('hojatrabajo', $data);
+        $this->updateVisorSicov($data);
+    }
+    
+    function updateVisorSicov($data){
+        $idhojapruebas = $data['idhojapruebas'];
+        $sicov = $data['sicov'];
+        $estadototal = $data['estadototal'];
+        $reinspeccion = $data['reinspeccion'];
+        $query = <<<EOF
+                    UPDATE visor v set v.fecha = v.fecha, v.sicov = $sicov, v.estadototal = $estadototal  where v.idhojapruebas =  $idhojapruebas and v.reinspeccion = $reinspeccion
+EOF;
+        $rta = $this->db->query($query);
+    }
+
+    function update_JefePista($data) {
+        $this->db->where('idhojapruebas', $data['idhojapruebas']);
+        $this->db->set('fechafinal', 'fechafinal', FALSE);
+        $this->db->set('jefelinea', "'" . $data['jefelinea'] . "'", FALSE);
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->update('hojatrabajo', $data);
+    }
+
+    function update_llamar($data) {
+        $this->db->where('idhojapruebas', $data['idhojapruebas']);
+        $this->db->set('fechafinal', 'fechafinal', FALSE);
+        $this->db->set('llamar', $data['llamar'], FALSE);
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->update('hojatrabajo', $data);
+    }
+
+    function insert($data) {
+        $this->db->insert('hojatrabajo', $data);
+        return $this->db->insert_id();
+    }
+
+    function update_($data) {
+        $this->db->set('fechainicial', 'fechainicial', FALSE);
+        $this->db->set('fechafinal', 'now()', FALSE);
+        $this->db->where('idhojapruebas', $data['idhojapruebas']);
+        $this->db->update('hojatrabajo', $data);
+    }
+
+}
