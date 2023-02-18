@@ -1,104 +1,87 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Ccliente extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Mutilitarios");
+        $this->load->model("Mcliente");
+        $this->load->model("Mprerevision");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+           if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+        $rta = $this->Musuario->getUsuarioId($this->input->post('IdUsuario'));
+        $usuario = $rta->result();
+        echo json_encode($usuario);
+    }
+
+    public function guardarFirma() {
+        $archivo = fopen(
+                "c:/tcm/prerevision/" . $this->getDia() . "/" . $this->input->post('placa') . "/" .
+                "sig_" . $this->input->post('ocasion') . ".dat", "w+b");
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $firma = $encrptopenssl->encrypt($this->input->post('firma'));
+        fwrite($archivo, $firma);
+        fclose($archivo);
+    }
+
+    public function leerFirma() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $file = "c:/tcm/prerevision/" . $this->getDia() . "/" . $this->input->post('placa') . "/" .
+                "sig_" . $this->input->post('ocasion') . ".dat";
+        if (file_exists($file)) {
+            $firma = file_get_contents($file, true);
+            echo $encrptopenssl->decrypt($firma);
+        } else {
+            echo "NA";
+        }
+    }
+
+    public function guardarFoto() {
+        $archivo = fopen(
+                "c:/tcm/prerevision/" . $this->getDia() . "/" . $this->input->post('placa') . "/" .
+                $this->input->post('cons') . "_" .
+                $this->input->post('ocasion') . ".dat", "w+b");
+        $encrptopenssl = New Opensslencryptdecrypt();
+//$plain_txt = "this is awsome";
+        $foto = $encrptopenssl->encrypt($this->input->post('foto'));  //encypting plain text
+//$testdec = $encrptopenssl->decrypt($testenc);    //decrypting plain texx
+//$firma = $this->encrypt->enconde();
+        fwrite($archivo, $foto);
+        fclose($archivo);
+        $rutaFoto = $this->getDia() . "|" . $this->input->post('placa') . "|" .
+                $this->input->post('cons') . "_" .
+                $this->input->post('ocasion');
+        echo $rutaFoto;
+    }
+
+    public function borrarFoto() {
+        $foto = "c:\\tcm\\prerevision\\" . $this->getDia() . "\\" . $this->input->post('placa') . "\\" .
+                $this->input->post('cons') . "_" .
+                $this->input->post('ocasion') . ".dat";
+        unlink($foto);
+//        $rutaFoto = $this->getDia() . "|" . $this->input->post('placa') . "|" .
+//                $this->input->post('cons') . "_" .
+//                $this->input->post('ocasion');
+//        $this->Mprerevision->borrarFoto($rutaFoto);
+        //echo $rutaFoto;
+    }
+
+    public function getDia() {
+        $dia = strval($this->Mutilitarios->getNow());
+        $dia = str_replace("-", "", $dia);
+        $dia = substr($dia, 0, 8);
+        return $dia;
+    }
+
+}

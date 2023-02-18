@@ -1,42 +1,28 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Vn2vFdrnsL1t99Gs4sCV+xl1gg+yvBK=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header('Access-Control-Allow-Origin: *');
+ini_set('memory_limit', '-1');
+
+class CRguardarImagen extends CI_Controller  {
+
+    var $path;
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper(['jwt', 'authorization']);
+        $this->path = $_SERVER['DOCUMENT_ROOT'] . "et/data/";
+        $this->load->library('Encry');
+        $this->load->model("Mutilitarios");
+        $this->load->model("pruebas/camara/Mcamara");
+    }
+
+    public function guardarImagenPOST() {
+        $idprueba = $this->input->post("idprueba");
+        $imagen = $this->input->post("imagen");
+        $idusuario = $this->input->post("idusuario");
+        $idmaquina = $this->input->post("idmaquina");
+        $this->Mcamara->guardarImagen($idprueba, $imagen, $idusuario, $idmaquina);
+    }
+
+}

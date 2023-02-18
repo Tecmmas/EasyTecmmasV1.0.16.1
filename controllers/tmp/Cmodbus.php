@@ -1,61 +1,63 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NOEvaDI7z0==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+use ModbusTcpClient\Network\BinaryStreamConnection;
+use ModbusTcpClient\Packet\ModbusFunction\ReadHoldingRegistersRequest;
+use ModbusTcpClient\Packet\ModbusFunction\WriteSingleRegisterRequest;
+use ModbusTcpClient\Packet\ResponseFactory;
+
+require __DIR__ . '/../vendor/autoload.php';
+header("Access-Control-Allow-Origin: *");
+class Cmodbus extends CI_Controller {
+
+    public function leer() {
+       // $ip = $this->input->post('ip');
+       $ip = '192.168.10.80';
+        
+        $port = 502;
+        $unitId = 1;
+        $address = 0;
+        $quantity = 50;
+        $connection = BinaryStreamConnection::getBuilder()
+                ->setPort($port)
+                ->setHost($ip)
+                ->build();
+        $packet = new ReadHoldingRegistersRequest($address, $quantity, $unitId);
+        $result = [];
+        try {
+            $binaryData = $connection->connect()->sendAndReceive($packet);
+            $response = ResponseFactory::parseResponseOrThrow($binaryData)->withStartAddress($address);
+            foreach ($response as $address => $word) {
+                $result[$address] = [
+                    'dato' => $word->getInt16()
+                ];
+            }
+        } catch (Exception $exception) {
+            
+        } finally {
+            $connection->close();
+        }
+        $data['result'] = $result;
+        $data['address'] = $address;
+        echo json_encode($data);
+    }
+
+    public function escribir() {
+        $connection = BinaryStreamConnection::getBuilder()
+                ->setPort(502)
+                ->setHost('192.168.10.80')
+                ->build();
+        $startAddress = $this->input->post('response');
+        $value = $this->input->post('valor');
+        try {
+            $packet = new WriteSingleRegisterRequest($startAddress, $value);
+            $connection->connect()->sendAndReceive($packet);
+        } catch (Exception $exception) {
+            
+        } finally {
+            $connection->close();
+        }
+    }
+
+}

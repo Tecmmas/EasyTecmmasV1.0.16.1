@@ -1,83 +1,102 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+require APPPATH . 'libraries/REST_Controller.php';
+//header("Access-Control-Allow-Origin: *");
+//header("Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE");
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Request-Method, Authorization");
+header("Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE");
+ini_set('memory_limit', '-1');
+set_time_limit(1);
+
+class CRtaximetro extends REST_Controller {
+
+
+
+    public function __construct() {
+        parent::__construct();
+        $method = $_SERVER['REQUEST_METHOD'];
+        if ($method == "OPTIONS") {
+            die();
+        }
+        $this->load->helper(['jwt', 'authorization']);
+        $this->load->model("pruebas/taximetro/Mtaximetro");
+        $this->load->model("domain/VehiculoModel");
+
+        $this->load->library('Encry');
+    }
+
+    public function index_get() {
+//        $tokenData = '896sdbwfe87vcsdaf984ng8fgh24o1290r';
+//        $token = AUTHORIZATION::generateToken($tokenData);
+        // echo $token;
+        $rta = $this->verify_request();
+        if ($rta == parent::HTTP_OK) {
+            $funcion = $this->input->get("funcion");
+            $marca = $this->input->get("marca");
+            if ($marca == "MOTORSCAN") {
+                $this->path = $_SERVER['DOCUMENT_ROOT'] . "et/motorscan/cmd/";
+            } else {
+                $this->path = $_SERVER['DOCUMENT_ROOT'] . "et/data/";
+            }
+            switch ($funcion) {
+                case 'getTaximetro':
+                    $rta = $this->getTaximetro($this->input->get("idprueba"));
+                    break;
+                case 'getHojaPruebas':
+                    $rta = $this->getHojaPruebas($this->input->get("idprueba"));
+                    break;
+                default:
+                    break;
+            }
+            $status = parent::HTTP_OK;
+            $response = ['status' => $status, 'data' => $rta];
+            $this->response($response, $status);
+        } else {
+            $status = parent::HTTP_UNAUTHORIZED;
+            $response = ['status' => $status, 'data' => 'Acceso no autorizado'];
+            $this->response($response, $status);
+        }
+    }
+
+    public function index_post() {
+        echo 'post';
+    }
+
+    public function index_put() {
+        echo 'put';
+    }
+
+    public function index_delete() {
+        echo 'delete';
+    }
+
+    protected function verify_request() {
+        $headers = $this->input->request_headers();
+        $token = $headers['Authorization'];
+        try {
+            $data = AUTHORIZATION::validateToken($token);
+            if ($data === false) {
+                $status = parent::HTTP_UNAUTHORIZED;
+                $response = ['status' => $status, 'msg' => 'Acceso no autorizado'];
+                $this->response($response, $status);
+                exit();
+            } else {
+                return parent::HTTP_OK;
+            }
+        } catch (Exception $e) {
+            $status = parent::HTTP_UNAUTHORIZED;
+            $response = ['status' => $status, 'msg' => 'Acceso no autorizado'];
+            $this->response($response, $status);
+        }
+    }
+
+    private function getTaximetro($idprueba) {
+        return $this->Mtaximetro->getTaximetro($idprueba);
+    }
+
+    private function getHojaPruebas($idprueba) {
+        return $this->Mtaximetro->getHojaPruebas($idprueba);
+    }
+
+}

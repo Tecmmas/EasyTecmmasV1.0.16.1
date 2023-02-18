@@ -1,69 +1,63 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+ini_set('memory_limit', '-1');
+set_time_limit(300);
+
+class CFur extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("oficina/informes/MFur");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '' || $this->session->userdata('IdUsuario') == '1024') {
+            redirect('Cindex');
+        }
+
+        $this->load->view('oficina/informes/VFur');
+    }
+
+    var $envioCorreo = "0";
+
+    private function setConf() {
+        $conf = @file_get_contents("system/oficina.json");
+        if (isset($conf)) {
+            $encrptopenssl = New Opensslencryptdecrypt();
+            $json = $encrptopenssl->decrypt($conf, true);
+            $dat = json_decode($json, true);
+            if ($dat) {
+                foreach ($dat as $d) {
+                    if ($d['nombre'] == "envioCorreo") {
+                        $this->envioCorreo = $d['valor'];
+                    }
+                }
+            }
+        }
+    }
+
+    public function consultar() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $json = $encrptopenssl->decrypt(file_get_contents('system/oficina.json', true), true);
+        $ofc = json_decode($json, true);
+        $fechaInicial = '';
+        $this->setConf();
+        foreach ($ofc as $d) {
+            if ($d['nombre'] == 'fechaInicioFur') {
+                $fechaInicial = "AND DATE_FORMAT(h.fechainicial,'%Y-%m-%d')>=DATE_FORMAT('" . $d['valor'] . "','%Y-%m-%d')";
+                break;
+            }
+        }
+        $data['formatos'] = $this->MFur->consultar($this->input->post('placa'), $fechaInicial);
+        $data['placa'] = $this->input->post('placa');
+        $data['envioCorreo'] = $this->envioCorreo;
+        $this->load->view('oficina/informes/VFur', $data);
+    }
+
+}

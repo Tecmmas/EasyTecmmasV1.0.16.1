@@ -1,136 +1,125 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined("BASEPATH") or exit("No direct script access allowed");
+header("Access-Control-Allow-Origin: *");
+ini_set("memory_limit", "-1");
+set_time_limit(300);
+
+class Cusuarios extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper("form");
+        $this->load->helper("url");
+        $this->load->helper("security");
+        $this->load->model("oficina/usuarios/Musuarios");
+    }
+
+    public function index() {
+        if ($this->session->userdata("IdUsuario") == "" || $this->session->userdata("IdUsuario") == "1024") {
+            redirect("Cindex");
+        }
+        $rta ['usuarios'] = $this->Musuarios->infoUsuarios();
+        $this->load->view('oficina/usuarios/Vgetusuarios', $rta);
+    }
+
+    public function getUsuarios() {
+        $idusuario = $this->input->post('idusuario');
+        if (isset($idusuario)) {
+            $rta ['usuario'] = $this->Musuarios->getUsuarios($idusuario);
+            $this->load->view('oficina/usuarios/Vusuarios', $rta);
+        } else {
+            $this->load->view('oficina/usuarios/Vusuarios');
+        }
+    }
+
+    public function crearUsuario() {
+        if (isset($_POST["btnnuevo"])) {
+            redirect('oficina/usuarios/Cusuarios/getUsuarios');
+        } else {
+            $IdUsuario = $this->input->post('idusuario');
+            $tipo_identificacion = $this->input->post('tipo_identificacion');
+            $identificacion = $this->input->post('numero_identificacion');
+            $nombres = strtoupper($n = $this->input->post('nombres'));
+            $apellidos = strtoupper($n = $this->input->post('apellidos'));
+            $idperfil = $this->input->post('tipo_perfil');
+            $username = $this->input->post('usuario');
+            $passwd = $this->input->post('contrasena');
+            $contrasenaold = $this->input->post('contrasenaold');
+            $estado = $this->input->post('estado');
+            $this->form_validation->set_rules('nombres', 'Nombres', 'required');
+            $this->form_validation->set_rules('apellidos', 'Apellidos', 'required');
+            $this->form_validation->set_rules('tipo_identificacion', 'Tipo documento', 'required');
+            $this->form_validation->set_rules('numero_identificacion', 'Numero documento', 'required');
+            $this->form_validation->set_rules('tipo_perfil', 'Perfil', 'required');
+            $this->form_validation->set_rules('usuario', 'Usuario', 'required');
+            $this->form_validation->set_rules('contrasena', 'Contraseña', 'required');
+            $this->form_validation->set_rules('confirmcontrasena', 'Confirmar contraseña', 'required');
+            $this->form_validation->set_rules('estado', 'Estado', 'required');
+            if ($this->form_validation->run()) {
+                if ($IdUsuario !== null && $IdUsuario !== "") {
+                    if ($contrasenaold !== $passwd) {
+                        $this->Musuarios->update($IdUsuario, $tipo_identificacion, $identificacion, $nombres, $apellidos, $idperfil, $username, $passwd, $estado);
+                        $this->Musuarios->insertcontrasenaold($IdUsuario, $contrasenaold);
+                    } else {
+                        $this->Musuarios->update($IdUsuario, $tipo_identificacion, $identificacion, $nombres, $apellidos, $idperfil, $username, $passwd, $estado);
+                    }
+                } else {
+                    $IdUsuario = null;
+                    $IdUsuario = $this->Musuarios->insert($tipo_identificacion, $identificacion, $nombres, $apellidos, $idperfil, $username, $passwd, $estado);
+                }
+                if ($_POST["guardarref"] == 'guardarref' && $_POST["guardarref"] !==  null) {
+                    $mensaje = 'Registro guardado';
+                    $this->session->set_flashdata('error', $mensaje);
+                    $rta ['usuario'] = $this->Musuarios->getUsuarios($IdUsuario);
+                    $this->load->view('oficina/usuarios/Vusuarios', $rta);
+                }
+                if($_POST["btnguardarnuevoref"] == 'btnguardarnuevoref' && $_POST["btnguardarnuevoref"] !== null){
+                    $mensaje = '';
+                    $this->session->set_flashdata('error', $mensaje);
+                    $this->load->view('oficina/usuarios/Vusuarios');
+                }
+                if($_POST["guardarfinalizarref"] == 'guardarfinalizarref' && $_POST["guardarfinalizarref"] !== null){
+                    $rta ['usuarios'] = $this->Musuarios->infoUsuarios();
+                    $this->load->view('oficina/usuarios/Vgetusuarios', $rta);
+                }
+            } else {
+                $data ['tipoidentificacion'] = $this->tipoIdentificacion($tipo_identificacion);
+                $data ['perfil'] = $this->perfil($idperfil);
+                $data ['identificacion'] = $identificacion;
+                $data ['nombres'] = $nombres;
+                $data ['apellidos'] = $apellidos;
+                $data ['contrasena'] = $passwd;
+                $data ['usuarios'] = $username;
+                if ($estado == 1) {
+                    $name = "Activo";
+                } else {
+                    $name = "Inactivo";
+                }
+                $data ['estado'] = "<option value='$estado'>$name</option>";
+                $this->load->view('oficina/usuarios/Vusuarios', $data);
+            }
+        }
+    }
+
+    function tipoIdentificacion($tipo_identificacion) {
+        if ($tipo_identificacion !== null && $tipo_identificacion !== "") {
+            $rta = $this->Musuarios->gettipoIdentificacion($tipo_identificacion);
+            $data = "<option value='$tipo_identificacion'>$rta</option>";
+        } else {
+            $data = null;
+        }
+        return $data;
+    }
+
+    function perfil($idperfil) {
+        if ($idperfil !== null && $idperfil !== "") {
+            $rta = $this->Musuarios->gettipoIdperfil($idperfil);
+            $data = "<option value='$idperfil'>$rta</option>";
+        } else {
+            $data = null;
+        }
+        return $data;
+    }
+
+}

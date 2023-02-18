@@ -1,109 +1,124 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-oXXZ9D3N4aexdXBIOB622qho
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+//Esta clase se encargad e descargar la configuración desde la cuenta del CDA 
+//en el servidor Atalaya ARI
+class CbajarConfiguracion extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Mutilitarios");
+        $this->load->model("Mcliente");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+    }
+
+    //Este metodo convoca el formato de prerevisión para establecerlo en los 
+    //dispostivos móviles.
+    public function getConfPrerevision() {
+        $url = "http://" . $this->input->post("dominio") . "/cda/index.php/Cservicio/getInformePrerevision";
+        $archivo = fopen("recursos/prerevision.json", "w+b");
+        if (!$data = file_get_contents($url)) {
+            echo '0001';
+        } else {
+            fwrite($archivo, file_get_contents($url));
+            fclose($archivo);
+            echo "0000";
+        }
+    }
+
+    //Obtiene la lista de los datos de las tablas paramétrica del RUNT basandose
+    //en el nombre de la lista
+    public function getTablasParamRUNT() {
+        $this->setFileParam("tablasparamrunt/carroceria"); //Trae la lista de carroceria
+        $this->setFileParam("tablasparamrunt/ciudad"); //Trae la lista de ciudad
+        $this->setFileParam("tablasparamrunt/clase"); //Trae la lista de la clase del vehículo
+        $this->setFileParam("tablasparamrunt/color"); //Trae la lista del color del vehículo
+        $this->setFileParam("tablasparamrunt/combustible"); //Trae la lista del tipo de combustible
+        $this->setFileParam("tablasparamrunt/linea"); //Trae la lista de la linea del vehículo
+        $this->setFileParam("tablasparamrunt/marca"); //Trae la lista de la marca del vehículo
+        $this->setFileParam("tablasparamrunt/pais"); //Trae la lista del pais del vehículo
+        $this->setFileParam("tablasparamrunt/servicio"); //Trae la lista delservicio del vehículo
+    }
+
+    public function getSensorial() {
+        $this->setFileParam("general/sensorial"); //Trae la lista delservicio del vehículo
+    }
+
+    //Este metodo carga desde la url de la página directamente los tablas parametricas
+    //del RUNT de manera centralizada.
+    private function setFileParam($nombre) {
+        $url = "http://www.tecmmas.com/$nombre.json";
+        $ar = explode("/", $nombre);
+        $archivo = fopen("recursos/$ar[1].json", "w+b");
+        fwrite($archivo, file_get_contents($url));
+        fclose($archivo);
+    }
+
+    //Obtiene una configuración específica basado en el dominio y la funcion que 
+    //se convoca desde la aplicación
+    public function getConf() {
+        try {
+            $url = "https://" . $this->input->post("dominio") . "/cda/index.php/Cservicio/" . $this->input->post("funcion");
+            // var_dump(file_get_contents($url));
+            if (!$data = file_get_contents($url)) {
+                echo '0001';
+            } else {
+                $archivo = fopen("system/" . $this->input->post("file") . ".json", "w+b");
+                fwrite($archivo, file_get_contents($url));
+                fclose($archivo);
+                echo "0000";
+            }
+        } catch (Exception $exc) {
+            echo '0001';
+        }
+    }
+    public function getConfLicencia() {
+//        try {
+//            $url = "https://" . $this->input->post("dominio") . "/cda/index.php/Cservicio/" . $this->input->post("funcion");
+//            // var_dump(file_get_contents($url));
+//            if (!$data = file_get_contents($url)) {
+//                echo '0001';
+//            } else {
+                $archivo = fopen("system/license.json", "w+b");
+                fwrite($archivo, $this->input->post("dato"));
+                fclose($archivo);
+                echo "0000";
+//            }
+//        } catch (Exception $exc) {
+//            echo '0001';
+//        }
+    }
+
+    public function getDominio() {
+        echo file_get_contents('system/dominio.dat', true);
+    }
+
+    //Obtiene la configuración de los datos de la máquina
+    public function getConfMaquina() {
+        try {
+            $url = "http://" . $this->input->post("dominio") . "/cda/index.php/Cservicio/" . $this->input->post("funcion") . "?idmaquina=" . $this->input->post("file");
+            $archivo = fopen("system/" . $this->input->post("file") . ".json", "w+b");
+            if (!$data = file_get_contents($url)) {
+                echo '0001';
+            } else {
+                fwrite($archivo, file_get_contents($url));
+                fclose($archivo);
+                echo "0000";
+            }
+        } catch (Exception $exc) {
+            echo '0001';
+        }
+    }
+
+}

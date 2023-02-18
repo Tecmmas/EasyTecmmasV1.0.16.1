@@ -1,38 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPyRlcoJdCs0B/byE1+Ydzb1k+U1ncA0kOzMjV4ccjbUu0D+hCbwMIEPTUMCo4KrhNQ+3lf4h
-X7fZldIREf2ZWYrGKXcevKvoXjfmBo6phcHOZr1xupxavhZ34BI25VFHmYvKjy1HCgndSMaZqznF
-MT38wLAtJPALx0i+0cdlTSyDWvG7kmJfXz/HclJgniuvzVAAJ7Kb2Mvjm3qDXYZoKhZztzU/2KhO
-ss3p8hLLoWFaAmxTb22dLS+iQ9TiWVfT4CZoY4xGRq212dUwywTUcTfMjLQKRJJ2jgpDZ0Zu+2jE
-Icvp0C71fHKEQJzLQh5z7OtxATjD7hS9BzOt+6hxy6FGHKl23XO4EYrxyYDc+F3tGYwKB7zTpHjc
-iT0N/eUGFOrGK5Fp0N9SPWAiAc/qnMOk4z7Ofgognddy8EJaYuym/E+TCvsWAGP4S8bhM9jqNjfW
-5gyoqLmmjRQzNRFFLCB7/NQNrfwNYplVeD9sFMEaHu1MfD8U8w34m9NNpSvW2mYsbCNQjUVq9FUR
-uIWj981mj9tKcZLY+UuYPE31s4tIev4HfXgcW9TPFVf6zwMwUnnJFsWnHO5MDZ8TSuu8zBbkcFBl
-zXQtMN6B1NgZ7zZwFuUPI9MQsNuH0FO/kdhVi+V0Nxg8E8iQhk/p+YVdZZwemYC+WXe3fJXBOV4S
-5OrrcF/PA2++GqKmNCn9AAg7jUY8T0YRmG0rofrP/ch19c/OOjdLMZT9WFPgJqpb0ow6utGkQt9N
-wjbtRWcO4PM9/88qnSjwT/OJYt1kEe0MyUy+YEljeaW/3AkJ1L8S5/gZzVMoJds7LiX3LRV30Mac
-azn23OjRI5k0mJeFH49EA+TYlpK3AMeqDH2FmfjSGkhQT4zopGsER9fZRb30ikstDRjFEIKUIUit
-1irXjGpp70rj3EjqekNYComCr4y1zrEO4VAAeZz4+Dar45Jjc166ME62UrLJptftAQAcJLEzUhmY
-yU/iAIROKcb1S2SM3G/R3UtEFLBH9KjYFX/oB2LQA+X3b8TvRcmDud6q5CC5d1vIyLQ5D1ywKTrs
-y9REXRBgrgOg41DsFuF0lh7GNoi1o+b82co9rXR45GKredDdbLBzbdOPSiE9efsC/oOl/ON3cW9C
-36OSlGAYA1gjkde31p7vpXkj4yngXQWd0t7hS3MiH4MEHZ5xtC5ShQm1mMWKTDW+dVaqJP/08Eeq
-2/VppQRXYavsEhLCzHPRjn1CLIHAHFkx8wNUWHqaTlCGSejquI7RlsX8W/Z/0KMHvAh9AEVXfnKO
-J35hC/4hUr2cwHAR79cd6kk9mlDaoi+kBDcPgoKa5rGLknTL6Hvvk7QDJWDOTF/6bDiFAumb99N5
-IlJQ2pumpGJnGOWD1SKsBwntyI2CJZZvSWn9vroNLVMYCK2OH6USFg/5Sz5bwgcfE+q08fLf4tjT
-gkvlGJHLjO5pIvHRBZKNSd/woaNI8WMVMCUNHwuIhBdBZWsPiO4OO8SuxffJxxp96XBaZLHuirGe
-3hNgwKL+zcDJSlaMqz+EVzjEmSInL7KkbQ51CdfL0uNvDPlzrl3AJInDM9wr2wmDqVsUEhVhWb97
-ZbkVi/YOoM1nb+0S765i44mbA+o6yYsmOQrvzlg7kHpYj2u3KMvm4bM9TwxkLI5jui8W8IG5jyO+
-X5fRdmZPlOZA8hPUEgbVpJzG/tadaGd3s4e63kS7PTo8yDtycQLRvS25zzBMt22PVFPb3rtIIAFm
-6eklbgldaZ8ewiB3i4ohVIDANrXwrYqPFZ3Rqrlm10MjgRtGbLMa0NW4QCIa0a3OVCpNzv6EXHI0
-1bWaiAU1fuI0oX3ZtX5mEKjFoTz8uXYCvR5bphyqkJMSdjEQYGVqA0wcKCEkDcnbDyGA+dM16Rtc
-za67wRVMM9ZJH4FLwcsGhj5rfyvhQlAR3rvhTaufW16nxVbV8SnMbYqjLoy+z/6JX8CjLSTeyy0s
-ZtgDCArBVAgFnhEXSCTKaM88gufoY0/quzO1tJdP1W416cyXUm+6eEafqMeDQa2C/gdOoYhgjMxd
-9XXIIqN0/20sOnjXGVkdEoXMOxnx/ItR5PONn5CXbPG3obZcz0tXReHkaHS/AJIPSeyaOw3T7BLn
-EckC4Mx1GH9P/ayHLnC8Z93XeBSUcm3tKIJUQnA1P4TfkSnnLxh5Hvx+JlrIWBvIXfdEjCob66Sb
-SGye1tMPko9/8SC6rmUK2FU0BsPocrUr4RGBDwo6nm2/rsx7gRM/12mKkCHmJhzo2QomkxkBrAMk
-MEdOJaauCqzpOxaTAotVjVDHnmMjuTci9qg2lA1tn2Vlr9WDTfKQjvjGG1WGXSSIWRbM+nvaEOW0
-t9P78fm9VKmi7p8ItYjkP7mTP/iv7KK97m8IcqMfwj8Cumi6J+WfxjMygyW6NpXHrAMYOTpOkC1B
-lG7k9PNY862iuK/nurwbAVILbI19hrVPi40LQ22daU5xTyAT+ofwlsTn/febwJTaO8mle5Q2MwDu
-vJQpB3AycKR5sBMiHq5ZMCBvzhgyBcaxFe9bNdTcyHOWqO4UTMcMP7ul7R6P8RrOBIrvlACwwCxy
-VULWaTIsdYL1IgHDHhf8/jC81osOjEq9TgYqkSypJJ9hwOJNLKTAKxFJxTL93OEpfrM/MW==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Cinforme extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Minforme");
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+        $informe = $this->Minforme->getInforme($this->input->post('informe'));
+        $zona = $this->Minforme->getDatoInforme($informe->idinforme);
+        $data["zona"] = $zona->result();
+        echo json_encode($data);
+    }
+
+}

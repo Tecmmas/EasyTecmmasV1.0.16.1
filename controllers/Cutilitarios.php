@@ -1,187 +1,371 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Cutilitarios extends CI_Controller {
+
+    var $vectorClases = "";
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Mutilitarios");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+        
+    }
+
+    private function setConf() {
+        $conf = @file_get_contents("system/oficina.json");
+        if (isset($conf)) {
+            $encrptopenssl = New Opensslencryptdecrypt();
+            $json = $encrptopenssl->decrypt($conf, true);
+            $dat = json_decode($json, true);
+            if ($dat) {
+                foreach ($dat as $d) {
+                    if ($d['nombre'] == "vectorClases") {
+                        $this->vectorClases = $d['valor'];
+                    }
+                }
+            }
+        }
+    }
+
+    public function getNow() {
+        echo $this->Mutilitarios->getNow();
+    }
+
+    public function getMarca() {
+        echo file_get_contents('application/libraries/marca.json', true);
+    }
+
+    public function getLineas() {
+        $idmarca = $this->input->post("idmarca");
+        $lineas = json_decode(file_get_contents('application/libraries/linea.json', true));
+        $datalin = [];
+        foreach ($lineas as $linea) {
+            if ($linea->idmarca == $idmarca) {
+                $data['idlinea'] = $linea->idlinea;
+                $data['nombre'] = $linea->nombre;
+                array_push($datalin, $data);
+            }
+        }
+        echo json_encode($datalin);
+    }
+
+    public function getColor() {
+        echo file_get_contents('recursos/color.json', true);
+    }
+
+    public function getServicio() {
+        echo file_get_contents('recursos/servicio.json', true);
+    }
+
+    public function getClase() {
+        $this->setConf();
+//        echo $this->vectorClases;
+        if ($this->vectorClases !== "") {
+            $classes = json_decode(file_get_contents('recursos/clase.json', true));
+            $newClases = array();
+            for ($i = 0; $i < strlen($this->vectorClases); $i++) {
+                $nombreClase = $this->confClases(substr($this->vectorClases, $i, 1), $i);
+                foreach ($classes as $c) {
+                    if ($nombreClase == $c->nombre) {
+                        array_push($newClases, $c);
+                    }
+                }
+            }
+            echo json_encode($newClases);
+        } else {
+            echo file_get_contents('recursos/clase.json', true);
+        }
+    }
+
+    public function getCombustible() {
+        echo file_get_contents('recursos/combustible.json', true);
+    }
+
+    public function getCarroceria() {
+        echo file_get_contents('recursos/carroceria.json', true);
+    }
+
+    public function getCiudad() {
+        echo file_get_contents('recursos/ciudad.json', true);
+    }
+
+    public function getPais() {
+        echo file_get_contents('recursos/pais.json', true);
+    }
+
+    public function getSensorial() {
+        echo file_get_contents('recursos/sensorial.json', true);
+    }
+
+    public function getDefectos() {
+//        echo utf8_encode(file_get_contents('recursos/defectos.json', true));
+        echo utf8_encode(file_get_contents('application/libraries/defectos.json', true));
+    }
+
+//    private function formato_texto($cadena) {
+//        $no_permitidas = array("Ñ", "ñ", "á", "é", "í", "ó", "ú", "Á", "É", "Í", "Ó", "Ú", "ñ", "À", "Ã", "Ì", "Ò", "Ù", "Ã™", "Ã ", "Ã¨", "Ã¬", "Ã²", "Ã¹", "ç", "Ç", "Ã¢", "ê", "Ã®", "Ã´", "Ã»", "Ã‚", "ÃŠ", "ÃŽ", "Ã”", "Ã›", "ü", "Ã¶", "Ã–", "Ã¯", "Ã¤", "«", "Ò", "Ã", "Ã„", "Ã‹", "'", "");
+//        $permitidas = array("N", "n", "a", "e", "i", "o", "u", "A", "E", "I", "O", "U", "n", "N", "A", "E", "I", "O", "U", "a", "e", "i", "o", "u", "c", "C", "a", "e", "i", "o", "u", "A", "E", "I", "O", "U", "u", "o", "O", "i", "a", "e", "U", "I", "A", "E", "", "");
+//        $texto = str_replace($no_permitidas, $permitidas, $cadena);
+//        return $texto;
+//    }
+
+    public function CheckModulo() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+//        $filename = 'system/oficina.json';
+//        $file = fopen($filename, "r");
+//        $filesize = filesize($filename);
+//        $filetext = fread($file, $filesize);
+//        $json = $encrptopenssl->decrypt($filetext, true);
+        $json = $encrptopenssl->decrypt(file_get_contents('system/oficina.json', true), true);
+        echo $json;
+    }
+
+    public function getConfMaquina() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $json = $encrptopenssl->decrypt(file_get_contents('system/' . $this->input->post('idconf_maquina') . '.json', true), true);
+        echo $json;
+    }
+
+    private function crearDirTCM() {
+        if (!is_dir('c:/tcm')) {
+            mkdir("c:/tcm", 0700);
+        }
+    }
+
+    private function crearDirPrerevision() {
+        if (!is_dir('c:/tcm/prerevision/')) {
+            mkdir('c:/tcm/prerevision/', 0700);
+        }
+    }
+
+    private function crearDirUsuarios() {
+        if (!is_dir('c:/tcm/usuarios/')) {
+            mkdir('c:/tcm/usuarios/', 0700);
+        }
+    }
+
+    private function crearDirPrerevisionDia() {
+        $dia = $this->getDia();
+        if (!is_dir('c:/tcm/prerevision/' . $dia)) {
+            mkdir('c:/tcm/prerevision/' . $dia, 0700);
+        }
+    }
+
+    public function crearDirPlacaPrerevision() {
+        $this->crearDirTCM();
+        $this->crearDirPrerevision();
+        $this->crearDirPrerevisionDia();
+        $dia = $this->getDia();
+        if (!is_dir('c:/tcm/prerevision/' . $dia . "/" . $this->input->post('numero_placa'))) {
+            mkdir('c:/tcm/prerevision/' . $dia . "/" . $this->input->post('numero_placa'), 0700);
+        }
+    }
+
+    public function crearDirUsuario() {
+        $this->crearDirTCM();
+        $this->crearDirUsuarios();
+        if (!is_dir('c:/tcm/usuarios/' . $this->input->post('identificacion'))) {
+            mkdir('c:/tcm/usuarios/' . $this->input->post('identificacion'), 0700);
+        }
+    }
+
+    public function validarFirma() {
+        $identificacion = $this->input->post('identificacion');
+        if (file_exists("c:/tcm/usuarios/$identificacion/sig.dat")) {
+            echo 'TRUE';
+        } else {
+            echo 'FALSE';
+        }
+    }
+
+    public function getDia() {
+        $dia = strval($this->Mutilitarios->getNow());
+        $dia = str_replace("-", "", $dia);
+        $dia = substr($dia, 0, 8);
+        return $dia;
+    }
+
+    function confClases($valor, $index) {
+
+        switch ($index) {
+            case "0":
+                if ($valor == "1") {
+                    return "AUTOMOVIL";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "1":
+                if ($valor == "1") {
+                    return "BUS";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "2":
+                if ($valor == "1") {
+                    return "BUSETA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "3":
+                if ($valor == "1") {
+                    return "CAMION";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "4":
+                if ($valor == "1") {
+                    return "CAMIONETA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "5":
+                if ($valor == "1") {
+                    return "CAMPERO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "6":
+                if ($valor == "1") {
+                    return "MICROBUS";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "7":
+                if ($valor == "1") {
+                    return "TRACTOCAMION";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "8":
+                if ($valor == "1") {
+                    return "VOLQUETA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "9":
+                if ($valor == "1") {
+                    return "MOTOCICLETA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "10":
+                if ($valor == "1") {
+                    return "MAQ.AGRICOLA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "11":
+                if ($valor == "1") {
+                    return "MAQ.INDUSTRIAL";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "12":
+                if ($valor == "1") {
+                    return "SEMIREMOLQUE";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "13":
+                if ($valor == "1") {
+                    return "MOTOCARRO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "14":
+                if ($valor == "1") {
+                    return "REMOLQUE";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "15":
+                if ($valor == "1") {
+                    return "SIN CLASE";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "16":
+                if ($valor == "1") {
+                    return "MOTOTRICICLO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "17":
+                if ($valor == "1") {
+                    return "CUATRIMOTO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "18":
+                if ($valor == "1") {
+                    return "MAQ. CONSTRUCCION O MINERA";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "19":
+                if ($valor == "1") {
+                    return "CICLOMOTOR";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "20":
+                if ($valor == "1") {
+                    return "TRICIMOTO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "21":
+                if ($valor == "1") {
+                    return "CUADRICICLO";
+                } else {
+                    return FALSE;
+                }
+                break;
+            case "22":
+                if ($valor == "1") {
+                    return "MOTOCICLO";
+                } else {
+                    return FALSE;
+                }
+                break;
+
+            default:
+                return FALSE;
+                break;
+        }
+    }
+
+}

@@ -1,53 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-c7tnAEhCgGlSQNe4ziF02BG/AJ93
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+ini_set('memory_limit', '-1');
+
+class Cauditoria extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("dominio/Mcontrol_linealidad");
+        $this->load->model("dominio/Mcontrol_respuesta");
+        $this->load->model("dominio/Mcontrol_cero");
+//        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function linealidad() {
+        $linealidad = $this->input->post('linealidad');
+        $this->Mcontrol_linealidad->insertar($linealidad);
+    }
+
+    public function respuesta() {
+        $respuesta = $this->input->post('respuesta');
+        $this->Mcontrol_respuesta->insertar($respuesta);
+    }
+
+    public function controlcero() {
+        $cero = $this->input->post('cero');
+        $this->Mcontrol_cero->insertar($cero);
+    }
+
+    public function getLastLinealidad() {
+        $idmaquina = $this->input->post('idmaquina');
+        $rta = $this->Mcontrol_linealidad->get($idmaquina);
+        $linealidad = $rta->result();
+        echo json_encode($linealidad);
+    }
+
+    public function getLastCero() {
+        $idmaquina = $this->input->post('idmaquina');
+        $rta = $this->Mcontrol_cero->get($idmaquina);
+        $cero = $rta->result();
+        echo json_encode($cero);
+    }
+
+}

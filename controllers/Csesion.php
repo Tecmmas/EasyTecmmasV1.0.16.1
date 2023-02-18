@@ -1,68 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-UaokyQHRaG==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Csesion extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+//        $this->load->model("Musuario");
+        $this->load->model("Msesion");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+    }
+
+    public function setSesion() {
+        $sesion = $this->input->post("control_sesion");
+        $this->Msesion->setSesion($sesion);
+    }
+
+    public function updateSesionDevice() {
+        $data['tipo'] = $this->input->post("tipo");
+//        $data['user'] = $this->input->post("user");
+        $data['estado'] = $this->input->post("estado");
+        $data['device'] = $this->input->post("device");
+        $this->Msesion->updateSesionDevice($data);
+    }
+
+    public function getSesion() {
+        $sesion = $this->input->post("control_sesion");
+        $rta = $this->Msesion->getSesion($sesion);
+        if ($rta->num_rows() > 0) {
+            echo json_encode($rta->result());
+        } else {
+            echo 'FALSE';
+        }
+    }
+
+    public function getSesionUser() {
+        $user = $this->input->post("user");
+        $tipo = 1;
+        $ip = 0;
+        $rta = $this->Msesion->getSesionUser($user, $tipo, $ip);
+        if ($rta->num_rows() > 0) {
+            echo json_encode($rta->result());
+        } else {
+            echo 'FALSE';
+        }
+    }
+    public function getSesionMaquina() {
+        $tipo = 2;
+        $ip = $this->input->post("ip");
+        $rta = $this->Msesion->getSesionMaquina($tipo, $ip);
+        if ($rta->num_rows() > 0) {
+            echo json_encode($rta->result());
+        } else {
+            echo 'FALSE';
+        }
+    }
+
+}

@@ -1,131 +1,173 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-GucyGGhCwcOfHudIJ0NNi9sy17e=
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+ini_set('memory_limit', '-1');
+set_time_limit(0);
+
+class Cconf extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model('dominio/Mcda');
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') !== '1024') {
+            redirect('Cindex');
+        }
+        if (!$data['conf'] = @file_get_contents("system/oficina.json")) {
+            $this->load->view('oficina/login/Vconf', $data);
+        } else {
+            $this->load->view('oficina/login/Vconf');
+        }
+    }
+
+    public function solicitar() {
+        $this->form_validation->set_rules('url', 'Url Cliente', 'required');
+        if ($this->form_validation->run()) {
+            if ($this->cdaValido($this->getCdaLocal(), $this->getCdaUrl($this->input->post('url')))) {
+                $codigoOficina = $this->oficinaValida($this->input->post('url'));
+                if ($codigoOficina !== "") {
+                    if ($dat = $this->getConfOficina($this->input->post('url'), $codigoOficina)) {
+                        $data['conf'] = $dat;
+                        $data['url'] = $this->input->post('url');
+//                        $this->showConf($data);
+                    }
+                    $this->getMaquinas($this->input->post('url'));
+                } else {
+
+                    //traping de error
+                }
+            } else {
+                $data['mensaje'] = '<strong style="color: red">Dominio no válido o no corresponde a este CDA</strong>';
+            }
+        }
+        $data['url'] = $this->input->post('url');
+        $this->load->view('oficina/login/Vconf', $data);
+    }
+
+    private function getCdaLocal() {
+        $result = $this->Mcda->get();
+        if ($result->num_rows() > 0) {
+            $rta = $result->result();
+            return $rta[0]->nombre_cda;
+        } else {
+            return '';
+        }
+    }
+
+    private function getCdaUrl($url) {
+        try {
+            $url = "http://" . $url . "/cda/index.php/Cservicio/getCda";
+            if (!$data = @file_get_contents($url)) {
+                return ''; //trapin de error
+            } else {
+                return $data;
+            }
+        } catch (Exception $exc) {
+            echo '0001';
+        }
+    }
+
+    private function oficinaValida($url) {
+        try {
+            $url = "http://" . $url . "/cda/index.php/Cservicio/getLineas";
+            if (!$data = @file_get_contents($url)) {
+//                echo '0001'; //trapin de error
+            } else {
+                $encrptopenssl = New Opensslencryptdecrypt();
+                $json = $encrptopenssl->decrypt($data, true);
+                $dat = json_decode($json, true);
+                $existe = false;
+                $codigoOf = "";
+                foreach ($dat as $d) {
+                    if ("oficina" === $d['nombre']) {
+                        $existe = true;
+                        $codigoOf = $d['idconf_maquina'];
+                        break;
+                    }
+                }
+                if ($existe) {
+                    return $codigoOf;
+                } else {
+                    return "";
+                }
+//                $archivo = fopen("system/" . $this->input->post("file") . ".json", "w+b");
+//                fwrite($archivo, file_get_contents($url));
+//                fclose($archivo);
+//                echo "0000";
+            }
+        } catch (Exception $exc) {
+//            echo '0001';
+        }
+    }
+
+    private function cdaValido($cdaLocal, $cdaUrl) {
+        if ($cdaLocal == $cdaUrl) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    private function getMaquinas($url2) {
+        try {
+            $url = "http://" . $url2 . "/cda/index.php/Cservicio/getLineas";
+            if (!$data = @file_get_contents($url)) {
+                //Trapping
+            } else {
+                $archivo = fopen("system/lineas.json", "w+b");
+                fwrite($archivo, file_get_contents($url));
+                fclose($archivo);
+                $encrptopenssl = New Opensslencryptdecrypt();
+                $json = $encrptopenssl->decrypt($data, true);
+                $dat = json_decode($json, true);
+                foreach ($dat as $d) {
+                    $this->getConfMaquina($url2, $d['idconf_maquina']);
+                    usleep(100);
+                }
+            }
+        } catch (Exception $exc) {
+//            echo '0001';
+        }
+    }
+
+    public function getConfMaquina($url, $idconf_maquina) {
+        try {
+            $url = "http://" . $url . "/cda/index.php/Cservicio/getConfMaquina?idmaquina=" . $idconf_maquina;
+            $archivo = fopen("system/" . $idconf_maquina . ".json", "w+b");
+            if (!$data = @file_get_contents($url)) {
+                echo '0001';
+            } else {
+                fwrite($archivo, file_get_contents($url));
+                fclose($archivo);
+//                echo "0000";
+            }
+        } catch (Exception $exc) {
+            echo '0001';
+        }
+    }
+
+    private function getConfOficina($url, $idOficina) {
+        try {
+            $url = "http://" . $url . "/cda/index.php/Cservicio/getConfMaquina?idmaquina=" . $idOficina;
+//            $archivo = fopen("system/oficina.json", "w+b");
+            if (!$data = file_get_contents($url)) {
+                return false; //Traping de error
+            } else {
+                $archivo = fopen("system/oficina.json", "w+b");
+                fwrite($archivo, $data);
+                fclose($archivo);
+                return $data;
+            }
+        } catch (Exception $exc) {
+            return false;
+        }
+    }
+
+}

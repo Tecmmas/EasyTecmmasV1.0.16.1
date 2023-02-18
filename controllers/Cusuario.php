@@ -1,81 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Cusuario extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Musuario");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+//        if ($this->session->userdata('IdUsuario') == '') {
+//            redirect('Cindex');
+//        }
+        $this->Musuario->CrearTablaOpciones();
+        $rta1 = $this->Musuario->getUsuarioId($this->input->post('IdUsuario'));
+        $rta2 = $this->Musuario->getOpciones($this->input->post('IdUsuario'));
+        $data['usuario'] = $rta1->result();
+        $data['opciones'] = $rta2->result();
+        echo json_encode($data);
+    }
+
+    public function guardarFirma() {
+        $archivo = fopen("c:/tcm/usuarios/" . $this->input->post('identificacion') . "/sig.dat", "w+b");
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $firma = $encrptopenssl->encrypt($this->input->post('firma'));  //encypting plain text
+        fwrite($archivo, $firma);
+        fclose($archivo);
+    }
+
+    public function leerFirma() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $file = "c:/tcm/usuarios/" . $this->input->post('identificacion') . "/sig.dat";
+        if (file_exists($file)) {
+            $firma = file_get_contents($file, true);
+            echo $encrptopenssl->decrypt($firma);
+        } else {
+            echo "NA";
+        }
+    }
+
+    public function guardarFoto() {
+        $archivo = fopen("c:/tcm/usuarios/" . $this->input->post('identificacion') . "/sig.dat", "w+b");
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $firma = $encrptopenssl->encrypt($this->input->post('firma'));  //encypting plain text
+        fwrite($archivo, $firma);
+        fclose($archivo);
+    }
+
+    public function actualizarOpcion() {
+        $opcion['idusuario'] = $this->input->post('idusuario');
+        $opcion['nombre'] = $this->input->post('nombre');
+        $opcion['valor'] = $this->input->post('valor');
+        $this->Musuario->actualizarOpcion($opcion);
+    }
+
+    public function cargarOpciones() {
+        $rta2 = $this->Musuario->getOpciones($this->input->post('IdUsuario'));
+        $data = $rta2->result();
+        echo json_encode($data);
+    }
+
+}

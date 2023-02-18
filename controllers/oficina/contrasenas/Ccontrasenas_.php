@@ -1,85 +1,77 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-G9LiV0==
+<?php
+
+defined("BASEPATH") OR exit("No direct script access allowed");
+header("Access-Control-Allow-Origin: *");
+ini_set("memory_limit", "-1");
+set_time_limit(300);
+
+class Ccontrasenas extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper("form");
+        $this->load->helper("url");
+        $this->load->helper("security");
+        $this->load->helper('download');
+        $this->load->model('oficina/contrasenas/Mcontrasenas');
+    }
+
+    public function index() {
+        if ($this->session->userdata("IdUsuario") == "" || $this->session->userdata("IdUsuario") == "1024") {
+            redirect("Cindex");
+        }
+//        $iduser = 23;
+        $iduser = $this->session->userdata("IdUsuario");
+        $rta ['user'] = $this->getuser($iduser);
+        $this->load->view('oficina/contrasenas/Vcontrasenas', $rta);
+    }
+
+    public function updatecontra() {
+        $contrasenna = $this->input->post('contrasenna');
+        $idperfil = $this->input->post('idperfil');
+        $iduser = $this->input->post('iduser');
+        $fecha = $this->input->post('fecha');
+        if ($idperfil == 1 || $idperfil == 3) {
+            $data = $this->Mcontrasenas->updatecontraadmin($iduser, $contrasenna, $fecha);
+            $rta = $this->Mcontrasenas->insertcontraadmin($iduser, $contrasenna);
+            if ($data == 1 && $rta == 1) {
+                redirect("Cindex");
+                $this->error('La contraseña fue actualizada correctamente');
+            } else {
+                $this->error('La contraseña no pudo ser actualizada comuníquese con el administrador del sistema por favor');
+            }
+        } else {
+            $data = $this->Mcontrasenas->updatecontra($iduser, $contrasenna, $fecha);
+            $rta = $this->Mcontrasenas->insertcontra($iduser, $contrasenna);
+            if ($data == 1 && $rta == 1) {
+                redirect("Cindex");
+                $this->error('La contraseña fue actualizada correctamente');
+            } else {
+                $this->error('La contraseña no pudo ser actualizada comuníquese con el administrador del sistema por favor');
+            }
+        }
+    }
+
+    public function getuser($iduser) {
+        $data = $this->Mcontrasenas->getuser($iduser);
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+    public function getpassword() {
+        $iduser = $this->input->post('iduser');
+        $contrasenna = $this->input->post('contrasenna');
+        $data = $this->Mcontrasenas->getpassword($iduser, $contrasenna);
+        if ($data->num_rows() > 0) {
+            echo json_encode(1);
+        } else {
+            echo json_encode(0);
+        }
+    }
+
+    private function error($mensaje) {
+        $this->session->set_flashdata('error', $mensaje);
+        redirect("oficina/contrasenas/Ccontrasenas");
+    }
+
+}

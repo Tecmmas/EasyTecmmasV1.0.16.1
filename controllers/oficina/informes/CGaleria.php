@@ -1,40 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+ini_set('memory_limit', '-1');
+set_time_limit(300);
+
+class CGaleria extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("oficina/informes/MPrerevision");
+        $this->load->model("dominio/Mcda");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '' || $this->session->userdata('IdUsuario') == '1024') {
+            redirect('Cindex');
+        }
+//        $data['prerevision'] = '';
+//        $data['placa'] = '';
+//        $data['rango'] = '';
+        $idpre_prerevision = $this->input->post('idpre_prerevision');
+        echo $idpre_prerevision;
+//        $this->load->view('oficina/informes/VGaleria');
+    }
+
+}

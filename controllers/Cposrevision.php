@@ -1,97 +1,85 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-0VIfYSwp9m==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class Cposrevision extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model("Mposrevision");
+        $this->load->model("Mutilitarios");
+        $this->load->model("Mprerevision");
+        $this->load->library('Opensslencryptdecrypt');
+    }
+
+    //put your code here
+
+public function index() {
+        if ($this->session->userdata('IdUsuario') == '') {
+            redirect('Cindex');
+        }
+    }
+
+    public function validarPlaca() {
+        $rta = $this->Mposrevision->buscarPrerevision($this->input->post("numero_placa_ref"));
+        if ($rta->num_rows() > 0) {
+            echo json_encode($rta->result());
+        } else {
+            echo 'FALSE';
+        }
+    }
+
+    public function guardarFirma() {
+        $archivo = fopen(
+                "c:/tcm/prerevision/" . $this->getDia() . "/" . $this->input->post('placa') . "/" .
+                "sigpos_" . $this->input->post('ocasion') . ".dat", "w+b");
+        $encrptopenssl = New Opensslencryptdecrypt();
+//$plain_txt = "this is awsome";
+        $firma = $encrptopenssl->encrypt($this->input->post('firma'));  //encypting plain text
+//$testdec = $encrptopenssl->decrypt($testenc);    //decrypting plain texx
+//$firma = $this->encrypt->enconde();
+        fwrite($archivo, $firma);
+        fclose($archivo);
+    }
+
+    public function leerFirma() {
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $file = "c:/tcm/prerevision/" . $this->getDia() . "/" . $this->input->post('placa') . "/" .
+                "sigpos_" . $this->input->post('ocasion') . ".dat";
+        if (file_exists($file)) {
+            $firma = file_get_contents($file, true);
+            echo $encrptopenssl->decrypt($firma);
+        } else {
+            echo "NA";
+        }
+    }
+
+    public function getDia() {
+        $dia = strval($this->Mutilitarios->getNow());
+        $dia = str_replace("-", "", $dia);
+        $dia = substr($dia, 0, 8);
+        return $dia;
+    }
+
+    public function guardarPosrevision() {
+        $pre_dato['valor'] = $this->input->post('estado');
+        $pre_dato['idpre_prerevision'] = $this->input->post('idpre_prerevision');
+        $preAtributo['id'] = 'estado';
+        $preAtributo['label'] = 'Estado de la inspeccion';
+        $preZona['nombre'] = 'inicio';
+        $this->Mprerevision->guardarPreDato($pre_dato, $preAtributo, $preZona);
+        if ($this->input->post('numero_solicitud') !== "") {
+            $pre_dato['valor'] = $this->input->post('numero_solicitud');
+            $pre_dato['idpre_prerevision'] = $this->input->post('idpre_prerevision');
+            $preAtributo['id'] = 'numero_solicitud';
+            $preAtributo['label'] = 'Número solicitud del RUNT';
+            $preZona['nombre'] = 'firma';
+            $this->Mprerevision->guardarPreDato($pre_dato, $preAtributo, $preZona);
+        }
+    }
+
+}

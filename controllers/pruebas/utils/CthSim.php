@@ -1,52 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-eU428W==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header("Access-Control-Allow-Origin: *");
+
+class CthSim extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->library('Encry');
+        $this->load->model("Mutilitarios");
+    }
+
+//    public function index() {
+//        $this->load->view('pruebas/utils/VanalizadorSim');
+//    }
+
+    public function getNow() {
+        echo $this->Mutilitarios->getNow();
+    }
+
+    function setData() {
+        $enc = new Encry();
+        $trama = $this->input->post('trama');
+        $fileName = $enc->encrypt("12700120w");
+        $this->Warchivo($_SERVER['DOCUMENT_ROOT'] . "et/data/" . $fileName . ".dat", "w+", $trama);
+    }
+
+    private function Warchivo($archivo, $tipo, $conten) {
+        $enc = new Encry();
+        $content = $enc->encrypt($conten);
+        try {
+            $file = fopen($archivo, $tipo);
+            fwrite($file, $content);
+            fclose($file);
+            usleep(500);
+        } catch (Exception $exc) {
+            $this->Warchivo($archivo, $tipo, $content);
+        }
+    }
+
+}

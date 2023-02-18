@@ -1,171 +1,183 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ln7gFlSYb4eZS+ppGm4WlhKgOBm=
+<?php
+
+defined("BASEPATH") OR exit("No direct script access allowed");
+header("Access-Control-Allow-Origin: *");
+ini_set("memory_limit", "-1");
+set_time_limit(300);
+
+class Cinformes extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper("form");
+        $this->load->helper("url");
+        $this->load->helper("security");
+        $this->load->helper('download');
+        $this->load->helper('date');
+        $this->load->model("oficina/reportes/informefugascal/Minformes");
+        $this->load->library('tcpdf');
+        $this->load->library('Opensslencryptdecrypt');
+        $this->load->dbutil();
+    }
+
+    public function index() {
+        if ($this->session->userdata("IdUsuario") == "" || $this->session->userdata("IdUsuario") == "1024") {
+            redirect("Cindex");
+        }
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $json = $encrptopenssl->decrypt(file_get_contents('system/lineas.json', true));
+        $rta ['maquina'] = json_decode($json);
+        $this->load->view('oficina/reportes/informefugascal/Vgases_fugas_cal', $rta);
+    }
+
+// crea el informe de fugas,calibracion, linealida etc.
+    public function gases_opa_data() {
+        date_default_timezone_set('America/bogota');
+        $tipo_reporte = $this->input->post('tipo_reporte');
+        $idcontrol_fug_cal = $this->input->post('idcontrol_fug_cal');
+        $idmaquina = $this->input->post('idmaquina');
+        $encrptopenssl = New Opensslencryptdecrypt();
+        $json = $encrptopenssl->decrypt(file_get_contents('system/lineas.json', true));
+        $data = json_decode($json);
+        foreach ($data as $item) {
+            if ($item->idconf_maquina == $idmaquina) {
+                $marca = $item->marca;
+                $serie_maquina = $item->serie_maquina;
+                $serie_banco = $item->serie_banco;
+            }
+        }
+        switch ($tipo_reporte) {
+            case 1:
+                $rta ['tipoinforme'] = 1;
+                $rta ['titulo'] = strtoupper('Reporte Calibracion');
+                $rta ['cda'] = $this->infocda();
+                $rta ['imagen']->logo = base64_encode($rta['cda']->logo);
+                $rta ['usuariogeneracion'] = $this->session->userdata('IdUsuario'); //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['fechageneracion'] = date("Y-m-d H:i:s");
+                $rta ['sede'] = $this->infosede();
+                $rta ['marca'] = ucwords(strtolower($marca));
+                $rta ['modelo'] = strtoupper($serie_banco);
+                $rta ['serial'] = strtoupper($serie_maquina);
+                $rta ['autor'] = 'TECMMAS S.A.S';
+                $rta ['cal'] = $this->result_cal_data($idcontrol_fug_cal, $idmaquina);
+                $rta ['nombreuser'] = $this->usuario_prueba($rta ['cal']->usuario);
+                $rta ['n'] = 'Nitrogeno de balance';
+                $this->load->view('oficina/reportes/informefugascal/VPDF_report_gases_opa', $rta);
+                break;
+            case 2:
+                $rta ['tipoinforme'] = 2;
+                $rta ['titulo'] = strtoupper('Reporte Fugas');
+                $rta ['cda'] = $this->infocda();
+                $rta ['imagen']->logo = base64_encode($rta['cda']->logo);
+                $rta ['usuariogeneracion'] = $this->session->userdata('IdUsuario'); //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['fechageneracion'] = date("Y-m-d H:i:s");
+                $rta ['sede'] = $this->infosede();
+                $rta ['marca'] = ucwords(strtolower($marca));
+                $rta ['modelo'] = strtoupper($serie_banco);
+                $rta ['serial'] = strtoupper($serie_maquina);
+                $rta ['cal'] = $this->result_cal_data($idcontrol_fug_cal, $idmaquina);
+                $rta ['fug'] = $this->result_fug_data($idcontrol_fug_cal, $idmaquina);
+                $rta ['nombreuser'] = $this->usuario_prueba($rta ['fug']->usuario);
+                $rta ['autor'] = 'TECMMAS S.A.S';
+                $this->load->view('oficina/reportes/informefugascal/VPDF_report_gases_opa', $rta);
+                break;
+            case 3:
+                $rta ['tipoinforme'] = 3;
+                $rta ['titulo'] = strtoupper('Reporte Verificacion');
+                $rta ['cda'] = $this->infocda();
+                $rta ['imagen']->logo = base64_encode($rta['cda']->logo);
+                $rta ['usuariogeneracion'] = $this->session->userdata('IdUsuario'); //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['fechageneracion'] = date("Y-m-d H:i:s");
+                $rta ['sede'] = $this->infosede();
+                $rta ['marca'] = ucwords(strtolower($marca));
+                $rta ['modelo'] = strtoupper($serie_banco);
+                $rta ['serial'] = strtoupper($serie_maquina);
+                $rta ['pef'] = '0.512'; //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['autor'] = 'TECMMAS S.A.S';
+                $this->load->view('oficina/reportes/informefugascal/VPDF_report_gases_opa', $rta);
+                break;
+            case 4:
+                $rta ['tipoinforme'] = 4;
+                $rta ['titulo'] = strtoupper('Reporte linealidad');
+                $rta ['cda'] = $this->infocda();
+                $rta ['imagen']->logo = base64_encode($rta['cda']->logo);
+                $rta ['usuariogeneracion'] = $this->session->userdata('IdUsuario'); //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['fechageneracion'] = date("Y-m-d H:i:s");
+                $rta ['sede'] = $this->infosede();
+                $rta ['marca'] = ucwords(strtolower($marca));
+                $rta ['modelo'] = strtoupper($serie_banco);
+                $rta ['serial'] = strtoupper($serie_maquina);
+                $rta ['ltoe'] = '215'; //la variable esta asignada al reporte, falta sacar el dato
+                $rta ['autor'] = 'TECMMAS S.A.S';
+                $this->load->view('oficina/reportes/informefugascal/VPDF_report_gases_opa', $rta);
+                break;
+            default:
+
+                break;
+        }
+    }
+
+// carga la informacion de fechas para el reporte dependiendo de la maquina y el tipo de reporte
+    function carga_select() {
+        $idmaquina = $this->input->post('idmaquina');
+        $idreporte = $this->input->post('idreporte');
+        switch ($idreporte) {
+            case 1:
+                $data = $this->Minformes->infocalibracion($idmaquina);
+                echo json_encode($data);
+                break;
+            case 2:
+                $data = $this->Minformes->infofugas($idmaquina);
+                echo json_encode($data);
+                break;
+            case 3:
+//                $data = $this->Minformes->infoverificacion($idmaquina);
+//                echo json_encode($data);
+                echo json_encode('verificacion');
+                break;
+            case 4:
+//                $data = $this->Minformes->infodisel($idmaquina);
+//                echo json_encode($data);
+                echo json_encode('linealidad');
+                break;
+            default:
+                break;
+        }
+    }
+
+// consulta la tabla de calibraciones
+    public function result_cal_data($idcontrol_fug_cal, $idmaquina) {
+        $data = $this->Minformes->result_cal_data($idcontrol_fug_cal, $idmaquina);
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+//consulta la tabka de fugas
+    public function result_fug_data($idcontrol_fug_cal, $idmaquina) {
+        $data = $this->Minformes->result_fug_data($idcontrol_fug_cal, $idmaquina);
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+//consulta el usuario que realizo fugas o calbracion
+    public function usuario_prueba($usuario) {
+        $data = $this->Minformes->usuario_prueba($usuario);
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+//consulta la informacion del cda
+    function infocda() {
+        $data = $this->Minformes->infocda();
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+//consulta la informacion de la tabla sede
+    function infosede() {
+        $data = $this->Minformes->infosede();
+        $rta = $data->result();
+        return $rta [0];
+    }
+
+}

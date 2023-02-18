@@ -1,302 +1,238 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zyzCc1IYICx6qaUZyB+rXcqS7Ek/6xsSR0==
+<?php
+
+defined("BASEPATH") OR exit("No direct script access allowed");
+header("Access-Control-Allow-Origin: *");
+ini_set("memory_limit", "-1");
+set_time_limit(300);
+
+class Cestadisticos extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper("form");
+        $this->load->helper("url");
+        $this->load->helper("security");
+        $this->load->helper('download');
+        $this->load->library('tcpdf');
+        $this->load->model("oficina/reportes/estadisticos/Mestadisticos");
+        $this->load->library('zip');
+        $this->load->helper('download');
+        $this->load->dbutil();
+    }
+
+    public function index() {
+        $this->load->view('oficina/reportes/estadisticos/Vestadisticos');
+    }
+
+    public function getReporte() {
+        date_default_timezone_set('America/bogota');
+        $date = date("Y-m-d H-i-s");
+        $idreporte = $this->input->post('idreporte');
+        $fechainicial = $this->input->post('fechainicial');
+        $fechafinal = $this->input->post('fechafinal');
+        $fechaperdidos = $this->input->post('fechaperdidos');
+        switch ($idreporte) {
+            case 1:
+                $json = file_get_contents('recursos/defectos.json', true);
+                $data ['defectos'] = json_decode($json);
+                $data ['titulo'] = strtoupper('Informe lista de defectos');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_lista_defectos', $data);
+                break;
+            case 2:
+                $data ['titulo'] = strtoupper('Informe facturacion diaria');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->facturacion_diaria($fechainicial, $fechafinal);
+                $data ['datos'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_facturacion_diaria', $data);
+                break;
+            case 3:
+                $data ['titulo'] = strtoupper('Inspecciones por defecto');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->inspecciones($fechainicial, $fechafinal);
+                $data ['inspecciones'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_mapa_inspecciones_defecto', $data);
+                break;
+            case 4:
+                $data ['titulo'] = strtoupper('Resumen diario de servicio');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data ['fechai'] = strtotime($fechainicial);
+                $data ['fechaf'] = strtotime($fechafinal);
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_resumen_diario_servicio', $data);
+                break;
+            case 5:
+                $data ['titulo'] = strtoupper('Mapa de servicios entre fechas');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data ['fechai'] = strtotime($fechainicial);
+                $data ['fechaf'] = strtotime($fechafinal);
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_mapa_servicios_entre_fechas', $data);
+                break;
+            case 6:
+                $data ['titulo'] = strtoupper('Lista de defectos por inspector');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data ['fechai'] = strtotime($fechainicial);
+                $data ['fechaf'] = strtotime($fechafinal);
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->lista_defectos_inspector($fechainicial, $fechafinal);
+                $data ['inspectores'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_lista_defectos_inspector', $data);
+                break;
+            case 7:
+                $data ['titulo'] = strtoupper('Inspector/categoria descriminada');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data ['fechai'] = strtotime($fechainicial);
+                $data ['fechaf'] = strtotime($fechafinal);
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->inspectores($fechainicial, $fechafinal);
+                $data ['inspectores'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_inspector_categoria_descriminada', $data);
+                break;
+            case 8:
+                $data ['titulo'] = strtoupper('Lista de provisiones de servicios');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->lista_provisiones($fechainicial, $fechafinal);
+                $data ['listagem'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_lista_provisiones_servicio', $data);
+                break;
+            case 9:
+                $data ['titulo'] = strtoupper('Aprobados rechazados por año de matricula');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $data['ai1993'] = $this->Mestadisticos->aprobadosInspeccion("<= '1993'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ri1993'] = $this->Mestadisticos->rechazadosInspeccion("<= '1993'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ar1993'] = $this->Mestadisticos->aprobadosReinspeccion("<= '1993'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['rr1993'] = $this->Mestadisticos->rechazadosReinspeccion("<= '1993'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['total1993'] = $data['ai1993'] + $data['ri1993'] + $data['ar1993'] + $data['rr1993'];
+
+                $data['ai19941998'] = $this->Mestadisticos->aprobadosInspeccion("between '1994' and '1998'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ri19941998'] = $this->Mestadisticos->rechazadosInspeccion("between '1994' and '1998'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ar19941998'] = $this->Mestadisticos->aprobadosReinspeccion("between '1994' and '1998'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['rr19941998'] = $this->Mestadisticos->rechazadosReinspeccion("between '1994' and '1998'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['total19941998'] = $data['ai19941998'] + $data['ri19941998'] + $data['ar19941998'] + $data['rr19941998'];
+
+                $data['ai19992003'] = $this->Mestadisticos->aprobadosInspeccion("between '1999' and '2003'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ri19992003'] = $this->Mestadisticos->rechazadosInspeccion("between '1999' and '2003'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ar19992003'] = $this->Mestadisticos->aprobadosReinspeccion("between '1999' and '2003'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['rr19992003'] = $this->Mestadisticos->rechazadosReinspeccion("between '1999' and '2003'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['total19992003'] = $data['ai19992003'] + $data['ri19992003'] + $data['ar19992003'] + $data['rr19992003'];
+
+                $data['ai20042008'] = $this->Mestadisticos->aprobadosInspeccion("between '2004' and '2008'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ri20042008'] = $this->Mestadisticos->rechazadosInspeccion("between '2004' and '2008'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ar20042008'] = $this->Mestadisticos->aprobadosReinspeccion("between '2004' and '2008'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['rr20042008'] = $this->Mestadisticos->rechazadosReinspeccion("between '2004' and '2008'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['total20042008'] = $data['ai20042008'] + $data['ri20042008'] + $data['ar20042008'] + $data['rr20042008'];
+
+                $data['ai2009'] = $this->Mestadisticos->aprobadosInspeccion(">= '2009'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ri2009'] = $this->Mestadisticos->rechazadosInspeccion(">= '2009'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['ar2009'] = $this->Mestadisticos->aprobadosReinspeccion(">= '2009'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['rr2009'] = $this->Mestadisticos->rechazadosReinspeccion(">= '2009'", "'" . $fechainicial . "' and '" . $fechafinal . "'");
+                $data['total2009'] = $data['ai2009'] + $data['ri2009'] + $data['ar2009'] + $data['rr2009'];
+
+                $data['totalAprobadosInpeccion'] = $data['ai1993'] + $data['ai19941998'] + $data['ai19992003'] + $data['ai20042008'] + $data['ai2009'];
+                $data['totalRechazadosInpeccion'] = $data['ri1993'] + $data['ri19941998'] + $data['ri19992003'] + $data['ri20042008'] + $data['ri2009'];
+                $data['totalAprobadosReinpeccion'] = $data['ar1993'] + $data['ar19941998'] + $data['ar19992003'] + $data['ar20042008'] + $data['ar2009'];
+                $data['totalRechazadosReinpeccion'] = $data['rr1993'] + $data['rr19941998'] + $data['rr19992003'] + $data['rr20042008'] + $data['rr2009'];
+
+                $data['total'] = $data['totalAprobadosInpeccion'] + $data['totalRechazadosInpeccion'] + $data['totalAprobadosReinpeccion'] + $data['totalRechazadosReinpeccion'];
+
+                $maximo = max($data['ai1993'], $data['ri1993'], $data['ar1993'], $data['ai19941998'], $data['ri19941998'], $data['ar19941998'], $data['rr19941998'], $data['ai19992003'], $data['ri19992003'], $data['ar19992003'], $data['rr19992003'], $data['ai20042008'], $data['ri20042008'], $data['ar20042008'], $data['rr20042008'], $data['ai2009'], $data['ri2009'], $data['ar2009'], $data['rr2009']);
+
+                $data['ai1993Por'] = round(($data['ai1993'] / $maximo) * 100);
+                $data['ri1993Por'] = round(($data['ri1993'] / $maximo) * 100);
+                $data['ar1993Por'] = round(($data['ar1993'] / $maximo) * 100);
+                $data['rr1993Por'] = round(($data['rr1993'] / $maximo) * 100);
+
+                $data['ai19941998Por'] = round(($data['ai19941998'] / $maximo) * 100);
+                $data['ri19941998Por'] = round(($data['ri19941998'] / $maximo) * 100);
+                $data['ar19941998Por'] = round(($data['ar19941998'] / $maximo) * 100);
+                $data['rr19941998Por'] = round(($data['rr19941998'] / $maximo) * 100);
+
+                $data['ai19992003Por'] = round(($data['ai19992003'] / $maximo) * 100);
+                $data['ri19992003Por'] = round(($data['ri19992003'] / $maximo) * 100);
+                $data['ar19992003Por'] = round(($data['ar19992003'] / $maximo) * 100);
+                $data['rr19992003Por'] = round(($data['rr19992003'] / $maximo) * 100);
+
+                $data['ai20042008Por'] = round(($data['ai20042008'] / $maximo) * 100);
+                $data['ri20042008Por'] = round(($data['ri20042008'] / $maximo) * 100);
+                $data['ar20042008Por'] = round(($data['ar20042008'] / $maximo) * 100);
+                $data['rr20042008Por'] = round(($data['rr20042008'] / $maximo) * 100);
+
+                $data['ai2009Por'] = round(($data['ai2009'] / $maximo) * 100);
+                $data['ri2009Por'] = round(($data['ri2009'] / $maximo) * 100);
+                $data['ar2009Por'] = round(($data['ar2009'] / $maximo) * 100);
+                $data['rr2009Por'] = round(($data['rr2009'] / $maximo) * 100);
+
+                $maximo2 = max($data['total1993'], $data['total19941998'], $data['total19992003'], $data['total20042008'], $data['total2009']);
+
+                $data['total1993Por'] = round((($data['total1993'] / $maximo2) * 100) / 2);
+                $data['total19941998Por'] = round((($data['total19941998'] / $maximo2) * 100) / 2);
+                $data['total19992003Por'] = round((($data['total19992003'] / $maximo2) * 100) / 2);
+                $data['total20042008Por'] = round((($data['total20042008'] / $maximo2) * 100) / 2);
+                $data['total2009Por'] = round((($data['total2009'] / $maximo2) * 100) / 2);
+
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_aprobados_rechazados_matricula', $data);
+                break;
+            case 10:
+                $data ['titulo'] = strtoupper('Clientes adquiridos,perdidos y retornados');
+                $data ['fechageneracion'] = date("Y-m-d H:i:s");
+                $data ['fechainicial'] = $fechainicial;
+                $data ['fechafinal'] = $fechafinal;
+                $data ['fechaperdidos'] = $fechaperdidos;
+                $data['nombreCda'] = $this->Mestadisticos->getNombreCda();
+                $rta = $this->Mestadisticos->clientesAdquiridos($fechainicial, $fechafinal);
+                $data['clientesAdquiridos'] = $rta->result();
+                $rta = $this->Mestadisticos->clientesPerdidos($fechaperdidos, $fechafinal);
+                $data['clientesPerdidos'] = $rta->result();
+                $rta = $this->Mestadisticos->clientesRetornados($fechainicial, $fechafinal);
+                $data['clientesRetornados'] = $rta->result();
+                $this->load->view('oficina/reportes/estadisticos/Vpdf_clientes_adquiridos_perdidos_retornados', $data);
+                break;
+            case 11:
+                $rta = $this->Mestadisticos->getContrasenas($fechainicial, $fechafinal);
+                $filename = 'Informe Contraseñas';
+                $this->downloadinforme($rta, $filename);
+                break;
+            default:
+                redirect("oficina/reportes/estadisticos/Cestadisticos");
+                break;
+        }
+    }
+
+    public function downloadinforme($query, $filename) {
+        date_default_timezone_set('America/bogota');
+        $date = date("Y-m-d-H-i-s");
+        $delimiter = ";";
+        $newline = "\r\n";
+        $data = $this->dbutil->csv_from_result($query, $delimiter, $newline);
+        $this->download($filename, $data);
+//        force_download($nombre, $data);
+    }
+
+    private function download($filename, $result) {
+        $nombre = $filename . '.csv';
+        force_download($nombre, $result);
+    }
+
+}

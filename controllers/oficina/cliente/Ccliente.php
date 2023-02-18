@@ -1,63 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kFPn7m==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+header('Access-Control-Allow-Origin: *');
+ini_set('memory_limit', '-1');
+
+class Ccliente extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper('form');
+        $this->load->helper('url');
+        $this->load->helper('security');
+        $this->load->model('dominio/Mpropietario');
+    }
+
+    public function index() {
+        if ($this->session->userdata('IdUsuario') == '' || $this->session->userdata('IdUsuario') == '1024') {
+            redirect('Cindex');
+        }
+        $this->load->view('oficina/cliente/VCliente');
+    }
+
+    public function getCliente() {
+        if ($this->input->post('match') !== '') {
+            $clientes = $this->Mpropietario->getMatch($this->input->post('match'));
+            $datos = '';
+            if ($clientes->num_rows() > 0) {
+                foreach ($clientes->result() as $c) {
+                    $datos = $datos . <<<EOF
+            <tr>
+                <td>$c->numero_identificacion</td>
+                <td>$c->nombre1 $c->nombre2</td>
+                <td>$c->apellido1 $c->apellido2</td>
+                <td>$c->direccion</td>
+                <td>$c->telefono1</td>
+                <td>$c->correo</td>
+                <td><form action='../CAdministrarCliente' method='post'>
+                        <input name='idcliente' type='hidden' value='$c->idcliente'>
+                        <input name='button' class='btn btn-block'  style='width: content-box;
+                                                                            border-radius: 10px 10px 10px 10px;
+                                                                            background: whitesmoke;
+                                                                            border: solid gold;
+                                                                            color: black' type='submit' value='Ver/Editar' />   
+                    </form>
+                </td>     
+            </tr>
+EOF;
+                }
+            }
+            $data['clientes'] = $datos;
+        }
+        $data['item'] = $this->input->post('match');
+        $this->load->view('oficina/cliente/VCliente', $data);
+    }
+
+}
